@@ -1,0 +1,4961 @@
+[[text/001.txt=cover]]
+[[text/002.txt]]
+[[text/003.txt]]
+[[text/004.txt]]
+[[text/005.txt]]
+[[text/006.txt]]
+[[text/007.txt]]
+[[text/008.txt]]
+Methods Of Reproducing
+Research Materials
+
+ 
+
+[[text/009.txt]]
+[[text/010.txt]]
+Methods Of Reproducing
+Research Materials
+
+A Survey made for the Joint Committee on Materials for Research
+of the Social Science Research Council and the American
+Council of Learned Societies.
+
+by
+
+ROBERT C. BINKLEY
+
+Western Reserve University
+
+This edition published by Edwards Brothers, Ann Arbor, by the
+photo-lithographic process from author's own manuscript,
+pica double space typescript. reduced one-half.
+
+ANN ARBOR 1931
+
+Copyright 1931
+ROBERT C. BINKLEY
+(Printed In U.S.A.)
+
+EDWARDS BROTHERS, INC.
+Lithoprinters and Publishers
+ANN ARBOR. MICHIGAN
+
+[[text/011.txt]]
+[[text/012.txt]]
+FOREWORD
+
+The Joint Committee on Materials for Research
+of the Social Science Research Council and the American
+Council of Learned Societies was organized in 1930, and
+consists at present of the following persons.
+
+Solon J. Buck,
+Western Pennsylvania Historical Society,
+Chairman
+
+Robert C. Bink1ey, Western Reserve University,
+Secretary
+
+Laurence V. Coleman
+Norman S.B. Gras
+Waldo G. Leland
+H.M. Lydenberg
+Arthur Quinn
+
+At its second meeting, held in September 1930, the
+Joint Committee instructed its secretary to make a study of
+the various methods available for the reproduction of re-
+search materials, their comparative costs and their respective
+limitations. The survey has been carried on with the help-
+ful cooperation of many firms and individuals, among whom
+special mention should be made of Dr. Thomas Martin of the
+Library of Congress, Mr. H.M. Lydenberg of the New York
+Public Library, Mr. J.W. Edwards and Mr. Eugene Power of
+Edwards Bros., Ann Arbor, Mr. Ernest Kletsch of the Mime-
+O-Form, the National Process Company of New York, and the
+Washington Planograph of Washington, D.C., Mr. E.G.
+Smithyman of the Photostat Company, Mr. Willard D. Morgan
+of the Leitz Company, Mr. B.B. Snowden of the Ansco
+Company, Mr. E.H. Naylor of the Rag Paper Manufacturers
+Association, Mr. H.C. Lambach of the Filmograph Corporation
+Mr. L.B. Kennedy of Warren, Ohio, Dr. Miller Reese Hutchison,
+Admiral Bradley A. Fiske, Mr. H.K. Baumgardner of the Mid-
+West Rotaprint Corporation. Mr. J.F. Perkins of the J.B.
+Savage Co. of Cleveland, The William Feather Co. of Cleve-
+land, Dr. B.W. Scribner of the Bureau of Standards, Mr.
+Charles G. Proffitt of Columbia University Press, and Mr.
+H.G. Deane of Yale University Press. The Spencer Lens
+Co. and Bausch and Lomb Co. have helped with optical and
+projection problems and with loan of apparatus. Other
+firms, as mentioned in the text, have lent their aid.
+Professors Paterson and Tinker of the University of Minn-
+esota have helped in the study of legibility. To these
+and others who have given their help the thanks of the
+Joint Committee are due.
+
+Robert C. Binkley
+November 28, 1931
+
+[[text/013.txt]]
+[[text/014.txt=i]]
+TABLE OF CONTENTS
+
+I. Publishing and Library Costs. . . . 1
+
+The Book. Average retail price of general and
+scholarly books by country of publication.
+
+Analysis of book costs. Low factory cost, high
+editorial and promotion cost.
+Library costs. Acquisition and cataloguing;
+housing.
+
+II. Methods of Reproducing Research Material. . . . 8
+
+Book printing from raised type as a standard;
+new methods combining photography and lithog-
+raphy. Revolutionary prospects in photo-
+compositing and filmslide photography.
+
+Printing from raised type. . . . 9
+
+Linotype and monotype. Cost of 50,000 word
+job. Short and long run methods. Multigraph.
+Economies due to low—wage operation.
+Mime-O-Form (See sample in appendix)
+
+Table of quotations on cost of printing
+50,000 words, 100 pages, 6 x 9 inches, by
+various processes. . . . 15
+
+The “Offset” Methods. Photography & Lithography. . . . 17
+
+Principle of Lithography. Principle of the
+Offset press. Rapid change in technology.
+
+1. The Size of the Press. Economies of
+small press; quality of product of
+large press.
+
+2. The storage of metal sheets. Relation to
+control of size of edition. Policy of
+Fac-Simile Text Society.
+
+[[text/015.txt=ii]]
+3. Method of putting the image on the
+metal sheet. . . . 20
+
+a. Direct Impression
+b. Direct Transfer
+c. Wet Plate
+d. Photo-Process - Negative
+e. Photo-Process - Positive
+f. Offset - Deep
+g. Paynetype
+4. The sensitivity of the emulsion on the
+metal sheet
+5. The combination of photo-lithography
+with etching
+a. Aquatone
+b. Depth-o-tone
+c. Pantone
+6. Dry Lithoqraphy
+7. Photo-Composing Machines
+
+The Mimeograph and its Relatives. . . . 30
+Impossibility of enlarging or reducing
+size of copy. Coxhead Press
+
+Table of quotations. Book of 50,000 words,
+100 pages 8½ x 11 inches, photo—lithography
+& mimeograph compared. . . . 33
+
+The Photostat and its Relatives. . . . 34
+
+Photostat costs not elastic with size of
+edition. Cost of materials. Cost of
+labor and chemicals. Comparative cost
+data from New York Public Library and
+Cleveland Bell Telephone Company. Exper-
+ience of Massachusetts Historical Society
+in copying newspapers.
+
+Photostat Equipment. . . . 39
+
+Comparison of Photostat and Rectigraph
+The Luminiophor Plate.
+
+Collotype and Photograph. . . . 42
+
+[[text/016.txt=iii]]
+
+III. Comparison of Different Methods of
+Book Manufacture. . . . 44
+
+The five variables of book production.
+state of the copy in hand, typescript
+or print        in the produc.
+presence of non textual matter, degree
+of legibility required, extent of market
+
+1. Reprinting material which is ready
+for photography
+
+Dividing line between photostat
+and photo—lithography
+
+Table of comparative costs of
+Photostat and photo-lithography
+in edition of less than one hundred. . . . 45
+
+Possibility of shifting from
+photostat to photo-lithograph in
+projects for copying old newspapers.
+
+Critical point in photographic
+copying where size of edition per-
+mits sale at normal book prices. . . . 50
+Practice of Fac-Simile Text Society,
+British Shakespeare Association
+
+2. Typewritten books. . . . 52
+Redistribution of labor between
+author and publisher. Advantage
+of typescript in reproducing
+mathematical or foreign characters
+charts or pictorial matter
+Problem of the right hand margin.
+Relations of type-size, legibility
+and cost.
+
+The cost of legibility. . . . 56
+Cost-per-word and cost-per—page area.
+Psychological problem of legibility.
+Experiment by Tinker and Paterson for the
+Joint Commitee.
+
+Chart showing relations of type size
+number of words to the square inch
+
+[[text/017.txt=iv]]
+
+cost of publishing 50,000 words at normal book
+prices (1¢ per page), and legibility compared
+with newsprint. . . . 59
+
+Table of cost and legibility. . . . 6O
+
+Use of the typewriter in obtaining various
+costs and legibilities. Elite and Pica type.
+Single, double and special spacing. Areas of
+surface covered by typewriter. Reduction by
+photography, four pages in one, or from large
+page to a small one. Length of line.
+
+Table of styles of typescript prepared for
+offset press, with cost of 50,000 words at
+1¢ per page. . . . 65
+
+Problem of legibility as defined for further
+study. Standards of legibility
+
+Optical aids to legibility. . . . 66
+
+Limitations of the reading glass.
+
+The Fiskoscope. Its place in connection
+filmslide photography rather than book pro-
+duction.
+
+Quality of paper. . . . 68
+Btitish and American attempts at standardiza-
+tion. Content vs. Performance. Comparative
+table of specifications. Rag Paper Manufacturers
+point of view.
+
+Comparative costs of ordinary book and permanent
+book papers. . . . 73
+Relation of cost of paper to size of edition
+and risk of non-sale.
+Possibility of special printings for libraries.
+
+Recommendation on book production. . . . 77
+Organization of purchasing power.
+
+[[text/018.txt]]
+
+IV. Filmslide Photography. . . . 81
+
+Two uses of filmslide: as an intermediate
+step in photostating, and as a complete
+reproduction method.
+
+Cost of film. Perforated and non-perforated
+types. Importance of reduction ratio in
+comparison with photostat.
+
+The physical limits of reduction ratio --
+Resolving power of film in lines per millimeter.
+Practical tests of legibility of material.
+Degrees of legibility, A,B,C,D,E.
+
+Area of film per exposure in the various
+filmslide cameras. . . . 86
+
+Price comparisons of equipment. . . . 88
+
+Description of apparatus. . . . 39
+The Vi-Cam
+The Q.R.S.
+Cinescope-Photoscope
+Ansco Universal Still-film Copying Camera.
+Leica and Lemare equipment compared
+with Ansco. Copy holding. Double
+exposure. Loading. . . . 95
+Filmograph and Kennedy apparatus.
+Business side of the use of this
+equipment. . . . 98
+Proposed Filmograph. . . . 
+Library service. Societe dee editions
+sur films de bibliotheques de France
+
+Comparison of efficiencies in reduction.
+Table of Reduction ratios. . . . 103
+
+Projection apparatus. . . . 104
+Leica, Delineaacope, Filmograph, Kennedy,
+Heat. Screens.
+Direct reading of filmslides without
+projection. . . . 106
+Choice of makes of equipment on the market.
+Need for a finer camera to take non—per-
+forated film, and for a better projector. . . . 107
+
+[[text/019.txt=vi]]
+
+costs of operation. . . . 109
+Table of high and low costs. . . . 111
+
+Conclusions on copying books and manuscripts...112
+
+Conclusions on copying newspapers. . . . 112
+Special characteristics of newspaper prob-
+lem. Perishable paper. Large surfaces.
+Completion of files.
+Cost of New York Times current file as a
+standard of measurement.
+Table showing costs of one hundred pages of
+New York Times, wood pulp paper, rag paper, binding,
+filmslide, photo-lithographed, and price of
+Paris Temps and London Times. . . . 115
+
+Note Taking Equipment. . . . 118
+Scholar s problem as distinguished from
+library's problem. Use of photo-lithography
+in preparing Early Modern English Dictionary.
+
+Use of filmslide and of filmslide combined with
+enlargement. Martin magnifying glass.
+Need for cheap photostat for note-taking
+
+Recommendations. . . . 121
+
+1. Library installation of filmslide apparatus.
+Scientific check of conclusions of this survey
+on comparison of Leica and Lemare. Installa—
+tion of preferred equipment to supplement
+photostat and take load off of borrowing
+and lending obligations.
+
+2. Filmslides and the newspaper problem. . . . 122
+Need for improvement in apparatus
+before organizing large scale projects.
+Hence:
+A. Study of durability of film
+B. Study of resolving power & reduc-
+tion ratio. Test of Hutchison proc-
+ess. Improvement of photographic
+apparatus.
+C. Improvement of projecting apparatus
+
+[[text/020.txt=vii]]
+V-
+
+3. Photostat for Note Taking. . . . 124
+
+4. Organization of the book buying market
+in connection with book production. . . . 124
+Correlation with Mr. Marshall's survey of
+publishing facilities and revolving
+funds. Opposition between scholarly
+and commercial interests in publishing in
+respect of extent of market, character
+of product, and assessment for promo-
+tion costs. Instances of publishing
+needs of scholars. Starting point
+of organization; scholars who have
+publishing needs, also controlling a
+quota of library funds. Organized
+purchasing power in any field effective
+when one to three hundred institutions
+are included. Analysis of economies
+from organized purchasing power.
+
+Types of material. Group I in which libra`
+ry interest predominates. Group II in which
+specialists‘ interest predominate
+
+Action by Joint committoe. . . . 131
+
+A. Publishing projects in search of funds. . . . 131
+
+A procedure to determine in each case
+whether self-financing is possible, by seek-
+ing a sponsoring organization. separating
+editorial from publishing costs, and
+publishing limited edition for a list of
+subscribers.
+
+The need for lists of special markets, to be
+compiled from the Joint Committee‘s Survey
+of Activities of American Agencies in the
+Improvement of Materials for Research.
+
+Proposals of Fac-Simile Text Society and Edwards
+Bros
+
+[[text/021.txt=viii]]
+
+B. Funds in search of publishing projects. . . . 133
+
+Principles in respect of which policies
+of existing publication agencies should
+be defined --
+
+1. typescript publishing 3. limited
+market. Action of Joint Committee to
+help to organize market for publishing
+agency which accepts these principles.
+
+C. Library collaboration in purchasing. . . . 134
+Connection between problem of reproducing
+materials and problem of controlling
+government document acquisition, as
+presented by Mr. Gerould
+
+D. Newspaper reproduction. An experimental
+project in photo-lithographing instead of
+photostating an old newspaper file. A
+project to provide half-size durable paper
+reproductions of newspapers which are now
+being bound by many libraries.
+
+E. Model enterprises to be sponsored by the
+Joint Committee.
+
+A sample organization of research and purchas~
+ing interest; a sample project of publication.
+
+F. Further study or legibility and typography. . . . . 137
+
+Distribution of This Survey. . . . 138
+
+APPENDIX
+
+Sample Mime—O-Form page
+Sample of newspaper reduced one half
+
+[[text/022.txt=1]]
+
+A SURVEY OF METHODS OF REPRODUCING RESEARCH MATERIALS
+
+I. Publishing and Library Costs
+
+The Book
+
+The point of reference from which the
+problem of reproducing research materials must be
+examined is the system by which publishers produce
+books and libraries acquire, arrange and store them
+for use. The financial policies of institutions,
+the stack room and reading room equipment of libraries,
+the training of library personnel as well as the
+research habits of scholars are standardized in favor of
+the use of books of several hundred pages, from six to
+eleven inches in height, costing the purchaser from one-
+half to two cents a page.
+
+There are other forms in which research
+material is made accessible, but in any of these other
+forms there is created a special problem of finance or
+administration. Maps, newspapers, "oversize" books,
+manuscript collections, films, collections of pamphlets
+and broadsides present special difficulties and cause.
+special expenses regardless of their acquisition costs.
+
+[[text/023.txt=2]]
+
+The normal acquisition costs of books
+or bound volumes of periodicals which can be
+shelved like books is something less than five
+dollars a volume. In a public library which
+purchases a large amount or popular fiction it
+falls to $1.30 a volume. The list prices of books
+per hundred pages, as given in standard annual
+boot-lists are as follows:
+
+AVERAGE RETAIL PRICE OF BOOKS, PER ONE HUNDRED PAGES
+General Books Scholarly Books (History)
+
+U.S. $.53 $1.20
+Gt. Britain .86 1.20
+Germany .75 1.04
+France .58  .34 (unbound)
+Italy .65
+
+Research materials that can be presented in book form
+within this price range can be fed into the library
+system of the country without requiring significant
+changes in present acquisition policies.
+
+Analysis of Book cost
+
+The cost accountancy of book production is
+very complicated, but the essential fact is simple:
+the unit cost of producing a book falls rapidly as the
+size of the edition increases. This is the crux of the
+problem that must be faced in any plan which will seek
+
+[[text/024.txt=3]]
+
+to follow the requirements of research rather than
+the demands of the market in deciding what materials
+are to be reduced to book form. When the prospective
+market and hence the size of the salable edition is
+small, the unit cost of the volumes rises above the
+level at which normal purchasing policies by institutions or 
+individuals will float the enterprise or accomplish
+adequate distribution. The critical test of book
+cost, for the purposes at this survey, is the
+minimum size of an edition which can be sold within
+the normal price range.
+
+Another striking characteristic of book
+costs is the large percentage of the sales price
+which goes to other objects than actual printing. A
+great university press calculates that two fifths of
+the cost of a book are strictly manufacturing costs,
+one fifth is editorial and general overhead, and two
+fifths selling costs. Another university press bases
+its price calculation on the following procedure:
+
+1. Take the "shop cost" of the book (prose-work,
+paper, binding, etc.) A maximum and minimum
+quotation for an edition of 1000, book or 100
+pages, 50,000 words is . . . $370 $775
+
+2. Add 20% for editorial and overhead costs, which
+brings the amount to . . . $444 $930
+
+[[text/025.txt=4]]
+
+3. subtract from the edition 100 copies for
+review and promotion, and divide the total
+cost by the salable edition (900 copies in
+this case) to get unit cost of each book . . $ .49 $1.03
+
+4. The sales price should then be fixed at
+three times this unit cost of the book, if
+the book is to return cost of publication
+and a small royalty to the author ......... $1.47 $3.12
+
+The expenses of distribution are between 50%
+and 33% of the gross receipts.
+
+The commercial publishers devote less
+attention to scholarly values, but they find their
+costs distributed in about the same way. The
+following calculations, from two independent
+sources, are substantially in agreement:
+
+Cost of book sold at $2.50 $2.00
+
+Manufacturing cost ........ .45 .......... .40
+Author's royalty .......... .25 .......... .20
+Editorial and promotion ... .51 1/2 ....... .40
+Profit (Publisher) ........ .28 1/2 ....... .20
+Retailer's discount ....... 1.00 ....... .80
+
+Publishing at this cost level calls for the sale of
+editions of two thousand.
+
+The Carnegie Endowment for International
+Peace, which distributes much of its material free of
+charge, and does not therefore figure promotion as
+
+[[text/026.txt=5]]
+
+part or its costs, allows $3800 to pay for an
+edition of 1500 copies or a cloth bound book of
+596 pages in the International Law series. This
+is at the rate of $.42 per 100 pages, or almost
+exactly one third of the average list price of
+American published books of the same class. These
+figures contribute to the rough generalization that
+book prices as listed are made up of three equal
+parts:
+
+One third to write, print, bind and edit the book.
+One third to move it from publisher to retailer.
+One third to move it from retailer to purchaser.
+
+Libraries often get discounts which reduce the last of
+these price increments.
+
+These figures indicate that economies in the
+printing process, unless accompanied by economies in
+the system of distribution, will not greatly alter the
+present limitations which impose themselves upon the
+publishing of research materials. If these distributing
+costs could be eliminated entirely, the critical size of
+the minimum paying edition would drop from around two
+thousand to around three or four hundred, without any
+change in the production method.
+
+[[text/027.txt=6]]
+
+Library costs.
+
+The purchase price of the book is not the
+heaviest expense that has to be met in making it
+available to a scholar in a library. Library
+finances must be given a place in the total picture,
+because different methods of reproducing materials
+fit differently into the scheme of library finance.
+But the cost analysis of library administration is a
+disputed field, in which the files of the Library
+Journal report a prolonged controversy. The most
+active work in cost analysis has been applied to the
+study of cataloguing cost -- the cost of putting the
+book on the shelves. The figures which seem best
+attested are those of the University of California
+(72¢) per book. The general administrative expense
+of a library cannot be pro-rated with any accuracy
+among individual books, but must be taken into
+account. Figures collected by the Government show
+that university libraries spend from 50% to 72% of
+their funds for other than acquisition purposes
+(50% Cornell, 72% Yale). The normal amount is about
+two thirds. But the capital cost of building and land
+is not included in this figure. A library like the
+
+[[text/028.txt=7]]
+
+New York Public Library, which must take into
+account a high cost of land, maintains an enormous
+capital investment in land and buildings. All
+libraries must be expanded from time to time to keep
+pace with the increasing quantity of material and
+numbers of readers. If the financing of this expansion
+(which may amount to the doubling of the plant every
+twenty years) be calculated as an element of library
+expense the capital cost may be as high as double the
+administrative coat, or four times the cost of purchas-
+ing books. These considerations become especially
+important in connection with manuscript or pamphlet
+material, for which the administrative cost is high, --
+or in connection with bound newspaper files, against
+which an abnormal housing charge must be assessed. It
+can be roughly calculated that the expenses of bringing a
+book from the press to the scholar's cubicle in the
+library multiply at such a rate that for every hundred
+dollars devoted to library facilities for study, the
+amount that goes into book production may be anything
+from a minimum of 3.50 to a maximum of 14.00. One
+dollar spent to manufacture a book (royalties, press -
+work, binding, and editing) must have from six to
+
+[[text/029.txt=8]]
+
+twenty-eight dollars added to it on account of library
+costs.
+
+II. Methods of Reproducing Material
+
+Just as the policies of publishers and
+librarians set business standards for all enterprises
+in the field of scholarly publication, so printing
+from raised type sets a technological standard. But
+printing from raised type is now being challenged by
+other methods of reproducing texts. The new methods
+combine in various ways the principles of lithography,
+typewriting and photography, or make use of photog-
+raphy alone. Substitutes for printing are so many
+that the whole technology is in a state of flux, with
+prospects of revolutionary change. Two revolutionary
+processes, on the borderline of practical application
+today, are photo-compositing (preparation of lithographic
+master-copy by photographing letters directly on a
+page), and filmslide photography (reduction of text to
+a miniature slide, to be read by projection on a screen).
+The inventors and promoters of the new devices are
+concerned very little with the scholar's problem.
+
+[[text/030.txt=9]]
+
+Lithographic printing methods are commercialized in
+response to the needs of advertisers, and filmslide
+photography is receiving its most successful develop-
+ment in connection with the needs of abstracting and
+title—guaranty companies. If the scholar's needs are
+met by the new processes, it is only in an incidental
+or accidental way.
+
+Printing from Raised Type
+
+Typesetting for ordinary straight printing
+of text can be done most economically on one of the
+composing machines, which are of two kinds. The
+most common cast type in slugs of one line. (Mergen—
+thaler, Intertype, Ludlow (for display work),
+Typograph, and Victorline). The Discotype, which is
+not yet on the market, is a machine for casting
+separate type pieces of 1/2 depth and then uniting
+them in a slug. The Monotype, together with its
+defunct relative, the Stringertype, casts the letters
+separately but in correct order, so that it can be
+used either as a type foundry or for setting straight
+copy. Hand-set type is used principally in connec-
+tion with advertising compositions. It is a luxury
+
+[[text/031.txt=10]]
+
+when used in straight textual matter.
+
+The estimating of printing costs is a very com-
+plicated process which has been standardized by the Unit-
+ed Typothetae of America. The typographic cost follows
+the number or words rather than the size of page or of the
+type. A 50,000 word job of linotyping estimated at $5.00
+per machine hour will cost $170 set in 4½ point type, and
+$180 set in 7 point (newsprint) type. (See Fred W. Hoch:
+"The Standard Book on Estimating for Printers", United
+Typothetae of America, Washington, D.C.)
+
+For any ordinary short run, the type as set in
+its flat form is used. But if the greater running efficien-
+cy of the rotary press is to be obtained, the type face
+must be transferred to another printing surface, either by
+making a matrix for casting a stereotype or by making an
+impression in wax, which is then coated electrolytically
+with copper to make an electrotype. Another device for
+transferring from the type as set to a new surface is
+to print it on a thin metal sheet for use in the offset
+press. This third method will be discussed in the next
+section.
+
+[[text/032.txt=11]]
+
+The interest of scholarship in cheap and
+small editions is most nearly approximated in the
+commercial world by the demand for a small office
+printing equipment, of which the Multigraph is
+the standard for raised type printing, and the
+Rotaprint for offset printing.
+
+The merit of the Multigraph is that
+it can make printing look like typewriting through
+the use of a ribbon, which is an achievement
+diametrically opposed to the wish of the schol-
+ar, who would like to see typewriting look like
+printing. Multigraph typesetting is usually done
+by hand, but with the "Compotype" apparatus
+characters are embossed on strips of aluminum and
+the strips assembled on a flexible sheet metal blank-
+et which is then printed on the Multigraph. Th»
+economies in Multigraph over print shop work are to
+be found in the wage scale of the operators._ Quo-
+tations from a multigrapn company upon straight text
+work are equal to the highest printer's quotation.
+
+[[text/033.txt=12]]
+
+Mime-O-Form.
+
+There is a modification of the Multi—
+graph developed by Mr. Ernest Kletsch in Washing-
+ton, D.C. and called the Mime-O-Form. A Monotype
+typecasting machine has been equipped to cast
+type for a Multigraph. The Multigraph printing
+method is so economical for short runs that its
+prices compare favorably with the cheapest print-
+ing or offset printing quotations and are not much
+higher than mimeographing. Its product is a book
+in ordinary type face, almost indistinguishable from
+the product of a regular book printing press. (See
+sample page in appendix)
+
+So great is the variation in prices
+quoted for printing small editions that it is evident
+that the business and labor policies have as much effect
+
+[[text/034.txt=13]]
+
+as the technical process itself upon small edition
+costs.
+
+The following tabulation of sixteen printing
+quotations illustrates the variation. The Feather
+Co. and Savage Co. are Cleveland firms doing a book
+printing business; the Polk Co. is a Multigraph firm;
+the Mime-0-Form is the combination of monotype and
+multigraph referred to above; J. Gamber is a publisher
+in Paris, France who specializes in university thesis
+work and hence in small editions. His prices are
+here corrected to allow the 10% addition for English
+language work and the 25% customs duty. Edwards
+Brothers, the National Process Co., Washington Plano-
+graph, and Coxhead Corporation are users of the offset
+method, which will be further described in the next
+chapter. It must be explained at this point, however,
+that offset printing quotations are of two kinds,
+representing two classes or work. The higher price
+is asked for the reproduction of a text which the
+offset printer copies on a typewriter to make a
+master-copy from which he makes, photographically,
+his printing surface. The lower price is for the
+reproduction of a text which goes to the printer as a
+
+[[text/035.txt=14]]
+
+suitable master-copy, either the author's clean type-
+script or the pages of a printed book. The higher
+quotation includes a typewriting charge. The
+quotations from the Lund, Humphries (London) are taken
+from G.B. Harrison's paper on "Facsimile Reprints", given
+before the Anglo-American Conference of Historians,
+13-18 Ju1y,1931.
+
+[[text/036.txt=15]]
+[[table]]
+[[text/037.txt=16]]
+
+The various processes thus take the following
+order as regards cost. Printing in France is cheapest,
+and offset printing by Edwards Brothers next. Then
+comes Mime-O-Form in editions up to 1150, and low-
+quotation printing in editions above that figure. The
+size of an edition necessary to reduce book cost below
+a dollar a hundred pages runs from 50 (French printing)
+to 525 (Multigraph). It is obvious that many factors
+other than technique influence these prices. The
+"Ratios for Printing Management" gathered by the
+United Typothetas of America show that only 73% of the
+income of a printing business goes into production or
+"factory costs". This 73% is made up of fixed charges
+(6%), materials (34%) and running costs (33%). The
+differences in technique would affect principally
+certain subdivisions of this running cost item, which
+is only 33% of the total sales price. In small edition
+printing the proportion applied to materials falls as
+low as 20%. New technical processes often exert their
+greatest influence on price through their use of
+untrained or half trained labor.
+
+[[text/038.txt=17]]
+
+The 'offset'' Methods. Lithography and Photography.
+
+The most interesting development in contemp-
+orary printing technique is the encroachment of
+"offset printing" upon printing from raised type.
+Offset printing has developed in the last thirty
+years from the combined application of principles of
+lithography and photography, together with a new type
+of printing press.
+
+Lithography was developed by applying the
+principle that grease repels water but attracts a
+greasy ink. A stone surface was covered with the
+greasy marks of a lithographic pencil, then mois-
+tened, and then inked. The ink would adhere to the
+pencil marks, avoid the moistened spaces, and transfer
+to paper as a lithographic print.
+
+This principle is now applied by substitut-
+ing a thin sheet of zinc or aluminum for the
+lithographic stone, a coating or a light-sensitive
+albumin or bitumin compound for the lithographic
+pencil, and photography for the craft of the
+artist. The metal plate with its albumin or bitumen
+coating acts exactly like photographic paper except
+that it requires a much longer exposure to light.
+
+[[text/039.txt=18]]
+
+Printed or typewritten pages, together with illustra-
+tions, are copied on the metal either directly from the
+object or indirectly from a film negative. The metal
+sheet then takes the place of the form of type used in
+ordinary printing. But the printing method is diff-
+erent for two reasons. The metal sheet must be mois-
+tened after every impression and before every inking
+because the process is fundamentally lithographic.
+And the printing surface of the metal sheet is pro-
+tected from abrasion by the "offset" method of
+applying ink to paper:— the metal sheet prints on a
+rubber blanket, which transfers the image to paper.
+It is this last feature of the complicated new
+technique which has given the whole process its name
+of ‘offset printing‘, although there are certain
+variant techniques which print direct without the
+rubber blanket, and one device for omitting the
+moistening between impressions.
+
+New inventions and appliances in the field
+of offset printing are patented every month. The
+principal significant differences in equipment, and
+the chief lines of technical development, are the
+following:
+
+[[text/040.txt=19]]
+
+1. The Size of the Press.
+
+The smaller presses, such as the Coxhead or
+Schwarz Press and the Rotaprint are better adapted for
+small rum work than the larger presses such as the
+Harris Press. The larger presses do better with long
+runs and with color work. There are many types of
+offset press, just as there are many types or flat-bed
+press, and the same company will offer models in
+different sizes. The large press is finer, the small cheaper.
+
+Examples of the small presses are these run
+by Edwards Brothers, Ann Arbor, Michigan, and Mid-West
+Rotaprint Corporation, Cleveland, Ohio; examples of the
+large press are those run by National Process Company,
+New York City and by Washington Planograph co., Washing-
+ton, D.C. All of these firms have collaborated in
+this examination of their processes.
+
+2. The Storage of the Metal Sheets.
+
+Some presses, as the Coxhead or Harris presses,
+use a rather heavy metal sheet which can be cleaned and
+refinished after every printing. Such sheets provide
+a saving in that it is cheaper to clean the old than
+to buy a new sheet, but they affect the printing costs
+because they make it expensive or impossible to store
+
+[[text/041.txt=20]]
+
+the sheets for a fresh printing of a book which has
+already been run in one edition. Rotaprint and
+Edwards use a thin, comparatively inexpensive metal
+sheet which can be stored, a hundred sheets in an
+envelope, and used to bring out reprints. This fea-
+ture of the process makes possible a greater elasticity
+in fixing the size of an edition. The Facsimile Text
+Society, which has its work done on the Harris Press,
+prints editions of 1000 even if its sales prospects do
+not call for that number, because once the printing has
+been done, no reprints could be secured without making
+fresh plates. This tends to cause resources to be tied
+up in a large stock of finished books. There is a
+similar project for the printing of small working
+editions of rare old English books to be used in the
+preparation of a dictionary of 16th century English.
+In this project the Rotaprint type of press is used, and
+the editions are limited to two hundred copies. But
+since the metal sheets can be stored, further printings
+can be made inexpensively, it needed.
+
+3. Method of Putting the Image on the Metal Sheet
+
+a. Direct Impression
+
+This is the closest relative to the original
+
+[[text/042.txt=21]]
+
+lithographic process. Pen and ink or a typewriter with
+a special ribbon directly on the metal is used instead
+of a lithographic pencil upon stone. The typewritten
+letters accept ink and reject water; the rest of the
+surface accepts water and rejects ink.
+
+b. Direct Transfer
+
+Instead of being typewritten or drawn directly
+on the metal sheet, the image is made upon paper with a
+greasy ink and then transferred to the sheet by moisture
+and pressure. This is one of the methods used by the
+Coxhead Press.
+
+c. Wet Plate
+
+The image transferred to the metal sheet is
+first made by photography upon glass instead of ink on
+paper. This is the finest method for copying difficult
+objects such as badly faded newspaper pages or half tone
+prints. The process which goes under the name of "Elka"
+is a wet plate process.
+
+d. Photo-Process Negative
+
+Instead of removing an image from one surface
+(glass or paper) to another, as in the direct transfer
+or wet plate process, the metal sheet is given a coating
+of a light sensitive substance, based on bitumen, fish
+
+[[text/043.txt=22]]
+
+glue or egg albumin, and an image is imposed upon it with
+light, as in photographic printing, from a negative or a
+positive. The most common processes make use of a photo-
+graphic negative, which "fixes" the letters in bitumin and
+albumin upon the metal sheet. The negative may be either
+film or paper. Film is in most common use in America, but
+a special "Kodalith" paper is now manufactured by Eastman
+for use in the photo-process. The use of Kodalith paper
+cuts the cost in half.
+
+e. Photo-Process Positive
+
+In the usual photo-process the light passes
+through the transparent parts of a film or the white parts
+of Kodalith paper to fix the albumin or bitumen, which will
+hold the ink. In the "positive" process the metal sheet is
+coated with a light-sensitive composition which rejects
+ink. The photographic process thus fixes an ink-rejecting
+covering on the space between the letters, and leaves the
+metal free to receive the ink. When the metal is inked
+the special surfacing on the "white" part of the sheet is
+dissolved away, the sheet is moistened, and thus prepared
+for lithographic use, having moisture in the space which
+is to print white, and ink in the space which is to print
+black. In using this positive process it is sometimes
+desirable to grease the paper from which the image is
+
+[[text/044.txt=23]]
+
+being copied in order to render its white parts more
+transparent. The Coxhead Press uses this positive photo-
+process.
+
+f. Offset-Deep
+
+A secret preparation is on the market which
+can be used as an emulsion in making a positive print,
+and which will resist the action of acid. It thus
+becomes possible to etch the metal which is to carry the
+ink. This process results in deeper colors and blacker
+print. It resembles the Depth-o-tone and Aquatone methods
+which are discussed below as combinations of etching with
+photo-lithographic technique.
+
+g. Paynetype.
+
+A device which photographs directly upon the zinc
+plate, which is held in the camera. This is a variety of
+the positive photo-process which is used in art work. It
+resembles Collotype, a process which will be discussed in
+connection with photography.
+
+The most important difference between these
+methods is that which affects the possibility of enlarging
+or reducing the copy in the course of the reproduction
+process. Direct impression and direct transfer methods
+do not permit any alteration in size as between the original
+and the copy. The Wet Plate Method and all the negative
+
+[[text/045.txt=24]]
+
+photo-process methods permit of enlargement or reduction of
+the copy. The positive photo-process method in most cases
+loses all its advantages over the negative method if it is
+necessary to enlarge or reduce the copy.
+
+4. The Sensitivity of the Emulsion on the Metal Sheet.
+
+With a few exceptions all kinds of photography
+upon the albumin or bitumen compound on the metal sheet
+required exposures of 15 or 20 minutes when the negative is
+in contact with the metal sheet (the usual method) and 30 to 45
+minutes when the image is transferred by projection. An
+intensive search for more rapid emulsions has gone on for years.
+Certain firms now have secret processes for speeding up the
+emulsion. The Copyfire Co. of Detroit is said to have cut the
+exposure time to three minutes, and Edwards Brothers, with the
+help of their research department, have cut the time to one
+minute twenty seconds. These more highly sensitized solutions
+are not yet standard for use in the industry. The salesmen
+for the Rotaprint press and process still tell their customers
+that the time required is fifteen to twenty minutes.
+
+5. The Combination of Photo-Lithography with Etching.
+
+The object of development along this line is three-
+fold: to get better art work, to make a more dur-
+
+[[text/046.txt=25]]
+
+able metal sheet which will stand a longer run in an
+offset press or resist the abrasion resulting from
+direct application to the paper in a rotary press, and
+to touch up defective metal sheets.
+
+a. Aquatone is a process for increasing the water-
+absorption of the wet parts of the sheet, to produce a
+clearer white in the print. The same principle, without
+the name, is used in clearing spots or blurs in ordinary
+photo—lithographic printing.
+
+b. Depth—o—tone is a trade name for a process for
+deepening the ink carrying parts of the plate and then
+filling them with ink-absorbing substance; in art work
+it produces a deeper color, and in ordinary printing it
+"brings out" lines in the print which would otherwise
+fail to register.
+
+0. Pantone is a complicated process which is designed
+to make use of a principle similar to that of photo-
+lithography to prepare a printing surface which will
+stand long runs and be very resistant to wear. It
+makes use of the fact that chromium is a hard metal
+which will accept and transfer ink, while mercury will
+refuse ink. The chromium serves for the grease of
+
+[[text/047.txt=26]]
+
+primitive lithography, mad the mercury for the wet
+surface of the stone. Although this process will not
+be useful in cheapening small editions, it is interest-
+ing as an illustration of the variety of techniques
+which can be used in printing. A sheet of iron is
+coated with a thin surface of copper, and a very thin
+surface of chromium on top of the copper, and then a
+photographic emulsion on top of the chromium. The
+text is transferred to the plate as in the usual photo-
+lithographic processes, and the parts of the metal which
+ordinarily receive water are etched with acid through
+the chromium to the copper. Silver is then deposited
+on the plate, and the silver adheres to the copper but
+avoids the chromium. Then mercury is rubbed over the
+plate, and the mercury amalgamates with the silver.
+The result is an all-metal plate which will print
+without using the raised type principle.
+
+6. Dry Lithography
+
+An inventor by the name of Price hes devel-
+oped an ink which carries in itself the moisture
+necessary to keep the wet part of the metal sheet from
+
+[[text/048.txt=27]]
+
+taking ink. The use of this ink simplifies the printing
+process by leaving out one step, namely, the moistening
+of the metal between every impression. There is some
+similarity between this and the Pantone process, because
+in Pantone a little mercury is mixed with the ink to
+keep the mercury surface replenished.
+
+7. Photo-Composing Machine:
+
+The offset press is sometimes used, in large
+editions, for printing compositions which have been
+made with raised type, and transferred to the metal
+sheet, either for the sake of more efficient pictorial
+effects, or to avoid the cost of "makeready" -- that is to
+say, the wedging up of a printing face to secure an even
+impression in a flat bed press. In this large—edition
+use the photo—lithographic metal sheet is a rival of
+the stereotype and the electrotype. As at present
+organized this shop practice does not enter into the
+calculations of small-edition manufacture. But it
+illustrates the fact that raised type can be completely
+dispensed with in the printing industry if any other
+method than typesetting can be found for making the
+master—copy to be used in a photo-lithographic process.
+
+There are three kinds of work in which master
+
+[[text/049.txt=38]]
+
+<proofed to here>
+
+copy is now furnished without typesetting. Advertising
+display work is sometimes prepared by the artist who does
+his lettering just. as he draws his pictures. and has no
+use for type. cirmlers, tabular matter, form letters,
+and trial editions of text books are prepared as master
+eony on the typewriter. The limit to the application of
+this method. to book printing is set by the unwillingness
+of the reader to tolerate the uneyen right hand margin.
+The third kind of master copy is the printed. page which
+is being reprinted by the photo-lithographic process.
+
+There are two approaches to the problem of
+making an ell-purpose master copy without using raised
+type. one is to improve the typewriter by some method
+of justifying right hand margins. The other is to
+avoid the use of ink entirely, and photograph letters
+in sequence upon a. negative which can then be transferred
+directly to the metal sheet.
+
+A modified typewriter has been developed by
+the ‘rypsry and Typon company, London. This '1'ypa.ry"
+machine sets a line of type which is then automatically
+spaced to justify the margin, inked, and printed on a
+strip of paper, from which it can he transferred to the
+photo-lithographic metal sheet. This machine has been
+
+[[text/050.txt]]
+?9
+used in book manufacture. A similar invention. which
+has not yet been given industrial promotion, is
+Walton's type composing machine, which writes directly
+on the metal sheets for offset printing.
+The inventions which seek to "print with light’
+
+are numerous. The Dutton Photoline sets letters which A
+camera photographs line by line; the Bswtree apparatus
+photographs a text on bromide paper for transfer to the
+metal. Mr. G.F.Bagge of Cleveland has a similar inven-
+tion under way. The two machines wnich seem to be
+nearest the point of p:ectica1 use are the August-Hunter
+Photocomposing Machine which is being developed in
+England, and the 'Luminotype' invented by a Hungarian
+technician by the name of Edmund Uher and manufactured
+by the Maschinenfabrik-Augsburg-Nuernburg. one model
+
+of the Uher machine had been constructed when the
+
+recent financial crisis in Central Europe interrupted
+the venture. The uher machine photographs a line of
+letters on a narrow strip, and then projects from this
+strip, line by line, on a photographic negative. A
+cheap substitute for film has been invented for the
+purpose. The success of these photo-typing machines
+
+would constitute the most decisive revolution in
+
+[[text/051.txt]]
+30
+
+printing since caxton's time.
+
+The Xineoggagh and Its Relatives.
+The techniques of reproducing copy vary in an
+
+almost continuous sequence from the great planograph presses
+which use highly skilled labor to produce long runs of fine
+color and art work to the hubls mimoograph with its wax
+stencil prepared by a girl who has had a six months‘ course
+in typewriting and its short runs of smudgy copy run off
+
+by an office boy who has learned to operate the machine in
+half an hour.
+
+From the technical standpoint the distinctive
+feature is the use of a stencil cut by means of a typewriter.
+The sharpness of the impression can be increased by
+improving the composition of the stencil. A.B.D1ck, Chicago,
+and the Gestetner Duplicator,Bloomfield,N.J.. both offer
+an improved stencil with a surface which ‘presents much
+the appearance of a thin sheet of white rubber.‘
+
+from the standpoint of performance the distinctive
+feature of mineograph technique is not the stencil method
+but the limitation that the copies are turned out in the
+same size as the original. From this standpoint there is
+
+very little difference between the best mimeograph work
+
+[[text/052.txt]]
+and the work done with the offset press from netsl
+sheets which hn"e ueen typewritten with a special ribuon,
+or the work done by the Coxhead Press by transferrin-
+the text direct to the metal sheet from a typescripz
+made with a transfer ink, or even the alternative semi
+photographic method used in the Coxhead Press, which is
+described as follows:
+The printing is done by means of a specially
+prepared zinc plate on which can be transferred anv
+kind of oririnal cony, old or new, band or type-
+written...a drawing of any sort. The original In
+mounted on a zinc plate which has been sensitized
+with a special solution. The Llate is then exposed
+to the rays of an electric arc lamp for a is
+minutes. After this exposure the original is taken
+off, undamaged by the process...After the plate is
+developed and fixed, it is e.ched, rubbed with a
+special ink and finally coated with a rubber
+SOlUti0n.
+Tne product: of these dirierent methods range above the
+mimeograph in cvslity of product according to the
+following scale: the mimeoaraoh with comnon wax stencils
+is lowest, the improved stencils next, the product of
+the Goxhead Press is next in ouality, and finally the
+offset printing from a typescript made directly on the
+metal sheet. But as it will appear when the application
+of these mimeozraph methods to'the scholars‘ problem
+
+is analyzed, it is very inportant that none of then
+
+[[text/053.txt]]
+33
+
+change the size of the copy by enlargement or reduction.
+For the use of photography in these various techniques
+has two kinds of value. In the Ooxhead process it copies
+figures, signs, diagrams, and other matter which the
+typewriter will not out in a stencil. In the complete
+photo—lithographic process it accomplishes not only
+
+this service, hut also the enlargement or reduction of the
+page as a whole.
+
+The members of the mimeograph family have
+received most of their employment as office appliances,
+where their costs of operation have been dependent upon
+wage scales and continuity of operation. The following
+quotation is the lowest that has been received for
+mimeograph service offered ccmereially by an outside
+plant. The quotation is here given for purposes of
+comparison with the lowest quotations for other comparable
+
+kinds of work.
+
+[[text/054.txt]]
+33
+
+it Ooet 0 Book I 00 ee 50 000
+on 1 writer Size Pa er x 1 imhe
+giver of cogiee in edition: 50 75 100 200 300 400 500 3,000
+
+Photo-lithography {ran the
+
+author‘: metezhcopy. (Price
+not affected 13 number 0!
+
+word: on thepage).......... $1.65 .98 .75 .64 .57 .44
+
+Lithogrxghic offset pron
+without photographlu 500
+Home typewritten dlroct
+
+on the page...  ........o 1.50 .90 .70 .60 .54 .42
+llimeograph on bond pqpexu... 1.30 .8) .63 .55 .50 .40
+Minwogreph on plain paper... LN .75 .60 .53 .48 .39
+
+Io-~oo-eoeIueeeeeeeee--ueneceonhoooeoennnounueoeloeoeo-oooouooonuioeoonuone
+
+Reprint: from lithographic
+metal nheet (either photo-
+graphic or typen'it'.en)..... $1.40 1.04 .85 .58 .4-3 .44 .41 -35
+
+ztepnnce £2-ma nimeosl“-°“ '
+stenci1Ii....ouounun... 1.00 .00 .70 .50 .43 .40 .33 .34
+
+cu--aperueeeaone-eaone¢IeeIuoIoItlullOIIoonco-o-go. ........oo-coo-eooooeoe
+
+[[text/055.txt]]
+34
+
+Inoonparing this table with the table or prices oi’
+offset and raised type printing it must be noted that
+this is a larger page. The larger area of paper for
+the same number of words results in an increase of
+legibility, or an increased space for diagrams or
+tabulations.
+
+Some use has been made of the mineograph
+stencil for duplicating catalogue cards. The Elliott
+Addressograph can be used for this purpose. A very
+cheap and serviceable device of this kind was invented
+by Hr. Hodgson when he was librarian of the International
+
+Institute of Agriculture in Rome.
+
+The Photcstat and Its Relatives.
+
+The peculiarity of the Photostat when it is
+compared with other methods of making copies of books is
+that the unit cost does not diminish as the size of the
+edition increases. It is made up almost exclusively of cost
+of materials and running costs. The only special expense
+which may be distributed over a number of copies is the
+coat of a white-on-black negative in_those cases where the
+purchasers want black-on-white‘positives, or where there
+
+is a saving of labor in "imposing" the negative. If one
+
+[[text/056.txt]]
+3‘.
+of the purchasers is willing to accept the negative
+copy, its cost need not always be 'dietributed' over the
+posititez.
+
+The cost of materials in photostat work is the
+determining factor, for if that cost were greatly reduced,
+labor saving appliances would probably come into use which
+would permit of an equivalent cutting of labor costs.
+There is some discussion of a possible new phctostnt
+paper, which will use a mercu.ry compound rather than a
+silver compound in the emulsion, and sell for such a low
+cost that it  compete with engraving in book illustra-
+tion work. At present one must reckon with the various
+kinds of photostat paper sold by the Photostat Corporatiox.
+and its competitors,
+
+The price of ordinary phctoetat paper per square
+foot is3 .042. But in the preservation of research materials
+use should be made of the special "1!" or ‘HI-I‘ grade of
+permanent paper stock, manufactured by Byron Weston Co-apanyt
+The '11‘ grade which is coated on one side sells for3 .052.
+per square foot; the "RH" grade, which is coated on both
+sides, and hence will brim a saving of half the cost of
+binding the volumes, sells for3 .10 per square foot 0;‘
+
+paper, or$.05 per square foot of sensitive surface.
+
+[[text/057.txt]]
+‘YB
+
+when wastage has been taken into account, and
+the Variation due to the different ways of imposing the
+negative and cutting the paper from rolls of different
+widths, has been reckoned with, the cost of materials
+for photoststing e 100 page book in different page
+sizes, and with different grsdes of paper, is as follows:
+
+ﬁinensions cost of material in dollars
+
+0? 5ooE
+
+gage In grdigggz stock 'H' stock '3' stock
+
+nc es
+
+4-1/2! 6 .78 to .83 .95 to 1.04 1.05
+
+5-1/3: 8-1/3 1.42 to 1.51 1.87 to 1.95 1.84 to 1.91
+'5 X 9 1.63 to 1.83 3.03 to 3.06 2.34 to 2.35
+'3-1/3! 11 3.84 to 3.00 3.66 to 3.73 3.64 to 3.81
+(typewriter
+
+size)
+
+11 X 14 4.6? to 5.01 5.80 to 6.33 5.91 to 6.06
+11 X 17 6.03 to 7.68 7.45 to 9.55 7.29
+
+13 X 23 12.01 14.90
+
+(page of
+
+N.Y.Times)
+
+To these costs of ps.per there must be sdded
+the costs of labor and chemicals. The low York Public
+
+Library end the printing department of the Cleveland
+Bell ‘telephone company have very kindly contributed
+
+[[text/058.txt]]
+37
+
+statements of their operating costs. In the Public
+Library the great majority of the prints were 11%
+
+x 14 inches, usually one copy only, and the average
+cost of the paper was 3.055. In the Telephone company
+the average size of paper was 8% x 11, and in many
+cases several copies of the same object are required.
+The cost of paper averaged 3.03 per page. In the
+Public Library the 8.055 worth of paper requires so
+much reference and clerical work, that the cost of
+the finished prints rises to'8.197 each. In the
+Telephone company, where only operating room charges
+need be considered, the $.03 worth of paper is worked
+up into a print which costs 8.063. This means that
+the labor, depreciation and chemical supplies cost
+3.033. These operating room costs in the Public
+Library amount to 3.06. The figures in total
+
+operating cost are as follows:
+
+ 
+
+Library Telephone 00.
+Paper (per 100 pages) $5.50 33-00
+operating costs (do.) 6.00 3-30
+$11.50 $6.50
+
+cost per square foot
+for Paper,Labor &
+chemicals 5 0.10 30.084
+
+[[text/059.txt]]
+38
+
+The Public Library spends an additional 8.082 on every
+pmewcmachnulmm.mngmamdukwmnu-
+charges which are due to the special character of the
+
+Library work. The unescapable operating costs are 10%
+more than the cost of the par, and may be more than
+
+twice the cost of the paper. This percentage is
+reduced as the work becomes more continuous. The Life
+Insurance companies operate with highly standardized
+copy; their labor costs should be very low, but the
+
+writer has not beau able to secure statements from
+
+them. The work of the Massachusetts Historical Society
+in copying colonial newspapers made use of the photo-
+stat at its highest efficiency for the reproduction
+
+of research materials. A letter from the Director, Mr.
+
+Worthington C. Ford, explains the financing of this
+
+enterprise:
+
+'...we gave our operator the highest photostat
+salary paid within my knowledge and with that
+the cost of material represented twice the
+cost of labor. "roughly estimated that it
+cost us about 13 ¢ to make a page of a news-
+paper of the large size...but we printed some
+which required the largest size of sheet
+adaptable to the photoatat machine, and the
+average cost was not increased. we sold the
+newspapers at a fixed price of 15: a page.
+some years there was a profit of 300-5400 and
+
+some years we came out even.‘
+
+[[text/060.txt]]
+39
+
+Similar newspaper photostating by Michigan Universit:
+Library and John Carter Brown Library are being carried
+on at a rate higher than that charged by the Massachu
+setts Historical Society. The Library of congress
+estimates that its photostat copies of foreign archive
+material cost it 15¢ each, and the British Museum anc
+Bodleian Libraries show a cost of 6¢ a page quarto size.
+It can be concluded that every dollar's worth of photo-
+
+stat paper requires from 50¢ to $1.10 in operating
+
+expenses.
+
+Photostat eauipmen‘ (
+The two appliances which compete in the field
+
+of photographic oopying are the Photostat and the Recti-
+graph. The Photostat is the older, and has succeeded
+
+in making a common noun of its trade name. The differences
+between the two kinds of apparatus do not seem to be
+sufficiently important to have a decisive effect upon
+costs, but are worth noting because they illustrate
+
+certain of the practical aspects of photostat work
+
+Both firms have two kinds of apparatus, a stan -
+dard equipment which leaves it to the operator to hift
+
+the prints to a rinsing tank and to dry them, and a
+
+[[text/061.txt]]
++0
+
+‘Continuous Photostat' or ‘Super-Reotigrsph' which carries
+the print automatically through the whole process from
+exposure to drying. The highest priced continuous Photo-
+atat costs $4,000. The claim is made that it will turn
+out three prints a minute.
+
+The following are the principal differences
+uetween the two machines. The Photostet carries the
+print on an endless chain through a developer bath, then
+through a chromium roller which squeezes out the surplus
+developer, into a rinsing tank of runing water, and then
+face-down into a shallow fixing tank which is continuously
+agitated by a motor. The Rectigrsph apparatus grasps the
+end of the pm or and pushes it down into the developer,
+withdraws it up again by the same end, passes it through
+a roller (but not a bath of running water), covers its
+surface with the fixing solution and lets it emerge face
+up in a deep fixing tank. All these features are inter-
+related. The Reotigraph uses a deeper tank because the
+solution is allowed to lie still; the Photcatat agitates
+the tank, which must therefore be shallow. The Rflﬁtiv
+graph claims that it osn dispense with the agitating of
+the fixing bath because it covers the whole surface of
+
+the paper evenly with the solution before it enters the
+
+[[text/062.txt]]
+41
+
+bath. It is this covering of the surface prior to
+immersion in the bath which permits the print to appear
+face up in the tank. The Photcetat has a much heavier
+frame, which is necessary to resist the vibration
+caused by the agitating of the tank, but which has many
+independent advantages. The Rectigraph wastes more
+paper than the Photostat because it requires more of a
+margin at the top of the sheet when dipping it into the
+developer. Both companies claim that they are more
+saving of chemicals; in the judgment of the writer the
+Photostat has the better claim because the developer is
+washed off in running water before the print enters the
+fixing tank. correspondence with two users who have
+each had experience with both types of machine reveal a
+preference for Photostat, partly on account of the more
+extensive service organization.
+
+A type of equipment related to the Photostat,
+but making copies without camera or lens, is the
+"Luminiophor" radio-active plate which sends out rays
+that penetrate an ordinary piece of white paper as if it
+were a transparent film, but which do not so readily
+penetrate through an ink surface. The plate is used in
+a dark room, by placing the master-copy on top of the
+
+[[text/063.txt]]
+43
+
+sheet of photostat paper and the Luminiophor plate on
+top of the master copy. The result is a contact print.
+The difficulty arises naturally in the case of paper
+which is printed on both sides. Even for such pages
+a negative of the printing on one surface can be made
+by reflection, after cancelling out the effect of the
+print on the other surface by laying the page on black
+paper. A true copy can then be made from the negative.
+The Luminiophor plate must be recharged every few
+minutes by exposure to sunlight or strong electric or
+magnesium light. It sells for 25¢ per square inch.
+Its place in the scholar's equipment could only be as
+an aid to note taking, and even there it is inferior in
+value to the Leica, Ansco, or Lemare equipment for
+making filmslide copies of documents.
+
+gollotxge and Photograph.
+
+The more costly but finer relative of the
+photostat is the photograph, and the aristocratic cousin
+of the photo-lithographic process is the collotype
+process. In collotype work a film (of gelatine) is
+carried on glass, or on thin sheets of metal.
+to become reticulated under chemical and heat treatment.
+
+The gelatine receives the photographic image direct.
+
+[[text/064.txt]]
+43
+
+It reproduces the whole range of tone values of the
+original accurately. Dr. G.B.Harrison reports that
+‘at its best collotype can be so perfect as to need
+a magnifying glass to detect the difference between
+original and counterfeit; ink can be exactly matched,
+and every spot, smudge and shade of color exactly
+reproduced. one of the most brilliant examples of
+collotype used for book reproduction was the work of
+the Oxford Press some thirty years ago, in their
+
+facsimile of the First Folio of Shakespeare's Plays,
+and I would call attention to the show-through at the
+
+back of the portrait as an example of what can be
+
+done with this process. Where funds allow, collotype is
+for every purpose the best.‘ (G.3.Harrison: ‘Facsimile
+Reprints", a paper read before the Anglo American
+Conference of Historians, 13-18 Ju1y,l931) But the
+cost of oollotyping is at least three times that of
+photo—l1thography; it should be classed with art work
+
+rather than printing.
+
+In the reproduction of manuscripts the
+photograph will bring out shades which the photostat
+would suppress. In copying illuminated manuscripts
+
+the advantage of the photograph is especially
+
+important. cost and aualitv in both these processes
+
+[[text/065.txt]]
+are very high.
+
+111.  mmJm
+mama
+
+The four fundamental techniques described
+above: - raised type printing, phcto—1ithography,
+nimeographing and phctostating, - are all competitors
+with each other for the production of books. There is
+another technique - filmslide photography — which does
+not produce books at all, but which offers to the
+scholar a tiny roll of film as a substitute for a book.
+The filnslide is the competitor, not of any particular
+book production technique, but of the book itself as an
+instruent for the preservation of records. Before
+evaluating the filmslide process it is necessary,
+therefore, to review the process of book production as
+
+a whole.
+The technological and financial variables in
+
+book production resolve themselves into five, which
+
+should be defined relative to any item which it is
+
+proposed to reproduce:
+
+1. Is the material ready for photographic
+reproduction, or does it still require to
+be copied on the typewriter? (newspapers,
+printed books, manuscripts of which
+facsimiles are desired,and clean typescripte
+can be considered as ready for the camera.)
+
+[[text/066.txt]]
+45
+
+2. will the purchasers and readers demand book
+type and justified right hand margins, or will
+they accept typewriter face and uneven right
+hand margins? (Bibliophile and scholars will
+probably disagree on this question.)
+3. Does the material include other things than
+straight textual matter which can be tapped
+off on a typewriter or linotype machine?
+4. What degree of legibility is reouiredT
+5. How many copies can be sold.
+These variables are all inter-dependent.
+1. Reprinting Material which is Read! for Photograohx.
+when material is ready for photography, and the
+problem of the use of typewriter face type is not in—
+volved, the photo-offset process has no rival. The small
+press is preferable for editions less than one thousand,
+the large press (such as the Harris) is able to compete in
+larger editions, if labor and business policies are the
+same.
+
+There are two critical sizes of editions in the
+use of the photo-lithographic method of~copying books and
+newspapers. There is the low limit to an edition, below
+which the photostat is preferable; there is an optimum
+size of edition which will take maximum advantage of the
+
+falling unit costs of production while avoiding sales
+
+risks and rising costs of promotion.
+
+[[text/067.txt]]
+48
+
+The dividing line between photostat and photo-
+lithogruuhy in a business establishment which uses both
+methods is somewhere between fifteen and twenty copies.
+The figures quoted for commercial work are in agreement
+
+with this conclusion.
+
+[[text/068.txt]]
+47
+
+COHPARATIVE COSTS OF PHOTOSTAT AND PHOTO-LITHOGRAPHY IN EDITI(HS OF
+
+y§§S THAN ONE HUNDRED. 00 PAQES, §IZE E-122 x 11 INCHES. UNIT COST.
+
+1
+
+   
+ 
+ 
+ 
+ 
+  
+
+  
+   
+
+Operat1ng 110%
+
+ 
+
+     
+    
+  
+  
+
+Aeg.
+
+Pbotostat 7.58 of aper coat
+
+3-1/2111 wit negative
+not sold.
+
+5.50 Operating 50%
+of paper cost
+with negative
+
+’ sold _
+
+Small Pho-
+
+to-offset
+
+with
+
+Kodalitb
+
+negative.
+
+3-1/2:11 (sau-
+
+Large Photo»
+offset with
+let Plate
+
+Fr°V8E9- W85§;2l§neQ2L. m--____ _...L__-
+
+ 
+
+  
+
+[[text/069.txt]]
+48
+
+The dimensions quoted by the different photo-offset
+presses differ because for each size of metal sheet
+
+there are certain sizes of imprint which can be made
+
+most economically, since they divide the metal sheet
+without wastage. The Rotaprint 17 X 11 inch sheet
+
+makes two pages 8% X 11 inches; the big Plsnograph sheet
+makes 16 pages 9 X 11% inches, or 9 pages 13 X 15%
+inches. The cheapest photostat is passed by the most
+expensive photo-lithograph at 50 copies; the most expenp
+sive photostat is passed by the cheapest photo-lithograph
+at 17 copies. This latter figure agrees with the office
+practice cited above, of changing from one process to the
+other between fifteen and twenty copies.
+
+These figures have practical application to a
+present problem in connection with certain projects for
+copying old newspapers by the photostat method. The
+most successful enterprise of this kind was the one
+promoted by Mr. Worthington Ford, who organized the
+copying of many colonial newspaper files. In most of
+his undertakings the number of subscribers ranged from
+fifteen to twenty two, and the list never got beyond
+twenty four. This list therefore stood at the marginal
+point where photo-lithography was Just b681nfl1n8 ‘° b°
+
+[[text/070.txt]]
+49
+superior to the photostat. Projects similar to that of
+
+Mr. Ford are under way on behalf of the John carter
+Brown Library at Providence, the New York Historical
+society and the University of Michigan. A new project
+is being launched by the Missouri Historical Society,
+and an attempt is being made to reproduce the unique
+Chillicothe Gazette at the Ohio Historical and Philoso-
+phical Society. when subscription lists to these
+projects rise above twenty, the photostat should be
+replaced with the offset press. Five or ten extra
+copies could then be made for later sale without in-
+creasing the amount the subscribers would have to pay
+for their sets. Twenty is the critical point not only
+for transition from one technique to another, but also
+for the lowering of unit costs by increasing the
+edition. A subscription list of forty can purchase
+their copies at a unit cost only half as great as must
+be paid by a subscription list of twenty. Promoters
+might make use of this fact by fixing their maximum
+price at the photostat level but offering the advantage
+of lower prices in the event that the subscription
+
+list grows large enough to warrant reductions.
+
+[[text/071.txt]]
+. 50
+The other critical point in the photographic
+
+copying of books is the size or edition at which the
+unit cost of the book ecuals the normal prices which
+libraries are in the habit of paying for books. This
+is between 50¢ and $1.80 per hundred pages. Two enter-
+prises which illustrate the importance of this point
+are the project of the Facsimile Text Society and the
+dictionary project financed with Carnegie funds under
+the direction of Professor Fries of the University of
+
+Michigan.
+The Facsimile Text Society has 400 charter
+members; it has printed photo—1ithographic copies of
+5 books. It has 11 more books in preparation, and 104
+titles under consideration. The cost level at which
+it operates is explained in a letter from the secretsry:-
+‘The cost averages about five dollars a page
+for one thousand copies, printed on rag paper and
+bound in boards. In order to pay their way these
+books must sell at least three hundred copies.‘
+This is a unit cost of 50¢ per 100 pages. The catalogue
+shows that the price to non—members is about $1.00 per
+hundred pages, to members about 63¢. The apparent dis-
+crepancy in these figures is probably explained by the
+
+element of bindery cost, which would not necessarily be
+
+[[text/072.txt]]
+51
+incurred for that part of the edition which is printed
+
+but unsold. As has been noted in another place, the
+work of this society is done on one of the large presses
+which cannot store its metal plates for a second run.
+The British Shakespeare Association Facsimiles are
+printed by a similar method at a similar cost - editions
+
+of one thousand at a cost of 30¢ per 100 pages, stitched
+but not bound. These societies print more copies than
+
+they need to sell.
+
+A different policy is followed in the dictionary
+project at the University of Michigan, which calls for the
+copying of 400 titles in editions of 200. The unit price
+is to be 50¢ per 100 pages, and the metal sheets are to be
+stored, so that later runs can be made at a unit cost of
+about 50¢ for a second printing of 100 and 22¢ for a sec-
+ond printing of 500. The binding will probably be less
+expensive than that which is used by the Facsimile Text
+Society.
+
+The significant fact is that, in editions of
+from two to three hundred, reprints of books can be
+supplied at costs substantially below the prices which
+
+libraries usually have to pay for average books in the
+
+open market. Even copies of old newspaper files could
+
+[[text/073.txt]]
+53
+be sold at these low prices if the subscription list
+
+could be brought to the two hundred mark. No book
+desired by two hundred purchasers need ever be out of
+
+print.
+
+3. Typewritten Books.
+when the possibility is once presented that
+
+books may be printed directly from a typescript, the
+prospect is opened for the re—distribution of labor
+
+between author and publisher. In this re-distribution .
+
+there may be an opportunity for great economies.
+
+In preparing copy for a printed book, the
+author is expected to provide a reasonably clean copy.
+But the editorial staff of the publishing house always
+edits the typescript before it goes to the linotype
+machine. The proof must then be corrected to the copy.
+This editorial service accounts for twenty per cent of
+the nsnulecturing cost of the book. The author must
+then read his proofs, usually twice, once in the galley
+and once in the page.
+
+How are the author's duties changed it the
+book is to be taken photographically from his type-
+script? He has the responsibility of supervising the
+preparation of a copy that is final and correct in
+
+every detail. No editor or proof reader will help
+
+[[text/074.txt]]
+53
+
+him with his spelling or systematize his capitalization.
+He can easily make changes and corrections in his master
+copy by pasting new matter on top or the old. But once
+he sends the sheets to the press, no further changes can
+be made. This has some advantages, for the labor of
+reading galley and page proofs is eliminated. The type-
+writing in such work must be done with very clean type
+and a special dark ribbon. Erasures and chances can be
+made if necessary. A part of a page can be pasted over
+the original text if an extensive chance must be made.
+Footnotes can he cut out and pasted at the button of
+each second page. A clean typewriter, a detk ribbon,
+
+rubber cement and shears are all the tools needed in
+
+preparing typescript for reproduction. The author has
+a free hand to include as much illustrative material or
+as many iac-similes as he wishes, 02 he may insert
+Chinese or Greek characters, — for the cost or publish-
+ing is not affected thereby. The book which is published
+by photographing a typescript follows the same cost curve
+as the photographic copy of a printed book.
+
+The devices related to the mimeograph distribute
+the labor of printing more as is done in the publishing
+trade. The author nas the extra labor and the opportunity
+
+[[text/075.txt]]
+54
+
+for correcting his script which proofreading affords. He
+cannot without great extra trouble reproduce anything
+which is not on the typewriter keyboard, just as if he
+were dealing with a linctype process. These methods
+resemble photo-lithogrephing from typescript chiefly in
+that they still leave the right hand margin ragged.
+
+when the matter to be published contains tabuls»
+tions, characters not in the Roman alphabet, diagrams or
+mathematical formulae, the advantage of photographing the
+typesoript increases because the cost of typesetting is
+-much higher. Hr. Charles G.Prof!itt of the Columbia
+
+University Press writes:
+
+It has long been our judgment that much scholarly
+work, now printed by the conventional method of
+typesetting, could be produced in a way that
+would be just as useful to the small circle of
+readers involved and at a price substantially
+lower than now paid, if the work were done by the
+offset process from clean typewritten manuscript.'
+We published such a volume some time ago (Westermsnn
+and Kraemer - ‘Greek Papyri') and are urging this
+same method in the publication of one or two other
+volumes at the present time. It is particularly
+appropriate where the use or foreign characters
+makes the type-setting unusually expensive.
+
+Anything in the manuscript, pictorial or otherwise, which
+cannot be pounded out on the linotype gives rise to costly
+
+hand work, and possibly to charges for zinc cuts or copper
+
+plates.
+
+[[text/076.txt]]
+55
+
+The redistribution of labor between author, editor.
+and printer together with the elimination of special hand work
+in the press room acoout for the greatest oost differences
+between the two methods of printing. There is another element
+which may mean much or little - the fact that photo-lithography
+operates regardless of the number or words on a page, whereas
+linotype cost increases directly with the number of words.
+
+Two distinct typographic problems here converge - the artistic
+problem of the value of the straight right hand margin which
+the linotype will supply, and the legibility problem which
+arises when advantage is taken of the ability of photo-
+lithography to increase the number of words on a page by
+photographing typescript on a reduced scale.
+
+At what price does the publisher purchase the
+aesthetic satisfaction of the Justified line of type? What
+ntmcutMﬁumnubnnmtmtwpmmuu?Pum-
+ing costs are higher in America than abroad, but so are
+photo-lithographic costs. Foreign printing is a little
+cheaper than the cheapest American photo-lithography. J.
+Gamber, Paris, prints 50,000 words, 100 pages in an edition
+of 200 at a unit cost of 44¢; Edwards Brothers will make a
+book of the same size by photo-offset for 52§¢. It 600
+
+words instead of 500 are put on an Edwards page, the cost
+
+[[text/077.txt]]
+3
+
+per word of the two methods becomes the same. It is
+more reasonable to compare the Edwards figure with the
+lowest printing quotation in this country, which, for
+small editions, is offered by the Mime-O-Form plant.
+In editions of 300 to 300 its costs are exactly double
+those of photo-offset from author's master copy. To
+change from s photo-lithcgrsphed typesoript edition of
+two hundred to the cheapest hook printing of equivalent
+legibility available in this country requires that
+either the unit price or the size of the edition be
+doubled.
+
+The cost of gegibilitg.
+
+In any photographic process which permits the
+enlargement or reduction of the size of copy - thnt is
+to say, in photostating end photo-lithography - the
+legibility of the product is one of the variables which
+is strictly under control. The printer in these cases
+is concerned with e size of pegs, not a number of words.
+The cost per word is therefore dependent upon the
+editor's choice of a size of print, and diminishes by
+geometrical progression as the point size of the.letters
+is reduced. The variation in costs is illustrated if
+
+the full size typescript page be compared with n news-
+
+[[text/078.txt]]
+57
+paper reduced to half size. The typewritten thesis, now
+the standard form in which unpublished scholarly work is
+presented, contains about 300 words on a page 8% x 11 in-
+ches. This is exactly the size of a page which will take
+a half size reduction of a standard newspaper. But the
+newspaper contai 9 5,000 to 6,000 words. Therefore the
+cost per word of photographic reproduction in one typo-
+graphic form may be only one twentieth of the cost in
+another form.
+The problem of the legibility of small type
+
+has not been thoroughly explored in its relation to the
+photographic methods of reproduction. Much more atten-
+tion has been paid to display type for advertising. A
+study of the effect of photo-lithographic reduction on
+the legibility of newsprint was made by Professors Don-
+ald G.Paterson and Miles A.Tinker of the Psychology De-
+partment cf the University of Minnesota, at the request
+of the Joint committee on Materials for Research. Their
+curve of diminishing legibility drops rapidly after the
+size of the type passes below a 50% reduction, eq“1V&1°n?
+to a 3% point type face. There is no statistically sig-
+nificant retardation ot speed of reading when the news-
+print is reduced to 80% or its full size; at 50% reduc-
+tion the retardation amounts to approximately half a word
+
+a second. Fatigue in reading is probably proportional to
+
+[[text/079.txt]]
+56
+
+' retardation of speed. The following table presents the
+
+conclusions covering legibility, number of words per
+
+square inch, and cost of publication.
+
+[[text/080.txt]]
+59.
+
+‘ rm: egg: or LEGIBILITY
+
+(Page 8} x 11 inches calculat d for printing surface of 8-7/8
+
+x 9-3/8 or 66 sq. in.; Page x 8% or 5-7/8 x 8% calculated
+
+for printing surface 4% x 7% or 34 sq. in. Newsprint figures
+found by actual count;1inotype average figures taken from Koch:
+‘The standard book of estimating for printers'issued by United
+Typothetse of America. Typescript estimates by Edwards-Brothers)
+
+LIHOTYPE STYLE. words Words Words Unit cost of L3 1b111t
+com axed
+
+Size of type er so. oer‘ r SU UUU horas
+incﬁ ﬁg x E: x sf I? per with 7
+o
+
+_$ P380 3 newsprint.
+
+2252 EEKIL LARGE In words
+PAGE PAGE ger second
+
+-un-----..-————......---—-—-..-__....—_-..-..._—__--.—.._....-.......___....___—..__
+
+7 pt. newsprint
+
+, re uced 50%
+t 130 4424 8581 .12 .07 .45
+4 pt. set solid 82
+
+5 pt. " ” 60
+4 pt. leaded 51
+- 5 pt. solid 5?
+6 pt. solid 4?
+5 t. leaded 4e
+
+ 
+
+7 pt. newsprin+
+reduced to 80¢
+
+     
+ 
+
+ 
+ 
+  
+
+(5% pt- 44 1496 2904 3.33 3.17 __.05
+3 ..____________
+. to
+
+_ . solid o .
+9 pt. solid 2‘ sec.)
+8 pt. leaded 23
+10 t. solid 21
+% ﬁt. leaded 29 §§§ §§Z§ §:2§ §.§§ Eoﬁ tesieg
+
+pt. solid 1
+
+10 pt. leaded 16
+11 pt. leaded 14
+12 pt. solid 14
+12 Qt. leaded ll
+Pica Typescript
+
+giggle_sp_a§_e_ _ _ _]_._O_ _ _3_4g _ __6§O _ _ _ _ _ _ _ _N_o_t_t_e_e3eg _ _
+
+double space 5 170 330 . Not tested
+
+       
+
+Small page can be printed for
+' editions of 200)
+
+¢ in editions of 100; large page in
+
+mm: m 4 mm
+
+[[text/081.txt]]
+60
+
+These figures take no account of 1 number of important
+factors, such as length of line, and differences in type
+face which affect legibility. An experiment intended to
+supply legibility figures for typescript is under way at
+the University of Michigan. The table here given indi-
+cates the existence of a number of point sizes between 7
+point type and 3.5 point type where reduction in cost
+moves frscer than reduction in legibility as expressed
+in speed of reading.
+
+Cost and Legibilitz in Percentages of Newsprint
+cost Heading Speed
+
+7 pt. newsprint.........100%..........,....lO0%
+55 pt. (7 pt. . -
+
+reduced to 80%, .’ .
+
+if size)................78$................98%
+34 pt. (7 pt.
+
+reduced to 50% '
+of size)................23%................d9$
+7 pt. reduced to
+
+30% of size —
+
+too small for
+
+practical use............9%................25$
+
+The standard typewriter equipment is such that
+directions for preparing typescript for photo-lithography
+cannot assume the availability of any other type faces
+than the 12 point Pics and the 10 point Elite. But by
+using these type faces and reducing them pnotographicelly,
+it is oossihle to produce finished copy in sizes all the
+way from 4% points up, in a great vsrieﬁi °f 3tY1¢3 35 *0
+
+length 01 line and spacing. CODY Prepared 0“ °Td1n3r¥
+typewriter paper, 8% x 11 inches, will P!°d“¢° 3 ’1“31
+
+[[text/082.txt]]
+61
+
+page having anything from 150 to 1500 words,or more.
+The normal ten inch typewriter can also be used to
+prepare copy upon special large sizes or paper, thus
+permitting even greater variety in final size and spas-
+ing of print.
+
+The small photo-offset press, which is best
+for small editions, works most economically upon either
+of two sizes of book page - 8% x 11 or 5% x 8*}, (some-
+times 5-7/8 x 8%). Typescript should therefore be
+prepared for reduction to one or these two sizes.
+
+There are three ways of preparing copy for the
+ea} 1: 11 page.
+
+lst - to make four pages of ordinary typeecript
+and have thm reduced to half size as two
+columns of a page;
+and - the typescript can be copied without reduction
+in size;
+3rd - the typescript can be made in one or two col-
+umns upon a larger typing surface and then
+reduced to the 8} x 11 size.
+Typescript for the 5% x Bﬁ page is easily prepared on
+standard typewriter paper for any snout of reduction.
+
+The ratio of length of line to size of letter
+
+has an important effect upon legibility. A good length
+
+[[text/083.txt]]
+62
+
+is X x 30 where I is the point size of the type. it this
+rate the optimum length for a line of Pica type is about
+five inches, and of Elite type four inches. It the ordi-
+nary double spacing is wider than necessary, and single
+spacing too crowded, another spacing is given to a type-
+script by using a special ratchet which can be attached to
+the typewriter to set the lines one and one third spaces
+apart. Each combination of length of line, size of type,
+spacing and reduction ratio yields its result in number of
+words per page, and hence in cost of reproduction. The
+costs are here tabulated; the legibility factor has not yet
+been worked out. The styles which are marked with a star
+
+are reproduced in the appendix.
+
+[[text/084.txt]]
+63.
+
+PREPARATION OF TYPESCRIPT FOR PHOTO-LITHOGRAPHY
+
+'=samp1e in appendix
+A Uein standard size t e— Words or Unit cost of
+
+ohoto—1ith- a e Lowest
+
+scriut aver 8 x 11 in., gage x orintin 55 00C
+in standard tggewriter 1 in. in words at I er
+%§2$££L§%£_ size %2§E— g gh d g t ti 8 1
+cc use __ n o ra e no a on re u res
+on gage tyge oo e 1 on o -
+
+ 
+ 
+ 
+
+ 
+
+Four pages P ca ou e .
+6~7/8 x
+9-3/4 (im- Pica special 1720 .30
+posed as ‘
+double co1- Elite Double 1200 .42
+umn on one
+page of bk.)E11te Special 2000 .25 '
+Four ages
+5 x 7 in. Pica ouble 700 71
+Pica soecial 1150 .44
+ﬁiiiilfl3B3E3IIIIIIIQQEIIIIIIIIIIIIIISK
+lit ‘ a1 25 .4
+B.Ueing sgecial sizes of Eager for tggeacriot, either single
+or double column style, with typing aur aces as be out
+6-7/8 x ‘.9-
+3 8 in. Pica S ecial 430 1.16
+6-7 8 x 9- Elite Special 500
+3 8 in. Pica sin 1e 500‘ 1.00 ‘
+8 x 3 Elite Single 00
+'75 x 10:} in. Pica Single 600
+Elite Special 600
+8-1 8 x 11 1n.Pica soecial 600 84
+9-1 8 x 11 in.P1ca Single 709
+Elite Special 700
+8-3 4 x 11-3 4 Pica S ecial 700' .71 °
+Pica Sin 1e 0 . &
+x 12 in. Pica Single 2 .
+3-3/4 x11—3/4 Elite Single 1ooo(doub1e -50
+column
+9-3 4 x13-1/4 Pica Single 1030 .48 9
+
+__::__— 
+
+[[text/085.txt]]
+There ere two inquiries remaining to be made in
+connection with legibility. The psychological study should
+be carried further to compare typescript and print faces of
+various sizes and densities till all the unnecesssrv varie-
+bles are excluded, three or four levels of legibility are
+identified, and the maximum number or words per page togeth-
+
+er with the optimum typescript format are determined for each
+
+level of legibility. The users of research material must
+then decide what legibility they want in each class of meter-
+ial. taking into account such things as probability of fre-
+quent consultation, or the likelihood that the reader will
+
+wish to skim the entire text ss against the likelihood that
+
+he will merely search for a particular item. The small
+
+tvoe in the dictionsrv is not fatiguing to the reader be-
+owuse so little is read at a stretch. In copying printed
+material. whether it be in the form of book. periodical or
+newspaper, the reduirements of the small press will always
+ruvor certain page sizes, snd the requirements of the schol-
+at certain type sizes. I! s typescript, a duodeoimo volume
+in 5 point type and a great folio in 12 point type have the
+same Kind of utility in research, the reprinting should en-
+
+large the one and reduce the other to whatever size has the
+
+[[text/086.txt]]
+65
+
+appropriate legibility. A certain rule of thumb accuracy
+in making decisions about size of type can be achieved
+without setting-a standard, but standards of legibility
+if defined would aid both editors and promoters. The
+editor would know at once, when he had decided upon a
+standard of legibility, what kind of printing technique
+would fulfill that standard. And the promoter would be
+able to inform prospective subscribers accurately upon
+this important aspect of his project. In connection with
+the copying of newspaper files the question is already
+presented. some librarians want full size copies, and
+others believe that the pages should be reduced. But
+
+how far is the reduction to be carried? There is no ad-
+vantage to choosing a fixed percentage and reducing
+everything by that amount, for some newspapers are close
+to the low limit of legibility in their original size.
+The promoter should be able to say that the copies to be
+furnished will have a certain legibility, so that the
+
+subscriber will know exactly what he is subscribing for.
+The prospective users should have an opportunity to say
+
+whether they would prefer to have one newspaper rile
+
+made accessible to them in seven point type or tour files
+
+in three and one half point type.
+
+[[text/087.txt]]
+86
+Qgtiogg Aids to gsgihilitz.
+
+then the size of the type face is out down in
+
+order to reduce the price of a volume or out down the
+nuber of copies which must be sold, the point is ulti-
+mately reached where reading glasses may be useful to
+assist the naked eye. The optical principles of the
+reading glass are such that every increase in magnifying
+power diminishes the area of the field of vision. no
+practicable magnifying system will do more than double
+the ostensible size of the type without introducing dies»
+greeable distortion at the edges of the field, or unduly
+diminishing the field of vision. There is no such thing
+as a really ‘high power" reading glass. The most conveni-
+ent kind of optical aid to the reading of small type is
+the half-cylinder of glass which is mounted on short run-
+ners which hold it about an inch above the page. This
+apparatus magnified the letters only in the dimension of
+height, hut lends itself more easily than the round read-
+ing glass to the rapid skimming of a page. When the
+limitations of the reading glass are considered in connec-
+
+tion with the technical difficulty of reducing print to
+sizes much below 3.5 points, it is clear that there is no
+advantage in making a text which cannot be read with the
+
+[[text/088.txt]]
+'<
+
+6?
+
+naked eye. The aid of the reading glass and its variantx
+
+should be saved for the use of those whose eyes are sv*-
+
+normal, or who find themselves oblifed to read continuous)~
+
+in print which is only suited for short stretches of rear-
+ing. A reader who merely looks up an article in a 3.J
+point newsprint page will not need ontical aid, but a ma;
+who is going through an entire file of the newspaper mav
+
+have use for one of these zlassea
+
+The Fiskoscoge
+The Fiskoscope, invented by Admirrl Fiske, is 5
+
+magnifying glass intended to render possible the reduction
+of print to the point where reading with the naked eye is
+impossible. Typescript or other reading matter is reduced
+seven diameters in the offset press and printed in thin
+strips. 3 x Bﬁ inches, each strip containing 45 small
+squares of 165 typsscript words each, a total of over 7400
+words, equivalent to maximum number of 50% reduced news
+print words which the offset press can out on a page 8% L
+11 inches. The strip of finely printed paper is fixed in
+a movable frame in front of the magnifying glass, ﬁne
+glass is set at a fixed focus which suits the reader's eye,
+
+and the printed matter is then moved through the frame by
+
+[[text/089.txt]]
+turning a little screw.
+
+To a person not trained to use one eye alone.
+the riskoscope is very tiring. It is difficult to use in
+reading normal pages because the field of vision is too
+small. The special pages of 165 words each were type-
+
+written to permit the whole page to be seen at once, but
+in reading a page of the New York Times, reduced 6 diame-
+
+ters, the restriction of the field of vision precludes
+skimming and is very annoying. If the principle of the
+Fiskoscope is to enter usefully into the scholar's equip-
+ment, it must be keyed in with filmslide photography
+rather than with offset printing, for it calls for a
+departure from the book form. Admiral Fiske writes that
+the limit upon the magnifying power of his instrment is
+fixed by the printers, who cannot provide him with copy
+any smaller than newsprint reduced six diameters. But
+the rilmslide negative will reduce newsprint more than
+twenty diameters. The place for such an instrument as
+the riskoscope is as an auxiliary to the projector in the
+
+use of filmslides.-— a use which will be discussed below.
+
+Quality of gaper.
+
+In small editions the cost of materials consti-
+
+tutes so small a proportion of the total expense that the
+
+[[text/090.txt]]
+59
+
+cuality of the paper can be improved without greatly
+changing the price of the books.
+
+The problem of permanence in book papers is
+a complex chemical problem now being studied by the U.8.
+Bureau of Standards and by a Special Committee on the
+Durability of Paper set up by the British Library Associap
+tion. The tentative conclusions arrived at in the Bureau
+of Standards have been set forth in a paper by B.fl.8cribner
+before the American society of Mechanical Engineers. The
+British committee has printed its report in a pamphlet
+available at its office, 26-27 Bedford Souare, London,(ls).
+In both investigations it was recognized that several de-
+grees of permanence in paper must be standardized. The
+British classification is as follows:
+
+Grade I. For use where 'absolute' permanence is
+reouired.
+
+Grade II. For use where relative permanence is
+desired and where a competitive price is
+necessary.
+
+The U.S.Eure:u of Standards classification runs:
+
+Grade I. Permanent pears, having a maximum degree of
+purity.
+
+Grade 11. Papers quite highly purified, that may be
+expected to have a minimum life of 100 years.
+
+Grade III.Papers quite highly purified, that may be
+expected to have a minimum life of 50 years.
+
+[[text/091.txt]]
+70
+
+Grade IV. Papers having a 1ow degree of purity, for
+' current use only.
+
+Grades I and II are distinguished in the English
+report by the nature of the raw material used and the price
+level at which they oan be furnished, in the American Bu-
+reau of Standards report by a computed life-probability and
+performance in oven-aging. The American Rag Paper Manufac-
+turers hold with the British Library Association in favor
+of raw materials as the criterion of probable durability;
+the U.8. Government Printing Office uses Bureau of Standards
+'performance' specifications, which are 'revo1utionary' in
+business practise. In the following tables of specifics»
+tions it is to be noted that"A1pha Cellulose‘ is derived
+either from rags or wood pulp. The opposition between the
+two methods of grading, by raw-materiel composition and by
+
+performance, is clear:
+
+[[text/092.txt]]
+...
+
+CHEMICAL AND PERFORMAHCE SPECIFICATION‘
+
+In.s.= no? epeciifea}
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+__2__ ll
+U.S. U.S. Brit— U.S. U.B. Br%t-
+Bur- Raw 195 Eur- Rap 1
+eau Paoer Eib. eau Paper Ely
+2: gig. Kssn. of L g. Assn.
+Stan- Asa . §?an- Assr(
+dards dards
+Alpha
+ce1;.
+uloee 90% n.s. n.s. 80% n.s. n.s.
+Raw 100% looft chem. chem‘
+Mater- of of new wood woo‘
+ial n.e. new rags rags n.e. pulp pulp
+Acid-
+ity 5§~
+Above 5 pH 5 pH 6 pH 5 DH 5 pH n.e
+Coppe:
+Numbe:
+Below 1.5 0.5 n.s. 2.5 1.5 n.e.
+Rosir
+as
+least 1% 1.2% n.a. 1.5% 1%. 1% or 2%
+Mineral
+Loading n.s. None None n.a. n.a. 5%
+Periorm
+mance see n.s. n.s. n.a. n.s. n.m
+belov
+
+Performance test for Grade I paper(U.S.Burg3u of standardgf
+
+Performance test for Grade I, I changes on heat-
+ing 72 hr. at 100 deg. cent.; decrease in content of alpha
+cellulose should be not more than.1.5%; decrease in fold-
+ing endurance not more than 25%, increase in copper number
+not more than 0.5%
+
+Mr. E.H. Naylor of the Rag content Paper Manufactur-
+
+ers Association defends the ‘composition’ specification, an-
+
+[[text/093.txt]]
+72
+
+questions the validity of the tests of permanence proposed
+by the Bureau of standards. He writes that ‘there is not
+today any test or set of tests which adequately describe
+the permanence of paper“, and offers further concrete
+criticisms:
+
+‘Alpha cellulose content. This test measures the
+amount of papermaiing fiﬁious material as distinct from
+cementing material and definitely degraded material and
+impurities. It takes no account of the wide difference
+in quality of fibrous materials such as is indicated by
+the test for viscosity of cuprammonium solution. Papers
+from the best of wood fibers have an alpha content of
+around 90 per cent, while those from new rags have as
+high as 98 per cent. Therefore papers in Grade I may be
+made of the best of new rags, degraded or worn rags, the
+best of purified wood pulps or a mixture of good rags
+and an inferior wood pulp. Price and permanence quali-
+ties within this range will necessarily vary widely.
+
+"Copper number. The best of wood pulp normally
+carries a copper number several times as large as that
+of similarly purified rag stock. While new rag papers
+show copper numbers of .l5.to .75,wood pulp papers vary
+from 1.0 for alpha pulp to 2.5 for ordinary sulphite.
+The range of permanence possibilities for papers of
+copper number less than 1.5 is even wider than that of
+the alpha content specified....
+
+‘Oven aging accelerates the action of certain im -
+purities in paper and indicates in a conveniently short
+time the possible slow degradation of paper from such
+impurities. At the temperature chosen this dark heat
+has no effect on pure fibers whether of wood or rag and
+
+. it gives no indication of their relative resistance to
+atmospheric impurities. At a temperature of 135 C
+instead of 100 c rag papers are decidedly more perma-
+nent than wood papers.‘
+
+Ir. Baylor declares that tub sizing with ge1a~
+
+tine adds a protective feature by increasing resistance
+
+[[text/094.txt]]
+73
+
+to light and atmospheric impurities.
+
+It must be concluded that the scientific class-
+ification of papers according to permanence is still a
+highly contentious subject, in which the dispute is eg-
+gravated by the rivalry of the wood-pulp and rag-content
+interests.
+
+Although some of the rag paper manufacturers
+will not bid on the Bureau of Standards specifications,
+American Writing Paper Company quotes 35¢ a pound for
+Grade I, and 22¢ a pound for Grade II. The cost of quali-
+ty is figured differently on the British scale. Taking
+normal book paper prices as 1, their quotation for the
+Grade I papers is 3 to 6, and for Grade II papers 1.
+
+The American Rag Paper Manufacturers suggest a different
+price index in a letter of November 17, 1931, which is of
+special interest because it expresses the considered opin-
+ion of the industry:
+A meeting was held with representatives of
+the various mills making permanent book
+papers in order to discuss the request in
+your letter of August 16th for the differen-
+tial in printing cost between printing on
+ordinary book stock and on stock having the
+higher degree of permanence. Those present
+were unanimous in their expression of inte-
+rest and desire to cooperate to the extent
+of their ability....
+
+These manufacturers have felt that our
+
+[[text/095.txt]]
+74
+
+present knowledge of the factors which
+enter into paper permanence is not
+sufficiently well defined for them to
+adopt an adequate uniform set of spec-
+ifications, and therefore the permanent
+book papers offered by these mills diff-
+er as to details of quality and prioo....
+
+some papers made of cheap, impermanent
+materials may command a reasonably high
+price because of some attractive feature
+as color, surface, finish, bulk, weight,
+printability, eto., while the less attrac-
+tive permanent papers are selling for less
+price. A price limit which a buyer might
+construe as defining the permanence of
+paper could obviously lead to serious
+error.
+
+A price limit, however, together with a
+few carefully chosen specifications which
+will qualify the price as being due to
+permanence quality rather than some ap-
+pearanoe effect they consider as highly
+desirable...
+
+There follows a discussion of the permanence specifica-
+
+tions, leading to the conclusions charted above.
+
+By mixing rag with chemical wood, both being
+of the quality indicated above, an inter-
+mediate grade with prospects of life longer
+than for Grade Il may be predicted.
+
+If we take 1 as the equivalent price prevail-
+ing today for the ordinary lower quality of
+printing paper and for papers of Grade II
+above, the ratio of price for the various
+grades above would be atcut as follows:
+
+Grade I.........4
+Grade Il........l
+‘Mixed furnishes‘, 2 to 3.
+
+[[text/096.txt]]
+7b
+
+It goes without saying that research naterials
+of permanent value should be printed upon permanent pe-
+pers. How much does the cost of permanent paper increase
+the cost of book production? Two factors enter into this
+calculation,-first, the extent to which an edition is
+sold out, and second. the size of the edition.
+
+If the weight of paper in a book is one pound,
+an edition of 1000 will use paper as follows:
+
+cost of
+Paper
+
+Class 1, British or U.S.
+Bureau of Standards 3350 (American Writing
+
+Paper)
+Class II,U.S.Eureau of
+Standards 3 220 (American Writing
+Paper)
+Class II,British 8 as (American Rag Paper
+
+Mfg. Assn. Ratio)
+A paper cost differential or 7¢ per volume it
+the whole edition is sold out will rise to 43¢ per volume
+if the edition is expected to pay its way with the sale of
+300 copies. A paper cost differential of 26§¢ per volume
+it the whole edition is sold out will rise to 88¢ if only
+300 copies of the edition are sold. It is the storgge of
+
+expensive nape; ig unggld books that makes it so costly to
+
+print on high priced paper. The financing of permanent
+paper reduces itself to the problem or how to avoid print-
+
+[[text/097.txt]]
+/8
+ing more than can be sold. In offset printing this means
+that the key to paper quality is the use in printing of
+a metal sheet that can be stored for later printings.
+This applies to all non—commercial enterprises.
+
+In ordinary commercial publishing the risk of
+printing a large number of copies that will not be sold
+must be taken, for the possibility of profit depends upon
+the smaller unit costs of books in large editions. The
+Draoticable way to finance high quality paper in books
+published commercially would appear to be in the print-
+ing of one or two hundred copies of fine paper for sale to
+libraries. But such printings, when made, are usually
+sold at luxury prices. The publishers say they cannot
+afford to stock two qualities of paper at approximately
+the same price because of the extra. stock-room cost. It
+is possible that libraries could secure a. block of books
+printed on special paper at no higher cost than the added
+cost of the paper if they were organized to give the pub-
+lisher the order in one block, so that there would be
+no stock-room cost. Any organization of libraries which
+had purchasing power sufficient to reprint new editions
+at will could probably arrange to secure special paper in
+many commercially printed books.
+
+[[text/098.txt]]
+.',.,
+
+The influence of size of edition upon the cost
+of using higher priced papers is very marked, for the
+smaller the edition, the smaller is the proportion of
+its cost due to paper. This fact reinforces the argument
+that small editions printed with the certainty that all
+copies will be sold can be produced upon the most durap
+
+ble paper without greatly adding to their cost.
+Recommendation on Book Production.
+
+The interests of research in the reproduction
+of material are of two kinds, an interest in the present
+and interest in the future. From the standpoint of the
+present it is important to give the scholars of today an
+
+equipment which they can use with greatest economy of
+effort. The disadvantage of having material reproduced
+
+in small type must be balanced against the advantage of
+having it available on the spot. The sacrifice of artis-
+tic values in the use of typescript must be weighed
+against the gain of a greater freedom from financial
+restrictions in publishing research work and material.
+The further research proceeds in the direction of spec-
+ialization, the more limited will be the circle of
+
+readers interested in any particular item of research
+
+[[text/099.txt]]
+78
+material. Unsubsidized publication has hitherto financed
+itself on the pgggibilitx that the circle of purchasers
+would reach two thousand; technological conditions permit
+a new basis - the certaintz that the circle will reach
+one hundred. scholars in any field of study in the social
+sciences and humanities which can organize their group of
+one or three hundred purchasers who are able to pay normal
+book prices for materials in the field can escape from
+fiflﬁncial limitations upon the circulation of any materials
+that are deemed important.
+
+The same organization of purchasing and produc-
+tion would also care for the interests of the future, for
+publication on permanent papers could be guaranteed.
+
+It is not to be expected that there could be
+found one hundred institutions, each able to subscribe for
+all worthy ventures in publication by and for scholars.
+Perhaps not more than five or six institutions in the
+country have the resources which would permit them to
+specialize in everything. For libraries themselves must
+specialize and farm out their work, and leave it to lib-
+oral lending policies to make up the difference between a
+particular equipment and a particular need. The group of
+subscribers who will fill in files of reproductions of
+
+
+[[text/100.txt]]
+79
+
+colonial newspapers will probably not interest themselves
+in reproductions of contemporary European newspapers;
+those who went to buy a copy of every reprinted book or
+16th century English may be indifferent to the problem of
+filling in the gape in the collection of the statutes of
+the American states. As things stand at present, the
+organization of the market has lagged far behind the
+development of technical processes of reproduction.
+
+The great libraries, - such as Harvard, Library
+of Congress. New York Public Library, - will not always
+be the purchasers of reprints o! old materials, for they
+may be in possession of original copies. Younger and
+poorer libraries may often be the ones which provide the
+purchasing power for a reprinting enterprise. As an
+illustration of this situation, the Miller Diary can
+serve. This is a set of twenty volumes of sources on the
+Paris Peace conference. It was printed in an edition of
+40 copies only - a restriction whrch is regretted by Mr.
+Killer, who financed the publication and gave the volumes
+to libraries free of charge. only a few of the libraries
+in America possess this important set. It is technically
+possible to reprint it in an edition of 300 to be sold to
+other libraries at 32.50 oer volume, or fifty dollars the
+
+[[text/102.txt]]
+81
+IV. Filmslide Photography
+
+The reduction of a text to microscopic propor-
+tions on a photographic film or plate may enter into two
+entirely different schemes for the reproduction of research
+material. It may be a means of imposing a negative in the
+making or a full—size photostatic copy, and hence a mere
+variant of book—manufecture by the photostatic process.
+or it may be a device which is independent of book manufac-
+turing, and which will put before the scholars‘ eyes an
+image of a text projected on a screen, rather than the
+tangible page of a book.
+
+when the filmslide is used as a step in the pho-
+tostat process the technique of photostating is changed,
+but the cost level is still about the same. The cost of
+the negative is minimal, the apparatus for taking the neg-
+ative is light and easily portable, and it is possible
+to store the negative for a long period and then enlarge
+it as a full size positive print when there is need for it,
+or when money is available. This is the way in which Mr.
+Worthington Ford plans to use filmolides in collecting
+copies of foreign archive material for the Library of
+Congress. But in this project the making of filmslides
+has far outrun the work of transferring them to full size
+
+sheets of photostst paper. In the meantime the film-
+
+[[text/103.txt]]
+B3
+
+slides themselves are being read by the projection meth-
+od. It is this latter process that promises the most
+sweeping changes in the cost level at which research
+
+material can be reproduced.
+
+All types of equipment now available for film-
+slide reproduction of materials make use of standard
+positive motion picture film, 35 mm. wide. Although
+there are experiments in the motion picture industry
+looking toward the use of wider film strips, this size
+must for the present he assumed to be standard. There
+are two kinds of material out of which the film is
+made — a nitrate and an acetate base. The former is
+considered more perishable, and is certainly more in-
+flammable. The acetate film is the only kind which
+should be used. Until recently it was sold by Eastman
+for 2¢ a foot, then Dupont cut the price to 1¢, and
+Eastman came down to l§¢. The size of the surface of
+the film which can be used depends upon whether it is
+perforated or unperfcrated. If the film is perforated
+to meet the mechanical requirements of moving picture
+cameras and many other kinds of apparatus, only 25 mm.
+of the strip is available for photography. If the film
+
+is unperfcrated this amount is increased to 30 mm. A
+
+[[text/104.txt]]
+83
+
+square metre of sensitive surface is furnished by 108
+feet of unperforated film, or 132 feet of perforated.
+An unperforeted strip six feet three inches long, or a
+perforated strip eight feet three inches long, will
+provide a square foot of photographic surface.
+
+It has been noticed that as the processes
+verge from the typographic toward the photographic, the
+size of the edition becomes less significant as a con-
+trolling element in costs, and the size of the letters
+becomes more important. The extreme case of cost reduc-
+tion through reducing the size of the letters is film-
+elide photography. The square foot of surface, which
+costs less than ten cents, will photograph 100 square
+feet of print reduced to one tenth its original size,
+or 400 square feet reduced to one twentieth. If the
+reduction ratio be expressed as a whole number, the
+amount of text that can be reproduced on a given quan-
+tity of film will increase as the square of the reduc-
+tion ratio. A fifty page issue of the New York Times
+covers with print two hundred and seventy square feet
+of paper surface. It sells for three cents on the
+
+street. Photographed full size it will cover eighty
+
+six dollars worth of photostat paper; reduced twenty
+
+-1--u....an--u
+
+[[text/105.txt]]
+84
+
+four diameters it will go on three cents worth of film.
+
+The question is therefore raised at the outset:
+-hat reduction ratios are practicable when printed matter
+is to be photographed on small film and read by projection?
+The physical limit to reduction is certainly the resolving
+power of the film. This may be as high as 90 lines to the
+millimeter, but is usually 50. (Otto Bandvik, ‘On the
+Measurement of Resolving Power of Photographic lateriale',
+Trocegdiggs of thg §eventh gnternational Ooggress of Pho-
+tography, July 1928) It is affected by a number of varia-
+bles, notably the wave-frequency of the light and the
+length of exposure, the quality of the emulsion, (especially
+the fineness of its grain), and the method of developing.
+Dr. Miller Reese Hutchinson has worked out a treatment to
+increase the resolving power of film by giving it an extra
+bath before developing it. The commercial value of his
+invention will probably be exploited in the making of
+sound film, where high resolving powers are of supreme
+importance. In the development of increased resolving
+power, as in its choice of film, filmslide photography is
+
+a very obscure beneficiary of the motion picture industry.
+
+The standard scientific measure of resolving
+
+power is in lines per millimeter. But this proves to be
+
+[[text/106.txt]]
+85
+
+too refined a measurement for studying the practical
+usefulness of apparatus on the market, under normal
+shop or library conditions. Since the final term in
+the whole process is legibilitz of material, a rough
+index of legibility of product can be used to make
+possible the comparison of the efficiency of the diff-
+erent filmslide cameras. If a page of seven point
+newsprint type is reduced R diameters on the filmslide,
+and projected on a screen, the different degrees of
+legibility of the screen image can be set apart as
+follows:
+
+'A'Legibi1ity - all letters distinct. The pro-
+jected image at "A" legibility may be rendered
+more easily legible than the original text, for
+it can be increased to a larger size.
+
+'8' Lezibility — The edges of the letters begin
+to blur. The loss in clearness compensates for
+any increase in size. But the letters are still
+perfectly formed.
+
+"C" Legibility - The tops of the 'e's and ‘ale
+are blotted over solid, but the openings are still
+clear in the 'o's, 'd's, 'p's, and 'b"s. Legibil-
+
+ity is distinctly lower than in the original.
+
+[[text/108.txt]]
+86
+
+‘D’ Legibility. Almost illegible. The openings
+of the "o"s, 'd's, etc. are blotted in solid. sep-
+arate words can be dociphered, but not read.
+
+"E" Legibility. Absolute illegibility.
+
+Under practical working conditions the finest
+apparatus (Lloyd B. Kennedy equipment) will produce 8
+legibility in newsprint reduced 24 diameters; the coarsest
+apparatus (Ansco) will produce this degree of legibility
+at l6§ diameters reduction. The reduction ratio at which
+legibility passes from B to c is the limit for practical
+work.
+
+The amount of reading matter that can be placed
+upon a filmslide depends of course upon the size of the
+slide as well as the degree of reduction. The following
+are the dimensions of the filmslides in the different
+
+commercial cameras:
+
+Width Len th Alon Kind Of
+Kcross Film ﬁtrip EZIEZEEEQ
+Film
+Ansco 23 mm 18 mm Perforated
+cinescepe 23 mm 24 mm Perforated
+Q.R.S.' ‘ 25 mm 3z§mm ~Perforated
+Leica 35 mm 38 mm Perforated
+Lernare 30 mm 45 mm non-Perforated
+Filmograph 30 mm variable Non-Perforated
+Kennedy 25 mm " Perforated
+I new 3ty1e3O mm ' Hon-Perforated
+
+naturally the size of the page to be rePr°d“°°d
+
+[[text/109.txt]]
+87
+
+may hear such a relation to the dimensions of the film-
+slide that only a part of the sensitive surface can be
+used. A page of the New York Times reduced 24 diameters —
+(the limit with the Kennedy apparatus) — can be imposed
+on a perforated film strip crosswise, the top of each
+page being parallel with the edge of the film. Imposed
+in this way the 50 page issue of the Times would require
+a little more than three feet of film. with unperforated
+film a reduction of twenty diameters would just serve to
+lay the page crosswise on the film. There would be no
+advantage in increasing the reduction ratio beyond 20 for
+unperforated film, or beyond 24 for perforated, unless it
+were raised to 36 or 30 diameters, at which point it
+would be possible to lay a complete spread of the news -
+paper across the film strip. At these higher reductions
+the fifty pages would go on as little as sixteen inches
+of film, costing less than two cents, but the legibility
+
+under best conditions would drop to D.
+
+Price comparisons: Ansco 0.3.8. Leica Lemere Photo-
+soooe- nescope
+
+Price of equipment for filmslide reproduction
+of materials includes three items. The first two 830
+indispensable: l) a camera with its cooyholder and
+stand for copying, 2) a projector for reading. The
+
+t.ird may not be needed: 3) enlarging ef‘i?”9V7 *0’
+
+[[text/110.txt]]
+d9
+
+projecting them costs as follows:
+Ansco................................s.$69.5O
+Cinescope-Photoscopie (computing 25%
+duty)........... 90.92
+
+Leica (computing 105 academic discount)146.70
+Lemare (computing 25% duty)............226.80
+
+If all useful accessories offered by the Leitz
+Company are purchased, the total will exceed $400. The
+full Lemare equipment costs $332. The Cinescope figure
+does not include a camera or projector stand, but it is
+claimed that an ordinary camera stand can be used. None
+of these figures include cost of a screen.
+
+The writer has investiqated eight kinds of cam-
+era ecuipment for makin: still pictures out of moving
+picture film. Two of these, the Q.H.S. and the Vi—cam,
+must be eliminated.
+
+The Vi-Cam takes a long roll of film at one
+loading, but has a fixed focus at five feet and is de-
+sisned for cheap portrait work for registration blanks
+or other documents which have photographs attached to
+them.
+
+The Q.R.S. is designed for amateur woik in
+
+portraits, landscapes etc. It resembles the Ansco Memo
+Camera in most respects except that it takes a double
+
+frame picture. It has no special equipment for copying
+
+[[text/111.txt]]
+90
+
+documents, and will not focus at a shorter distance
+than three feet. it this distance it copies an area
+15 x 19 inches, reducing it 15-l/2 diameters. with
+
+a better lens and focusing attachment it would be a
+very useful camera, for it will-take at least fifty
+exposures, and sometimes as many as eighty, in one
+loading. and it is equipped with an indicator to tell
+how many exposures have been used. As the leglbility
+table indicates below, the Q.E.8. will not make a sat-
+isfactory copy of 7 point type at its fixed reduction
+ratio.
+
+ginescope - Photcsccge
+A Belgian company which began operations sev-
+
+eral years ago sought to sell rilms 'micro2hote' de la
+Photoscogie as a cheap but efficient substitute for
+
+glass slides used in art study and visual education.
+
+It issued a catalogue of geographic, religious, scientif-
+ic and artistic subjects, and sought to interest the his-
+torical associations and library associations of Europe
+in its use as a preserver of pictorial and documentary
+material. The Photoscope went out of business, to be
+succeeded by ya cinescopie, Rue aux Laines, Brussels.
+
+Then the name became Photoscope again, and the address
+
+[[text/112.txt]]
+m
+
+changed to 121 Rue Berckmans, Brussels
+
+There are no Cinescooes in America, a fact
+which the company explains as due to the rush of Euro-
+pean orders. The description of the camera is given as
+"most portable, being only 9% x 4% x 6 cm." "The shut-
+ter makes possible all exposures". "The actual film
+carrier takes a length of three meters standard cineme
+film", which means 120 pictures. "A holder containing
+more films is contemplated for those who wish to take
+as many as 500 or more views on a single film. The
+camera can be fastened to any photo-stand". The projeo
+tor can be fastened to a stand and used to project down-
+ward on a table.
+
+The manager of the Cineecopie wrote in Febru-
+
+ary,1931 that he would make a test exposure of a page
+
+of the New York Times sent him for the purpose, but he has
+
+not sinze been heard from. There is no evidence that this
+
+apparatus possesses any superior technical qualities which
+
+should cause it to be ranked above the products of the
+
+Ansco or Leitz companies, which are sponsored by sales
+
+organizations in America, or the Lemare outfit, which has
+
+been amply proved by its work in the collection of archive
+
+copies for the Library of Congress
+
+[[text/113.txt]]
+92
+
+The Ansco Universal still-[ilm Copying camera
+
+The Cinescope was developed to meet a demand
+for illustrative material for lectures, and this same
+need brought into existence the copying camera sold by
+the Agra Ansco corporation, Binghamton, N.Y., for fifty
+dollars. one of these cameras was loaned to the Joint
+committee for test and examination. The lens is mount-
+ed on a frame facing a copy board which can be clamped
+in position at any distance up to three feet from the
+lens. The copy board will hold a sheet 11 x 14 inches,
+which is the largest size that can be photographed con-
+veniently with this apparatus on the single-frame film-
+slide (23 x 18 mm.). In back of the lens two chambers
+are mounted, one with a ground glass back for focusing,
+the other holding the film for exposure. There is no
+shutter attachment; exposure is made by removing a
+little cap from the lens. In operating the equipment
+the_originel is fastened to the vertical copy board,
+the ground glass is moved opposite the lens and the
+lens sleeve turned to bring the object into focub. If the
+copying is fine, a microscope must be used in adjusting
+
+the focus. when the lens is correctly set, the opening
+
+must be stopped down to increase the fineness of the
+
+[[text/114.txt]]
+93
+
+image, then the cap is put over the lens. and the film
+chamber moved behind it. Exposure of 10 to 25 seconds
+is necessary with two forty watt electric lights.
+
+The Ansco copying camera is very easy to load.
+The film cartridge is simply a wooden box into which the
+film has been pushed through a narrow felt-lined slit.
+
+A loading consists of 50 exposures, or three feet of
+film. The disadvantage of the loading system as com-
+pared with Leica eouipment is the absence of any signal
+to show when the fifty exposures have been used up.
+Another noteworthy point is the cost of the film if it
+
+is bought as recommended in cartridges of fifty expo-
+sures. These are sold by Ansco for fifty cents, although
+the film in them can be bought for three or five cents.
+The user can avoid this charge by loading the little film
+boxes himself.
+
+Another difficulty in the use of the Ansco
+equipment arises from the vertical position of the copy
+board. It would not be difficult to make some kind of a
+"lass covered book holder with a spring back to hold
+book pages flat against the glass, but at present no such
+equipment is offered by Ansco. In its absence the diffi-
+
+culty of copvinv a pane from a book is very great. Loose
+
+[[text/115.txt]]
+94
+
+sheets are clamped in place on the board by means of
+some spring steel clamps, but the clamps sometimes
+fail to hold. Focusing with a microscope is a very
+
+awkward task. It must be concluded that although the
+Ansco equipment is devised for the sole object of
+
+permitting easy and cheap copying of pages, it has
+faults which cameras built for more general use do
+not have. These faults could be rectified by the
+manufacturer without great trouble. The two needs are:
+
+1. A more efficient copy holder. A purchaser
+could probably construct this himself.
+
+2. A signalling device to indicate when the
+chamber is emptied of film.
+
+Loading the Ansco is easier than loading the Leica.
+The advantage of the Ansco as compared with
+the Leica and Lemare cameras is to be found principally
+in the lower purchase price and the smaller frame of
+film used. The latter is an advantage only to the ex-
+tent that Ansco focusing will permit the copying of a
+page or spread on one frame. Thus if one were copying
+a pamphlet 5% x 7 inches, he could put two pages on
+one frame in either Ansco or Leica. But the Leica
+frame is twice as large as the Ansco, and the cost of
+materials would therefore be twice as high. But if
+
+[[text/116.txt]]
+the pamphlet were larger than 5% x 7, or if it were nec-
+essary to use a high resolving power in making the copy,
+the advantaze would be with the double-frame cameras_
+Leica or Lemare. It is possible, by a somewhat compli-
+cated manipulation, to take single -frame pictures even
+with the Leica or Lemare.
+
+Leica and Lemare Equipment Compared with Ansco.
+
+Focusinct
+
+The Leitz Company has not manufactured a camera
+for specialized service in cooying. It offers rather 2
+large variety of attachments which adapt its general-purpose
+camera to copying needs. The Aneco also has its general
+purpose camera and a way of using it on a copying stand, but
+this combination is not as good as the special Ansco copying
+Camera. Therefore the “universal” Leica with its attach-
+ments should be compared with the special Ansoo camera.
+
+The newest attachment offered by the Leitz Company
+(costing 312.00 to $35.00) makes its copying equipment re-
+semble the Ansco in that the camera containing film is moved
+away from the lens to permit focusing on ground glass, and
+then moved back to oosition behind the lens to permit expo-
+
+sure. But this kind of focusing has little special value
+
+when the image is as small as the image of print reduces to
+
+[[text/117.txt]]
+98
+
+the size or a filnslide. It is still necessary to use a
+Iagnifying glass in focusing. The standard Leioe equip-
+ment adjusts the focus by measuring the distance from
+camera to object, computing size of object that will be
+recorded at that distance, and turning the lac sheath
+on a oallibrated scale.
+Cop; Holding.
+
+All the Leica and Lemare copying stands hold
+the camera above a copy which lies flat on the table.
+The difficulty of clamping a sheet to a vertical copy
+stand is avoided. A glass plate can be laid on top of
+the object to flatten it. The Lemare copystand is su-
+perior to the Leica, especially in its attachment for
+photographing pages from oound books. The Leica copy-
+stands are of two kinds. There is a light portable one
+which is easily dismounted and put into a canvas kit
+bag. There is the heavier and more rigid stand used in
+common for the copying and enlarging processes. As the
+apparatus is offered by the Leitz company, the purchaser
+gets his choice between rigidity and portability. Pro-
+fessor Gehlke, of Western Reserve University, has con-
+trivad an inexpensive modification of the rigid enlarg-
+ing stand to make it dismountable and portatde.
+
+Double ggposura.
+
+The Leitz Company offers two kinds of cameras:
+
+[[text/118.txt]]
+97
+
+the one with focal plane shutter at 391.50 and the
+'compur Shutter‘ at 373. The difference in shutters
+is important only in connection with fast exposures,
+and does not affect copying work. It happens quite
+by accident that the cheaper compur shutter is better
+for copying, because the film winding device works
+independently of the shutter, and permits a double
+exposure on the same slide. This double exposure
+possibility, ordinarily an embarrassment, may offer a
+way of saving film by taking two pictures on one slide.
+A piece of black felt can be laid down over the area
+in focus; a book can be laid down over one half of the
+space, and one exposure made, photographing two pages;
+then the book can be moved over to the other half of
+the space, and another exposure can take the next two
+pages. Thus four pages of a pamphlet can be put on one
+slide. Used in this way, the double frame camera such
+as the Leica or Lemare can do the work of the single
+frame camera such as the Ansco.
+Loading.
+The load taken by the Leica camera is 5% feet
+
+of film, 36 exposures, as compared with three feet, 50
+exposures in the Ansco; 8 to 10 feet, 50 to 80
+
+[[text/119.txt]]
+
+exposures in the Q.R.S., and 16½ feet, 100 expos~
+ures in the Lemare. In Ansco and Leica the film is loaded
+into a cartridge in the dark room, and the cartridge then
+inserted in the camera by daylight; the Lemare camera is
+taken into the dark room and loaded direct. Convenience is
+on the side of the maximum amount of film in one loading,
+and hence favors the Lemare.
+
+Filmograph and Kennedy Apparatus
+
+It cinescope, Ansco, Leica and Lenora have been
+designed to fill needs more or lees closely related to those
+of a scholar, teacher or librarian, the rilmograph and Ken-
+nudy machines have been developed without any reference to
+the needs of the academic world. And yet they may turn out
+to be better suited than any other equipment to scholarly
+uses. In Seattle, Washington, Carl 2. Lundberg and H. C.
+Lambaoh have developed a mechine called the 'Fi1nogre.ph"
+for copying court house records for abstracting companies.
+Mr. Lloyd 8. Kennedy in'Ile.rren, Ohio has invented a simi-
+lar machine which he uses for the same purpose. Both of
+these machines are much larger than the other types, and
+are intended to work faster, making longer runs. They
+
+both take full 400 foot rolls of rum. The Kennedy apps.-
+
+[[text/120.txt]]
+99
+
+rstus is focused by trial and error to pick up the chem-
+ical focus, which is different from the optical focus
+
+when very short wave length light is used. The focusing
+need be done only once for s job of copying hundreds of
+volumes. A volume of records is pissed in s glass-covered
+copy holder; the attendant presses down the glass cover
+which releases the camera. shutter. An electric motor opens
+the shutter for the exact exposure time required. When
+
+the exposure hes been made a bell rings, which notifies the
+attendant that he may raise the glass, turn a. page, and
+press down the cover again. The tilmogreph is similar, but
+does not photograph through glass, and does not seem to have
+so fine a focusing system. Both machines, it is claimed;
+work very fast. The Filmogrsph clsims that it can make
+forty exposures a. minute, and copy a 640 page volume of
+legal records in twenty minutes. The Filmogrsph which is
+set up in Washington, D. 0. to copy some land office reo-
+ords to replace ‘those destroyed by fire in North Dakota.
+
+can make 5.000 negatives, recording 10,000 pages, in s
+
+day. An independent observer has noticed that the actual
+daily produce is about half of that - 3.500 exposures.
+
+5,000 pages per day.
+The advantage of these larger machines is in
+
+[[text/121.txt]]
+‘.00
+
+their saving of labor. Dr. Thomas Martin, who super-
+vises the use of the Lelnare equipment in the Library of
+congress, calculates that two or three operators assist-
+mg each other could run off 5,000 prints with a Lenore
+camera as easily as one operator could make the 5,000
+negatives on the rilmograph. The Kennedy machine is
+certainly as fast as the Filnograph.
+
+The commercial exploitation of these machines
+has so far been based upon competition with typescript
+or photcstat copying for abstract offices. Kennedy
+cnarges 35¢ per foot of finished film; riluograph sugu
+geste the rather complicated arrangement that the ma.-
+cnine could be leased for a flat monthly charge of
+850, and in addition to the leasing charge a royalty
+charge of 34: for each two inches of film, ‘nth the
+understanding that we furnish the fun at no addition-
+al cost to the lessee, out that the developing expense
+he borne by the losses‘ - a royalty of 4d per foot of
+film. The going price for developing is approximately
+3; per running foot. lleither of these arrangements
+are suited to the library price level. But it must be
+understood that both prices are set in rather arbi-
+trary independence of costs, and in ignorance of the
+
+[[text/122.txt]]
+101
+
+price range at which large scale use in research can
+
+be developed.
+
+Both Filmcgraph and Kennedy evince an inte-
+
+rest in developing the research materials field. Mr.
+
+W.K.Shiss1er, a Filmograph representative, writes of
+
+a plan in contemplation whereby the
+persons interested will make available
+to persons and institutions desiring
+such service, what will probably be
+known as a Filmograph Library Service.
+The purpose of this service will be to
+make available Filmograph duplicates
+of invaluable manuscripts in this and
+other countries which would not other-
+wise be available to persons and in-
+stitutions at a distance from the orig-
+inal material.
+
+These Filmographs with explanatory notes
+
+by noted authorities and custodians would
+
+be classified into various types of Film-
+ograph libraries to be rented or sold to
+those desiring them....Many variations of
+
+the plan might be developed including the
+interchange of such Filmographs by various
+institutions through the Filmographing and
+distributing service of the organization
+which is contemplating this unique service....
+
+It must be concluded that the business or-
+
+ganization as well as the technique or filmslide pho-
+
+tography is still in the experimental stage.
+
+[[text/123.txt]]
+102
+
+A letter from the Bureau International d'I:dition,
+46 Rue de ls '1'our,Ps.ris, stetes that filmslide publiostion
+of books "is s.lres.dy being placed upon a business basis.
+An enterprise by the name of 'BocietS des e/ditions sur
+films des-bibliotheques de France‘ hss slresdy begun the
+publication of certain rare and vslusble books in film-
+slide form, using the Photoscopie apparatus. Thus film-
+slide copying would compete with book publishing.
+gompsrison of xfficiencies in Reduction.
+
+Although in theory the length of exposure and
+manner of developing have 1: very great importance in de-
+termining the limit of reduction, fineness of focus is
+the only contribution to a. high reduction ratio that can
+be made by the csmere equipment itself. Experiments
+under non-lsborntory conditions show that fineness of
+focus is in feet the principal limiting feotor. The
+difference between the result of e.n exposure made with
+the lens stopped to 6.3 and one made with the stop at
+18 is very great, but the difference due to varying
+lengths of exposure is small. The finest work has been
+done by the Kennedy apparatus which, it happens, employs
+
+[an unusually socurete focusing device. therefore it is
+
+permissible to compare the performance of cameras with
+
+[[text/124.txt]]
+103
+reference to the reduction ratio, even though the camera
+
+and lens are only one of the factors governing resolving
+
+power.
+
+Reduction Ratio and Le ibilit of 7 Point News rint
+Pﬁotorraoﬁed In ﬁI?Terenf HEEea of FiImsIIEe ﬁaxnera
+‘F"’E‘T""""
+
+   
+
+ 
+ 
+
+.Q. "A L ""‘F‘?="—‘I.‘T"'-1' -1 , _. I K
+‘ R. P.’ E I A 1 3 ~ 4; 2 3
+;s.‘ .s* 3: L sy I‘ 1‘ 3:] x
+c ‘ A 1; Ti c I c; 2: . N
+o R o 1:: A ; A1  l _=:
+’ E C? A ‘ D 1 D
+: 2 2: " , A‘ Y ! Y
+; A 1 x I ;
+; P L] P A H ] 1.
+I‘ . H A, 1-: 1' I » o
+' J 5 g 13 G g :7
+, ; . H 3
+I  E I i
+A ,to 15 to 13 to 16 \to l8;t° 15‘ to 20.
+‘ —-~ ~——————+——————————_
+5 8%_16-13 13-15 16-20 2 22-: ,30_33: 21-24;
+c 15 .19—21;1s—17 21-24 24-28: 25-zai 22
+, _ ‘ _ _ .
+D 19 22-25:al50Vel'25-28‘ 25‘ 29-3532 'z9—37' 1"
+. 2 . . _
+E above; ;above| ‘above
+
+   
+
+The Eastman laboratories concluded on theoreti-
+cal grounds that the limit of reduction should be about
+25 diameters, and made a test of this reduction ratio,
+which had D legibility. The superiority of the Leica to
+
+the Lemare may.be due to the extra front lens used in the
+
+mum Hr ‘r“w,-'u
+
+[[text/125.txt]]
+104
+
+Leica in copying work. The superior work of the Kenne-
+dy apparatus may be due to the use of short wave-length
+light and exceptional equipment for focusing. Any appe—
+ratus on the market (except the Q.P..S.) will take care
+
+of work which requires a reduction of no more than fif-
+teen diameters. The highest reduction possible without
+
+material loss of legibility is 24 diameters.
+Projection Aogaratus
+
+The weak point in the technique of filmslide
+reproduction is not the camera but the projector. The
+writer has tested the Leica and Spencer Lens 00. projec-
+tors, loaned to the Joint committee for the purpose.
+
+Both these projectors when used with newsprint reduced
+18 diameters will delineate clearly only about one—third
+or one-half of the material on the screen. If the center
+is brought into focus, the text at the edge of the screen
+will be blurred; if the text at the edge is brought into
+focus, the center will blur. The two projectors, Leica
+and Spencer, do not vary significantly in this respect.
+The Epencer Delineascope stands a little further from
+the screen, and makes a brighter image than the Leica
+
+machine, but has a coarser focal adjustment. The film
+
+holder or the Leica projector can be turned around to
+
+[[text/126.txt]]
+105
+
+show either the side or top of the frame uppermost.
+Io filmslide increased or diminished in legibility
+when it was shifted from the one to the other projec-
+tor.
+
+Both projectors are hot to the touch, but the
+heat does not seem to damage the film. Filmslides left
+in the projector for fifty-four hours continuously
+showed no ill effects, although throughout this time
+they were in direct contact sith hot glass. The Filmo-
+greph organization offers a special projector called
+the rilmosoope, which is said to project the image
+evenly over the whole screen, without blurring at the
+edges. The writer has not had an opportunity to test
+this device. The Kennedy projector is a modification
+of the Leica, and the projector used in the Library of
+Congress a modification of the Spencer Delineascope.
+
+In each of these projectors the image is sent from the
+filmslide at the readers side to a mirror, and reflected
+back to he read by transmitted light through a sheet of
+ground glass. The rilmograph projector works from a
+mounting above the reader's head, and is read by reflect-
+ed light direct from the screen. Experiments with diff-
+
+[[text/127.txt]]
+106
+
+ferent kinds of screens show the surprising result
+that the legibility of a filmslide is not much affect-
+
+ed by changing the screen. An image reflected from
+white blotting paper is a trifle more legible than one
+reflected from the ordinary silver screen. But between
+the reflection from the silver screen and transmission
+through focusing glass there is no significant diffe-
+rence.
+pirect Reading of Filmslides without Projection.
+
+Filmslides of normal-size printed or manuscript
+pages, which in the case of non-perforated film are reduc-
+tions of seven to ten diameters only, are legible by means
+of a powerful reading lens. The reading system designed
+for this purpose by Dr. Thomas Martin consists of two
+elements: a ground glass stand illuminated from below
+which transmits light through a film negative laid upon
+it, and a lens fixed at the correct focal distance from
+the plans of the glass. The reader merely passes the
+
+film over the ground glass. The Fiskcscope could be
+
+_ used for reading positive paper prints of filmslides, but
+
+the principle of the Martin apparatus is preferable (un-
+less it should be necessary to transfer the image from
+
+film to paper in order to preserve it), because it saves
+
+[[text/128.txt]]
+'9
+
+107.
+one step in production of the copy, and because 1t sup-
+plies sufficient light.
+Choice Among lakes of giant on the lmrket.
+
+1: filmslide photography is to attain its as.
+imm usefulness, there must be a standardization of equip-
+ment which will make rolls of filmslide easily interchange-
+able among institutions using them. The most important
+choice to he made in this connection lies between the use
+of the perforated and non-perforated film. Since the non-
+perforated film provides 30% more of sensitive surface than
+the perforated, the argument would be all in favor of its
+use, were it not that the camera on the market does not
+seem to do as fine work as would be expected of it.
+
+The best small camera and equipment now on the
+market which uses the non-perforated film is undoubtedly the
+'l.'.K.A.' Lemare. But it is so far inferior to the Leica
+in resolving power that it loses the advantage of the
+extra 20% of film. Leica will reproduce 45 centimeters
+with ‘A’ legibility on a 25 millimeter breadth of film;
+Lemare will give the same legihility to no more than 39
+centimeters on its 30 millimeter breadth of film.
+
+[[text/129.txt]]
+108.
+
+The beioa equipment is also likely to be more
+useful in meeting the wishes of individual scholars.
+
+The camera can be used for all kinds of-photography, the
+copying service being only a small part of its general
+usefulness. The equipment offered by the Leitz company
+is so varied that the purchaser will buy only so much of
+the outfit as will be necessary to meet his individual
+requirements. A sociologist may wish to copy statistical
+material and take pictures of housing conditions; an
+anthropologist may wish to use the camera outdoors for
+
+scenes of life among the savages and indoors for making
+
+pictures of small ertefacts as well as copies of pages
+
+of materials that are difficult of access. Bomeone
+travelling in Europe may wish to copy a few books, docu-
+ments, or newspapers and use the same camera for making
+
+a photographic record of his vacation. The Ansoo apparep
+tus has no advantage other than its somewhat lower first
+cost. If the Library is equipped with a projector for
+Lsmare films, the owner of a Leica or Ansco will be able
+
+to read his own films on that projector, or borrow the
+films of some other Ansco or Leica owner and read than '1¢h-
+
+out additional investment. It is to be based that -omeone
+
+[[text/130.txt]]
+109
+
+will soon put a better projector on the market.
+
+costs of Qgeration.
+
+In the cost of film-slide reproduction there
+is a factor analagous to that which affects the cost
+of photo-lithographic reproduction - the possible vari-
+ety in the ways of distributing labor between the schol-
+ar and the technical workshop. If the filmslide camera
+is being used by an individual to collect material, it
+is likely that he will make the exposures himself. The
+filmslide copies will be his substitutes for notes. The
+cost per foot of film plus the cost of commercially de-
+veloping the negative will be 3§¢ per foot or 4¢ to
+allow for wastage of film. For this cash expenditure
+the scholar will receive 17 Ansco single frame slides,
+7 Leica or Q.R.S. double frame slides, or 6 Lemare non-
+perforated double frame slides. All of these prices
+are less than normal book costs.
+
+The experience of the Library of Congress
+shows that when the labor cost of making the exposures
+with Lemare equipment at the leisurely rate of loo per
+
+day is added to the cost of materials, the cost of each
+
+filmslide (Lemare) is l%¢. The Harvard Library, using
+
+the Leica equipment, has taken sixty to seventy photo-
+
+[[text/131.txt]]
+110
+
+graphs an hour, at Ihioh rate or work the cost would
+be much lower. Since all photographing and projecting
+equipment will yield 'A' legibility at a reduction
+ratio of 15. the Lenare filnslide will copy a surface
+18 x 24 inches, equivalent to a spread of two pages of
+a great 12 x 18 inch folio or news—sheet or one page or
+a full size newspaper like the New York Times (18 x 22
+inches).
+
+The cost of developing the film is quoted at
+3¢ a foot by an Ohio company, and at 1¢ a foot by the
+xinogram corporation. The Universal Talking Newsreel
+quotes the high price of 5¢ per foot. From these quo-
+tations the following maximum and minimum costs can
+be calculated.
+
+If labor costs are out by using larger machines
+such as the rilmograph or the Kennedy camera, the cost
+
+per exposure will work out as follows:
+
+[[text/132.txt]]
+ll
+
+E1E§_§Q§2 Low cos"
+If 009 °D¢r&t°r If one operator
+uses up one 400 foot uses two 400 foot
+roll of film, 2500 rolls of film,
+exposures. 5000 exposure:
+(as claimed;
+r11m....86.0o s12.oc
+Devel-
+
+oping....8.00 (2¢ per foot) 8.00 (at cost of l¢ per' foot)
+
+Laoor
+
+at 31.05
+
+per hr...B.OO 8.00
+$22.00 s2a.oo
+
+The price range then runs from 1é¢ to §¢ per slide: 1}¢ 1.
+the Library of congress experience, 1¢ (3.0089) is the cost
+if the operator uses 400 feet of film a day and the devel-
+oping costs 2¢ a foot, %¢ (3.0056) is the cost if the op-
+erator uses 800 feet of film a day and the developing costs
+l¢ a foot. If two pages are put on one slide the minimum
+price falls to 28¢ per 100 pages. A single copy is thus
+made at a price which book printing does not approach till
+the edition rises to one thousand. This is a minimum running
+cost, which leaves out of account all expenses of indexing
+and storing the finished product, and all overhead costs,
+
+alike for capital and administration. The labor cost at
+
+[[text/133.txt]]
+113
+its lowest stands in a higher ratio to the material
+cost in tilmslide photography than in phctcstating.
+
+conclusions on the gonzipg of Books and Manuscripts,
+The technical perfection of the apparatus
+
+now on the market is suificient to recommend it for
+use in copying all printed and manuscript pages of
+normal size at costs far below normal book prices. The
+only doubt that can be raised in connection with this
+use of the method is the question of the durability of
+the film.
+
+Since reproductions on this scale are legi-
+ble not only by projection, but also by direct optical
+systems such as that designed by Dr. Martin, this cop-
+ying procedure can be recommended for general adoption
+by libraries to take over some of the load now carried
+by the photcstat. The photographic equipment of a
+large library should include filmalide as well as pho-
+tcstatic apparatus, because of the lower cost of making
+
+filmslidcs.
+
+conclusions on the Ocpxing of xewgpapers.
+The copying of newspapers by the filmslide
+
+prcoess falls Just within present technically practica-
+ble limits. It the Lemare camera had Leica precision
+
+[[text/134.txt]]
+113.
+
+or the Leica used non-perforated film, there would be
+no difficulty even with small apparatus. The filmslide
+method is suited to newspaper copying because it devel-
+opes its most significant economies in copying very
+large pages, or in making a small number of copies of
+a large amount of material. Newspaper reproduction
+projects which are impossible because of the prohibi-
+tive cost of the photostntic or photo-lithographic
+process may become possible if the filmslide method is
+used.
+
+The newspaper is a special case. moreover,
+because of the high perishability of all newspapers
+printed through the last fifty years.
+
+The investigation now under way at the Bureau
+of Standards has not determined whether it will be
+possible to treat mechanical wood pulp paper in such a
+way as to preserve it. If no effective method of pre-
+serving ordinary newsprint paper is discovered, or if
+the method should prove to be too expensive for general
+use, the device which present technology would indicate
+as most promising as a means of preserving a fifty
+
+Years‘ legacy of perishable paper is the filmslide copyb
+ing method.
+
+[[text/135.txt]]
+114.
+
+The filmslide method also enters into the solu-
+tion of the newspaper problem as a device for completing
+files, for improving the distribution of the most impor-
+tant newspaper sets throughout the country, or for saving
+storage space in crowded libraries
+
+A standard for measuring newspaper costs is fur-
+nished by the New York Times. The subscription price is
+818.00 per year. A one_year file, in twenty four bound
+volumes, on ordinary newsprint paper, is sold for $72, on
+rag paper for 8170. The number of pages is close to .
+24,000, or two thousand a month. The element of bindery
+cost in the above quotations is about $2.25 per semi-
+monthly volume of one thousand pages. Each volume of the
+newsprint issue costs $3.00 bound, and each volume of the
+rag paper issue costs $7.08. The cost of a thousand pages
+of the rag paper file, exclusive of binding, comes to
+$4.83.
+
+At a reduction of 30 diameters two pages of the
+
+New York Times will go on one unperforated filmslide.
+The cost oould not be higher than l§¢ nor lower than §¢
+
+per slide, at which level the following comparisons are
+
+in order:
+
+[[text/136.txt]]
+115-
+
+one Hundred Pgges of the New York Times
+
+Rag paper edition, bound in c1oth..........3 .71
+20 diameter reduction on filmslides
+
+at 1§¢ per slide......................... .75
+20 diameter reduction on filmslides
+
+at %¢ per s1ide.......... . . . . ............ .28
+Newsprint paper edition, bound in cloth.... .30
+cost of binding........... . . . . . . . . . ........ .22§
+
+Reduced to one-half size and printed
+by cheapest photo-offset method
+in editions of:
+
+ 
+ 
+
+1oo..................
+200...................... .82;
+
+one Hundred Pages of the Paris Tegps
+
+17 diameter reduction on filmslides at i%¢.S1.5O
+17 diameter reduction on filmslidcs at 2¢.. .50
+Subscription price & binding in Frence..... .37
+Subscriotion price & binding in U.S. . . . . . .. .71
+
+One Hundred Pages of the London Times
+
+21 diameter reduction on filmslides at l%¢.9 .75
+21 diameter reduction on filmslides at §¢.. .25
+Subscription & bin6ing.......... . . . . . ...... .33 to .3:
+
+One Hundred Pages of Recent Eurooeaz
+
+Newsoapers in BacE Files from Booh
+Dealers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. .20 to .40
+
+These latter quotations recuire further explanation.
+The Paris Tegpe prints 2300 pazee per year,
+each page 20 x 2? inches, slightly larger than the New
+
+York Times. A reduction of 23 diameters would be nec-
+
+essary to put two pages on a filmslide, but 17 diame-
+
+ters would suffice to put one page on e slide. Since
+
+[[text/137.txt]]
+116.
+
+the 33 diameter reduction is elose to the top limit
+of B legibility, the cost of putting a year's file
+on tilmslidee should be more safely reckoned at one
+slide per page, or 812.83 to $34.50 as maximum and
+minimum charges. The subscription price in France is
+34.05, in America 812.00 per year. Binding costs
+would be 84.50 per year. The otal price of buying
+and binding a year's issue is therefore $8.55 or
+316.50.
+
+The London 23335 print: 10,000 pages, each
+
+i8§ x 24 inches, per year. This would go on fi1mslides.*
+
+at two pages per slide if reduced 21 diameters -’a safe
+reduction for B legibility. A year of the Times on
+jilmslides would cost from R98 to 975. This should oe
+wompared with the subscription and binding price: $53.50
+at domestic subscription rate plus binding in five vol-
+dmes, and 336.55 at the foreign euoscription rate.
+Recent foreign newspaper files are offered on
+the market at comparab1e_pricee. A higher! catalogue
+offers twelve files of five years each, 1914-19l9 at an
+average price of 835 per year, bound. A file of Action
+Irancaise 1900-1928, 28 years in 68 bound volumes is
+offered for $400, or $2.40 per volume, $5.72 per year.
+
+[[text/138.txt]]
+117.
+
+Most of these newspapers are four or six page issties;
+some are eight or twelve page issues. The price ;>er
+100 pages of the back files of European newspapers,
+including binding, ought to be anything from 30¢ to -40¢.
+
+It must be concluded that filmslide copies of
+newspapers can be made at costs within the price rasage
+of files of recent papers, or su>scr1ptions to current
+ones. At its lowest, the filmslide edition of a newspaper
+may cost but little more than the price of binding the
+original edition. If land and building costs are so high
+that the expense of providing storage for a newspaper
+tile exceeds the acquisition cost, it might pay a library
+to transfer its bulkier newspaper holdings to filmslides
+for the sake of space economy alone, although it must be
+recognized that film storage is itself a special problem
+in which special fire—proofing and temperature conditions
+
+must be met.
+
+[[text/139.txt]]
+118.
+V. Note—Tsking Eguipment.
+
+The research problem as it comes to the schol-
+ar's desk usually calls for a technique of note taking.
+The reproduction of research materials in book or film-
+slide form ends the work of library institutions. But
+the scho1ar's work begins where that of the library ends.
+And here techniques of reproduction ought to be keyed in
+with the problem of organizing note systwﬁrather than
+the problem of preserving materials.
+
+An illustration of the labor saving possibilities
+of new techniques is furnished in the preparation of the
+Early Modern English Dictionary under the direction of Pro-
+fessor C.C. Fries of Michigan. The same method is to be
+used in the New Dictionary of Middle English, under the
+direction of Professor Samuel Moore. In dictionary work
+the older technique is to look through the literature of
+the period for the uses of words, copy out the context of
+each use, and file under the word. In preparing these
+dictionaries the philologist can now receive from the Ph°t°-
+lithographer a hundred or more specially made copies of
+every book in the form of loose leaves, printed on one
+
+side, and reduced to a standard note size. He need only
+underline on a page the words he wishes to take note of;
+
+[[text/140.txt]]
+119.
+a typist can then file a separate copy of the whole page
+under each of the words so underlined.
+
+The filmslide method in note-taking is best
+adapted to the copying of long documents when no rearrwuue-
+ment of the parts is in view, and when it is not necessary
+to bring together on the same table at the same time a
+number of items to be compared or combined. Mr. Kennedy
+has been working out a cheap way of mounting and filing
+each filmslide separately upon a small card. This device
+would permit the easy grouping and arranging of filmslide
+notes, but would not avoid the objection that in using
+filmslides the reader can have only one document at a
+time before his eyes.
+
+when filmslides are used as a part of a note
+system, it may often be found preferable to read them by
+means of the Hartin magnifying glass and ground glass
+equipment rather than by projection. This method is
+satisfactory when used in reading filmslides of normal
+size books or manuscript pages, although it cannot be
+
+applied to the higher reductions necessary in newspaper
+
+reproduction.
+
+The advertising literature for the Lemare and
+
+Leica apparatus both assume that the user will print
+
+[[text/141.txt]]
+120.
+
+enlarged copies of his tilmslides for use as notes.
+
+If this is done, the Iilmslide is a mere intermediate
+step in the production of the note, and the economies
+of the method as against the use of the photostat are
+largely labor economies arising from the fact that the
+scholar makes the exposures himself. If there were on
+the market a cheap, portable copying apparatus which
+would ccpy directly on phctcstat paper of a convenient
+note paper size, so arranged that the exposed sheets
+would stack themselves in a light-proof box which
+could be detached and taken to a photographer's shop
+for developing, one step in the photographic note-
+taking process would be saved. Notes 5 x 8 inches
+would cost less than 2 cents each. Pages of all
+
+sizes would be copied on the same size of note_paper,
+to file in with notes taken in typescript or menu-
+script. The variation in legibility would be more than
+
+compensated for by the convenience of the standardized
+
+size.
+
+[[text/142.txt]]
+131.
+
+VI. Recommendations. .
+1. Librarz Installation of Filmelide Apparatus.
+
+As a substitute for the photostat in copying
+books and manuscripts of normal size, present filmslide
+apparatus for photography, projection or direct reading
+is satisfactory. But it is s misfortune that the came-
+
+ra with the best lens equipment uses the perforated
+
+film, and the only small camera using non-perforated
+film has the poorer lens equipment.
+
+It is recommended that the conclusions here
+reached in the comparison of these two cameras, the
+Leica and Lemare, be scientifically checked, possibly
+at the Bureau of standards.
+
+If the conclusions as to resolving power
+here stated are confirmed, — that Leica will give as
+fine results at 18 diameters as Lemare at 13, - then
+libraries should be urged to install Leica apparatus;
+if it is established that the observed differences in
+fineness are due to differences in the process of de-
+veloping and fixing the film or to differences in ex-
+posure time or to some other factor not inherent in the
+apparatus, then libraries should be urged to install
+
+Lemars equipment.
+
+In either case, it is very important that all
+
+[[text/143.txt]]
+12?.
+
+libraries should install filmslide ohotocraphy and
+projection apparatus as a supplement to the photostet
+eouipment, and as a device for takinz some of the
+load off of their lending and borrowin: activities.
+
+The cost accounting done at the University
+of California established the fact thst the expense of
+
+borrowing or lending books is $1.59 per volume -— the
+
+cost of borrowing beinw almost exactly equal to the
+cost of lending. The low cost of filmslide copies
+would permit the borrowing scholar to purchase copies
+of many items he would otherwise borrow. This is es-
+pecially true of short articles in periodicals.
+
+The Joint com ittee should take this matter
+
+up with the American Library Association.
+
+2. Filmslides and the Newspaper Problem.
+As 3 means of cobyinv newspapers, present
+
+photographic apparatus is Hatls‘actory, and present
+projection apparatus unsatisfactory. Both can be and
+should be improved. It is not recommended that the
+filmslide method in its present state be promoted in
+any large scale project for preserving or completing
+files of newspapers in libraries, although it may be
+
+used as a substitute for the photostat in making
+
+[[text/144.txt]]
+123.
+
+pages of newspapers available to scholars who could
+
+not afford to buy photostats. The possibility of orga-
+nizing large-scale copying operations should be kept in
+mind as a future part of the program of the Joint Com.
+mittee, and in the meantime work upon the following
+technical problems should be stimulated through the
+Bureau of Standards, the lational Oouncil of Research,
+or some other agency:
+
+A. A study of the durability of acetate film. If
+the investigation discloses that film does not possess
+a life probability sufficient to justify its use in the
+preservation of records, the possibility of using metal
+or glass for small scale record photography should be
+explored. If the metal or glass medium is to be used,
+the photographic and projecting apparatus would have to
+be designed to use the ‘step and repeat‘ principle, by
+which a large number of images could be taken upon a
+single plate.
+
+3. A study of resolving power and reduction ratio,
+to determine optimum chemical and optical conditions for
+copying newsprint, and to make sure that these are met in
+the apparatus in hand with minimum labor cost factor.
+
+Such processes as that invented by Dr. Kutchison should
+
+[[text/145.txt]]
+124.
+be tested in this connection.
+6. A more efficient projector should be designed.
+This might be assigned to an optical company, such as
+Bausch and Lomb or the Delineascope for commercial
+
+development.
+
+3. Photostat for Note Taking.
+
+An effort should be made to foster the produc-
+Lion of a portable and inexpensive photostat eouipment
+for copying pages of various sizes upon a standard note-
+size paper. The Joint Committee should communicate with
+the Rectigraph and Photostat Companies, and might even
+take measures to verify the reporter's opinion that
+there would be a commercial demand for such an apparatus.
+
+4. The Qrganizstion of the geek guying Market in
+Connection with Book Production.
+
+The most important recommendation suggested by
+this survey is the organizing of the buying power of in-
+stitutions which are already devoting their funds to
+research purposes. These buyers should control produc-
+
+tion. lorks which do not finance themselvus as commercial
+
+ventures and must depend on subsidies from the authors or
+from endowments or revolving funds could finance them-
+selves if the buying power were so organized as to elimi-
+
+nate waste. A survey of scholarly book publication
+
+[[text/146.txt]]
+:25.
+facilities is being made by Mr. John Marshall under
+
+the direction of the American council of Learned
+societies. Pending the completion of his survey, one
+cannot speak with certainty, but it appears to be true
+that the limit which now restricts the circulation of
+research material among scholars is set by the require-
+ments of publishing finance rather than the purchasing
+
+power of libraries. But the high cost of publication is
+due to publishing policies which are not only valueless
+
+to the scholar, but even hostile to his purposes.
+
+It is a consequence of specialization in re-
+search that some of the most useful kinds of collabora-
+tion among scholars require the circulation of only a
+limited number of copies of a given publication. But
+commercial publication cannot live on the limited
+specialists‘ market. Therefore the publisher influ-
+ences the nature of the product in two ways. He con-
+stantly brings pressure to bear upon the productive
+scholar to urge him to prepare his work for a wider
+audience, and he saddles upon every publishing ven-
+ture a burden equal to the whole cost of production of
+the book in order to pay for promotion in the market.
+
+The social sciences and humanities are not protected
+
+[[text/147.txt]]
+l26.
+
+by the nature of their subject matter from this pres-
+sure upon their literature, with the result that even
+the purchasing power which is wholly within the control
+of the specialists in the field - such as the funds
+apportioned to a department in a university library —
+
+must be used in part to fill shelves with material that
+
+is less useful than it should be because of the pressure
+upon the author to seek a non-scholarly market.
+
+The learned periodical helps to relieve this
+pressure, but not sufficiently, as many instances illus-
+trate. A request has come in to the Joint committee for
+funds to continue the publication of a calendar of
+Brazilian manuscripts. A conference of research men in
+American History, held in Chicago in November 1931, rec-
+ommended that facilities for the publication of mono-
+graphs intermediate in size between books and articles
+in periodicals should be provided. A librarian in the
+Cleveland Public Library system, a specialist in Slavic
+studies, has compiled a bibliography of English trans-
+lations of Polish literature, which is probably worth
+publishing but which cannot be financed at present
+
+without a subvention from the author. Source materials
+
+on the Paris Peace conference ought to be circulated
+
+[[text/148.txt]]
+' 12'. .
+and studied as intensively as the source materials on
+
+pro-war diplomacy, and testimony taken while the partic-
+
+193339 1“ tn‘ Conference are still living, but such a
+venture under present conditions would not pay its way
+All these items illustrate the problems which could
+be met by correlating the organization of book purchas
+ing and book production.
+
+The starting point in organizing purchasing‘
+
+power in a field is the correlation of two quantities:
+
+the amount of material in a given field which the scholars
+
+therein would wish to publish if publication could be
+financed, and the purchasing power which the same schol-
+ars share throurh their ability to control the expendi-
+ture of a certain quota of the funds of their respective
+libraries. >
+
+Any field of scholarship which can organize
+its purchasing power in one hundred institutions can be-
+gin to take command of production, and to secure for it-
+self at normal book prices whatever is deemed most use-
+ful for its purposes. An organization of three hundred
+can free itself from all restrictions, using the addi-
+
+tional purchasing power either to reduce purchasing
+
+prices or secure better typography and legibility at the
+
+[[text/149.txt]]
+128.
+sane prices.
+
+The economies which make this control possi-
+ble eliminate three-fifths to four-fifths of the nor-
+mal costs or publication, by getting rid of:
+
+a. Promotion costs. (The promotion of books in
+the scholarly market is done tree by the journals any-
+way.)
+
+b. Risk of carrying unsold stock. Elimination of
+this risk permits the use of more durable paper.
+
+c. Editorial costs, except perhaps for L reading
+fee which might be paid in some fields to the scholar
+to whom a manuscript is assigned for appraisal. The
+cost of correcting spelling and punctuation must not
+be levied upon the purchaser.
+
+d. A slight saving in library costs of putting the
+book on the shelves can be effected by sending cata-
+logue cards along with the books.
+
+9. Authors‘ royalties and publishers’ profits.
+
+In connection with the development of purchas-
+
+ing orgsnization,materia1s {or publication can be class-
+
+ified into two groups.
+
+[[text/150.txt]]
+129.
+
+group 1, in which the interest of the library predni-
+nates. This may be due to their relation to general
+library policy, to their wide appeal, their bibliograply-
+ic importance, or their relation to some particular pols
+icy of a special library. Examples: Newspaper reproduc-
+tions in a general library; reproductions of state statutes
+and law reports in a law library; fac-simile reproductions
+of books of general interest which are out of print.
+
+Organization of purchasing power for this class of
+
+material should begin with the libraries. The same kind
+
+of organization which would solve production problems
+
+would also be useful in organizing the completion and
+
+distribution of serial and government document sets.
+
+Group II, in which the interest of the specialized re-
+search scholar predominates. The same men are inte-
+rested in securing the publication of their own work
+
+and in acquiring the work of others for their own libran
+ries. Examples: Monographic work; biographical source
+material concerning persons whose importance lies solely
+in one field.
+
+Organization of purchasing power for this class of
+
+material might well begin with the learned societies and
+
+[[text/151.txt]]
+130.
+
+their committees. some or them have publication com-
+mittees which could be asked to study a broader pro-
+
+gram based on the possibility of eel!-financed publication.
+Within the A.O.L.8. there are a number of subject matter
+committees which might be willing to extend their func-
+ticne.
+
+Since the practices of institutions vary as to
+the responsibilities of the librarian and the research
+personnel for the initiative in acquisition, projects
+which would be primarily matters of Department discre-
+
+tion in one university might be primarily a matter of
+Library reenonsibility in another. Certainly every_
+step taken will recuire complete accord between research
+personnel and library. There are some projects which
+would be too narrow in scope to be regarded as matters
+of general library policy, and yet too broad to fall
+within any one research field -Vfor example, the pub-
+lication of Paris Peace Conference Documents. But if
+both the libraries and the scholarly personnel are or-
+
+ganized, ewery worthy project for which there are over
+
+a hundred purchasers can be published and distributed.
+
+[[text/152.txt]]
+131.
+Action by the Joint committee
+The object described in the foregoing pare-
+graphs cannot be attained out of hand, by drawing up
+
+schemes for an organization upon paper and having it
+
+voted upon. Existing institutions must be used wherever
+possible, and existing wants should be met, as they
+arise, in such a way that the new set-up will be
+
+evolved. The following are specific suggestions.
+
+A. Publishing Projects in Search of Funds.
+
+Since any project will finance itself it there
+is an advance subscription to the requisite number or
+copies, it is not necessary to organize a field or schol-
+arship or a system of libraries in order to work out the
+practical application of the plan. If particular ventures
+are financed in this way. the system will begin to take
+
+200?.
+
+Therefore, in all cases in which the Joint con»
+mittee is asked to pass upon the merits of a publishing
+project for which a subvention is requested, the action
+taken by the committee should have the larger plan in
+view. A procedure might well be:
+
+1) To decide whether there is any existing organiza-
+
+tion in the field which could be asked to send our circu-
+
+[[text/153.txt]]
+133.
+
+1s:e or use its Journals to determine whether it con-
+trols the purchasing power needed for publication.
+Xaximun price and minimum legibility should be speci-
+fied. The Survey of the Activities of American Agen-
+cies in the Improvement of Materials for Research,
+just completed lo: the Joint Committee should be ana-
+lyzed to provide lists or special markets for circu1arize-
+Lion in the appropriate fields.
+
+3) To make sure that estimates of editorial costs
+are separated from estimated publishing costs; if the
+
+requested subsidy involves both elements, they should
+
+we separately considered.
+
+3) If circulsrizing of institutions and individuals,
+
+or the sponsorship of the journals, results in a sub-
+scription list of more than one hundred, publication can
+
+be financed out of purchase money; if not, the subvention
+
+-can be reconsidered.
+
+Among the existing organizations which might
+be consulted under (1) above: the publication committees
+or the learned societies, especially those which possess
+
+revolving funds, and the.Fac-Simile Text society, or
+
+Edwards Brothers if the publication required is a reprint
+
+[[text/154.txt]]
+i33.
+of an out—or-print publication. The Fae-Sinile Text
+Society invites suggestions of titles for publication,
+and follows the judgment of its editors in making
+decisions. Edwards Brothers proposes to receive from
+
+Libraries requests for a fac-simile copy of any man-
+
+uscript or out-of-print book, to circularize libraries‘
+
+and produce the fac—simile at a price based upon the
+
+number of subscribers.
+
+8. Funds in Search of Publishing Pro ects.
+The Joint Committee might ask scholarly pub-
+
+lishing agencies, committees, revolving funds, etc. to
+define their policies in respect of the following two
+principles:
+
+1) That photo-lithographed typescript can be sub-
+stituted for printing in small editions.
+
+2) That it is neither necessary nor desirable that
+the edition of every work published should reach its
+maximum size or receive maximum distribution; it is
+more important that the number of copies distributed
+should be strategically located, since only the great-
+
+est libraries can specialize in everything.
+
+Any field of scholarship in which there is
+
+established a publishing agency which workson these
+
+[[text/155.txt]]
+134.
+
+principles is in a position to take full advantage of
+the new publishing processes if its publication commit-
+tee can be put directly in touch with the representatives
+of buying power. The Joint committee should help to
+create such a liason in these cases.
+
+. An arrangement of this kind is under considera-
+tion by the officers of the National council of Teachers
+
+of English. The terms at present under discussion with
+
+Edwards Brothers involve the use of a small rev 1'1ng
+
+fund.
+0. Library collaboration in Purchasinq.
+
+Mr. Gerould at princeton has warned the Joint
+Comnittee of the probability that the publication of
+the check list of Government Documents will be followed
+by a system of rare—book prices among the booksellers
+dealing in these documents, and has suggested that li-
+brary purchasing policies should be worked out in such
+a way as to avoid cut-throat competition in acquisition.
+Any organization of library purchasing power which
+could deal with government document acquisition policies
+could also control publication of fac-similes of important
+
+and widely demanded documents which are out of print, and
+
+[[text/156.txt]]
+13;.
+
+could pass from that to the control of publication of
+other materials in which general library interest pre-
+dominates. This problem of Library organization has
+already been discussed by the Joint committee. Anv
+action taken in connection with Mr. Gerou1d's sugvee-
+
+tion will carry out part of tue recommendation result-
+
+ing from this Surve
+
+D. Newspaper Reproouctio.
+An experiment should be made to test the
+
+demand for reproductions of old newspaper files in
+editions of over one hundred, reproduced by photo-
+lithographv. If one imoortant newspaper were selected,
+the project explained in the oolitical science and his-
+
+torical putlications, and a broader basis of subscription
+
+sought than could be obtained for photostat copies, it is
+oossble that a market would be discovered which would
+take care of all fao-simile newspaper publication.
+
+Quite distinct from the problem of reproducing
+old newspapers is the problem of preserving current news-
+papers which are printed on cheap paper. A Survey of
+newspaper acouisition policies has been voted by the
+
+Joint committee, but no work done upon it. If the Survey
+
+[[text/157.txt]]
+136.
+should reveal that any newspapers are now being current-
+ly bound by more than one-hundred libraries, the librar-
+ies should be consulted to determine whether they would
+
+wish to have current files reproduced for them half size
+
+upon durable paper. The New York Times, or any news-
+
+paper which is printed on rag stock, would not require
+
+sqch reproduction. Arrangements might be made in Europe
+
+for the preparation, at the lower European prices, of
+
+photo-lithorzraphed half-size copies of a. few of the great
+
+European dailies. Even if the number of libraries
+
+now binding these newspapers is too small to finance the
+reproduction scheme, the number might be increased when
+
+tne project defines itself.
+
+E. Model Enterprises to be Sponsored b1 the Joint Committee.
+The Joint committee might select two enterprises
+
+to be sponsored by it and carried through as s demonstra-
+
+tion of the possibilities of bringing organized purchas-
+
+ing power directly into touch with the problem of pub-
+
+lishing. One such enterprise should lie in a. field where
+
+there is pressure by research scholars for more adequate
+
+publishing facilities. This would be a problem in setting
+
+up an organization. The other should lie in s. field
+
+[[text/158.txt]]
+L37.
+where there is a demand that certain material be made
+more accessible. It would be a matter of carrying
+through a project.
+Mr. Marshall's report on the use of revolving
+funds should suggest the most strategic place in which
+to undertake to organize purchasing power to meet the
+demand of research publication, thus creating a sample
+organization.
+
+?rofessor Shotwell, now chairman of the
+International Relations Committee of the S.S.R.C., has
+in mind the preparation of a documentary history or the Paris
+Peace Conference. This might perhaps be used as a sample
+project. If a sample organization and a sample project
+were successful, the scholarly world would begin to think
+in new terms of the problem of publication.
+
+F. Further Study of Lcgibility and Typography.
+
+There is a direct relationship between 1egibi1-
+ity, cost, and size of market necessary to float an enter-
+prise. The line of investigation begun under the sus-
+pices of the Joint committee should be continued until
+three or four standards of legibility are defined, and
+the least costly way of producing each of them determined.
+
+It is suggested that In studies of legibility newsprint be
+
+[[text/159.txt]]
+138.
+
+taken as a standard, and that legibilities be graded as
+so many points above or below newsprint legibility.
+
+This standard should be selected because newsprint is
+familiar to everyone. Professors Paterson and Tinker
+of the University of Minnesota might be asked to continue
+the work begun in connection with this survey. This
+project may fall more nearly within the province of the
+National Research Council. It should be pressed forward
+in any case.
+
+V. Distribution of this Survey.
+
+This survey is being printed in an edition of
+100 copies, free of charge, by Edwards Brothers of Ann
+Arbor. Many of these copies have been promised to per-
+sons who have furnised information toward the compilation
+of the survey. Other copies should be circulated for
+criticism by competent persons in the several fields.
+
+The result of criticism, together with the
+result of action by the Joint committee, and any further
+information that may come to hand, should be worked up
+into a new edition of the Survey which can be used in
+carrying out the plans of the Joint Committee by present-
+ing its point of view in full. The comparison of Leica
+
+[[text/160.txt=139]]
+132 .
+
+and Lemare apparatus should be completed as recommend-
+ed before the survey issues in final form. Even the
+work on legibility should be developed further than it
+is here carried out, so that sample pages of attested
+degrees of legibility, each illustrating the lowest
+cost of that particular degree of legibility, should
+be incorporated in the report. The new edition of the
+Survey could then be circulated among the publication
+committees of the learned societies and the libraries.
+
+[[text/161.txt]]
+[[text/162.txt]]
+
+A SURVEY OF METHODS OF REPRODUCING
+RESEARCH MATERIALS
+
+1. Publishing and Library Costs
+
+The Book:— The point of reference from which the problem of
+reproducing research materials must be examined is the system by
+which publishers produce books and libraries acquire, arrange and
+store them for use. The ﬁnancial policies of institutions, the stack
+room and reading room equipment of libraries, the training of library
+personnel as well as the research habits of scholars are standardized
+in favor of the use of books of several hundred pages, from six to
+eleven inches in height, costing the purchaser from one-half to two
+cents a page.
+
+There are other forms in which research material is made
+accessible, but in any of these other forms there is created a special
+problem of ﬁnance or administration. Maps, newspapers, “over-
+size” books, manuscript collections, ﬁlms, collections of pamphlets
+and broadsides present special difficulties and cause special expanses
+regardless of their acquisition costs.
+
+The normal acquisition costs of books or bound volumes of
+periodicals which can be shelved like books is something less than
+ﬁve dollars a volume. In a public library which purchases a large
+amount of popular fiction it falls to $1.30 a volume. The list prices
+of books per hundred pages, as given in standard annual book-lists
+are as follows:
+
+Average Retail Price of Books, Per One Hundred Pages
+General Books Scholarly Books (History)
+
+U. S. ................... _-$ .53 ___________________ __s1.2o
+Gt. Britain ............... -- .86 ................... -_ 1.20
+Germany ................ -- .75 ___________________ __ 1,04
+France .................. -- .58 .... --(unbound)_____ _34
+Italy ................................................ _, .65
+
+SPECIMEN PAGE PRODUCED BY MIME-0-FORM SERVICE, WASHINGTON, D. C.
+
+[[text/163.txt]]
+Research materials that can be presented in book form within this
+price range can be fed into the library system of the country without
+requiring signiﬁcant changes in present acquisition policies.
+
+Analysis of Book Cost:—-'-The cost accountancy of book pro-
+duction is very complicated, but the essential fact is simple: the
+unit cost of producing a book falls rapidly as the size of the edition
+increases. This is the crux of the problem that must be faced in
+any plan which will seek to follow the requirements of research
+rather than the demands of the market in deciding what materials
+are to be reduced to book form. When the prospective market and
+hence the size of the salable edition is small, the unit cost of the
+volumes rises above the level at which normal purchasing policies
+by or individuals will float the enterprise or accomplish adequate
+distribution. The critical test of book cost, for the purposes of this
+survey, is the minimum size of an edition which can be sold within
+the normal price range.
+
+Another striking characteristic of book costs is the large per-
+centage of the sales price which goes to other objects than actual
+printing. A great university press calculates that two ﬁfths of
+the cost of a book are strictly manufacturing costs, one ﬁfth is edi-
+torial and general overhead, and two ﬁfths selling costs. Another
+university press bases its price calculation on the following pro-
+cedure:
+
+l
+
+l.
+
+!'
+
+l
+
+l
+
+'3 1. Take the “shop cost” of the book (press-work,
+
+{ paper, binding, etc.) A maximum and minimum
+
+ quotation for an edition of 1000, book of 100
+
+} pages, 50,000 words is  $370 $775
+
+1
+
+9, 2. Add 20% for editorial and overhead costs, which
+
+i brings the amount to  $444 $930
+
+3. Subtract from the edition 100 copies for review
+and promotion, and divide the total cost by the
+salable edition (900 copies in this case) to get unit
+cost of each book ......... .. $ .49 $1.03
+
+~»~—-—---———————————.....__..-9-... .......... 
+
+[[text/164.txt]]
+[[text/165.txt]]
+[[text/166.txt]]
+[[text/167.txt]]
+[[text/168.txt]]
+[[text/169.txt]]
+[[text/170.txt]]
+[[text/171.txt]]
+[[text/172.txt]]
+[[text/173.txt]]
+[[text/174.txt]]
+[[text/175.txt]]
+[[text/176.txt]]
+[[text/177.txt]]
+[[text/178.txt]]
+[[text/179.txt]]
+[[text/180.txt]]
+[[text/181.txt]]
+[[text/182.txt]]
