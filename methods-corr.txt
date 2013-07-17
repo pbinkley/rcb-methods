@@ -12,7 +12,7 @@ Research Materials
  
 
 [[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=9 ]]
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=10 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=10 proofed]]
 Methods Of Reproducing
 Research Materials
 
@@ -41,7 +41,7 @@ Lithoprinters and Publishers
 ANN ARBOR. MICHIGAN
 
 [[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=11 ]]
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=12 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=12  proofed ]]
 FOREWORD
 
 The Joint Committee on Materials for Research
@@ -96,8 +96,8 @@ Joint Committee are due.
 Robert C. Binkley
 November 28, 1931
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=13 ]]
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=14 p:i ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=13  proofed ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=14 p:i  proofed ]]
 TABLE OF CONTENTS
 
 I. Publishing and Library Costs. . . . 1
@@ -141,7 +141,7 @@ large press.
 control of size of edition. Policy of
 Fac-Simile Text Society.
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=15 p:ii ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=15 p:ii  proofed ]]
 3. Method of putting the image on the
 metal sheet. . . . 20
 
@@ -187,7 +187,7 @@ The Luminiophor Plate.
 
 Collotype and Photograph. . . . 42
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=16 p:iii ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=16 p:iii  proofed ]]
 
 III. Comparison of Different Methods of
 Book Manufacture. . . . 44
@@ -237,7 +237,7 @@ Joint Commitee.
 Chart showing relations of type size
 number of words to the square inch
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=17 p:iv ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=17 p:iv  proofed ]]
 
 cost of publishing 50,000 words at normal book
 prices (1¢ per page), and legibility compared
@@ -282,7 +282,7 @@ Possibility of special printings for libraries.
 Recommendation on book production. . . . 77
 Organization of purchasing power.
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=18 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=18  proofed ]]
 
 IV. Filmslide Photography. . . . 81
 
@@ -331,7 +331,7 @@ Choice of makes of equipment on the market.
 Need for a finer camera to take non-per-
 forated film, and for a better projector. . . . 107
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=19 p:vi ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=19 p:vi  proofed ]]
 
 costs of operation. . . . 109
 Table of high and low costs. . . . 111
@@ -378,7 +378,7 @@ ess. Improvement of photographic
 apparatus.
 C. Improvement of projecting apparatus
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=20 p:vii ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=20 p:vii  proofed ]]
 V-
 
 3. Photostat for Note Taking. . . . 124
@@ -424,7 +424,7 @@ Improvement of Materials for Research.
 Proposals of Fac-Simile Text Society and Edwards
 Bros
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=21 p:viii ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=21 p:viii  proofed ]]
 
 B. Funds in search of publishing projects. . . . 133
 
@@ -465,7 +465,7 @@ APPENDIX
 Sample Mime-O-Form page
 Sample of newspaper reduced one half
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=22 p:1 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=22 p:1  proofed ]]
 
 A SURVEY OF METHODS OF REPRODUCING RESEARCH MATERIALS
 
@@ -493,7 +493,7 @@ manuscript collections, films, collections of pamphlets
 and broadsides present special difficulties and cause.
 special expenses regardless of their acquisition costs.
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=23 p:2 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=23 p:2  proofed ]]
 
 The normal acquisition costs of books
 or bound volumes of periodicals which can be
@@ -526,7 +526,7 @@ the unit cost of producing a book falls rapidly as the
 size of the edition increases. This is the crux of the
 problem that must be faced in any plan which will seek
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=24 p:3 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=24 p:3  proofed ]]
 
 to follow the requirements of research rather than
 the demands of the market in deciding what materials
@@ -557,7 +557,7 @@ pages, 50,000 words is . . . $370 $775
 2. Add 20% for editorial and overhead costs, which
 brings the amount to . . . $444 $930
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=25 p:4 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=25 p:4  proofed ]]
 
 3. subtract from the edition 100 copies for
 review and promotion, and divide the total
@@ -593,7 +593,7 @@ The Carnegie Endowment for International
 Peace, which distributes much of its material free of
 charge, and does not therefore figure promotion as
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=26 p:5 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=26 p:5  proofed ]]
 
 part or its costs, allows $3800 to pay for an
 edition of 1500 copies or a cloth bound book of
@@ -622,7 +622,7 @@ the minimum paying edition would drop from around two
 thousand to around three or four hundred, without any
 change in the production method.
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=27 p:6 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=27 p:6  proofed ]]
 
 Library costs.
 
@@ -649,7 +649,7 @@ their funds for other than acquisition purposes
 two thirds. But the capital cost of building and land
 is not included in this figure. A library like the
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=28 p:7 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=28 p:7  proofed ]]
 
 New York Public Library, which must take into
 account a high cost of land, maintains an enormous
@@ -675,7 +675,7 @@ from a minimum of 3.50 to a maximum of 14.00. One
 dollar spent to manufacture a book (royalties, press -
 work, binding, and editing) must have from six to
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=29 p:8 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=29 p:8  proofed ]]
 
 twenty-eight dollars added to it on account of library
 costs.
@@ -701,7 +701,7 @@ a miniature slide, to be read by projection on a screen).
 The inventors and promoters of the new devices are
 concerned very little with the scholar's problem.
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=30 p:9 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=30 p:9  proofed ]]
 
 Lithographic printing methods are commercialized in
 response to the needs of advertisers, and filmslide
@@ -728,7 +728,7 @@ used either as a type foundry or for setting straight
 copy. Hand-set type is used principally in connec-
 tion with advertising compositions. It is a luxury
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=31 p:10 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=31 p:10  proofed ]]
 
 when used in straight textual matter.
 
@@ -754,7 +754,7 @@ to print it on a thin metal sheet for use in the offset
 press. This third method will be discussed in the next
 section.
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=32 p:11 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=32 p:11  proofed ]]
 
 The interest of scholarship in cheap and
 small editions is most nearly approximated in the
@@ -778,7 +778,7 @@ be found in the wage scale of the operators._ Quo-
 tations from a multigrapn company upon straight text
 work are equal to the highest printer's quotation.
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=33 p:12 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=33 p:12  proofed ]]
 
 Mime-O-Form.
 
@@ -799,7 +799,7 @@ So great is the variation in prices
 quoted for printing small editions that it is evident
 that the business and labor policies have as much effect
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=34 p:13 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=34 p:13  proofed ]]
 
 as the technical process itself upon small edition
 costs.
@@ -826,7 +826,7 @@ master-copy from which he makes, photographically,
 his printing surface. The lower price is for the
 reproduction of a text which goes to the printer as a
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=35 p:14 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=35 p:14  proofed ]]
 
 suitable master-copy, either the author's clean type-
 script or the pages of a printed book. The higher
@@ -836,9 +836,9 @@ from G.B. Harrison's paper on "Facsimile Reprints", given
 before the Anglo-American Conference of Historians,
 13-18 Ju1y,1931.
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=36 p:15 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=36 p:15  proofed ]]
 [[table ]]
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=37 p:16 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=37 p:16  proofed ]]
 
 The various processes thus take the following
 order as regards cost. Printing in France is cheapest,
@@ -862,7 +862,7 @@ low as 20%. New technical processes often exert their
 greatest influence on price through their use of
 untrained or half trained labor.
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=38 p:17 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=38 p:17  proofed ]]
 
 The 'offset'' Methods. Lithography and Photography.
 
@@ -891,7 +891,7 @@ artist. The metal plate with its albumin or bitumen
 coating acts exactly like photographic paper except
 that it requires a much longer exposure to light.
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=39 p:18 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=39 p:18  proofed ]]
 
 Printed or typewritten pages, together with illustra-
 tions, are copied on the metal either directly from the
@@ -918,7 +918,7 @@ principal significant differences in equipment, and
 the chief lines of technical development, are the
 following:
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=40 p:19 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=40 p:19  proofed ]]
 
 1. The Size of the Press.
 
@@ -948,7 +948,7 @@ a saving in that it is cheaper to clean the old than
 to buy a new sheet, but they affect the printing costs
 because they make it expensive or impossible to store
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=41 p:20 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=41 p:20  proofed ]]
 
 the sheets for a fresh printing of a book which has
 already been run in one edition. Rotaprint and
@@ -1009,7 +1009,7 @@ Instead of removing an image from one surface
 or wet plate process, the metal sheet is given a coating
 of a light sensitive substance, based on bitumen, fish
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=43 p:22 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=43 p:22  proofed ]]
 
 glue or egg albumin, and an image is imposed upon it with
 light, as in photographic printing, from a negative or a
@@ -1038,7 +1038,7 @@ is to print white, and ink in the space which is to print
 black. In using this positive process it is sometimes
 desirable to grease the paper from which the image is
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=44 p:23 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=44 p:23  proofed ]]
 
 being copied in order to render its white parts more
 transparent. The Coxhead Press uses this positive photo-
@@ -1070,7 +1070,7 @@ process. Direct impression and direct transfer methods
 do not permit any alteration in size as between the original
 and the copy. The Wet Plate Method and all the negative
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=45 p:24 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=45 p:24  proofed ]]
 
 photo-process methods permit of enlargement or reduction of
 the copy. The positive photo-process method in most cases
@@ -1099,7 +1099,7 @@ that the time required is fifteen to twenty minutes.
 The object of development along this line is three-
 fold: to get better art work, to make a more dur-
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=46 p:25 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=46 p:25  proofed ]]
 
 able metal sheet which will stand a longer run in an
 offset press or resist the abrasion resulting from
@@ -1127,7 +1127,7 @@ makes use of the fact that chromium is a hard metal
 which will accept and transfer ink, while mercury will
 refuse ink. The chromium serves for the grease of
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=47 p:26 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=47 p:26  proofed ]]
 
 primitive lithography, mad the mercury for the wet
 surface of the stone. Although this process will not
@@ -1153,7 +1153,7 @@ An inventor by the name of Price hes devel-
 oped an ink which carries in itself the moisture
 necessary to keep the wet part of the metal sheet from
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=48 p:27 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=48 p:27  proofed ]]
 
 taking ink. The use of this ink simplifies the printing
 process by leaving out one step, namely, the moistening
@@ -1182,64 +1182,59 @@ master-copy to be used in a photo-lithographic process.
 
 There are three kinds of work in which master
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=49 p:38 ]]
-
-<proofed to here>
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=49 p:28 proofed ]]
 
 copy is now furnished without typesetting. Advertising
 display work is sometimes prepared by the artist who does
-his lettering just. as he draws his pictures. and has no
-use for type. cirmlers, tabular matter, form letters,
+his lettering just as he draws his pictures, and has no
+use for type. Circulars, tabular matter, form letters,
 and trial editions of text books are prepared as master
-eony on the typewriter. The limit to the application of
-this method. to book printing is set by the unwillingness
-of the reader to tolerate the uneyen right hand margin.
-The third kind of master copy is the printed. page which
+copy on the typewriter. The limit to the application of
+this method to book printing is set by the unwillingness
+of the reader to tolerate the uneven right hand margin.
+The third kind of master copy is the printed page which
 is being reprinted by the photo-lithographic process.
 
 There are two approaches to the problem of
-making an ell-purpose master copy without using raised
-type. one is to improve the typewriter by some method
+making an all-purpose master copy without using raised
+type. One is to improve the typewriter by some method
 of justifying right hand margins. The other is to
 avoid the use of ink entirely, and photograph letters
-in sequence upon a. negative which can then be transferred
+in sequence upon a negative which can then be transferred
 directly to the metal sheet.
 
 A modified typewriter has been developed by
-the "rypsry and Typon company, London. This '1'ypa.ry"
+the Typary and Typon Company, London. This "Typary"
 machine sets a line of type which is then automatically
 spaced to justify the margin, inked, and printed on a
 strip of paper, from which it can he transferred to the
 photo-lithographic metal sheet. This machine has been
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=50 ]]
-?9
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=50 p:29 proofed ]]
+
 used in book manufacture. A similar invention. which
 has not yet been given industrial promotion, is
 Walton's type composing machine, which writes directly
 on the metal sheets for offset printing.
-The inventions which seek to "print with light’
 
-are numerous. The Dutton Photoline sets letters which A
-camera photographs line by line; the Bswtree apparatus
+The inventions which seek to "print with light"
+are numerous. The Dutton Photoline sets letters which a
+camera photographs line by line; the Bawtree apparatus
 photographs a text on bromide paper for transfer to the
-metal. Mr. G.F.Bagge of Cleveland has a similar inven-
-tion under way. The two machines wnich seem to be
-nearest the point of p:ectica1 use are the August-Hunter
+metal. Mr. G.F. Bagge of Cleveland has a similar inven-
+tion under way. The two machines which seem to be
+nearest the point of practical use are the August-Hunter
 Photocomposing Machine which is being developed in
-England, and the 'Luminotype' invented by a Hungarian
+England, and the "Luminotype" invented by a Hungarian
 technician by the name of Edmund Uher and manufactured
-by the Maschinenfabrik-Augsburg-Nuernburg. one model
-
+by the Maschinenfabrik-Augsburg-Nuernburg. One model
 of the Uher machine had been constructed when the
-
 recent financial crisis in Central Europe interrupted
-the venture. The uher machine photographs a line of
+the venture. The Uher machine photographs a line of
 letters on a narrow strip, and then projects from this
 strip, line by line, on a photographic negative. A
 cheap substitute for film has been invented for the
 purpose. The success of these photo-typing machines
-
 would constitute the most decisive revolution in
 
 [[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=51 ]]
