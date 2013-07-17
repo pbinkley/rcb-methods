@@ -1,18 +1,18 @@
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=1 p:cover ]]
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=2 ]]
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=3 ]]
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=4 ]]
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=5 ]]
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=6 ]]
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=7 ]]
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=8 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=1 p:cover ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=2 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=3 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=4 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=5 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=6 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=7 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=8 ]]
 Methods Of Reproducing
 Research Materials
 
  
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=9 ]]
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=10 proofed]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=9 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=10 ]]
 Methods Of Reproducing
 Research Materials
 
@@ -40,8 +40,8 @@ EDWARDS BROTHERS, INC.
 Lithoprinters and Publishers
 ANN ARBOR. MICHIGAN
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=11 ]]
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=12  proofed ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=11 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=12 ]]
 FOREWORD
 
 The Joint Committee on Materials for Research
@@ -96,8 +96,8 @@ Joint Committee are due.
 Robert C. Binkley
 November 28, 1931
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=13  proofed ]]
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=14 p:i  proofed ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=13 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=14 p:i ]]
 TABLE OF CONTENTS
 
 I. Publishing and Library Costs. . . . 1
@@ -141,7 +141,7 @@ large press.
 control of size of edition. Policy of
 Fac-Simile Text Society.
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=15 p:ii  proofed ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=15 p:ii ]]
 3. Method of putting the image on the
 metal sheet. . . . 20
 
@@ -187,7 +187,7 @@ The Luminiophor Plate.
 
 Collotype and Photograph. . . . 42
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=16 p:iii  proofed ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=16 p:iii ]]
 
 III. Comparison of Different Methods of
 Book Manufacture. . . . 44
@@ -237,7 +237,7 @@ Joint Commitee.
 Chart showing relations of type size
 number of words to the square inch
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=17 p:iv  proofed ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=17 p:iv ]]
 
 cost of publishing 50,000 words at normal book
 prices (1¢ per page), and legibility compared
@@ -282,7 +282,7 @@ Possibility of special printings for libraries.
 Recommendation on book production. . . . 77
 Organization of purchasing power.
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=18  proofed ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=18 ]]
 
 IV. Filmslide Photography. . . . 81
 
@@ -331,7 +331,7 @@ Choice of makes of equipment on the market.
 Need for a finer camera to take non-per-
 forated film, and for a better projector. . . . 107
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=19 p:vi  proofed ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=19 p:vi ]]
 
 costs of operation. . . . 109
 Table of high and low costs. . . . 111
@@ -378,7 +378,7 @@ ess. Improvement of photographic
 apparatus.
 C. Improvement of projecting apparatus
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=20 p:vii  proofed ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=20 p:vii ]]
 V-
 
 3. Photostat for Note Taking. . . . 124
@@ -424,7 +424,7 @@ Improvement of Materials for Research.
 Proposals of Fac-Simile Text Society and Edwards
 Bros
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=21 p:viii  proofed ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=21 p:viii ]]
 
 B. Funds in search of publishing projects. . . . 133
 
@@ -465,7 +465,7 @@ APPENDIX
 Sample Mime-O-Form page
 Sample of newspaper reduced one half
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=22 p:1  proofed ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=22 p:1 ]]
 
 A SURVEY OF METHODS OF REPRODUCING RESEARCH MATERIALS
 
@@ -493,7 +493,7 @@ manuscript collections, films, collections of pamphlets
 and broadsides present special difficulties and cause.
 special expenses regardless of their acquisition costs.
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=23 p:2  proofed ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=23 p:2 ]]
 
 The normal acquisition costs of books
 or bound volumes of periodicals which can be
@@ -526,7 +526,7 @@ the unit cost of producing a book falls rapidly as the
 size of the edition increases. This is the crux of the
 problem that must be faced in any plan which will seek
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=24 p:3  proofed ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=24 p:3 ]]
 
 to follow the requirements of research rather than
 the demands of the market in deciding what materials
@@ -557,7 +557,7 @@ pages, 50,000 words is . . . $370 $775
 2. Add 20% for editorial and overhead costs, which
 brings the amount to . . . $444 $930
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=25 p:4  proofed ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=25 p:4 ]]
 
 3. subtract from the edition 100 copies for
 review and promotion, and divide the total
@@ -593,7 +593,7 @@ The Carnegie Endowment for International
 Peace, which distributes much of its material free of
 charge, and does not therefore figure promotion as
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=26 p:5  proofed ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=26 p:5 ]]
 
 part or its costs, allows $3800 to pay for an
 edition of 1500 copies or a cloth bound book of
@@ -622,7 +622,7 @@ the minimum paying edition would drop from around two
 thousand to around three or four hundred, without any
 change in the production method.
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=27 p:6  proofed ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=27 p:6 ]]
 
 Library costs.
 
@@ -649,7 +649,7 @@ their funds for other than acquisition purposes
 two thirds. But the capital cost of building and land
 is not included in this figure. A library like the
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=28 p:7  proofed ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=28 p:7 ]]
 
 New York Public Library, which must take into
 account a high cost of land, maintains an enormous
@@ -675,7 +675,7 @@ from a minimum of 3.50 to a maximum of 14.00. One
 dollar spent to manufacture a book (royalties, press -
 work, binding, and editing) must have from six to
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=29 p:8  proofed ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=29 p:8 ]]
 
 twenty-eight dollars added to it on account of library
 costs.
@@ -701,7 +701,7 @@ a miniature slide, to be read by projection on a screen).
 The inventors and promoters of the new devices are
 concerned very little with the scholar's problem.
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=30 p:9  proofed ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=30 p:9 ]]
 
 Lithographic printing methods are commercialized in
 response to the needs of advertisers, and filmslide
@@ -728,7 +728,7 @@ used either as a type foundry or for setting straight
 copy. Hand-set type is used principally in connec-
 tion with advertising compositions. It is a luxury
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=31 p:10  proofed ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=31 p:10 ]]
 
 when used in straight textual matter.
 
@@ -754,7 +754,7 @@ to print it on a thin metal sheet for use in the offset
 press. This third method will be discussed in the next
 section.
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=32 p:11  proofed ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=32 p:11 ]]
 
 The interest of scholarship in cheap and
 small editions is most nearly approximated in the
@@ -778,7 +778,7 @@ be found in the wage scale of the operators._ Quo-
 tations from a multigrapn company upon straight text
 work are equal to the highest printer's quotation.
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=33 p:12  proofed ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=33 p:12 ]]
 
 Mime-O-Form.
 
@@ -799,7 +799,7 @@ So great is the variation in prices
 quoted for printing small editions that it is evident
 that the business and labor policies have as much effect
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=34 p:13  proofed ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=34 p:13 ]]
 
 as the technical process itself upon small edition
 costs.
@@ -826,7 +826,7 @@ master-copy from which he makes, photographically,
 his printing surface. The lower price is for the
 reproduction of a text which goes to the printer as a
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=35 p:14  proofed ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=35 p:14 ]]
 
 suitable master-copy, either the author's clean type-
 script or the pages of a printed book. The higher
@@ -836,9 +836,9 @@ from G.B. Harrison's paper on "Facsimile Reprints", given
 before the Anglo-American Conference of Historians,
 13-18 Ju1y,1931.
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=36 p:15  proofed ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=36 p:15 ]]
 [[table ]]
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=37 p:16  proofed ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=37 p:16 ]]
 
 The various processes thus take the following
 order as regards cost. Printing in France is cheapest,
@@ -862,7 +862,7 @@ low as 20%. New technical processes often exert their
 greatest influence on price through their use of
 untrained or half trained labor.
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=38 p:17  proofed ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=38 p:17 ]]
 
 The 'offset'' Methods. Lithography and Photography.
 
@@ -891,7 +891,7 @@ artist. The metal plate with its albumin or bitumen
 coating acts exactly like photographic paper except
 that it requires a much longer exposure to light.
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=39 p:18  proofed ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=39 p:18 ]]
 
 Printed or typewritten pages, together with illustra-
 tions, are copied on the metal either directly from the
@@ -918,7 +918,7 @@ principal significant differences in equipment, and
 the chief lines of technical development, are the
 following:
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=40 p:19  proofed ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=40 p:19 ]]
 
 1. The Size of the Press.
 
@@ -948,7 +948,7 @@ a saving in that it is cheaper to clean the old than
 to buy a new sheet, but they affect the printing costs
 because they make it expensive or impossible to store
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=41 p:20  proofed ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=41 p:20 ]]
 
 the sheets for a fresh printing of a book which has
 already been run in one edition. Rotaprint and
@@ -977,7 +977,7 @@ a. Direct Impression
 
 This is the closest relative to the original
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=42 p:21 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=42 p:21 ]]
 
 lithographic process. Pen and ink or a typewriter with
 a special ribbon directly on the metal is used instead
@@ -1009,7 +1009,7 @@ Instead of removing an image from one surface
 or wet plate process, the metal sheet is given a coating
 of a light sensitive substance, based on bitumen, fish
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=43 p:22  proofed ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=43 p:22 ]]
 
 glue or egg albumin, and an image is imposed upon it with
 light, as in photographic printing, from a negative or a
@@ -1038,7 +1038,7 @@ is to print white, and ink in the space which is to print
 black. In using this positive process it is sometimes
 desirable to grease the paper from which the image is
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=44 p:23  proofed ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=44 p:23 ]]
 
 being copied in order to render its white parts more
 transparent. The Coxhead Press uses this positive photo-
@@ -1070,7 +1070,7 @@ process. Direct impression and direct transfer methods
 do not permit any alteration in size as between the original
 and the copy. The Wet Plate Method and all the negative
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=45 p:24  proofed ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=45 p:24 ]]
 
 photo-process methods permit of enlargement or reduction of
 the copy. The positive photo-process method in most cases
@@ -1099,7 +1099,7 @@ that the time required is fifteen to twenty minutes.
 The object of development along this line is three-
 fold: to get better art work, to make a more dur-
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=46 p:25  proofed ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=46 p:25 ]]
 
 able metal sheet which will stand a longer run in an
 offset press or resist the abrasion resulting from
@@ -1127,7 +1127,7 @@ makes use of the fact that chromium is a hard metal
 which will accept and transfer ink, while mercury will
 refuse ink. The chromium serves for the grease of
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=47 p:26  proofed ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=47 p:26 ]]
 
 primitive lithography, mad the mercury for the wet
 surface of the stone. Although this process will not
@@ -1153,7 +1153,7 @@ An inventor by the name of Price hes devel-
 oped an ink which carries in itself the moisture
 necessary to keep the wet part of the metal sheet from
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=48 p:27  proofed ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=48 p:27 ]]
 
 taking ink. The use of this ink simplifies the printing
 process by leaving out one step, namely, the moistening
@@ -1182,7 +1182,7 @@ master-copy to be used in a photo-lithographic process.
 
 There are three kinds of work in which master
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=49 p:28 proofed ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=49 p:28 ]]
 
 copy is now furnished without typesetting. Advertising
 display work is sometimes prepared by the artist who does
@@ -1210,7 +1210,7 @@ spaced to justify the margin, inked, and printed on a
 strip of paper, from which it can he transferred to the
 photo-lithographic metal sheet. This machine has been
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=50 p:29 proofed ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=50 p:29 ]]
 
 used in book manufacture. A similar invention. which
 has not yet been given industrial promotion, is
@@ -1237,7 +1237,7 @@ cheap substitute for film has been invented for the
 purpose. The success of these photo-typing machines
 would constitute the most decisive revolution in
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=51 p:30 proofed ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=51 p:30 ]]
 
 printing since Caxton's time.
 
@@ -1266,7 +1266,7 @@ but the limitation that the copies are turned out in the
 same size as the original. From this standpoint there is
 very little difference between the best mimeograph work
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=52 p:31 proofed ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=52 p:31 ]]
 
 and the work done with the offset press from metal
 sheets which have been typewritten with a special ribbon,
@@ -1320,7 +1320,7 @@ plant. The quotation is here given for purposes of
 comparison with the lowest quotations for other comparable
 kinds of work.
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=54 p:33 proofed ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=54 p:33 ]]
 
 Unit Cost of a Book of 100 Pages, 50,000 Words,
 on Full Typewriter Size Paper (8½ x 11 inches)
@@ -1350,7 +1350,7 @@ Reprints from mimeograph
 stenci1s.......... 1.00 .80 .70 .50 .43 .40 .38 .34
 
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=55 p:34 proofed ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=55 p:34 ]]
 
 In comparing this table with the table of prices of
 offset and raised type printing it must be noted that
@@ -1378,7 +1378,7 @@ cost of a white-on-black negative in those cases where the
 purchasers want black-on-white positives, or where there
 is a saving of labor in "imposing" the negative. If one
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=56 p:35 proofed ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=56 p:35 ]]
 
 of the purchasers is willing to accept the negative
 copy, its cost need not always be "distributed" over the
@@ -1406,7 +1406,7 @@ sides, and hence will bring a saving of half the cost of
 binding the volumes, sells for $.10 per square foot of
 paper, or $.05 per square foot of sensitive surface.
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=57 p:36 proofed ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=57 p:36 ]]
 
 When wastage has been taken into account, and
 the variation due to the different ways of imposing the
@@ -1443,65 +1443,53 @@ the costs of labor and chemicals. The New York Public
 Library end the printing department of the Cleveland
 Bell Telephone Company have very kindly contributed
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=58 ]]
-37
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=58 p.:37 ]]
 
 statements of their operating costs. In the Public
-Library the great majority of the prints were 11%
-
+Library the great majority of the prints were 11½
 x 14 inches, usually one copy only, and the average
-cost of the paper was 3.055. In the Telephone company
-the average size of paper was 8% x 11, and in many
+cost of the paper was $.055. In the Telephone Company
+the average size of paper was 8½ x 11, and in many
 cases several copies of the same object are required.
-The cost of paper averaged 3.03 per page. In the
-Public Library the 8.055 worth of paper requires so
+The cost of paper averaged $.03 per page. In the
+Public Library the $.055 worth of paper requires so
 much reference and clerical work, that the cost of
-the finished prints rises to'8.197 each. In the
-Telephone company, where only operating room charges
+the finished prints rises to $.197 each. In the
+Telephone Company, where only operating room charges
 need be considered, the $.03 worth of paper is worked
-up into a print which costs 8.063. This means that
+up into a print which costs $.063. This means that
 the labor, depreciation and chemical supplies cost
-3.033. These operating room costs in the Public
-Library amount to 3.06. The figures in total
-
+$.033. These operating room costs in the Public
+Library amount to $.06. The figures in total
 operating cost are as follows:
 
- 
+Library Telephone Co.
+Paper (per 100 pages) $5.50 $3.00
+Operating costs (do.) 6.00 3.30
+$11.50 $6.30
 
-Library Telephone 00.
-Paper (per 100 pages) $5.50 33-00
-operating costs (do.) 6.00 3-30
-$11.50 $6.50
+Cost per square foot
+for Paper, Labor &
+Chemicals $ 0.10 $0.084
 
-cost per square foot
-for Paper,Labor &
-chemicals 5 0.10 30.084
-
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=59 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=59 ]]
 38
 
 The Public Library spends an additional 8.082 on every
 pmewcmachnulmm.mngmamdukwmnu-
 charges which are due to the special character of the
-
 Library work. The unescapable operating costs are 10%
 more than the cost of the par, and may be more than
-
 twice the cost of the paper. This percentage is
 reduced as the work becomes more continuous. The Life
 Insurance companies operate with highly standardized
 copy; their labor costs should be very low, but the
-
-writer has not beau able to secure statements from
-
+writer has not bean able to secure statements from
 them. The work of the Massachusetts Historical Society
 in copying colonial newspapers made use of the photo-
 stat at its highest efficiency for the reproduction
-
 of research materials. A letter from the Director, Mr.
-
 Worthington C. Ford, explains the financing of this
-
 enterprise:
 
 '...we gave our operator the highest photostat
@@ -1518,7 +1506,7 @@ some years there was a profit of 300-5400 and
 
 some years we came out even."
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=60 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=60 ]]
 39
 
 Similar newspaper photostating by Michigan Universit:
@@ -1552,7 +1540,7 @@ dard equipment which leaves it to the operator to hift
 
 the prints to a rinsing tank and to dry them, and a
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=61 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=61 ]]
 +0
 
 "Continuous Photostat' or "Super-Reotigrsph' which carries
@@ -1581,7 +1569,7 @@ the fixing bath because it covers the whole surface of
 
 the paper evenly with the solution before it enters the
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=62 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=62 ]]
 41
 
 bath. It is this covering of the surface prior to
@@ -1609,7 +1597,7 @@ were a transparent film, but which do not so readily
 penetrate through an ink surface. The plate is used in
 a dark room, by placing the master-copy on top of the
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=63 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=63 ]]
 43
 
 sheet of photostat paper and the Luminiophor plate on
@@ -1639,7 +1627,7 @@ to become reticulated under chemical and heat treatment.
 
 The gelatine receives the photographic image direct.
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=64 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=64 ]]
 43
 
 It reproduces the whole range of tone values of the
@@ -1674,7 +1662,7 @@ the advantage of the photograph is especially
 
 important. cost and aualitv in both these processes
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=65 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=65 ]]
 are very high.
 
 111.  mmJm
@@ -1709,7 +1697,7 @@ printed books, manuscripts of which
 facsimiles are desired,and clean typescripte
 can be considered as ready for the camera.)
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=66 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=66 ]]
 45
 
 2. will the purchasers and readers demand book
@@ -1742,7 +1730,7 @@ falling unit costs of production while avoiding sales
 
 risks and rising costs of promotion.
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=67 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=67 ]]
 48
 
 The dividing line between photostat and photo-
@@ -1752,7 +1740,7 @@ The figures quoted for commercial work are in agreement
 
 with this conclusion.
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=68 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=68 ]]
 47
 
 COHPARATIVE COSTS OF PHOTOSTAT AND PHOTO-LITHOGRAPHY IN EDITI(HS OF
@@ -1815,7 +1803,7 @@ Fr°V8E9- W85§;2l§neQ2L. m--____ _...L__-
 
   
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=69 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=69 ]]
 48
 
 The dimensions quoted by the different photo-offset
@@ -1846,7 +1834,7 @@ fifteen to twenty two, and the list never got beyond
 twenty four. This list therefore stood at the marginal
 point where photo-lithography was Just b681nfl1n8 "° b°
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=70 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=70 ]]
 49
 superior to the photostat. Projects similar to that of
 
@@ -1873,7 +1861,7 @@ of lower prices in the event that the subscription
 
 list grows large enough to warrant reductions.
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=71 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=71 ]]
 . 50
 The other critical point in the photographic
 
@@ -1903,7 +1891,7 @@ crepancy in these figures is probably explained by the
 
 element of bindery cost, which would not necessarily be
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=72 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=72 ]]
 51
 incurred for that part of the edition which is printed
 
@@ -1936,7 +1924,7 @@ libraries usually have to pay for average books in the
 
 open market. Even copies of old newspaper files could
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=73 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=73 ]]
 53
 be sold at these low prices if the subscription list
 
@@ -1972,7 +1960,7 @@ preparation of a copy that is final and correct in
 
 every detail. No editor or proof reader will help
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=74 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=74 ]]
 53
 
 him with his spelling or systematize his capitalization.
@@ -2002,7 +1990,7 @@ The devices related to the mimeograph distribute
 the labor of printing more as is done in the publishing
 trade. The author nas the extra labor and the opportunity
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=75 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=75 ]]
 54
 
 for correcting his script which proofreading affords. He
@@ -2041,7 +2029,7 @@ hand work, and possibly to charges for zinc cuts or copper
 
 plates.
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=76 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=76 ]]
 55
 
 The redistribution of labor between author, editor.
@@ -2071,7 +2059,7 @@ book of the same size by photo-offset for 52§¢. It 600
 
 words instead of 500 are put on an Edwards page, the cost
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=77 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=77 ]]
 3
 
 per word of the two methods becomes the same. It is
@@ -2101,7 +2089,7 @@ is reduced. The variation in costs is illustrated if
 
 the full size typescript page be compared with n news-
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=78 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=78 ]]
 57
 paper reduced to half size. The typewritten thesis, now
 the standard form in which unpublished scholarly work is
@@ -2131,7 +2119,7 @@ tion the retardation amounts to approximately half a word
 
 a second. Fatigue in reading is probably proportional to
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=79 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=79 ]]
 56
 
 ' retardation of speed. The following table presents the
@@ -2140,7 +2128,7 @@ conclusions covering legibility, number of words per
 
 square inch, and cost of publication.
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=80 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=80 ]]
 59.
 
 " rm: egg: or LEGIBILITY
@@ -2223,7 +2211,7 @@ Small page can be printed for
 
 mm: m 4 mm
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=81 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=81 ]]
 60
 
 These figures take no account of 1 number of important
@@ -2268,7 +2256,7 @@ way from 4% points up, in a great vsrieﬁi °f 3tY1¢3 35 *0
 length 01 line and spacing. CODY Prepared 0" °Td1n3r¥
 typewriter paper, 8% x 11 inches, will P!°d"¢° 3 ’1"31
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=82 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=82 ]]
 61
 
 page having anything from 150 to 1500 words,or more.
@@ -2301,7 +2289,7 @@ The ratio of length of line to size of letter
 
 has an important effect upon legibility. A good length
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=83 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=83 ]]
 62
 
 is X x 30 where I is the point size of the type. it this
@@ -2319,7 +2307,7 @@ been worked out. The styles which are marked with a star
 
 are reproduced in the appendix.
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=84 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=84 ]]
 63.
 
 PREPARATION OF TYPESCRIPT FOR PHOTO-LITHOGRAPHY
@@ -2374,7 +2362,7 @@ column
 
 __::__- 
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=85 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=85 ]]
 There ere two inquiries remaining to be made in
 connection with legibility. The psychological study should
 be carried further to compare typescript and print faces of
@@ -2404,7 +2392,7 @@ same Kind of utility in research, the reprinting should en-
 
 large the one and reduce the other to whatever size has the
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=86 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=86 ]]
 65
 
 appropriate legibility. A certain rule of thumb accuracy
@@ -2436,7 +2424,7 @@ made accessible to them in seven point type or tour files
 
 in three and one half point type.
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=87 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=87 ]]
 86
 Qgtiogg Aids to gsgihilitz.
 
@@ -2465,7 +2453,7 @@ tion with the technical difficulty of reducing print to
 sizes much below 3.5 points, it is clear that there is no
 advantage in making a text which cannot be read with the
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=88 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=88 ]]
 '<
 
 6?
@@ -2500,7 +2488,7 @@ glass is set at a fixed focus which suits the reader's eye,
 
 and the printed matter is then moved through the frame by
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=89 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=89 ]]
 turning a little screw.
 
 To a person not trained to use one eye alone.
@@ -2532,7 +2520,7 @@ In small editions the cost of materials consti-
 
 tutes so small a proportion of the total expense that the
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=90 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=90 ]]
 59
 
 cuality of the paper can be improved without greatly
@@ -2569,7 +2557,7 @@ expected to have a minimum life of 100 years.
 Grade III.Papers quite highly purified, that may be
 expected to have a minimum life of 50 years.
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=91 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=91 ]]
 70
 
 Grade IV. Papers having a 1ow degree of purity, for
@@ -2591,7 +2579,7 @@ two methods of grading, by raw-materiel composition and by
 
 performance, is clear:
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=92 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=92 ]]
 ...
 
 CHEMICAL AND PERFORMAHCE SPECIFICATION"
@@ -2647,7 +2635,7 @@ Mr. E.H. Naylor of the Rag content Paper Manufactur-
 
 ers Association defends the "composition" specification, an-
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=93 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=93 ]]
 72
 
 questions the validity of the tests of permanence proposed
@@ -2694,7 +2682,7 @@ Ir. Baylor declares that tub sizing with ge1a~
 
 tine adds a protective feature by increasing resistance
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=94 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=94 ]]
 73
 
 to light and atmospheric impurities.
@@ -2730,7 +2718,7 @@ of their ability....
 
 These manufacturers have felt that our
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=95 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=95 ]]
 74
 
 present knowledge of the factors which
@@ -2778,7 +2766,7 @@ Grade I.........4
 Grade Il........l
 "Mixed furnishes", 2 to 3.
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=96 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=96 ]]
 7b
 
 It goes without saying that research naterials
@@ -2816,7 +2804,7 @@ expensive nape; ig unggld books that makes it so costly to
 print on high priced paper. The financing of permanent
 paper reduces itself to the problem or how to avoid print-
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=97 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=97 ]]
 /8
 ing more than can be sold. In offset printing this means
 that the key to paper quality is the use in printing of
@@ -2843,7 +2831,7 @@ had purchasing power sufficient to reprint new editions
 at will could probably arrange to secure special paper in
 many commercially printed books.
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=98 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=98 ]]
 .',.,
 
 The influence of size of edition upon the cost
@@ -2874,7 +2862,7 @@ ialization, the more limited will be the circle of
 
 readers interested in any particular item of research
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=99 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=99 ]]
 78
 material. Unsubsidized publication has hitherto financed
 itself on the pgggibilitx that the circle of purchasers
@@ -2903,7 +2891,7 @@ particular equipment and a particular need. The group of
 subscribers who will fill in files of reproductions of
 
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=100 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=100 ]]
 79
 
 colonial newspapers will probably not interest themselves
@@ -2931,7 +2919,7 @@ in America possess this important set. It is technically
 possible to reprint it in an edition of 300 to be sold to
 other libraries at 32.50 oer volume, or fifty dollars the
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=102 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=102 ]]
 81
 IV. Filmslide Photography
 
@@ -2961,7 +2949,7 @@ has far outrun the work of transferring them to full size
 
 sheets of photostst paper. In the meantime the film-
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=103 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=103 ]]
 B3
 
 slides themselves are being read by the projection meth-
@@ -2991,7 +2979,7 @@ of the strip is available for photography. If the film
 
 is unperfcrated this amount is increased to 30 mm. A
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=104 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=104 ]]
 83
 
 square metre of sensitive surface is furnished by 108
@@ -3023,7 +3011,7 @@ six dollars worth of photostat paper; reduced twenty
 
 -1--u....an--u
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=105 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=105 ]]
 84
 
 four diameters it will go on three cents worth of film.
@@ -3054,7 +3042,7 @@ The standard scientific measure of resolving
 
 power is in lines per millimeter. But this proves to be
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=106 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=106 ]]
 85
 
 too refined a measurement for studying the practical
@@ -3085,7 +3073,7 @@ clear in the 'o's, 'd's, 'p's, and 'b"s. Legibil-
 
 ity is distinctly lower than in the original.
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=108 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=108 ]]
 86
 
 "D’ Legibility. Almost illegible. The openings
@@ -3123,7 +3111,7 @@ I new 3ty1e3O mm ' Hon-Perforated
 
 naturally the size of the page to be rePr°d"°°d
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=109 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=109 ]]
 87
 
 may hear such a relation to the dimensions of the film-
@@ -3156,7 +3144,7 @@ stand for copying, 2) a projector for reading. The
 
 t.ird may not be needed: 3) enlarging ef"i?"9V7 *0’
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=110 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=110 ]]
 d9
 
 projecting them costs as follows:
@@ -3192,7 +3180,7 @@ Camera in most respects except that it takes a double
 
 frame picture. It has no special equipment for copying
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=111 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=111 ]]
 90
 
 documents, and will not focus at a shorter distance
@@ -3225,7 +3213,7 @@ succeeded by ya cinescopie, Rue aux Laines, Brussels.
 
 Then the name became Photoscope again, and the address
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=112 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=112 ]]
 m
 
 changed to 121 Rue Berckmans, Brussels
@@ -3263,7 +3251,7 @@ been amply proved by its work in the collection of archive
 
 copies for the Library of Congress
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=113 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=113 ]]
 92
 
 The Ansco Universal still-[ilm Copying camera
@@ -3293,7 +3281,7 @@ the focus. when the lens is correctly set, the opening
 
 must be stopped down to increase the fineness of the
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=114 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=114 ]]
 93
 
 image, then the cap is put over the lens. and the film
@@ -3325,7 +3313,7 @@ equipment is offered by Ansco. In its absence the diffi-
 
 culty of copvinv a pane from a book is very great. Loose
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=115 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=115 ]]
 94
 
 sheets are clamped in place on the board by means of
@@ -3358,7 +3346,7 @@ one frame in either Ansco or Leica. But the Leica
 frame is twice as large as the Ansco, and the cost of
 materials would therefore be twice as high. But if
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=116 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=116 ]]
 the pamphlet were larger than 5% x 7, or if it were nec-
 essary to use a high resolving power in making the copy,
 the advantaze would be with the double-frame cameras_
@@ -3389,7 +3377,7 @@ sure. But this kind of focusing has little special value
 
 when the image is as small as the image of print reduces to
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=117 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=117 ]]
 98
 
 the size or a filnslide. It is still necessary to use a
@@ -3421,7 +3409,7 @@ Double ggposura.
 
 The Leitz Company offers two kinds of cameras:
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=118 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=118 ]]
 97
 
 the one with focal plane shutter at 391.50 and the
@@ -3449,7 +3437,7 @@ The load taken by the Leica camera is 5% feet
 of film, 36 exposures, as compared with three feet, 50
 exposures in the Ansco; 8 to 10 feet, 50 to 80
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=119 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=119 ]]
 
 exposures in the Q.R.S., and 16½ feet, 100 expos~
 ures in the Lemare. In Ansco and Leica the film is loaded
@@ -3477,7 +3465,7 @@ are intended to work faster, making longer runs. They
 
 both take full 400 foot rolls of rum. The Kennedy apps.-
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=120 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=120 ]]
 99
 
 rstus is focused by trial and error to pick up the chem-
@@ -3509,7 +3497,7 @@ daily produce is about half of that - 3.500 exposures.
 5,000 pages per day.
 The advantage of these larger machines is in
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=121 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=121 ]]
 ".00
 
 their saving of labor. Dr. Thomas Martin, who super-
@@ -3537,7 +3525,7 @@ are suited to the library price level. But it must be
 understood that both prices are set in rather arbi-
 trary independence of costs, and in ignorance of the
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=122 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=122 ]]
 101
 
 price range at which large scale use in research can
@@ -3583,7 +3571,7 @@ ganization as well as the technique or filmslide pho-
 
 tography is still in the experimental stage.
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=123 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=123 ]]
 102
 
 A letter from the Bureau International d'I:dition,
@@ -3613,7 +3601,7 @@ done by the Kennedy apparatus which, it happens, employs
 
 permissible to compare the performance of cameras with
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=124 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=124 ]]
 103
 reference to the reduction ratio, even though the camera
 
@@ -3663,7 +3651,7 @@ the Lemare may.be due to the extra front lens used in the
 
 mum Hr "r"w,-'u
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=125 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=125 ]]
 104
 
 Leica in copying work. The superior work of the Kenne-
@@ -3696,7 +3684,7 @@ machine, but has a coarser focal adjustment. The film
 
 holder or the Leica projector can be turned around to
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=126 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=126 ]]
 105
 
 show either the side or top of the frame uppermost.
@@ -3724,7 +3712,7 @@ ground glass. The rilmograph projector works from a
 mounting above the reader's head, and is read by reflect-
 ed light direct from the screen. Experiments with diff-
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=127 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=127 ]]
 106
 
 ferent kinds of screens show the surprising result
@@ -3757,7 +3745,7 @@ less it should be necessary to transfer the image from
 
 film to paper in order to preserve it), because it saves
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=128 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=128 ]]
 '9
 
 107.
@@ -3785,7 +3773,7 @@ with "A’ legibility on a 25 millimeter breadth of film;
 Lemare will give the same legihility to no more than 39
 centimeters on its 30 millimeter breadth of film.
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=129 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=129 ]]
 108.
 
 The beioa equipment is also likely to be more
@@ -3818,7 +3806,7 @@ films of some other Ansco or Leica owner and read than '1¢h-
 
 out additional investment. It is to be based that -omeone
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=130 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=130 ]]
 109
 
 will soon put a better projector on the market.
@@ -3851,7 +3839,7 @@ filmslide (Lemare) is l%¢. The Harvard Library, using
 
 the Leica equipment, has taken sixty to seventy photo-
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=131 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=131 ]]
 110
 
 graphs an hour, at Ihioh rate or work the cost would
@@ -3875,7 +3863,7 @@ such as the rilmograph or the Kennedy camera, the cost
 
 per exposure will work out as follows:
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=132 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=132 ]]
 ll
 
 E1E§_§Q§2 Low cos"
@@ -3910,7 +3898,7 @@ and storing the finished product, and all overhead costs,
 
 alike for capital and administration. The labor cost at
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=133 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=133 ]]
 113
 its lowest stands in a higher ratio to the material
 cost in tilmslide photography than in phctcstating.
@@ -3942,7 +3930,7 @@ The copying of newspapers by the filmslide
 prcoess falls Just within present technically practica-
 ble limits. It the Lemare camera had Leica precision
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=134 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=134 ]]
 113.
 
 or the Leica used non-perforated film, there would be
@@ -3972,7 +3960,7 @@ as most promising as a means of preserving a fifty
 Years" legacy of perishable paper is the filmslide copyb
 ing method.
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=135 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=135 ]]
 114.
 
 The filmslide method also enters into the solu-
@@ -4003,7 +3991,7 @@ per slide, at which level the following comparisons are
 
 in order:
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=136 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=136 ]]
 115-
 
 one Hundred Pgges of the New York Times
@@ -4056,7 +4044,7 @@ essary to put two pages on a filmslide, but 17 diame-
 
 ters would suffice to put one page on e slide. Since
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=137 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=137 ]]
 116.
 
 the 33 diameter reduction is elose to the top limit
@@ -4086,7 +4074,7 @@ average price of 835 per year, bound. A file of Action
 Irancaise 1900-1928, 28 years in 68 bound volumes is
 offered for $400, or $2.40 per volume, $5.72 per year.
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=138 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=138 ]]
 117.
 
 Most of these newspapers are four or six page issties;
@@ -4109,7 +4097,7 @@ in which special fire-proofing and temperature conditions
 
 must be met.
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=139 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=139 ]]
 118.
 V. Note-Tsking Eguipment.
 
@@ -4138,7 +4126,7 @@ every book in the form of loose leaves, printed on one
 side, and reduced to a standard note size. He need only
 underline on a page the words he wishes to take note of;
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=140 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=140 ]]
 119.
 a typist can then file a separate copy of the whole page
 under each of the words so underlined.
@@ -4170,7 +4158,7 @@ The advertising literature for the Lemare and
 
 Leica apparatus both assume that the user will print
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=141 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=141 ]]
 120.
 
 enlarged copies of his tilmslides for use as notes.
@@ -4197,7 +4185,7 @@ compensated for by the convenience of the standardized
 
 size.
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=142 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=142 ]]
 131.
 
 VI. Recommendations. .
@@ -4232,7 +4220,7 @@ Lemars equipment.
 
 In either case, it is very important that all
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=143 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=143 ]]
 12?.
 
 libraries should install filmslide ohotocraphy and
@@ -4267,7 +4255,7 @@ files of newspapers in libraries, although it may be
 
 used as a substitute for the photostat in making
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=144 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=144 ]]
 123.
 
 pages of newspapers available to scholars who could
@@ -4298,7 +4286,7 @@ the apparatus in hand with minimum labor cost factor.
 
 Such processes as that invented by Dr. Kutchison should
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=145 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=145 ]]
 124.
 be tested in this connection.
 6. A more efficient projector should be designed.
@@ -4333,7 +4321,7 @@ selves if the buying power were so organized as to elimi-
 
 nate waste. A survey of scholarly book publication
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=146 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=146 ]]
 :25.
 facilities is being made by Mr. John Marshall under
 
@@ -4364,7 +4352,7 @@ the book in order to pay for promotion in the market.
 
 The social sciences and humanities are not protected
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=147 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=147 ]]
 l26.
 
 by the nature of their subject matter from this pres-
@@ -4396,7 +4384,7 @@ without a subvention from the author. Source materials
 
 on the Paris Peace conference ought to be circulated
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=148 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=148 ]]
 ' 12'. .
 and studied as intensively as the source materials on
 
@@ -4431,7 +4419,7 @@ tional purchasing power either to reduce purchasing
 
 prices or secure better typography and legibility at the
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=149 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=149 ]]
 128.
 sane prices.
 
@@ -4464,7 +4452,7 @@ ing orgsnization,materia1s {or publication can be class-
 
 ified into two groups.
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=150 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=150 ]]
 129.
 
 group 1, in which the interest of the library predni-
@@ -4499,7 +4487,7 @@ Organization of purchasing power for this class of
 
 material might well begin with the learned societies and
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=151 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=151 ]]
 130.
 
 their committees. some or them have publication com-
@@ -4529,7 +4517,7 @@ ganized, ewery worthy project for which there are over
 
 a hundred purchasers can be published and distributed.
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=152 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=152 ]]
 131.
 Action by the Joint committee
 The object described in the foregoing pare-
@@ -4564,7 +4552,7 @@ view. A procedure might well be:
 
 tion in the field which could be asked to send our circu-
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=153 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=153 ]]
 133.
 
 1s:e or use its Journals to determine whether it con-
@@ -4600,7 +4588,7 @@ revolving funds, and the.Fac-Simile Text society, or
 
 Edwards Brothers if the publication required is a reprint
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=154 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=154 ]]
 i33.
 of an out-or-print publication. The Fae-Sinile Text
 Society invites suggestions of titles for publication,
@@ -4637,7 +4625,7 @@ Any field of scholarship in which there is
 
 established a publishing agency which workson these
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=155 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=155 ]]
 134.
 
 principles is in a position to take full advantage of
@@ -4669,7 +4657,7 @@ could also control publication of fac-similes of important
 
 and widely demanded documents which are out of print, and
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=156 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=156 ]]
 13;.
 
 could pass from that to the control of publication of
@@ -4703,7 +4691,7 @@ newspaper acouisition policies has been voted by the
 
 Joint committee, but no work done upon it. If the Survey
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=157 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=157 ]]
 136.
 should reveal that any newspapers are now being current-
 ly bound by more than one-hundred libraries, the librar-
@@ -4745,7 +4733,7 @@ publishing facilities. This would be a problem in setting
 
 up an organization. The other should lie in s. field
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=158 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=158 ]]
 L37.
 where there is a demand that certain material be made
 more accessible. It would be a matter of carrying
@@ -4775,7 +4763,7 @@ the least costly way of producing each of them determined.
 
 It is suggested that In studies of legibility newsprint be
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=159 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=159 ]]
 138.
 
 taken as a standard, and that legibilities be graded as
@@ -4805,7 +4793,7 @@ into a new edition of the Survey which can be used in
 carrying out the plans of the Joint Committee by present-
 ing its point of view in full. The comparison of Leica
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=160 p:139 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=160 p:139 ]]
 132 .
 
 and Lemare apparatus should be completed as recommend-
@@ -4818,8 +4806,8 @@ be incorporated in the report. The new edition of the
 Survey could then be circulated among the publication
 committees of the learned societies and the libraries.
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=161 ]]
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=162 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=161 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=162 ]]
 
 A SURVEY OF METHODS OF REPRODUCING
 RESEARCH MATERIALS
@@ -4861,7 +4849,7 @@ Italy ................................................ _, .65
 
 SPECIMEN PAGE PRODUCED BY MIME-0-FORM SERVICE, WASHINGTON, D. C.
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=163 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=163 ]]
 Research materials that can be presented in book form within this
 price range can be fed into the library system of the country without
 requiring signiﬁcant changes in present acquisition policies.
@@ -4919,22 +4907,22 @@ cost of each book ......... .. $ .49 $1.03
 
 ~»~-----------------.....__..-9-... .......... 
 
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=164 ]]
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=165 ]]
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=166 ]]
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=167 ]]
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=168 ]]
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=169 ]]
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=170 ]]
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=171 ]]
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=172 ]]
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=173 ]]
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=174 ]]
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=175 ]]
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=176 ]]
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=177 ]]
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=178 ]]
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=179 ]]
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=180 ]]
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=181 ]]
-[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=182 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=164 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=165 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=166 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=167 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=168 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=169 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=170 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=171 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=172 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=173 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=174 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=175 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=176 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=177 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=178 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=179 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=180 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=181 ]]
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=182 ]]
