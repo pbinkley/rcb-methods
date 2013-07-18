@@ -1,17 +1,17 @@
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=1 p:cover ]]
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=2 ]]
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=3 ]]
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=4 ]]
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=5 ]]
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=6 ]]
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=7 ]]
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=8 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=1 p:cover ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=2 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=3 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=4 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=5 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=6 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=7 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=8 ]]
 Methods Of Reproducing
 Research Materials
 
  
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=9 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=9 ]]
 [[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=10 ]]
 Methods Of Reproducing
 Research Materials
@@ -40,7 +40,7 @@ EDWARDS BROTHERS, INC.
 Lithoprinters and Publishers
 ANN ARBOR. MICHIGAN
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=11 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=11 ]]
 [[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=12 ]]
 FOREWORD
 
@@ -977,7 +977,7 @@ a. Direct Impression
 
 This is the closest relative to the original
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=42 p:21 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=42 p:21 ]]
 
 lithographic process. Pen and ink or a typewriter with
 a special ribbon directly on the metal is used instead
@@ -1472,17 +1472,16 @@ Cost per square foot
 for Paper, Labor &
 Chemicals $ 0.10 $0.084
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=59 ]]
-38
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=59 p:38 ]]
 
-The Public Library spends an additional 8.082 on every
-pmewcmachnulmm.mngmamdukwmnu-
+The Public Library spends an additional $.082 on every
+page to cover clerical help, postage, and desk supplies --
 charges which are due to the special character of the
 Library work. The unescapable operating costs are 10%
-more than the cost of the par, and may be more than
+more than the cost of the paper, and may be more than
 twice the cost of the paper. This percentage is
 reduced as the work becomes more continuous. The Life
-Insurance companies operate with highly standardized
+Insurance Companies operate with highly standardized
 copy; their labor costs should be very low, but the
 writer has not bean able to secure statements from
 them. The work of the Massachusetts Historical Society
@@ -1495,86 +1494,75 @@ enterprise:
 '...we gave our operator the highest photostat
 salary paid within my knowledge and with that
 the cost of material represented twice the
-cost of labor. "roughly estimated that it
-cost us about 13 ¢ to make a page of a news-
+cost of labor. I roughly estimated that it
+cost us about 13¢ to make a page of a news-
 paper of the large size...but we printed some
 which required the largest size of sheet
-adaptable to the photoatat machine, and the
-average cost was not increased. we sold the
-newspapers at a fixed price of 15: a page.
-some years there was a profit of 300-5400 and
-
+adaptable to the photostat machine, and the
+average cost was not increased. We sold the
+newspapers at a fixed price of 15¢ a page.
+Some years there was a profit of $300-$400 and
 some years we came out even."
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=60 ]]
-39
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=60 p:39 ]]
 
-Similar newspaper photostating by Michigan Universit:
+Similar newspaper photostating by Michigan University
 Library and John Carter Brown Library are being carried
-on at a rate higher than that charged by the Massachu
-setts Historical Society. The Library of congress
+on at a rate higher than that charged by the Massachu-
+setts Historical Society. The Library of Congress
 estimates that its photostat copies of foreign archive
-material cost it 15¢ each, and the British Museum anc
+material cost it 15¢ each, and the British Museum and
 Bodleian Libraries show a cost of 6¢ a page quarto size.
 It can be concluded that every dollar's worth of photo-
-
 stat paper requires from 50¢ to $1.10 in operating
-
 expenses.
 
-Photostat eauipmen" (
+Photostat equipment
+
 The two appliances which compete in the field
-
-of photographic oopying are the Photostat and the Recti-
+of photographic copying are the Photostat and the Recti-
 graph. The Photostat is the older, and has succeeded
-
 in making a common noun of its trade name. The differences
 between the two kinds of apparatus do not seem to be
 sufficiently important to have a decisive effect upon
 costs, but are worth noting because they illustrate
-
-certain of the practical aspects of photostat work
-
-Both firms have two kinds of apparatus, a stan -
-dard equipment which leaves it to the operator to hift
-
+certain of the practical aspects of photostat work.
+Both firms have two kinds of apparatus, a stan-
+dard equipment which leaves it to the operator to shift
 the prints to a rinsing tank and to dry them, and a
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=61 ]]
-+0
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=61 p:40 ]]
 
-"Continuous Photostat' or "Super-Reotigrsph' which carries
+"Continuous Photostat" or "Super-Rectigraph" which carries
 the print automatically through the whole process from
 exposure to drying. The highest priced continuous Photo-
-atat costs $4,000. The claim is made that it will turn
+stat costs $4,000. The claim is made that it will turn
 out three prints a minute.
 
 The following are the principal differences
-uetween the two machines. The Photostet carries the
+between the two machines. The Photostat carries the
 print on an endless chain through a developer bath, then
 through a chromium roller which squeezes out the surplus
-developer, into a rinsing tank of runing water, and then
+developer, into a rinsing tank of running water, and then
 face-down into a shallow fixing tank which is continuously
-agitated by a motor. The Rectigrsph apparatus grasps the
-end of the pm or and pushes it down into the developer,
+agitated by a motor. The Rectigraph apparatus grasps the
+end of the paper and pushes it down into the developer,
 withdraws it up again by the same end, passes it through
 a roller (but not a bath of running water), covers its
 surface with the fixing solution and lets it emerge face
 up in a deep fixing tank. All these features are inter-
-related. The Reotigraph uses a deeper tank because the
-solution is allowed to lie still; the Photcatat agitates
-the tank, which must therefore be shallow. The Rflﬁtiv
-graph claims that it osn dispense with the agitating of
+related. The Rectigraph uses a deeper tank because the
+solution is allowed to lie still; the Photostat agitates
+the tank, which must therefore be shallow. The Recti-
+graph claims that it can dispense with the agitating of
 the fixing bath because it covers the whole surface of
-
 the paper evenly with the solution before it enters the
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=62 ]]
-41
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=62 p:41 ]]
 
 bath. It is this covering of the surface prior to
 immersion in the bath which permits the print to appear
-face up in the tank. The Photcetat has a much heavier
+face up in the tank. The Photostat has a much heavier
 frame, which is necessary to resist the vibration
 caused by the agitating of the tank, but which has many
 independent advantages. The Rectigraph wastes more
@@ -1584,7 +1572,7 @@ developer. Both companies claim that they are more
 saving of chemicals; in the judgment of the writer the
 Photostat has the better claim because the developer is
 washed off in running water before the print enters the
-fixing tank. correspondence with two users who have
+fixing tank. Correspondence with two users who have
 each had experience with both types of machine reveal a
 preference for Photostat, partly on account of the more
 extensive service organization.
@@ -1597,8 +1585,7 @@ were a transparent film, but which do not so readily
 penetrate through an ink surface. The plate is used in
 a dark room, by placing the master-copy on top of the
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=63 ]]
-43
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=63 p:42 ]]
 
 sheet of photostat paper and the Luminiophor plate on
 top of the master copy. The result is a contact print.
@@ -1616,103 +1603,98 @@ an aid to note taking, and even there it is inferior in
 value to the Leica, Ansco, or Lemare equipment for
 making filmslide copies of documents.
 
-gollotxge and Photograph.
+Collotype and Photograph.
 
 The more costly but finer relative of the
 photostat is the photograph, and the aristocratic cousin
 of the photo-lithographic process is the collotype
 process. In collotype work a film (of gelatine) is
-carried on glass, or on thin sheets of metal.
+carried on glass, or on thin sheets of metal,
 to become reticulated under chemical and heat treatment.
-
 The gelatine receives the photographic image direct.
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=64 ]]
-43
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=64 p:43 ]]
 
 It reproduces the whole range of tone values of the
-original accurately. Dr. G.B.Harrison reports that
+original accurately. Dr. G.B. Harrison reports that
 "at its best collotype can be so perfect as to need
 a magnifying glass to detect the difference between
 original and counterfeit; ink can be exactly matched,
 and every spot, smudge and shade of color exactly
-reproduced. one of the most brilliant examples of
+reproduced. One of the most brilliant examples of
 collotype used for book reproduction was the work of
 the Oxford Press some thirty years ago, in their
-
 facsimile of the First Folio of Shakespeare's Plays,
 and I would call attention to the show-through at the
-
 back of the portrait as an example of what can be
-
 done with this process. Where funds allow, collotype is
-for every purpose the best." (G.3.Harrison: "Facsimile
+for every purpose the best." (G.B. Harrison: "Facsimile
 Reprints", a paper read before the Anglo American
-Conference of Historians, 13-18 Ju1y,l931) But the
-cost of oollotyping is at least three times that of
-photo-l1thography; it should be classed with art work
-
+Conference of Historians, 13-18 Ju1y, 1931) But the
+cost of collotyping is at least three times that of
+photo-lithography; it should be classed with art work
 rather than printing.
 
 In the reproduction of manuscripts the
 photograph will bring out shades which the photostat
 would suppress. In copying illuminated manuscripts
-
 the advantage of the photograph is especially
+important. Cost and qualitv in both these processes
 
-important. cost and aualitv in both these processes
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=65 p:44 ]]
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=65 ]]
 are very high.
 
-111.  mmJm
-mama
+III. Comparison of the Different Methods of Book 
+Manufacture
 
 The four fundamental techniques described
-above: - raised type printing, phcto-1ithography,
-nimeographing and phctostating, - are all competitors
+above: - raised type printing, photo-lithography,
+mimeographing and photostating, - are all competitors
 with each other for the production of books. There is
 another technique - filmslide photography - which does
 not produce books at all, but which offers to the
 scholar a tiny roll of film as a substitute for a book.
-The filnslide is the competitor, not of any particular
+The filmslide is the competitor, not of any particular
 book production technique, but of the book itself as an
-instruent for the preservation of records. Before
+instrument for the preservation of records. Before
 evaluating the filmslide process it is necessary,
 therefore, to review the process of book production as
-
 a whole.
+
 The technological and financial variables in
-
 book production resolve themselves into five, which
-
 should be defined relative to any item which it is
-
 proposed to reproduce:
 
 1. Is the material ready for photographic
 reproduction, or does it still require to
-be copied on the typewriter? (newspapers,
+be copied on the typewriter? (Newspapers,
 printed books, manuscripts of which
-facsimiles are desired,and clean typescripte
+facsimiles are desired,and clean typescripts
 can be considered as ready for the camera.)
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=66 ]]
-45
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=66 p:45 ]]
 
-2. will the purchasers and readers demand book
+2. Will the purchasers and readers demand book
 type and justified right hand margins, or will
 they accept typewriter face and uneven right
-hand margins? (Bibliophile and scholars will
+hand margins? (Bibliophils and scholars will
 probably disagree on this question.)
+
 3. Does the material include other things than
 straight textual matter which can be tapped
 off on a typewriter or linotype machine?
-4. What degree of legibility is reouiredT
+
+4. What degree of legibility is required?
+
 5. How many copies can be sold.
+
 These variables are all inter-dependent.
-1. Reprinting Material which is Read! for Photograohx.
-when material is ready for photography, and the
+
+1. Reprinting Material which is Ready for Photography.
+
+When material is ready for photography, and the
 problem of the use of typewriter face type is not in-
 volved, the photo-offset process has no rival. The small
 press is preferable for editions less than one thousand,
@@ -1721,103 +1703,39 @@ larger editions, if labor and business policies are the
 same.
 
 There are two critical sizes of editions in the
-use of the photo-lithographic method of~copying books and
+use of the photo-lithographic method of copying books and
 newspapers. There is the low limit to an edition, below
 which the photostat is preferable; there is an optimum
 size of edition which will take maximum advantage of the
-
 falling unit costs of production while avoiding sales
-
 risks and rising costs of promotion.
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=67 ]]
-48
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=67 p:46 ]]
 
 The dividing line between photostat and photo-
-lithogruuhy in a business establishment which uses both
+lithography in a business establishment which uses both
 methods is somewhere between fifteen and twenty copies.
 The figures quoted for commercial work are in agreement
-
 with this conclusion.
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=68 ]]
-47
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=68 p:47 ]]
 
-COHPARATIVE COSTS OF PHOTOSTAT AND PHOTO-LITHOGRAPHY IN EDITI(HS OF
+COMPARATIVE COSTS OF PHOTOSTAT AND PHOTO-LITHOGRAPHY IN EDITIONS OF
+LESS THAN ONE HUNDRED. 100 PAGES, SIZE 8-1/2 x 11 INCHES. UNIT COST.
 
-y§§S THAN ONE HUNDRED. 00 PAQES, §IZE E-122 x 11 INCHES. UNIT COST.
+[[ Table ]]
 
-1
-
-   
- 
- 
- 
- 
-  
-
-  
-   
-
-Operat1ng 110%
-
- 
-
-     
-    
-  
-  
-
-Aeg.
-
-Pbotostat 7.58 of aper coat
-
-3-1/2111 wit negative
-not sold.
-
-5.50 Operating 50%
-of paper cost
-with negative
-
-’ sold _
-
-Small Pho-
-
-to-offset
-
-with
-
-Kodalitb
-
-negative.
-
-3-1/2:11 (sau-
-
-Large Photo»
-offset with
-let Plate
-
-Fr°V8E9- W85§;2l§neQ2L. m--____ _...L__-
-
- 
-
-  
-
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=69 ]]
-48
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=69 p:48 ]]
 
 The dimensions quoted by the different photo-offset
 presses differ because for each size of metal sheet
-
 there are certain sizes of imprint which can be made
-
 most economically, since they divide the metal sheet
 without wastage. The Rotaprint 17 X 11 inch sheet
-
-makes two pages 8% X 11 inches; the big Plsnograph sheet
-makes 16 pages 9 X 11% inches, or 9 pages 13 X 15%
+makes two pages 8½ X 11 inches; the big Planograph sheet
+makes 16 pages 9 X 11½ inches, or 9 pages 12 X 15½
 inches. The cheapest photostat is passed by the most
-expensive photo-lithograph at 50 copies; the most expenp
+expensive photo-lithograph at 50 copies; the most expen-
 sive photostat is passed by the cheapest photo-lithograph
 at 17 copies. This latter figure agrees with the office
 practice cited above, of changing from one process to the
@@ -1832,19 +1750,18 @@ copying of many colonial newspaper files. In most of
 his undertakings the number of subscribers ranged from
 fifteen to twenty two, and the list never got beyond
 twenty four. This list therefore stood at the marginal
-point where photo-lithography was Just b681nfl1n8 "° b°
+point where photo-lithography was Just beginning to be
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=70 ]]
-49
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=70 p:49 ]]
+
 superior to the photostat. Projects similar to that of
-
 Mr. Ford are under way on behalf of the John carter
 Brown Library at Providence, the New York Historical
-society and the University of Michigan. A new project
+Society and the University of Michigan. A new project
 is being launched by the Missouri Historical Society,
 and an attempt is being made to reproduce the unique
 Chillicothe Gazette at the Ohio Historical and Philoso-
-phical Society. when subscription lists to these
+phical Society. When subscription lists to these
 projects rise above twenty, the photostat should be
 replaced with the offset press. Five or ten extra
 copies could then be made for later sale without in-
@@ -1858,52 +1775,48 @@ be paid by a subscription list of twenty. Promoters
 might make use of this fact by fixing their maximum
 price at the photostat level but offering the advantage
 of lower prices in the event that the subscription
-
 list grows large enough to warrant reductions.
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=71 ]]
-. 50
-The other critical point in the photographic
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=71 p:50 ]]
 
+The other critical point in the photographic
 copying of books is the size or edition at which the
-unit cost of the book ecuals the normal prices which
+unit cost of the book equals the normal prices which
 libraries are in the habit of paying for books. This
 is between 50¢ and $1.80 per hundred pages. Two enter-
 prises which illustrate the importance of this point
 are the project of the Facsimile Text Society and the
 dictionary project financed with Carnegie funds under
 the direction of Professor Fries of the University of
-
 Michigan.
+
 The Facsimile Text Society has 400 charter
-members; it has printed photo-1ithographic copies of
+members; it has printed photo-lithographic copies of
 5 books. It has 11 more books in preparation, and 104
 titles under consideration. The cost level at which
-it operates is explained in a letter from the secretsry:-
+it operates is explained in a letter from the secretary:-
+
 "The cost averages about five dollars a page
 for one thousand copies, printed on rag paper and
 bound in boards. In order to pay their way these
 books must sell at least three hundred copies."
+
 This is a unit cost of 50¢ per 100 pages. The catalogue
 shows that the price to non-members is about $1.00 per
 hundred pages, to members about 63¢. The apparent dis-
 crepancy in these figures is probably explained by the
-
 element of bindery cost, which would not necessarily be
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=72 ]]
-51
-incurred for that part of the edition which is printed
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=72 ]]
 
+incurred for that part of the edition which is printed
 but unsold. As has been noted in another place, the
 work of this society is done on one of the large presses
 which cannot store its metal plates for a second run.
 The British Shakespeare Association Facsimiles are
 printed by a similar method at a similar cost - editions
-
 of one thousand at a cost of 30¢ per 100 pages, stitched
 but not bound. These societies print more copies than
-
 they need to sell.
 
 A different policy is followed in the dictionary
@@ -1919,28 +1832,22 @@ Society.
 The significant fact is that, in editions of
 from two to three hundred, reprints of books can be
 supplied at costs substantially below the prices which
-
 libraries usually have to pay for average books in the
-
 open market. Even copies of old newspaper files could
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=73 ]]
-53
-be sold at these low prices if the subscription list
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=73 p:52 ]]
 
+be sold at these low prices if the subscription list
 could be brought to the two hundred mark. No book
 desired by two hundred purchasers need ever be out of
-
 print.
 
 3. Typewritten Books.
-when the possibility is once presented that
 
+When the possibility is once presented that
 books may be printed directly from a typescript, the
 prospect is opened for the re-distribution of labor
-
-between author and publisher. In this re-distribution .
-
+between author and publisher. In this re-distribution
 there may be an opportunity for great economies.
 
 In preparing copy for a printed book, the
@@ -1949,19 +1856,17 @@ But the editorial staff of the publishing house always
 edits the typescript before it goes to the linotype
 machine. The proof must then be corrected to the copy.
 This editorial service accounts for twenty per cent of
-the nsnulecturing cost of the book. The author must
+the manufacturing cost of the book. The author must
 then read his proofs, usually twice, once in the galley
 and once in the page.
 
-How are the author's duties changed it the
+How are the author's duties changed if the
 book is to be taken photographically from his type-
 script? He has the responsibility of supervising the
 preparation of a copy that is final and correct in
-
 every detail. No editor or proof reader will help
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=74 ]]
-53
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=74 p:53]]
 
 him with his spelling or systematize his capitalization.
 He can easily make changes and corrections in his master
@@ -1970,17 +1875,15 @@ he sends the sheets to the press, no further changes can
 be made. This has some advantages, for the labor of
 reading galley and page proofs is eliminated. The type-
 writing in such work must be done with very clean type
-and a special dark ribbon. Erasures and chances can be
+and a special dark ribbon. Erasures and changes can be
 made if necessary. A part of a page can be pasted over
-the original text if an extensive chance must be made.
-Footnotes can he cut out and pasted at the button of
-each second page. A clean typewriter, a detk ribbon,
-
+the original text if an extensive change must be made.
+Footnotes can be cut out and pasted at the button of
+each second page. A clean typewriter, a dark ribbon,
 rubber cement and shears are all the tools needed in
-
 preparing typescript for reproduction. The author has
 a free hand to include as much illustrative material or
-as many iac-similes as he wishes, 02 he may insert
+as many fac-similes as he wishes, or he may insert
 Chinese or Greek characters, - for the cost or publish-
 ing is not affected thereby. The book which is published
 by photographing a typescript follows the same cost curve
@@ -1988,7 +1891,7 @@ as the photographic copy of a printed book.
 
 The devices related to the mimeograph distribute
 the labor of printing more as is done in the publishing
-trade. The author nas the extra labor and the opportunity
+trade. The author was the extra labor and the opportunity
 
 [[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=75 ]]
 54
@@ -4907,22 +4810,22 @@ cost of each book ......... .. $ .49 $1.03
 
 ~»~-----------------.....__..-9-... .......... 
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=164 ]]
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=165 ]]
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=166 ]]
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=167 ]]
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=168 ]]
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=169 ]]
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=170 ]]
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=171 ]]
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=172 ]]
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=173 ]]
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=174 ]]
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=175 ]]
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=176 ]]
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=177 ]]
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=178 ]]
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=179 ]]
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=180 ]]
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=181 ]]
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=182 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=164 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=165 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=166 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=167 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=168 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=169 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=170 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=171 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=172 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=173 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=174 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=175 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=176 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=177 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=178 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=179 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=180 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=181 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=182 ]]
