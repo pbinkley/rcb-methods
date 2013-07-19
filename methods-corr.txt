@@ -1893,22 +1893,20 @@ The devices related to the mimeograph distribute
 the labor of printing more as is done in the publishing
 trade. The author was the extra labor and the opportunity
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=75 ]]
-54
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=75 p:54 ]]
 
 for correcting his script which proofreading affords. He
 cannot without great extra trouble reproduce anything
 which is not on the typewriter keyboard, just as if he
-were dealing with a linctype process. These methods
-resemble photo-lithogrephing from typescript chiefly in
+were dealing with a linotype process. These methods
+resemble photo-lithographing from typescript chiefly in
 that they still leave the right hand margin ragged.
 
-when the matter to be published contains tabuls»
+When the matter to be published contains tabula-
 tions, characters not in the Roman alphabet, diagrams or
 mathematical formulae, the advantage of photographing the
-typesoript increases because the cost of typesetting is
--much higher. Hr. Charles G.Prof!itt of the Columbia
-
+typescript increases because the cost of typesetting is
+much higher. Mr. Charles G. Proffitt of the Columbia
 University Press writes:
 
 It has long been our judgment that much scholarly
@@ -1917,27 +1915,24 @@ typesetting, could be produced in a way that
 would be just as useful to the small circle of
 readers involved and at a price substantially
 lower than now paid, if the work were done by the
-offset process from clean typewritten manuscript.'
-We published such a volume some time ago (Westermsnn
-and Kraemer - "Greek Papyri') and are urging this
+offset process from clean typewritten manuscript.
+We published such a volume some time ago (Westermann
+and Kraemer - "Greek Papyri") and are urging this
 same method in the publication of one or two other
 volumes at the present time. It is particularly
-appropriate where the use or foreign characters
+appropriate where the use of foreign characters
 makes the type-setting unusually expensive.
 
 Anything in the manuscript, pictorial or otherwise, which
 cannot be pounded out on the linotype gives rise to costly
-
 hand work, and possibly to charges for zinc cuts or copper
-
 plates.
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=76 ]]
-55
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=76 p:55 ]]
 
 The redistribution of labor between author, editor.
 and printer together with the elimination of special hand work
-in the press room acoout for the greatest oost differences
+in the press room account for the greatest cost differences
 between the two methods of printing. There is another element
 which may mean much or little - the fact that photo-lithography
 operates regardless of the number or words on a page, whereas
@@ -1951,213 +1946,197 @@ lithography to increase the number of words on a page by
 photographing typescript on a reduced scale.
 
 At what price does the publisher purchase the
-aesthetic satisfaction of the Justified line of type? What
-ntmcutMﬁumnubnnmtmtwpmmuu?Pum-
+aesthetic satisfaction of the justified line of type? What
+is the cost differential between the two process? Print-
 ing costs are higher in America than abroad, but so are
 photo-lithographic costs. Foreign printing is a little
 cheaper than the cheapest American photo-lithography. J.
 Gamber, Paris, prints 50,000 words, 100 pages in an edition
 of 200 at a unit cost of 44¢; Edwards Brothers will make a
-book of the same size by photo-offset for 52§¢. It 600
-
+book of the same size by photo-offset for 52½¢. If 600
 words instead of 500 are put on an Edwards page, the cost
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=77 ]]
-3
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=77 p:56 ]]
 
 per word of the two methods becomes the same. It is
 more reasonable to compare the Edwards figure with the
 lowest printing quotation in this country, which, for
 small editions, is offered by the Mime-O-Form plant.
-In editions of 300 to 300 its costs are exactly double
+In editions of 200 to 300 its costs are exactly double
 those of photo-offset from author's master copy. To
-change from s photo-lithcgrsphed typesoript edition of
-two hundred to the cheapest hook printing of equivalent
+change from a photo-lithographed typescript edition of
+two hundred to the cheapest book printing of equivalent
 legibility available in this country requires that
 either the unit price or the size of the edition be
 doubled.
 
-The cost of gegibilitg.
+The Cost of Legibility.
 
 In any photographic process which permits the
-enlargement or reduction of the size of copy - thnt is
+enlargement or reduction of the size of copy - that is
 to say, in photostating end photo-lithography - the
 legibility of the product is one of the variables which
 is strictly under control. The printer in these cases
-is concerned with e size of pegs, not a number of words.
+is concerned with a size of page, not a number of words.
 The cost per word is therefore dependent upon the
 editor's choice of a size of print, and diminishes by
-geometrical progression as the point size of the.letters
+geometrical progression as the point size of the letters
 is reduced. The variation in costs is illustrated if
-
 the full size typescript page be compared with n news-
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=78 ]]
-57
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=78 p:57 ]]
+
 paper reduced to half size. The typewritten thesis, now
 the standard form in which unpublished scholarly work is
-presented, contains about 300 words on a page 8% x 11 in-
+presented, contains about 300 words on a page 8½ x 11 in-
 ches. This is exactly the size of a page which will take
 a half size reduction of a standard newspaper. But the
-newspaper contai 9 5,000 to 6,000 words. Therefore the
+newspaper contains 5,000 to 6,000 words. Therefore the
 cost per word of photographic reproduction in one typo-
 graphic form may be only one twentieth of the cost in
 another form.
-The problem of the legibility of small type
 
+The problem of the legibility of small type
 has not been thoroughly explored in its relation to the
 photographic methods of reproduction. Much more atten-
 tion has been paid to display type for advertising. A
 study of the effect of photo-lithographic reduction on
 the legibility of newsprint was made by Professors Don-
-ald G.Paterson and Miles A.Tinker of the Psychology De-
+ald G. Paterson and Miles A. Tinker of the Psychology De-
 partment cf the University of Minnesota, at the request
-of the Joint committee on Materials for Research. Their
+of the Joint Committee on Materials for Research. Their
 curve of diminishing legibility drops rapidly after the
-size of the type passes below a 50% reduction, eq"1V&1°n?
-to a 3% point type face. There is no statistically sig-
-nificant retardation ot speed of reading when the news-
-print is reduced to 80% or its full size; at 50% reduc-
+size of the type passes below a 50% reduction, equivalent
+to a 3½ point type face. There is no statistically sig-
+nificant retardation of speed of reading when the news-
+print is reduced to 80% of its full size; at 50% reduc-
 tion the retardation amounts to approximately half a word
-
 a second. Fatigue in reading is probably proportional to
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=79 ]]
-56
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=79 p:56 ]]
 
-' retardation of speed. The following table presents the
-
+retardation of speed. The following table presents the
 conclusions covering legibility, number of words per
-
 square inch, and cost of publication.
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=80 ]]
-59.
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=80 p:59 ]]
 
-" rm: egg: or LEGIBILITY
+THE COST OF LEGIBILITY
 
-(Page 8} x 11 inches calculat d for printing surface of 8-7/8
+(Page 8½ x 11 inches calculated for printing surface of 6-7/8
+x 9-3/8 or 66 sq. in.; Page 5½ x 8½ or 5-7/8 x 8½ calculated
+for printing surface 4½ x 7½ or 34 sq. in. Newsprint figures
+found by actual count; linotype average figures taken from Hoch:
+"The standard book of estimating for printers" issued by United
+Typothetae of America. Typescript estimates by Edwards Brothers)
 
-x 9-3/8 or 66 sq. in.; Page x 8% or 5-7/8 x 8% calculated
+LINOTYPE STYLE.
+Size of type
 
-for printing surface 4% x 7% or 34 sq. in. Newsprint figures
-found by actual count;1inotype average figures taken from Koch:
-"The standard book of estimating for printers'issued by United
-Typothetse of America. Typescript estimates by Edwards-Brothers)
+Words
+per sq.
+inch
 
-LIHOTYPE STYLE. words Words Words Unit cost of L3 1b111t
-com axed
+Words
+per
+5½ x
+8½
+page
 
-Size of type er so. oer" r SU UUU horas
-incﬁ ﬁg x E: x sf I? per with 7
-o
+Words
+per 8½ x
+11
+page
 
-_$ P380 3 newsprint.
+Unit Cost of
+50,000 words
+at 1¢ per
+page *
+SMALL
+PAGE
+LARGE
+PAGE
 
-2252 EEKIL LARGE In words
-PAGE PAGE ger second
-
--un-----..-----......-------..-__....-_-..-..._-__--.-.._....-.......___....___-..__
+Legibility
+compared
+with 7 pt.
+newsprint
+in words
+per second
 
 7 pt. newsprint
-
-, re uced 50%
-t 130 4424 8581 .12 .07 .45
-4 pt. set solid 82
-
+reduced 50%
+(3½pt) 130 4424 8581 $.12 $.07 .45
+4½ pt. set solid 82
 5 pt. " " 60
-4 pt. leaded 51
-- 5 pt. solid 5?
-6 pt. solid 4?
-5 t. leaded 4e
+4½ pt. leaded 57
+5½ pt. solid 52
+6 pt. solid 47
+5 pt. leaded 44
 
- 
+7 pt. newsprint
+reduced to 80%
+(5½ pt) 44 1496 2904 $.33 $.17 __.05
 
-7 pt. newsprin+
-reduced to 80¢
-
-     
- 
-
- 
- 
-  
-
-(5% pt- 44 1496 2904 3.33 3.17 __.05
-3 ..____________
-. to
-
-_ . solid o .
-9 pt. solid 2" sec.)
+7 pt solid 38
+6 pt. leaded 34
+7 pt. newsprint 33 1122 2178 $.45 $.23 (Standard: 4.3 to 4.5 words per sec.)
+8 pt. solid 32
+9 pt. solid 27
 8 pt. leaded 23
 10 t. solid 21
-% ﬁt. leaded 29 §§§ §§Z§ §:2§ §.§§ Eoﬁ tesieg
-
-pt. solid 1
-
+9 pt. leaded 20 680 1320 $.74 $.38 Not tested
+11 pt. solid 17
 10 pt. leaded 16
 11 pt. leaded 14
 12 pt. solid 14
-12 Qt. leaded ll
+12 pt. leaded 11
 Pica Typescript
+single space 10 340 660 $1.48 $.76 Not tested
+double space 5 170 330 $3.53 $1.52 Not tested
 
-giggle_sp_a§_e_ _ _ _]_._O_ _ _3_4g _ __6§O _ _ _ _ _ _ _ _N_o_t_t_e_e3eg _ _
+* (Small page can be printed for 1¢ in editions of 100; large page in
+editions of 200)
 
-double space 5 170 330 . Not tested
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=81 p:60 ]]
 
-       
-
-Small page can be printed for
-' editions of 200)
-
-¢ in editions of 100; large page in
-
-mm: m 4 mm
-
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=81 ]]
-60
-
-These figures take no account of 1 number of important
+These figures take no account of a number of important
 factors, such as length of line, and differences in type
 face which affect legibility. An experiment intended to
 supply legibility figures for typescript is under way at
 the University of Michigan. The table here given indi-
 cates the existence of a number of point sizes between 7
 point type and 3.5 point type where reduction in cost
-moves frscer than reduction in legibility as expressed
+moves faster than reduction in legibility as expressed
 in speed of reading.
 
-Cost and Legibilitz in Percentages of Newsprint
-cost Heading Speed
+Cost and Legibility in Percentages of Newsprint
+Cost Reading Speed
 
-7 pt. newsprint.........100%..........,....lO0%
-55 pt. (7 pt. . -
+7 pt. newsprint.........100%……….,….100%
 
-reduced to 80%, .’ .
+5½ pt. (7 pt.
+reduced to 80%
+of size)................78%...………….98%
 
-if size)................78$................98%
-34 pt. (7 pt.
+3½ pt. (7 pt.
+reduced to 50%
+of size)................23%…………….89%
 
-reduced to 50% '
-of size)................23%................d9$
 7 pt. reduced to
-
 30% of size -
-
 too small for
-
-practical use............9%................25$
+practical use............9%................25%
 
 The standard typewriter equipment is such that
 directions for preparing typescript for photo-lithography
 cannot assume the availability of any other type faces
-than the 12 point Pics and the 10 point Elite. But by
-using these type faces and reducing them pnotographicelly,
-it is oossihle to produce finished copy in sizes all the
-way from 4% points up, in a great vsrieﬁi °f 3tY1¢3 35 *0
-
-length 01 line and spacing. CODY Prepared 0" °Td1n3r¥
-typewriter paper, 8% x 11 inches, will P!°d"¢° 3 ’1"31
+than the 12 point Pica and the 10 point Elite. But by
+using these type faces and reducing them photographically,
+it is possible to produce finished copy in sizes all the
+way from 4½ points up, in a great variety of styles as to
+length of line and spacing. Copy prepared on ordinary
+typewriter paper, 8½ x 11 inches, will produce a final
 
 [[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=82 ]]
 61
