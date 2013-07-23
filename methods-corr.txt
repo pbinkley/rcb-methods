@@ -2138,45 +2138,45 @@ way from 4½ points up, in a great variety of styles as to
 length of line and spacing. Copy prepared on ordinary
 typewriter paper, 8½ x 11 inches, will produce a final
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=82 ]]
-61
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=82 p:61 ]]
 
-page having anything from 150 to 1500 words,or more.
+page having anything from 150 to 1500 words, or more.
 The normal ten inch typewriter can also be used to
 prepare copy upon special large sizes or paper, thus
-permitting even greater variety in final size and spas-
+permitting even greater variety in final size and spac-
 ing of print.
 
 The small photo-offset press, which is best
 for small editions, works most economically upon either
-of two sizes of book page - 8% x 11 or 5% x 8*}, (some-
-times 5-7/8 x 8%). Typescript should therefore be
+of two sizes of book page - 8½ x 11 or 5½ x 8½, (some-
+times 5-7/8 x 8½). Typescript should therefore be
 prepared for reduction to one or these two sizes.
 
 There are three ways of preparing copy for the
-ea} 1: 11 page.
+8½ x 11 page.
 
-lst - to make four pages of ordinary typeecript
-and have thm reduced to half size as two
+1st - to make four pages of ordinary typescript
+and have them reduced to half size as two
 columns of a page;
-and - the typescript can be copied without reduction
+
+2nd - the typescript can be copied without reduction
 in size;
+
 3rd - the typescript can be made in one or two col-
 umns upon a larger typing surface and then
-reduced to the 8} x 11 size.
-Typescript for the 5% x Bﬁ page is easily prepared on
-standard typewriter paper for any snout of reduction.
+reduced to the 8½ x 11 size.
+
+Typescript for the 5½ x 8½ page is easily prepared on
+standard typewriter paper for any amount of reduction.
 
 The ratio of length of line to size of letter
-
 has an important effect upon legibility. A good length
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=83 ]]
-62
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=83 p:62 ]]
 
-is X x 30 where I is the point size of the type. it this
+is N x 30 where N is the point size of the type. it this
 rate the optimum length for a line of Pica type is about
-five inches, and of Elite type four inches. It the ordi-
+five inches, and of Elite type four inches. If the ordi-
 nary double spacing is wider than necessary, and single
 spacing too crowded, another spacing is given to a type-
 script by using a special ratchet which can be attached to
@@ -2186,100 +2186,133 @@ spacing and reduction ratio yields its result in number of
 words per page, and hence in cost of reproduction. The
 costs are here tabulated; the legibility factor has not yet
 been worked out. The styles which are marked with a star
-
 are reproduced in the appendix.
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=84 ]]
-63.
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=84 p.63 ]]
 
 PREPARATION OF TYPESCRIPT FOR PHOTO-LITHOGRAPHY
 
-'=samp1e in appendix
-A Uein standard size t e- Words or Unit cost of
+*=samp1e in appendix
 
-ohoto-1ith- a e Lowest
+A. Using standard size type- 
+script paper 8½ x 11 in.,
+in standard typewriter
 
-scriut aver 8 x 11 in., gage x orintin 55 00C
-in standard tggewriter 1 in. in words at I er
-%§2$££L§%£_ size %2§E- g gh d g t ti 8 1
-cc use __ n o ra e no a on re u res
-on gage tyge oo e 1 on o -
+Words per 
+page, 8½ x
+11 in. in
+photo-lith-
+ographed
+book
 
+Unit cost of
+printing 50,000
+words at 1¢ per
+page (Lowest
+quotation requires
+edition of 200)
  
- 
- 
-
- 
-
-Four pages P ca ou e .
+Four pages
 6~7/8 x
-9-3/4 (im- Pica special 1720 .30
-posed as "
-double co1- Elite Double 1200 .42
+9-3/4 (im- 
+posed as 
+double col- 
 umn on one
-page of bk.)E11te Special 2000 .25 '
-Four ages
-5 x 7 in. Pica ouble 700 71
-Pica soecial 1150 .44
-ﬁiiiilfl3B3E3IIIIIIIQQEIIIIIIIIIIIIIISK
-lit " a1 25 .4
-B.Ueing sgecial sizes of Eager for tggeacriot, either single
-or double column style, with typing aur aces as be out
-6-7/8 x ".9-
-3 8 in. Pica S ecial 430 1.16
-6-7 8 x 9- Elite Special 500
-3 8 in. Pica sin 1e 500" 1.00 "
-8 x 3 Elite Single 00
-'75 x 10:} in. Pica Single 600
+page of bk.)
+
+Pica Double 1000 $.50 *
+Pica Special 1720 .30
+Elite Double 1200 .42
+Elite Special 2000 .25 *
+
+Four pages
+5 x 7½ in. 
+
+Pica Double 700 .71
+Pica Special 1150 .44
+Elite Double 800 .63
+Elite Special 1225 .40
+
+B. Using special sizes of paper for typescript, either single
+or double column style, with typing surfaces as below:
+
+6-7/8 x 9-
+3/8 in. 
+
+Pica Special 430 1.16
+
+6-7/8 x 9- 
+3/8 in. 
+
+Elite Special 500
+Pica Single 500* 1.00 *
+
+6-7/8 x 9-3/8
+
+Elite Single 600
+
+7½ x 10¼ in.
+
+Pica Single 600
 Elite Special 600
-8-1 8 x 11 1n.Pica soecial 600 84
-9-1 8 x 11 in.P1ca Single 709
+
+8-1/8 x 11 in.
+
+Pica Special 600 .84
+
+8-1/8 x 11 in.
+
+Pica Single 700
 Elite Special 700
-8-3 4 x 11-3 4 Pica S ecial 700' .71 °
-Pica Sin 1e 0 . &
-x 12 in. Pica Single 2 .
-3-3/4 x11-3/4 Elite Single 1ooo(doub1e -50
-column
-9-3 4 x13-1/4 Pica Single 1030 .48 9
 
-__::__- 
+8-3/4 x 11-3/4 
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=85 ]]
+Pica Special 700* .71 *
+
+8-3/4 x 11-3/4 
+
+Pica Single 800 .63 *
+
+9¼ x 12½ in. 
+
+Pica Single 925 .54
+
+8-3/4 x 11-3/4 
+
+Elite Single 1000 (doub1e column) .50
+
+9-3/4 x 13-1/4 Pica Single 1030 .48 *
+
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=85 p:64 ]]
+
 There ere two inquiries remaining to be made in
 connection with legibility. The psychological study should
 be carried further to compare typescript and print faces of
-various sizes and densities till all the unnecesssrv varie-
+various sizes and densities till all the unnecessary varia-
 bles are excluded, three or four levels of legibility are
 identified, and the maximum number or words per page togeth-
-
 er with the optimum typescript format are determined for each
-
 level of legibility. The users of research material must
-then decide what legibility they want in each class of meter-
-ial. taking into account such things as probability of fre-
+then decide what legibility they want in each class of mater-
+ial, taking into account such things as probability of fre-
 quent consultation, or the likelihood that the reader will
-
-wish to skim the entire text ss against the likelihood that
-
+wish to skim the entire text as against the likelihood that
 he will merely search for a particular item. The small
-
-tvoe in the dictionsrv is not fatiguing to the reader be-
-owuse so little is read at a stretch. In copying printed
-material. whether it be in the form of book. periodical or
-newspaper, the reduirements of the small press will always
-ruvor certain page sizes, snd the requirements of the schol-
-at certain type sizes. I! s typescript, a duodeoimo volume
+type in the dictionary is not fatiguing to the reader be-
+cause so little is read at a stretch. In copying printed
+material, whether it be in the form of book, periodical or
+newspaper, the requirements of the small press will always
+favor certain page sizes, and the requirements of the schol-
+ar certain type sizes. If a typescript, a duodecimo volume
 in 5 point type and a great folio in 12 point type have the
-same Kind of utility in research, the reprinting should en-
-
+same kind of utility in research, the reprinting should en-
 large the one and reduce the other to whatever size has the
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=86 ]]
-65
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=86 p:65 ]]
 
 appropriate legibility. A certain rule of thumb accuracy
 in making decisions about size of type can be achieved
-without setting-a standard, but standards of legibility
+without setting a standard, but standards of legibility
 if defined would aid both editors and promoters. The
 editor would know at once, when he had decided upon a
 standard of legibility, what kind of printing technique
@@ -2287,39 +2320,33 @@ would fulfill that standard. And the promoter would be
 able to inform prospective subscribers accurately upon
 this important aspect of his project. In connection with
 the copying of newspaper files the question is already
-presented. some librarians want full size copies, and
+presented. Some librarians want full size copies, and
 others believe that the pages should be reduced. But
-
 how far is the reduction to be carried? There is no ad-
 vantage to choosing a fixed percentage and reducing
 everything by that amount, for some newspapers are close
 to the low limit of legibility in their original size.
 The promoter should be able to say that the copies to be
 furnished will have a certain legibility, so that the
-
 subscriber will know exactly what he is subscribing for.
 The prospective users should have an opportunity to say
-
-whether they would prefer to have one newspaper rile
-
-made accessible to them in seven point type or tour files
-
+whether they would prefer to have one newspaper file
+made accessible to them in seven point type or four files
 in three and one half point type.
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=87 ]]
-86
-Qgtiogg Aids to gsgihilitz.
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=87 p:66 ]]
 
-then the size of the type face is out down in
+Optical Aids to Legibility.
 
-order to reduce the price of a volume or out down the
-nuber of copies which must be sold, the point is ulti-
+When the size of the type face is cut down in
+order to reduce the price of a volume or ut down the
+number of copies which must be sold, the point is ulti-
 mately reached where reading glasses may be useful to
 assist the naked eye. The optical principles of the
 reading glass are such that every increase in magnifying
-power diminishes the area of the field of vision. no
+power diminishes the area of the field of vision. No
 practicable magnifying system will do more than double
-the ostensible size of the type without introducing dies»
+the ostensible size of the type without introducing disa-
 greeable distortion at the edges of the field, or unduly
 diminishing the field of vision. There is no such thing
 as a really "high power" reading glass. The most conveni-
@@ -2327,10 +2354,9 @@ ent kind of optical aid to the reading of small type is
 the half-cylinder of glass which is mounted on short run-
 ners which hold it about an inch above the page. This
 apparatus magnified the letters only in the dimension of
-height, hut lends itself more easily than the round read-
+height, but lends itself more easily than the round read-
 ing glass to the rapid skimming of a page. When the
 limitations of the reading glass are considered in connec-
-
 tion with the technical difficulty of reducing print to
 sizes much below 3.5 points, it is clear that there is no
 advantage in making a text which cannot be read with the
