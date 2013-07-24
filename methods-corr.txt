@@ -2113,15 +2113,15 @@ in speed of reading.
 Cost and Legibility in Percentages of Newsprint
 Cost Reading Speed
 
-7 pt. newsprint.........100%……….,….100%
+7 pt. newsprint.........100%..........,....100%
 
 5½ pt. (7 pt.
 reduced to 80%
-of size)................78%...………….98%
+of size)................78%................98%
 
 3½ pt. (7 pt.
 reduced to 50%
-of size)................23%…………….89%
+of size)................23%................89%
 
 7 pt. reduced to
 30% of size -
@@ -2361,199 +2361,227 @@ tion with the technical difficulty of reducing print to
 sizes much below 3.5 points, it is clear that there is no
 advantage in making a text which cannot be read with the
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=88 ]]
-'<
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=88 p:67 ]]
 
-6?
+naked eye. The aid of the reading glass and its variants
+should be saved for the use of those whose eyes are sub-
+normal, or who find themselves obliged to read continuously
+in print which is only suited for short stretches of read-
+ing. A reader who merely looks up an article in a 3.5
+point newsprint page will not need optical aid, but a man
+who is going through an entire file of the newspaper may
+have use for one of these glasses.
 
-naked eye. The aid of the reading glass and its variantx
+The Fiskoscope
 
-should be saved for the use of those whose eyes are sv*-
-
-normal, or who find themselves oblifed to read continuous)~
-
-in print which is only suited for short stretches of rear-
-ing. A reader who merely looks up an article in a 3.J
-point newsprint page will not need ontical aid, but a ma;
-who is going through an entire file of the newspaper mav
-
-have use for one of these zlassea
-
-The Fiskoscoge
-The Fiskoscope, invented by Admirrl Fiske, is 5
-
+The Fiskoscope, invented by Admiral Fiske, is a
 magnifying glass intended to render possible the reduction
 of print to the point where reading with the naked eye is
 impossible. Typescript or other reading matter is reduced
 seven diameters in the offset press and printed in thin
-strips. 3 x Bﬁ inches, each strip containing 45 small
-squares of 165 typsscript words each, a total of over 7400
-words, equivalent to maximum number of 50% reduced news
-print words which the offset press can out on a page 8% L
+strips. 3 x 8½ inches, each strip containing 45 small
+squares of 165 typescript words each, a total of over 7400
+words, equivalent to maximum number of 50% reduced news-
+print words which the offset press can put on a page 8½ x
 11 inches. The strip of finely printed paper is fixed in
-a movable frame in front of the magnifying glass, ﬁne
+a movable frame in front of the magnifying glass, the
 glass is set at a fixed focus which suits the reader's eye,
-
 and the printed matter is then moved through the frame by
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=89 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=89 p:68 ]]
+
 turning a little screw.
 
 To a person not trained to use one eye alone.
-the riskoscope is very tiring. It is difficult to use in
+the Fiskoscope is very tiring. It is difficult to use in
 reading normal pages because the field of vision is too
 small. The special pages of 165 words each were type-
-
 written to permit the whole page to be seen at once, but
 in reading a page of the New York Times, reduced 6 diame-
-
 ters, the restriction of the field of vision precludes
 skimming and is very annoying. If the principle of the
 Fiskoscope is to enter usefully into the scholar's equip-
 ment, it must be keyed in with filmslide photography
 rather than with offset printing, for it calls for a
 departure from the book form. Admiral Fiske writes that
-the limit upon the magnifying power of his instrment is
+the limit upon the magnifying power of his instrument is
 fixed by the printers, who cannot provide him with copy
 any smaller than newsprint reduced six diameters. But
-the rilmslide negative will reduce newsprint more than
+the filmslide negative will reduce newsprint more than
 twenty diameters. The place for such an instrument as
-the riskoscope is as an auxiliary to the projector in the
+the Fiskoscope is as an auxiliary to the projector in the
+use of filmslides,-- a use which will be discussed below.
 
-use of filmslides.-- a use which will be discussed below.
-
-Quality of gaper.
+Quality of Paper.
 
 In small editions the cost of materials consti-
-
 tutes so small a proportion of the total expense that the
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=90 ]]
-59
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=90 p:69 ]]
 
-cuality of the paper can be improved without greatly
+quality of the paper can be improved without greatly
 changing the price of the books.
 
 The problem of permanence in book papers is
-a complex chemical problem now being studied by the U.8.
+a complex chemical problem now being studied by the U.S.
 Bureau of Standards and by a Special Committee on the
-Durability of Paper set up by the British Library Associap
+Durability of Paper set up by the British Library Associa-
 tion. The tentative conclusions arrived at in the Bureau
-of Standards have been set forth in a paper by B.fl.8cribner
+of Standards have been set forth in a paper by B.W. Scribner
 before the American society of Mechanical Engineers. The
 British committee has printed its report in a pamphlet
-available at its office, 26-27 Bedford Souare, London,(ls).
+available at its office, 26-27 Bedford Square, London,(ls).
 In both investigations it was recognized that several de-
 grees of permanence in paper must be standardized. The
 British classification is as follows:
 
-Grade I. For use where 'absolute' permanence is
-reouired.
+Grade I. For use where "absolute" permanence is
+required.
 
 Grade II. For use where relative permanence is
 desired and where a competitive price is
 necessary.
 
-The U.S.Eure:u of Standards classification runs:
+The U.S. Bureau of Standards classification runs:
 
-Grade I. Permanent pears, having a maximum degree of
+Grade I. Permanent papers, having a maximum degree of
 purity.
 
-Grade 11. Papers quite highly purified, that may be
+Grade II. Papers quite highly purified, that may be
 expected to have a minimum life of 100 years.
 
-Grade III.Papers quite highly purified, that may be
+Grade III. Papers quite highly purified, that may be
 expected to have a minimum life of 50 years.
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=91 ]]
-70
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=91 p:70 ]]
 
 Grade IV. Papers having a 1ow degree of purity, for
-' current use only.
+current use only.
 
 Grades I and II are distinguished in the English
 report by the nature of the raw material used and the price
-level at which they oan be furnished, in the American Bu-
+level at which they can be furnished, in the American Bu-
 reau of Standards report by a computed life-probability and
 performance in oven-aging. The American Rag Paper Manufac-
 turers hold with the British Library Association in favor
 of raw materials as the criterion of probable durability;
-the U.8. Government Printing Office uses Bureau of Standards
-'performance' specifications, which are 'revo1utionary' in
-business practise. In the following tables of specifics»
-tions it is to be noted that"A1pha Cellulose" is derived
+the U.S. Government Printing Office uses Bureau of Standards
+"performance" specifications, which are "revolutionary" in
+business practise. In the following tables of specifica-
+tions it is to be noted that "Alpha Cellulose" is derived
 either from rags or wood pulp. The opposition between the
 two methods of grading, by raw-materiel composition and by
-
 performance, is clear:
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=92 ]]
-...
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=92 p:71 ]]
 
-CHEMICAL AND PERFORMAHCE SPECIFICATION"
+CHEMICAL AND PERFORMANCE SPECIFICATIONS
 
-In.s.= no? epeciifea}
+(n.s. = not specified)
 
- 
+I II
 
- 
- 
- 
- 
- 
- 
+U.S. 
+Bur- 
+eau 
+of 
+Stan- 
+dards 
 
-__2__ ll
-U.S. U.S. Brit- U.S. U.B. Br%t-
-Bur- Raw 195 Eur- Rap 1
-eau Paoer Eib. eau Paper Ely
-2: gig. Kssn. of L g. Assn.
-Stan- Asa . §?an- Assr(
-dards dards
+U.S. 
+Rag 
+Paper 
+Mfg. 
+Assn.
+
+Brit- 
+ish
+Lib. 
+Assn. 
+
+U.S. 
+Bur- 
+eau 
+of 
+Stan-
+dards
+
+U.S. 
+Rag 
+Paper 
+Mfg. 
+Assn.
+
+Brit-
+ish
+Lib
+Assn.
+
+
+
 Alpha
-ce1;.
-uloee 90% n.s. n.s. 80% n.s. n.s.
-Raw 100% looft chem. chem"
-Mater- of of new wood woo"
-ial n.e. new rags rags n.e. pulp pulp
+Cell-
+ulose 
+
+90% n.s. n.s. 80% n.s. n.s.
+
+Raw 
+Mater- 
+ial 
+
+n.s. 100% of new rags 100% of new rags n.s. chem. wood pulp chem. wood pulp
+
 Acid-
-ity 5§~
-Above 5 pH 5 pH 6 pH 5 DH 5 pH n.e
-Coppe:
-Numbe:
-Below 1.5 0.5 n.s. 2.5 1.5 n.e.
-Rosir
-as
-least 1% 1.2% n.a. 1.5% 1%. 1% or 2%
+ity 
+Above 
+
+5 pH 5 pH 5½-6 pH 5 pH 5 pH n.s.
+
+Copper
+Number
+Below 
+
+1.5 0.5 n.s. 2.5 1.5 n.s.
+
+
+Rosin
+at
+least 
+
+1% 1.2% n.s. 1.5% 1% 1% or 2%
+
 Mineral
-Loading n.s. None None n.a. n.a. 5%
-Periorm
-mance see n.s. n.s. n.a. n.s. n.m
-belov
+Loading 
 
-Performance test for Grade I paper(U.S.Burg3u of standardgf
+n.s. None None n.s. n.s. 5%
 
-Performance test for Grade I, I changes on heat-
+Perform
+mance 
+
+see below n.s. n.s. n.s. n.s. n.s.
+
+Performance test for Grade I paper (U.S.Bureau of standards)
+
+Performance test for Grade I, :  changes on heat-
 ing 72 hr. at 100 deg. cent.; decrease in content of alpha
-cellulose should be not more than.1.5%; decrease in fold-
+cellulose should be not more than 1.5%; decrease in fold-
 ing endurance not more than 25%, increase in copper number
 not more than 0.5%
 
-Mr. E.H. Naylor of the Rag content Paper Manufactur-
+Mr. E.H. Naylor of the Rag Content Paper Manufactur-
+ers Association defends the "composition" specification, and
 
-ers Association defends the "composition" specification, an-
-
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=93 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=93 p:72 ]]
 72
 
 questions the validity of the tests of permanence proposed
-by the Bureau of standards. He writes that "there is not
+by the Bureau of Standards. He writes that "there is not
 today any test or set of tests which adequately describe
 the permanence of paper", and offers further concrete
 criticisms:
 
 "Alpha cellulose content. This test measures the
-amount of papermaiing fiﬁious material as distinct from
+amount of papermaking fibrous material as distinct from
 cementing material and definitely degraded material and
 impurities. It takes no account of the wide difference
 in quality of fibrous materials such as is indicated by
@@ -2569,35 +2597,32 @@ ties within this range will necessarily vary widely.
 "Copper number. The best of wood pulp normally
 carries a copper number several times as large as that
 of similarly purified rag stock. While new rag papers
-show copper numbers of .l5.to .75,wood pulp papers vary
+show copper numbers of .15 to .75, wood pulp papers vary
 from 1.0 for alpha pulp to 2.5 for ordinary sulphite.
 The range of permanence possibilities for papers of
 copper number less than 1.5 is even wider than that of
 the alpha content specified....
 
-"Oven aging accelerates the action of certain im -
+"Oven aging accelerates the action of certain im-
 purities in paper and indicates in a conveniently short
 time the possible slow degradation of paper from such
 impurities. At the temperature chosen this dark heat
 has no effect on pure fibers whether of wood or rag and
-
-. it gives no indication of their relative resistance to
+it gives no indication of their relative resistance to
 atmospheric impurities. At a temperature of 135 C
-instead of 100 c rag papers are decidedly more perma-
+instead of 100 C rag papers are decidedly more perma-
 nent than wood papers."
 
-Ir. Baylor declares that tub sizing with ge1a~
-
+Mr. Naylor declares that tub sizing with gela-
 tine adds a protective feature by increasing resistance
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=94 ]]
-73
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=94 p:73 ]]
 
 to light and atmospheric impurities.
 
 It must be concluded that the scientific class-
 ification of papers according to permanence is still a
-highly contentious subject, in which the dispute is eg-
+highly contentious subject, in which the dispute is ag-
 gravated by the rivalry of the wood-pulp and rag-content
 interests.
 
@@ -2613,6 +2638,7 @@ The American Rag Paper Manufacturers suggest a different
 price index in a letter of November 17, 1931, which is of
 special interest because it expresses the considered opin-
 ion of the industry:
+
 A meeting was held with representatives of
 the various mills making permanent book
 papers in order to discuss the request in
@@ -2626,8 +2652,7 @@ of their ability....
 
 These manufacturers have felt that our
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=95 ]]
-74
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=95 p:74 ]]
 
 present knowledge of the factors which
 enter into paper permanence is not
@@ -2635,13 +2660,13 @@ sufficiently well defined for them to
 adopt an adequate uniform set of spec-
 ifications, and therefore the permanent
 book papers offered by these mills diff-
-er as to details of quality and prioo....
+er as to details of quality and price....
 
-some papers made of cheap, impermanent
+Some papers made of cheap, impermanent
 materials may command a reasonably high
 price because of some attractive feature
 as color, surface, finish, bulk, weight,
-printability, eto., while the less attrac-
+printability, etc., while the less attrac-
 tive permanent papers are selling for less
 price. A price limit which a buyer might
 construe as defining the permanence of
@@ -2652,7 +2677,7 @@ A price limit, however, together with a
 few carefully chosen specifications which
 will qualify the price as being due to
 permanence quality rather than some ap-
-pearanoe effect they consider as highly
+pearance effect they consider as highly
 desirable...
 
 There follows a discussion of the permanence specifica-
@@ -2662,53 +2687,51 @@ tions, leading to the conclusions charted above.
 By mixing rag with chemical wood, both being
 of the quality indicated above, an inter-
 mediate grade with prospects of life longer
-than for Grade Il may be predicted.
+than for Grade II may be predicted.
 
 If we take 1 as the equivalent price prevail-
 ing today for the ordinary lower quality of
 printing paper and for papers of Grade II
 above, the ratio of price for the various
-grades above would be atcut as follows:
+grades above would be about as follows:
 
 Grade I.........4
-Grade Il........l
+Grade II........ 1
 "Mixed furnishes", 2 to 3.
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=96 ]]
-7b
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=96 p:75 ]]
 
-It goes without saying that research naterials
-of permanent value should be printed upon permanent pe-
+It goes without saying that research materials
+of permanent value should be printed upon permanent pa-
 pers. How much does the cost of permanent paper increase
 the cost of book production? Two factors enter into this
-calculation,-first, the extent to which an edition is
-sold out, and second. the size of the edition.
+calculation,- first, the extent to which an edition is
+sold out, and second, the size of the edition.
 
 If the weight of paper in a book is one pound,
 an edition of 1000 will use paper as follows:
 
-cost of
+Cost of
 Paper
 
-Class 1, British or U.S.
-Bureau of Standards 3350 (American Writing
-
+Class I, British or U.S.
+Bureau of Standards $350 (American Writing
 Paper)
-Class II,U.S.Eureau of
-Standards 3 220 (American Writing
-Paper)
-Class II,British 8 as (American Rag Paper
 
+Class II, U.S. Bureau of
+Standards $220 (American Writing
+Paper)
+
+Class II, British $85 (American Rag Paper
 Mfg. Assn. Ratio)
-A paper cost differential or 7¢ per volume it
+
+A paper cost differential or 7¢ per volume if
 the whole edition is sold out will rise to 43¢ per volume
 if the edition is expected to pay its way with the sale of
-300 copies. A paper cost differential of 26§¢ per volume
-it the whole edition is sold out will rise to 88¢ if only
-300 copies of the edition are sold. It is the storgge of
-
-expensive nape; ig unggld books that makes it so costly to
-
+300 copies. A paper cost differential of 26½¢ per volume
+if the whole edition is sold out will rise to 88¢ if only
+300 copies of the edition are sold. It is the storage of
+expensive paper in unsold books that makes it so costly to
 print on high priced paper. The financing of permanent
 paper reduces itself to the problem or how to avoid print-
 
