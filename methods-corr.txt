@@ -2735,8 +2735,8 @@ expensive paper in unsold books that makes it so costly to
 print on high priced paper. The financing of permanent
 paper reduces itself to the problem or how to avoid print-
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=97 ]]
-/8
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=97 p:76 ]]
+
 ing more than can be sold. In offset printing this means
 that the key to paper quality is the use in printing of
 a metal sheet that can be stored for later printings.
@@ -2746,14 +2746,14 @@ In ordinary commercial publishing the risk of
 printing a large number of copies that will not be sold
 must be taken, for the possibility of profit depends upon
 the smaller unit costs of books in large editions. The
-Draoticable way to finance high quality paper in books
+practicable way to finance high quality paper in books
 published commercially would appear to be in the print-
 ing of one or two hundred copies of fine paper for sale to
 libraries. But such printings, when made, are usually
 sold at luxury prices. The publishers say they cannot
 afford to stock two qualities of paper at approximately
-the same price because of the extra. stock-room cost. It
-is possible that libraries could secure a. block of books
+the same price because of the extra stock-room cost. It
+is possible that libraries could secure a block of books
 printed on special paper at no higher cost than the added
 cost of the paper if they were organized to give the pub-
 lisher the order in one block, so that there would be
@@ -2762,27 +2762,24 @@ had purchasing power sufficient to reprint new editions
 at will could probably arrange to secure special paper in
 many commercially printed books.
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=98 ]]
-.',.,
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=98 p:77 ]]
 
 The influence of size of edition upon the cost
 of using higher priced papers is very marked, for the
 smaller the edition, the smaller is the proportion of
 its cost due to paper. This fact reinforces the argument
 that small editions printed with the certainty that all
-copies will be sold can be produced upon the most durap
-
+copies will be sold can be produced upon the most dura-
 ble paper without greatly adding to their cost.
+
 Recommendation on Book Production.
 
 The interests of research in the reproduction
 of material are of two kinds, an interest in the present
 and interest in the future. From the standpoint of the
 present it is important to give the scholars of today an
-
 equipment which they can use with greatest economy of
 effort. The disadvantage of having material reproduced
-
 in small type must be balanced against the advantage of
 having it available on the spot. The sacrifice of artis-
 tic values in the use of typescript must be weighed
@@ -2790,20 +2787,19 @@ against the gain of a greater freedom from financial
 restrictions in publishing research work and material.
 The further research proceeds in the direction of spec-
 ialization, the more limited will be the circle of
-
 readers interested in any particular item of research
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=99 ]]
-78
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=99 p:78 ]]
+
 material. Unsubsidized publication has hitherto financed
-itself on the pgggibilitx that the circle of purchasers
+itself on the possibility that the circle of purchasers
 would reach two thousand; technological conditions permit
-a new basis - the certaintz that the circle will reach
-one hundred. scholars in any field of study in the social
+a new basis - the certainty that the circle will reach
+one hundred. Scholars in any field of study in the social
 sciences and humanities which can organize their group of
 one or three hundred purchasers who are able to pay normal
 book prices for materials in the field can escape from
-fiflﬁncial limitations upon the circulation of any materials
+financial limitations upon the circulation of any materials
 that are deemed important.
 
 The same organization of purchasing and produc-
@@ -2817,55 +2813,68 @@ Perhaps not more than five or six institutions in the
 country have the resources which would permit them to
 specialize in everything. For libraries themselves must
 specialize and farm out their work, and leave it to lib-
-oral lending policies to make up the difference between a
+eral lending policies to make up the difference between a
 particular equipment and a particular need. The group of
 subscribers who will fill in files of reproductions of
 
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=100 p:79 ]]
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=100 ]]
-79
-
-colonial newspapers will probably not interest themselves
+Colonial newspapers will probably not interest themselves
 in reproductions of contemporary European newspapers;
-those who went to buy a copy of every reprinted book or
+those who went to buy a copy of every reprinted book of
 16th century English may be indifferent to the problem of
-filling in the gape in the collection of the statutes of
-the American states. As things stand at present, the
+filling in the gaps in the collection of the statutes of
+the American States. As things stand at present, the
 organization of the market has lagged far behind the
 development of technical processes of reproduction.
 
 The great libraries, - such as Harvard, Library
-of Congress. New York Public Library, - will not always
-be the purchasers of reprints o! old materials, for they
+of Congress, New York Public Library, - will not always
+be the purchasers of reprints of old materials, for they
 may be in possession of original copies. Younger and
 poorer libraries may often be the ones which provide the
 purchasing power for a reprinting enterprise. As an
 illustration of this situation, the Miller Diary can
 serve. This is a set of twenty volumes of sources on the
 Paris Peace conference. It was printed in an edition of
-40 copies only - a restriction whrch is regretted by Mr.
-Killer, who financed the publication and gave the volumes
-to libraries free of charge. only a few of the libraries
+40 copies only - a restriction which is regretted by Mr.
+Miller, who financed the publication and gave the volumes
+to libraries free of charge. Only a few of the libraries
 in America possess this important set. It is technically
 possible to reprint it in an edition of 300 to be sold to
-other libraries at 32.50 oer volume, or fifty dollars the
+other libraries at $2.50 per volume, or fifty dollars the
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=102 ]]
-81
+[[ this page was missing p:80 ]]
+
+set. The purchasers would in this case be the medium
+sized libraries which were not able to secure a copy of 
+the original edition.
+
+Organization of purchasing groups in their 
+respective fields of interest is the next step in liberat-
+ing book production from financial restrictions. But 
+there is another possibility - that the book as the ve-
+hicle of reproduction for a very narrow circle may find 
+itself superseded by the filmslide. The range of useful-
+ness of the filmslide will be considered in the next
+chapter.
+
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=102 p:81 ]]
+
 IV. Filmslide Photography
 
 The reduction of a text to microscopic propor-
 tions on a photographic film or plate may enter into two
 entirely different schemes for the reproduction of research
 material. It may be a means of imposing a negative in the
-making or a full-size photostatic copy, and hence a mere
-variant of book-manufecture by the photostatic process.
-or it may be a device which is independent of book manufac-
-turing, and which will put before the scholars" eyes an
+making of a full-size photostatic copy, and hence a mere
+variant of book-manufacture by the photostatic process.
+Or it may be a device which is independent of book manufac-
+turing, and which will put before the scholars' eyes an
 image of a text projected on a screen, rather than the
 tangible page of a book.
 
-when the filmslide is used as a step in the pho-
+When the filmslide is used as a step in the pho-
 tostat process the technique of photostating is changed,
 but the cost level is still about the same. The cost of
 the negative is minimal, the apparatus for taking the neg-
@@ -2873,20 +2882,17 @@ ative is light and easily portable, and it is possible
 to store the negative for a long period and then enlarge
 it as a full size positive print when there is need for it,
 or when money is available. This is the way in which Mr.
-Worthington Ford plans to use filmolides in collecting
+Worthington Ford plans to use filmslides in collecting
 copies of foreign archive material for the Library of
 Congress. But in this project the making of filmslides
 has far outrun the work of transferring them to full size
+sheets of photostat paper. In the meantime the film-
 
-sheets of photostst paper. In the meantime the film-
-
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=103 ]]
-B3
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=103 p:82 ]]
 
 slides themselves are being read by the projection meth-
 od. It is this latter process that promises the most
 sweeping changes in the cost level at which research
-
 material can be reproduced.
 
 All types of equipment now available for film-
@@ -2901,21 +2907,19 @@ considered more perishable, and is certainly more in-
 flammable. The acetate film is the only kind which
 should be used. Until recently it was sold by Eastman
 for 2¢ a foot, then Dupont cut the price to 1¢, and
-Eastman came down to l§¢. The size of the surface of
+Eastman came down to 1½¢. The size of the surface of
 the film which can be used depends upon whether it is
-perforated or unperfcrated. If the film is perforated
+perforated or unperforated. If the film is perforated
 to meet the mechanical requirements of moving picture
 cameras and many other kinds of apparatus, only 25 mm.
 of the strip is available for photography. If the film
+is unperforated this amount is increased to 30 mm. A
 
-is unperfcrated this amount is increased to 30 mm. A
-
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=104 ]]
-83
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=104 p:83 ]]
 
 square metre of sensitive surface is furnished by 108
 feet of unperforated film, or 132 feet of perforated.
-An unperforeted strip six feet three inches long, or a
+An unperforated strip six feet three inches long, or a
 perforated strip eight feet three inches long, will
 provide a square foot of photographic surface.
 
@@ -2925,7 +2929,7 @@ size of the edition becomes less significant as a con-
 trolling element in costs, and the size of the letters
 becomes more important. The extreme case of cost reduc-
 tion through reducing the size of the letters is film-
-elide photography. The square foot of surface, which
+slide photography. The square foot of surface, which
 costs less than ten cents, will photograph 100 square
 feet of print reduced to one tenth its original size,
 or 400 square feet reduced to one twentieth. If the
@@ -2935,26 +2939,21 @@ tity of film will increase as the square of the reduc-
 tion ratio. A fifty page issue of the New York Times
 covers with print two hundred and seventy square feet
 of paper surface. It sells for three cents on the
-
 street. Photographed full size it will cover eighty
-
 six dollars worth of photostat paper; reduced twenty
 
--1--u....an--u
-
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=105 ]]
-84
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=105 p:84 ]]
 
 four diameters it will go on three cents worth of film.
 
 The question is therefore raised at the outset:
--hat reduction ratios are practicable when printed matter
+what reduction ratios are practicable when printed matter
 is to be photographed on small film and read by projection?
 The physical limit to reduction is certainly the resolving
 power of the film. This may be as high as 90 lines to the
-millimeter, but is usually 50. (Otto Bandvik, "On the
-Measurement of Resolving Power of Photographic lateriale',
-Trocegdiggs of thg §eventh gnternational Ooggress of Pho-
+millimeter, but is usually 50. (Otto Sandvik, "On the
+Measurement of Resolving Power of Photographic Materials",
+Proceedings of the Seventh International Congress of Pho-
 tography, July 1928) It is affected by a number of varia-
 bles, notably the wave-frequency of the light and the
 length of exposure, the quality of the emulsion, (especially
@@ -2966,20 +2965,17 @@ invention will probably be exploited in the making of
 sound film, where high resolving powers are of supreme
 importance. In the development of increased resolving
 power, as in its choice of film, filmslide photography is
-
 a very obscure beneficiary of the motion picture industry.
 
 The standard scientific measure of resolving
-
 power is in lines per millimeter. But this proves to be
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=106 ]]
-85
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=106 p:85 ]]
 
 too refined a measurement for studying the practical
 usefulness of apparatus on the market, under normal
 shop or library conditions. Since the final term in
-the whole process is legibilitz of material, a rough
+the whole process is legibility of material, a rough
 index of legibility of product can be used to make
 possible the comparison of the efficiency of the diff-
 erent filmslide cameras. If a page of seven point
@@ -2988,71 +2984,74 @@ and projected on a screen, the different degrees of
 legibility of the screen image can be set apart as
 follows:
 
-'A'Legibi1ity - all letters distinct. The pro-
+"A" Legibi1ity - all letters distinct. The pro-
 jected image at "A" legibility may be rendered
 more easily legible than the original text, for
 it can be increased to a larger size.
 
-'8' Lezibility - The edges of the letters begin
+"8" Legibility - The edges of the letters begin
 to blur. The loss in clearness compensates for
 any increase in size. But the letters are still
 perfectly formed.
 
-"C" Legibility - The tops of the 'e's and "ale
+"C" Legibility - The tops of the "e"s and "a"s
 are blotted over solid, but the openings are still
-clear in the 'o's, 'd's, 'p's, and 'b"s. Legibil-
-
+clear in the "o"s, "d"s, "p"s, and "b"s. Legibil-
 ity is distinctly lower than in the original.
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=108 ]]
-86
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=108 p:86 ]]
 
-"D’ Legibility. Almost illegible. The openings
-of the "o"s, 'd's, etc. are blotted in solid. sep-
-arate words can be dociphered, but not read.
+"D" Legibility. Almost illegible. The openings
+of the "o"s, "d"s, etc. are blotted in solid. Sep-
+arate words can be deciphered, but not read.
 
 "E" Legibility. Absolute illegibility.
 
 Under practical working conditions the finest
-apparatus (Lloyd B. Kennedy equipment) will produce 8
+apparatus (Lloyd B. Kennedy equipment) will produce B
 legibility in newsprint reduced 24 diameters; the coarsest
 apparatus (Ansco) will produce this degree of legibility
-at l6§ diameters reduction. The reduction ratio at which
-legibility passes from B to c is the limit for practical
+at l6½ diameters reduction. The reduction ratio at which
+legibility passes from B to C is the limit for practical
 work.
 
 The amount of reading matter that can be placed
 upon a filmslide depends of course upon the size of the
 slide as well as the degree of reduction. The following
 are the dimensions of the filmslides in the different
-
 commercial cameras:
 
-Width Len th Alon Kind Of
-Kcross Film ﬁtrip EZIEZEEEQ
+Width 
+Across 
 Film
+
+Length Along 
+Film Strip 
+
+Kind Of
+Film Used
+
 Ansco 23 mm 18 mm Perforated
-cinescepe 23 mm 24 mm Perforated
-Q.R.S.' " 25 mm 3z§mm ~Perforated
-Leica 35 mm 38 mm Perforated
-Lernare 30 mm 45 mm non-Perforated
+Cinescope 23 mm 24 mm Perforated
+Q.R.S. " 25 mm 32½mm Perforated
+Leica 25 mm 38 mm Perforated
+Lemare 30 mm 45 mm Non-Perforated
 Filmograph 30 mm variable Non-Perforated
 Kennedy 25 mm " Perforated
-I new 3ty1e3O mm ' Hon-Perforated
+" new style 3O mm " Hon-Perforated
 
-naturally the size of the page to be rePr°d"°°d
+Naturally the size of the page to be reproduced
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=109 ]]
-87
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=109 p:87 ]]
 
-may hear such a relation to the dimensions of the film-
+may bear such a relation to the dimensions of the film-
 slide that only a part of the sensitive surface can be
 used. A page of the New York Times reduced 24 diameters -
 (the limit with the Kennedy apparatus) - can be imposed
 on a perforated film strip crosswise, the top of each
 page being parallel with the edge of the film. Imposed
 in this way the 50 page issue of the Times would require
-a little more than three feet of film. with unperforated
+a little more than three feet of film. With unperforated
 film a reduction of twenty diameters would just serve to
 lay the page crosswise on the film. There would be no
 advantage in increasing the reduction ratio beyond 20 for
@@ -3062,28 +3061,76 @@ would be possible to lay a complete spread of the news -
 paper across the film strip. At these higher reductions
 the fifty pages would go on as little as sixteen inches
 of film, costing less than two cents, but the legibility
-
 under best conditions would drop to D.
 
-Price comparisons: Ansco 0.3.8. Leica Lemere Photo-
-soooe- nescope
+Price comparisons: Ansco, Q.R.S., Leica, Lemare, Photo-
+scope-Cinescope
 
 Price of equipment for filmslide reproduction
-of materials includes three items. The first two 830
-indispensable: l) a camera with its cooyholder and
+of materials includes three items. The first two are
+indispensable: 1) a camera with its copyholder and
 stand for copying, 2) a projector for reading. The
+third may not be needed: 3) enlarging equipment for
 
-t.ird may not be needed: 3) enlarging ef"i?"9V7 *0’
+[[ page missing p.88 ]]
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=110 ]]
-d9
+transferring a text to a positive print. These diff-
+erent elements are combined in different ways. Leica
+equipment is made in so many qualities that two alterna-
+tive prices must be given for it.
+
+Ansco Q.R.S. Leica (low) Leica (high) Lemare Photoscope-Cinescope
+
+Camera 
+with 
+Copyboard
+
+$50 $162 $56.36
+(3250 fr. plus 30% duty) (1175 fr. plus 20% duty)
+
+Camera 
+without 
+Copyboard
+
+$57.50 $72
+
+(Leica 
+uses two copy
+stands, one 
+of which is 
+accessory to 
+the enlarger):
+
+$25 $30
+
+Projector $19.50 $19.90 $49.50 $60.00 $64.80 $34.56
+
+(1300 fr. plus 20% duty) (720 fr. plus 20% duty)
+
+Enlarger $20.00 $55.50 $85.50
+
+(with projector)
+
+The Spencer Lens Company manufactures a projector,
+Delineascope B, with special attachment for the
+Lemare Camera. It sells for $75, and is better
+than the Lemare projector, according to Dr. Martin
+of the Library of Congress, who has used both.
+
+The Leica camera will not do short range copying work
+without one of the three special front lenses, which cost
+$6.00 each.
+
+The minimum equipment for making filmslides and
+
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=110 p:89 ]]
 
 projecting them costs as follows:
-Ansco................................s.$69.5O
+
+Ansco.................................$69.5O
 Cinescope-Photoscopie (computing 25%
 duty)........... 90.92
-
-Leica (computing 105 academic discount)146.70
+Leica (computing 10% academic discount) 146.70
 Lemare (computing 25% duty)............226.80
 
 If all useful accessories offered by the Leitz
@@ -3093,106 +3140,88 @@ does not include a camera or projector stand, but it is
 claimed that an ordinary camera stand can be used. None
 of these figures include cost of a screen.
 
-The writer has investiqated eight kinds of cam-
-era ecuipment for makin: still pictures out of moving
-picture film. Two of these, the Q.H.S. and the Vi-cam,
+The writer has investigated eight kinds of cam-
+era equipment for making still pictures out of moving
+picture film. Two of these, the Q.R.S. and the Vi-cam,
 must be eliminated.
 
 The Vi-Cam takes a long roll of film at one
 loading, but has a fixed focus at five feet and is de-
-sisned for cheap portrait work for registration blanks
+signed for cheap portrait work for registration blanks
 or other documents which have photographs attached to
 them.
 
-The Q.R.S. is designed for amateur woik in
-
+The Q.R.S. is designed for amateur work in
 portraits, landscapes etc. It resembles the Ansco Memo
 Camera in most respects except that it takes a double
-
 frame picture. It has no special equipment for copying
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=111 ]]
-90
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=111 p:90 ]]
 
 documents, and will not focus at a shorter distance
-than three feet. it this distance it copies an area
-15 x 19 inches, reducing it 15-l/2 diameters. with
-
+than three feet. At this distance it copies an area
+15 x 19 inches, reducing it 15-1/2 diameters. With
 a better lens and focusing attachment it would be a
-very useful camera, for it will-take at least fifty
+very useful camera, for it will take at least fifty
 exposures, and sometimes as many as eighty, in one
-loading. and it is equipped with an indicator to tell
-how many exposures have been used. As the leglbility
-table indicates below, the Q.E.8. will not make a sat-
+loading, and it is equipped with an indicator to tell
+how many exposures have been used. As the legibility
+table indicates below, the Q.R.S. will not make a sat-
 isfactory copy of 7 point type at its fixed reduction
 ratio.
 
-ginescope - Photcsccge
+Cinescope - Photoscope
+
 A Belgian company which began operations sev-
-
-eral years ago sought to sell rilms 'micro2hote' de la
-Photoscogie as a cheap but efficient substitute for
-
+eral years ago sought to sell Films "microphote" de la
+Photoscopie as a cheap but efficient substitute for
 glass slides used in art study and visual education.
-
 It issued a catalogue of geographic, religious, scientif-
 ic and artistic subjects, and sought to interest the his-
 torical associations and library associations of Europe
 in its use as a preserver of pictorial and documentary
 material. The Photoscope went out of business, to be
-succeeded by ya cinescopie, Rue aux Laines, Brussels.
-
+succeeded by La Cinescopie, Rue aux Laines, Brussels.
 Then the name became Photoscope again, and the address
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=112 ]]
-m
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=112 p:91 ]]
 
-changed to 121 Rue Berckmans, Brussels
+changed to 121 Rue Berckmans, Brussels.
 
-There are no Cinescooes in America, a fact
+There are no Cinescopes in America, a fact
 which the company explains as due to the rush of Euro-
 pean orders. The description of the camera is given as
-"most portable, being only 9% x 4% x 6 cm." "The shut-
+"most portable, being only 9½ x 4½ x 6 cm." "The shut-
 ter makes possible all exposures". "The actual film
-carrier takes a length of three meters standard cineme
+carrier takes a length of three meters standard cinema
 film", which means 120 pictures. "A holder containing
 more films is contemplated for those who wish to take
 as many as 500 or more views on a single film. The
-camera can be fastened to any photo-stand". The projeo
+camera can be fastened to any photo-stand". The projec-
 tor can be fastened to a stand and used to project down-
 ward on a table.
 
-The manager of the Cineecopie wrote in Febru-
-
-ary,1931 that he would make a test exposure of a page
-
+The manager of the Cinescopie wrote in Febru-
+ary, 1931 that he would make a test exposure of a page
 of the New York Times sent him for the purpose, but he has
-
-not sinze been heard from. There is no evidence that this
-
+not since been heard from. There is no evidence that this
 apparatus possesses any superior technical qualities which
-
 should cause it to be ranked above the products of the
-
 Ansco or Leitz companies, which are sponsored by sales
-
 organizations in America, or the Lemare outfit, which has
-
 been amply proved by its work in the collection of archive
+copies for the Library of Congress.
 
-copies for the Library of Congress
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=113 p:92 ]]
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=113 ]]
-92
-
-The Ansco Universal still-[ilm Copying camera
+The Ansco Universal Still-Film Copying Camera
 
 The Cinescope was developed to meet a demand
 for illustrative material for lectures, and this same
 need brought into existence the copying camera sold by
 the Agra Ansco corporation, Binghamton, N.Y., for fifty
-dollars. one of these cameras was loaned to the Joint
-committee for test and examination. The lens is mount-
+dollars. One of these cameras was loaned to the Joint
+Committee for test and examination. The lens is mount-
 ed on a frame facing a copy board which can be clamped
 in position at any distance up to three feet from the
 lens. The copy board will hold a sheet 11 x 14 inches,
@@ -3203,32 +3232,27 @@ are mounted, one with a ground glass back for focusing,
 the other holding the film for exposure. There is no
 shutter attachment; exposure is made by removing a
 little cap from the lens. In operating the equipment
-the_originel is fastened to the vertical copy board,
+the original is fastened to the vertical copy board,
 the ground glass is moved opposite the lens and the
-lens sleeve turned to bring the object into focub. If the
+lens sleeve turned to bring the object into focus. If the
 copying is fine, a microscope must be used in adjusting
-
-the focus. when the lens is correctly set, the opening
-
+the focus. When the lens is correctly set, the opening
 must be stopped down to increase the fineness of the
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=114 ]]
-93
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=114 p.93 ]]
 
-image, then the cap is put over the lens. and the film
+image, then the cap is put over the lens, and the film
 chamber moved behind it. Exposure of 10 to 25 seconds
 is necessary with two forty watt electric lights.
 
 The Ansco copying camera is very easy to load.
 The film cartridge is simply a wooden box into which the
 film has been pushed through a narrow felt-lined slit.
-
 A loading consists of 50 exposures, or three feet of
 film. The disadvantage of the loading system as com-
-pared with Leica eouipment is the absence of any signal
+pared with Leica equipment is the absence of any signal
 to show when the fifty exposures have been used up.
 Another noteworthy point is the cost of the film if it
-
 is bought as recommended in cartridges of fifty expo-
 sures. These are sold by Ansco for fifty cents, although
 the film in them can be bought for three or five cents.
@@ -3238,22 +3262,18 @@ boxes himself.
 Another difficulty in the use of the Ansco
 equipment arises from the vertical position of the copy
 board. It would not be difficult to make some kind of a
-"lass covered book holder with a spring back to hold
+glass covered book holder with a spring back to hold
 book pages flat against the glass, but at present no such
 equipment is offered by Ansco. In its absence the diffi-
+culty of copving a page from a book is very great. Loose
 
-culty of copvinv a pane from a book is very great. Loose
-
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=115 ]]
-94
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=115 p.94 ]]
 
 sheets are clamped in place on the board by means of
 some spring steel clamps, but the clamps sometimes
 fail to hold. Focusing with a microscope is a very
-
 awkward task. It must be concluded that although the
 Ansco equipment is devised for the sole object of
-
 permitting easy and cheap copying of pages, it has
 faults which cameras built for more general use do
 not have. These faults could be rectified by the
@@ -3266,58 +3286,58 @@ could probably construct this himself.
 chamber is emptied of film.
 
 Loading the Ansco is easier than loading the Leica.
+
 The advantage of the Ansco as compared with
 the Leica and Lemare cameras is to be found principally
 in the lower purchase price and the smaller frame of
 film used. The latter is an advantage only to the ex-
 tent that Ansco focusing will permit the copying of a
 page or spread on one frame. Thus if one were copying
-a pamphlet 5% x 7 inches, he could put two pages on
+a pamphlet 5½ x 7 inches, he could put two pages on
 one frame in either Ansco or Leica. But the Leica
 frame is twice as large as the Ansco, and the cost of
 materials would therefore be twice as high. But if
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=116 ]]
-the pamphlet were larger than 5% x 7, or if it were nec-
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=116 p:95 ]]
+
+the pamphlet were larger than 5½ x 7, or if it were nec-
 essary to use a high resolving power in making the copy,
-the advantaze would be with the double-frame cameras_
+the advantage would be with the double-frame cameras 
 Leica or Lemare. It is possible, by a somewhat compli-
-cated manipulation, to take single -frame pictures even
+cated manipulation, to take single-frame pictures even
 with the Leica or Lemare.
 
 Leica and Lemare Equipment Compared with Ansco.
 
-Focusinct
+Focusing
 
 The Leitz Company has not manufactured a camera
-for specialized service in cooying. It offers rather 2
+for specialized service in copying. It offers rather a
 large variety of attachments which adapt its general-purpose
-camera to copying needs. The Aneco also has its general
+camera to copying needs. The Ansco also has its general
 purpose camera and a way of using it on a copying stand, but
-this combination is not as good as the special Ansco copying
+this combination is not as good as the special Ansco Copying
 Camera. Therefore the "universal" Leica with its attach-
-ments should be compared with the special Ansoo camera.
+ments should be compared with the special Ansco camera.
 
 The newest attachment offered by the Leitz Company
-(costing 312.00 to $35.00) makes its copying equipment re-
+(costing $12.00 to $25.00) makes its copying equipment re-
 semble the Ansco in that the camera containing film is moved
 away from the lens to permit focusing on ground glass, and
-then moved back to oosition behind the lens to permit expo-
-
+then moved back to position behind the lens to permit expo-
 sure. But this kind of focusing has little special value
-
 when the image is as small as the image of print reduces to
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=117 ]]
-98
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=117 p:96 ]]
 
-the size or a filnslide. It is still necessary to use a
-Iagnifying glass in focusing. The standard Leioe equip-
+the size or a filmslide. It is still necessary to use a
+magnifying glass in focusing. The standard Leica equip-
 ment adjusts the focus by measuring the distance from
 camera to object, computing size of object that will be
-recorded at that distance, and turning the lac sheath
-on a oallibrated scale.
-Cop; Holding.
+recorded at that distance, and turning the lens sheath
+on a callibrated scale.
+
+Copy Holding.
 
 All the Leica and Lemare copying stands hold
 the camera above a copy which lies flat on the table.
@@ -3325,7 +3345,7 @@ The difficulty of clamping a sheet to a vertical copy
 stand is avoided. A glass plate can be laid on top of
 the object to flatten it. The Lemare copystand is su-
 perior to the Leica, especially in its attachment for
-photographing pages from oound books. The Leica copy-
+photographing pages from bound books. The Leica copy-
 stands are of two kinds. There is a light portable one
 which is easily dismounted and put into a canvas kit
 bag. There is the heavier and more rigid stand used in
@@ -3334,20 +3354,19 @@ apparatus is offered by the Leitz company, the purchaser
 gets his choice between rigidity and portability. Pro-
 fessor Gehlke, of Western Reserve University, has con-
 trivad an inexpensive modification of the rigid enlarg-
-ing stand to make it dismountable and portatde.
+ing stand to make it dismountable and portable.
 
-Double ggposura.
+Double Exposure.
 
 The Leitz Company offers two kinds of cameras:
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=118 ]]
-97
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=118 p:97 ]]
 
-the one with focal plane shutter at 391.50 and the
-'compur Shutter" at 373. The difference in shutters
+the one with focal plane shutter at $91.50 and the
+"Compur Shutter" at $72. The difference in shutters
 is important only in connection with fast exposures,
 and does not affect copying work. It happens quite
-by accident that the cheaper compur shutter is better
+by accident that the cheaper Compur shutter is better
 for copying, because the film winding device works
 independently of the shutter, and permits a double
 exposure on the same slide. This double exposure
@@ -3362,15 +3381,16 @@ pages. Thus four pages of a pamphlet can be put on one
 slide. Used in this way, the double frame camera such
 as the Leica or Lemare can do the work of the single
 frame camera such as the Ansco.
-Loading.
-The load taken by the Leica camera is 5% feet
 
+Loading.
+
+The load taken by the Leica camera is 5¼ feet
 of film, 36 exposures, as compared with three feet, 50
 exposures in the Ansco; 8 to 10 feet, 50 to 80
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=119 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=119 p:98 ]]
 
-exposures in the Q.R.S., and 16½ feet, 100 expos~
+exposures in the Q.R.S., and 16½ feet, 100 expos-
 ures in the Lemare. In Ansco and Leica the film is loaded
 into a cartridge in the dark room, and the cartridge then
 inserted in the camera by daylight; the Lemare camera is
@@ -3380,78 +3400,71 @@ and hence favors the Lemare.
 
 Filmograph and Kennedy Apparatus
 
-It cinescope, Ansco, Leica and Lenora have been
-designed to fill needs more or lees closely related to those
-of a scholar, teacher or librarian, the rilmograph and Ken-
-nudy machines have been developed without any reference to
+It Cinescope, Ansco, Leica and Lemare have been
+designed to fill needs more or less closely related to those
+of a scholar, teacher or librarian, the Filmograph and Ken-
+nedy machines have been developed without any reference to
 the needs of the academic world. And yet they may turn out
 to be better suited than any other equipment to scholarly
-uses. In Seattle, Washington, Carl 2. Lundberg and H. C.
-Lambaoh have developed a mechine called the 'Fi1nogre.ph"
+uses. In Seattle, Washington, Carl E. Lundberg and H. C.
+Lambach have developed a machine called the "Filmograph"
 for copying court house records for abstracting companies.
-Mr. Lloyd 8. Kennedy in'Ile.rren, Ohio has invented a simi-
+Mr. Lloyd B. Kennedy in Warren, Ohio has invented a simi-
 lar machine which he uses for the same purpose. Both of
 these machines are much larger than the other types, and
 are intended to work faster, making longer runs. They
+both take full 400 foot rolls of film. The Kennedy appa-
 
-both take full 400 foot rolls of rum. The Kennedy apps.-
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=120 p:99 ]]
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=120 ]]
-99
-
-rstus is focused by trial and error to pick up the chem-
+ratus is focused by trial and error to pick up the chem-
 ical focus, which is different from the optical focus
-
 when very short wave length light is used. The focusing
-need be done only once for s job of copying hundreds of
-volumes. A volume of records is pissed in s glass-covered
+need be done only once for a job of copying hundreds of
+volumes. A volume of records is placed in a glass-covered
 copy holder; the attendant presses down the glass cover
-which releases the camera. shutter. An electric motor opens
+which releases the camera shutter. An electric motor opens
 the shutter for the exact exposure time required. When
-
-the exposure hes been made a bell rings, which notifies the
-attendant that he may raise the glass, turn a. page, and
-press down the cover again. The tilmogreph is similar, but
+the exposure has been made a bell rings, which notifies the
+attendant that he may raise the glass, turn a page, and
+press down the cover again. The Filmogreph is similar, but
 does not photograph through glass, and does not seem to have
 so fine a focusing system. Both machines, it is claimed;
-work very fast. The Filmogrsph clsims that it can make
-forty exposures a. minute, and copy a 640 page volume of
-legal records in twenty minutes. The Filmogrsph which is
-set up in Washington, D. 0. to copy some land office reo-
-ords to replace "those destroyed by fire in North Dakota.
-
-can make 5.000 negatives, recording 10,000 pages, in s
-
+work very fast. The Filmograph claims that it can make
+forty exposures a minute, and copy a 640 page volume of
+legal records in twenty minutes. The Filmograph which is
+set up in Washington, D. C. to copy some land office rec-
+ords to replace those destroyed by fire in North Dakota
+can make 5,000 negatives, recording 10,000 pages, in a
 day. An independent observer has noticed that the actual
-daily produce is about half of that - 3.500 exposures.
-
+daily produce is about half of that - 2,500 exposures,
 5,000 pages per day.
+
 The advantage of these larger machines is in
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=121 ]]
-".00
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=121 p:100 ]]
 
 their saving of labor. Dr. Thomas Martin, who super-
-vises the use of the Lelnare equipment in the Library of
-congress, calculates that two or three operators assist-
-mg each other could run off 5,000 prints with a Lenore
+vises the use of the Lemare equipment in the Library of
+Congress, calculates that two or three operators assist-
+ing each other could run off 5,000 prints with a Lemare
 camera as easily as one operator could make the 5,000
-negatives on the rilmograph. The Kennedy machine is
-certainly as fast as the Filnograph.
+negatives on the Filmograph. The Kennedy machine is
+certainly as fast as the Filmograph.
 
 The commercial exploitation of these machines
 has so far been based upon competition with typescript
-or photcstat copying for abstract offices. Kennedy
-cnarges 35¢ per foot of finished film; riluograph sugu
-geste the rather complicated arrangement that the ma.-
-cnine could be leased for a flat monthly charge of
-850, and in addition to the leasing charge a royalty
-charge of 34: for each two inches of film, "nth the
-understanding that we furnish the fun at no addition-
-al cost to the lessee, out that the developing expense
-he borne by the losses" - a royalty of 4d per foot of
+or photostat copying for abstract offices. Kennedy
+charges 35¢ per foot of finished film; Filmograph sug-
+gests the rather complicated arrangement that the ma-
+chine could be leased for a flat monthly charge of
+$50, and in addition to the leasing charge a royalty
+charge of 2¢ for each two inches of film, "with the
+understanding that we furnish the film at no addition-
+al cost to the lessee, but that the developing expense
+be borne by the lessee" - a royalty of 4¢ per foot of
 film. The going price for developing is approximately
-3; per running foot. lleither of these arrangements
+3¢ per running foot. Neither of these arrangements
 are suited to the library price level. But it must be
 understood that both prices are set in rather arbi-
 trary independence of costs, and in ignorance of the
@@ -3460,7 +3473,6 @@ trary independence of costs, and in ignorance of the
 101
 
 price range at which large scale use in research can
-
 be developed.
 
 Both Filmcgraph and Kennedy evince an inte-
