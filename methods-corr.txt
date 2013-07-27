@@ -4025,53 +4025,47 @@ reproduction.
 The advertising literature for the Lemare and
 Leica apparatus both assume that the user will print
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=141 p:120 ]]
-120.
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=141 p:120 ]]
 
-enlarged copies of his tilmslides for use as notes.
+enlarged copies of his filmslides for use as notes.
 
-If this is done, the Iilmslide is a mere intermediate
+If this is done, the filmslide is a mere intermediate
 step in the production of the note, and the economies
 of the method as against the use of the photostat are
 largely labor economies arising from the fact that the
 scholar makes the exposures himself. If there were on
 the market a cheap, portable copying apparatus which
-would ccpy directly on phctcstat paper of a convenient
+would copy directly on photostat paper of a convenient
 note paper size, so arranged that the exposed sheets
 would stack themselves in a light-proof box which
 could be detached and taken to a photographer's shop
 for developing, one step in the photographic note-
 taking process would be saved. Notes 5 x 8 inches
 would cost less than 2 cents each. Pages of all
-
-sizes would be copied on the same size of note_paper,
-to file in with notes taken in typescript or menu-
+sizes would be copied on the same size of note paper,
+to file in with notes taken in typescript or manu-
 script. The variation in legibility would be more than
-
 compensated for by the convenience of the standardized
-
 size.
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=142 ]]
-131.
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=142 p:121 ]]
 
-VI. Recommendations. .
-1. Librarz Installation of Filmelide Apparatus.
+VI. Recommendations.
+
+1. Library Installation of Filmslide Apparatus.
 
 As a substitute for the photostat in copying
 books and manuscripts of normal size, present filmslide
 apparatus for photography, projection or direct reading
-is satisfactory. But it is s misfortune that the came-
-
+is satisfactory. But it is a misfortune that the came-
 ra with the best lens equipment uses the perforated
-
 film, and the only small camera using non-perforated
 film has the poorer lens equipment.
 
 It is recommended that the conclusions here
 reached in the comparison of these two cameras, the
 Leica and Lemare, be scientifically checked, possibly
-at the Bureau of standards.
+at the Bureau of Standards.
 
 If the conclusions as to resolving power
 here stated are confirmed, - that Leica will give as
@@ -4082,57 +4076,49 @@ fineness are due to differences in the process of de-
 veloping and fixing the film or to differences in ex-
 posure time or to some other factor not inherent in the
 apparatus, then libraries should be urged to install
-
-Lemars equipment.
+Lemare equipment.
 
 In either case, it is very important that all
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=143 ]]
-12?.
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=143 p:122 ]]
 
-libraries should install filmslide ohotocraphy and
-projection apparatus as a supplement to the photostet
-eouipment, and as a device for takinz some of the
-load off of their lending and borrowin: activities.
+libraries should install filmslide photography and
+projection apparatus as a supplement to the photostat
+equipment, and as a device for taking some of the
+load off of their lending and borrowing activities.
 
 The cost accounting done at the University
-of California established the fact thst the expense of
-
+of California established the fact that the expense of
 borrowing or lending books is $1.59 per volume -- the
-
-cost of borrowing beinw almost exactly equal to the
+cost of borrowing being almost exactly equal to the
 cost of lending. The low cost of filmslide copies
 would permit the borrowing scholar to purchase copies
 of many items he would otherwise borrow. This is es-
 pecially true of short articles in periodicals.
 
-The Joint com ittee should take this matter
-
+The Joint Committee should take this matter
 up with the American Library Association.
 
 2. Filmslides and the Newspaper Problem.
-As 3 means of cobyinv newspapers, present
 
-photographic apparatus is Hatls"actory, and present
+As 3 means of copying newspapers, present
+photographic apparatus is satisfactory, and present
 projection apparatus unsatisfactory. Both can be and
 should be improved. It is not recommended that the
 filmslide method in its present state be promoted in
 any large scale project for preserving or completing
 files of newspapers in libraries, although it may be
-
 used as a substitute for the photostat in making
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=144 ]]
-123.
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=144 p:123 ]]
 
 pages of newspapers available to scholars who could
-
 not afford to buy photostats. The possibility of orga-
 nizing large-scale copying operations should be kept in
-mind as a future part of the program of the Joint Com.
+mind as a future part of the program of the Joint Com-
 mittee, and in the meantime work upon the following
 technical problems should be stimulated through the
-Bureau of Standards, the lational Oouncil of Research,
+Bureau of Standards, the National Council of Research,
 or some other agency:
 
 A. A study of the durability of acetate film. If
@@ -4146,62 +4132,55 @@ be designed to use the "step and repeat" principle, by
 which a large number of images could be taken upon a
 single plate.
 
-3. A study of resolving power and reduction ratio,
+B. A study of resolving power and reduction ratio,
 to determine optimum chemical and optical conditions for
 copying newsprint, and to make sure that these are met in
 the apparatus in hand with minimum labor cost factor.
+Such processes as that invented by Dr. Hutchison should
 
-Such processes as that invented by Dr. Kutchison should
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=145 p:124 ]]
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=145 ]]
-124.
 be tested in this connection.
-6. A more efficient projector should be designed.
+
+C. A more efficient projector should be designed.
 This might be assigned to an optical company, such as
 Bausch and Lomb or the Delineascope for commercial
-
 development.
 
 3. Photostat for Note Taking.
 
 An effort should be made to foster the produc-
-Lion of a portable and inexpensive photostat eouipment
+tion of a portable and inexpensive photostat equipment
 for copying pages of various sizes upon a standard note-
 size paper. The Joint Committee should communicate with
 the Rectigraph and Photostat Companies, and might even
 take measures to verify the reporter's opinion that
 there would be a commercial demand for such an apparatus.
 
-4. The Qrganizstion of the geek guying Market in
+4. The Organization of the Book Buying Market in
 Connection with Book Production.
 
 The most important recommendation suggested by
 this survey is the organizing of the buying power of in-
 stitutions which are already devoting their funds to
 research purposes. These buyers should control produc-
-
-tion. lorks which do not finance themselvus as commercial
-
+tion. Works which do not finance themselves as commercial
 ventures and must depend on subsidies from the authors or
 from endowments or revolving funds could finance them-
 selves if the buying power were so organized as to elimi-
-
 nate waste. A survey of scholarly book publication
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=146 ]]
-:25.
-facilities is being made by Mr. John Marshall under
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=146 p:125 ]]
 
-the direction of the American council of Learned
-societies. Pending the completion of his survey, one
+facilities is being made by Mr. John Marshall under
+the direction of the American Council of Learned
+Societies. Pending the completion of his survey, one
 cannot speak with certainty, but it appears to be true
 that the limit which now restricts the circulation of
 research material among scholars is set by the require-
 ments of publishing finance rather than the purchasing
-
 power of libraries. But the high cost of publication is
 due to publishing policies which are not only valueless
-
 to the scholar, but even hostile to his purposes.
 
 It is a consequence of specialization in re-
@@ -4209,33 +4188,29 @@ search that some of the most useful kinds of collabora-
 tion among scholars require the circulation of only a
 limited number of copies of a given publication. But
 commercial publication cannot live on the limited
-specialists" market. Therefore the publisher influ-
+specialists' market. Therefore the publisher influ-
 ences the nature of the product in two ways. He con-
 stantly brings pressure to bear upon the productive
 scholar to urge him to prepare his work for a wider
 audience, and he saddles upon every publishing ven-
 ture a burden equal to the whole cost of production of
 the book in order to pay for promotion in the market.
-
 The social sciences and humanities are not protected
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=147 ]]
-l26.
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=147 p:126 ]]
 
 by the nature of their subject matter from this pres-
 sure upon their literature, with the result that even
 the purchasing power which is wholly within the control
 of the specialists in the field - such as the funds
 apportioned to a department in a university library -
-
 must be used in part to fill shelves with material that
-
 is less useful than it should be because of the pressure
 upon the author to seek a non-scholarly market.
 
 The learned periodical helps to relieve this
 pressure, but not sufficiently, as many instances illus-
-trate. A request has come in to the Joint committee for
+trate. A request has come in to the Joint Committee for
 funds to continue the publication of a calendar of
 Brazilian manuscripts. A conference of research men in
 American History, held in Chicago in November 1931, rec-
@@ -4246,34 +4221,27 @@ Cleveland Public Library system, a specialist in Slavic
 studies, has compiled a bibliography of English trans-
 lations of Polish literature, which is probably worth
 publishing but which cannot be financed at present
-
 without a subvention from the author. Source materials
+on the Paris Peace Conference ought to be circulated
 
-on the Paris Peace conference ought to be circulated
+[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=148 p:127]]
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=148 ]]
-' 12'. .
 and studied as intensively as the source materials on
-
-pro-war diplomacy, and testimony taken while the partic-
-
-193339 1" tn" Conference are still living, but such a
-venture under present conditions would not pay its way
+pre-war diplomacy, and testimony taken while the partic-
+ipants in the Conference are still living, but such a
+venture under present conditions would not pay its way.
 All these items illustrate the problems which could
-be met by correlating the organization of book purchas
+be met by correlating the organization of book purchas-
 ing and book production.
 
-The starting point in organizing purchasing"
-
+The starting point in organizing purchasing
 power in a field is the correlation of two quantities:
-
 the amount of material in a given field which the scholars
-
 therein would wish to publish if publication could be
 financed, and the purchasing power which the same schol-
-ars share throurh their ability to control the expendi-
+ars share through their ability to control the expendi-
 ture of a certain quota of the funds of their respective
-libraries. >
+libraries.
 
 Any field of scholarship which can organize
 its purchasing power in one hundred institutions can be-
@@ -4281,27 +4249,25 @@ gin to take command of production, and to secure for it-
 self at normal book prices whatever is deemed most use-
 ful for its purposes. An organization of three hundred
 can free itself from all restrictions, using the addi-
-
 tional purchasing power either to reduce purchasing
-
 prices or secure better typography and legibility at the
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=149 ]]
-128.
-sane prices.
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=149 p:128 ]]
+
+same prices.
 
 The economies which make this control possi-
 ble eliminate three-fifths to four-fifths of the nor-
-mal costs or publication, by getting rid of:
+mal costs of publication, by getting rid of:
 
 a. Promotion costs. (The promotion of books in
-the scholarly market is done tree by the journals any-
+the scholarly market is done free by the journals any-
 way.)
 
 b. Risk of carrying unsold stock. Elimination of
 this risk permits the use of more durable paper.
 
-c. Editorial costs, except perhaps for L reading
+c. Editorial costs, except perhaps for a reading
 fee which might be paid in some fields to the scholar
 to whom a manuscript is assigned for appraisal. The
 cost of correcting spelling and punctuation must not
@@ -4311,12 +4277,10 @@ d. A slight saving in library costs of putting the
 book on the shelves can be effected by sending cata-
 logue cards along with the books.
 
-9. Authors" royalties and publishers’ profits.
+e. Authors' royalties and publishers’ profits.
 
 In connection with the development of purchas-
-
-ing orgsnization,materia1s {or publication can be class-
-
+ing orgsnization, materia1s for publication can be class-
 ified into two groups.
 
 [[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=150 ]]
