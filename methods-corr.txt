@@ -77,9 +77,9 @@ Washington Planograph of Washington, D.C., Mr. E.G.
 Smithyman of the Photostat Company, Mr. Willard D. Morgan
 of the Leitz Company, Mr. B.B. Snowden of the Ansco
 Company, Mr. E.H. Naylor of the Rag Paper Manufacturers
-Association, Mr. H.C. Lambach of the Filmograph Corporation
+Association, Mr. H.C. Lambach of the filmograph Corporation
 Mr. L.B. Kennedy of Warren, Ohio, Dr. Miller Reese Hutchison,
-Admiral Bradley A. Fiske, Mr. H.K. Baumgardner of the Mid-
+Admiral Bradley A. fiske, Mr. H.K. Baumgardner of the Mid-
 West Rotaprint Corporation. Mr. J.F. Perkins of the J.B.
 Savage Co. of Cleveland, The William Feather Co. of Cleve-
 land, Dr. B.W. Scribner of the Bureau of Standards, Mr.
@@ -263,7 +263,7 @@ Optical aids to legibility. . . . 66
 
 Limitations of the reading glass.
 
-The Fiskoscope. Its place in connection
+The fiskoscope. Its place in connection
 filmslide photography rather than book pro-
 duction.
 
@@ -284,7 +284,7 @@ Organization of purchasing power.
 
 [[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=18 ]]
 
-IV. Filmslide Photography. . . . 81
+IV. filmslide Photography. . . . 81
 
 Two uses of filmslide: as an intermediate
 step in photostating, and as a complete
@@ -312,10 +312,10 @@ Ansco Universal Still-film Copying Camera.
 Leica and Lemare equipment compared
 with Ansco. Copy holding. Double
 exposure. Loading. . . . 95
-Filmograph and Kennedy apparatus.
+filmograph and Kennedy apparatus.
 Business side of the use of this
 equipment. . . . 98
-Proposed Filmograph. . . . 
+Proposed filmograph. . . . 
 Library service. Societe dee editions
 sur films de bibliotheques de France
 
@@ -323,7 +323,7 @@ Comparison of efficiencies in reduction.
 Table of Reduction ratios. . . . 103
 
 Projection apparatus. . . . 104
-Leica, Delineaacope, Filmograph, Kennedy,
+Leica, Delineaacope, filmograph, Kennedy,
 Heat. Screens.
 Direct reading of filmslides without
 projection. . . . 106
@@ -367,7 +367,7 @@ tion of preferred equipment to supplement
 photostat and take load off of borrowing
 and lending obligations.
 
-2. Filmslides and the newspaper problem. . . . 122
+2. filmslides and the newspaper problem. . . . 122
 Need for improvement in apparatus
 before organizing large scale projects.
 Hence:
@@ -642,7 +642,7 @@ attested are those of the University of California
 (72¢) per book. The general administrative expense
 of a library cannot be pro-rated with any accuracy
 among individual books, but must be taken into
-account. Figures collected by the Government show
+account. figures collected by the Government show
 that university libraries spend from 50% to 72% of
 their funds for other than acquisition purposes
 (50% Cornell, 72% Yale). The normal amount is about
@@ -774,7 +774,7 @@ characters are embossed on strips of aluminum and
 the strips assembled on a flexible sheet metal blank-
 et which is then printed on the Multigraph. Th»
 economies in Multigraph over print shop work are to
-be found in the wage scale of the operators._ Quo-
+be found in the wage scale of the operators. Quo-
 tations from a multigrapn company upon straight text
 work are equal to the highest printer's quotation.
 
@@ -1016,7 +1016,7 @@ light, as in photographic printing, from a negative or a
 positive. The most common processes make use of a photo-
 graphic negative, which "fixes" the letters in bitumin and
 albumin upon the metal sheet. The negative may be either
-film or paper. Film is in most common use in America, but
+film or paper. film is in most common use in America, but
 a special "Kodalith" paper is now manufactured by Eastman
 for use in the photo-process. The use of Kodalith paper
 cuts the cost in half.
@@ -1624,7 +1624,7 @@ and every spot, smudge and shade of color exactly
 reproduced. One of the most brilliant examples of
 collotype used for book reproduction was the work of
 the Oxford Press some thirty years ago, in their
-facsimile of the First Folio of Shakespeare's Plays,
+facsimile of the first Folio of Shakespeare's Plays,
 and I would call attention to the show-through at the
 back of the portrait as an example of what can be
 done with this process. Where funds allow, collotype is
@@ -1763,7 +1763,7 @@ and an attempt is being made to reproduce the unique
 Chillicothe Gazette at the Ohio Historical and Philoso-
 phical Society. When subscription lists to these
 projects rise above twenty, the photostat should be
-replaced with the offset press. Five or ten extra
+replaced with the offset press. five or ten extra
 copies could then be made for later sale without in-
 creasing the amount the subscribers would have to pay
 for their sets. Twenty is the critical point not only
@@ -2076,7 +2076,7 @@ reduced 50%
 
 7 pt. newsprint
 reduced to 80%
-(5½ pt) 44 1496 2904 $.33 $.17 __.05
+(5½ pt) 44 1496 2904 $.33 $.17 .05
 
 7 pt solid 38
 6 pt. leaded 34
@@ -2372,9 +2372,9 @@ point newsprint page will not need optical aid, but a man
 who is going through an entire file of the newspaper may
 have use for one of these glasses.
 
-The Fiskoscope
+The fiskoscope
 
-The Fiskoscope, invented by Admiral Fiske, is a
+The fiskoscope, invented by Admiral fiske, is a
 magnifying glass intended to render possible the reduction
 of print to the point where reading with the naked eye is
 impossible. Typescript or other reading matter is reduced
@@ -2393,23 +2393,23 @@ and the printed matter is then moved through the frame by
 turning a little screw.
 
 To a person not trained to use one eye alone.
-the Fiskoscope is very tiring. It is difficult to use in
+the fiskoscope is very tiring. It is difficult to use in
 reading normal pages because the field of vision is too
 small. The special pages of 165 words each were type-
 written to permit the whole page to be seen at once, but
 in reading a page of the New York Times, reduced 6 diame-
 ters, the restriction of the field of vision precludes
 skimming and is very annoying. If the principle of the
-Fiskoscope is to enter usefully into the scholar's equip-
+fiskoscope is to enter usefully into the scholar's equip-
 ment, it must be keyed in with filmslide photography
 rather than with offset printing, for it calls for a
-departure from the book form. Admiral Fiske writes that
+departure from the book form. Admiral fiske writes that
 the limit upon the magnifying power of his instrument is
 fixed by the printers, who cannot provide him with copy
 any smaller than newsprint reduced six diameters. But
 the filmslide negative will reduce newsprint more than
 twenty diameters. The place for such an instrument as
-the Fiskoscope is as an auxiliary to the projector in the
+the fiskoscope is as an auxiliary to the projector in the
 use of filmslides,-- a use which will be discussed below.
 
 Quality of Paper.
@@ -2475,7 +2475,7 @@ performance, is clear:
 
 [[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=92 p:71 ]]
 
-CHEMICAL AND PERFORMANCE SPECIFICATIONS
+CHEMICAL AND PERFORMANCE SPECIfiCATIONS
 
 (n.s. = not specified)
 
@@ -2861,7 +2861,7 @@ chapter.
 
 [[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=102 p:81 ]]
 
-IV. Filmslide Photography
+IV. filmslide Photography
 
 The reduction of a text to microscopic propor-
 tions on a photographic film or plate may enter into two
@@ -3023,20 +3023,20 @@ commercial cameras:
 
 Width 
 Across 
-Film
+film
 
 Length Along 
-Film Strip 
+film Strip 
 
 Kind Of
-Film Used
+film Used
 
 Ansco 23 mm 18 mm Perforated
 Cinescope 23 mm 24 mm Perforated
 Q.R.S. " 25 mm 32½mm Perforated
 Leica 25 mm 38 mm Perforated
 Lemare 30 mm 45 mm Non-Perforated
-Filmograph 30 mm variable Non-Perforated
+filmograph 30 mm variable Non-Perforated
 Kennedy 25 mm " Perforated
 " new style 3O mm " Hon-Perforated
 
@@ -3173,7 +3173,7 @@ ratio.
 Cinescope - Photoscope
 
 A Belgian company which began operations sev-
-eral years ago sought to sell Films "microphote" de la
+eral years ago sought to sell films "microphote" de la
 Photoscopie as a cheap but efficient substitute for
 glass slides used in art study and visual education.
 It issued a catalogue of geographic, religious, scientif-
@@ -3214,7 +3214,7 @@ copies for the Library of Congress.
 
 [[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=113 p:92 ]]
 
-The Ansco Universal Still-Film Copying Camera
+The Ansco Universal Still-film Copying Camera
 
 The Cinescope was developed to meet a demand
 for illustrative material for lectures, and this same
@@ -3398,16 +3398,16 @@ taken into the dark room and loaded direct. Convenience is
 on the side of the maximum amount of film in one loading,
 and hence favors the Lemare.
 
-Filmograph and Kennedy Apparatus
+filmograph and Kennedy Apparatus
 
 It Cinescope, Ansco, Leica and Lemare have been
 designed to fill needs more or less closely related to those
-of a scholar, teacher or librarian, the Filmograph and Ken-
+of a scholar, teacher or librarian, the filmograph and Ken-
 nedy machines have been developed without any reference to
 the needs of the academic world. And yet they may turn out
 to be better suited than any other equipment to scholarly
 uses. In Seattle, Washington, Carl E. Lundberg and H. C.
-Lambach have developed a machine called the "Filmograph"
+Lambach have developed a machine called the "filmograph"
 for copying court house records for abstracting companies.
 Mr. Lloyd B. Kennedy in Warren, Ohio has invented a simi-
 lar machine which he uses for the same purpose. Both of
@@ -3427,12 +3427,12 @@ which releases the camera shutter. An electric motor opens
 the shutter for the exact exposure time required. When
 the exposure has been made a bell rings, which notifies the
 attendant that he may raise the glass, turn a page, and
-press down the cover again. The Filmogreph is similar, but
+press down the cover again. The filmogreph is similar, but
 does not photograph through glass, and does not seem to have
 so fine a focusing system. Both machines, it is claimed;
-work very fast. The Filmograph claims that it can make
+work very fast. The filmograph claims that it can make
 forty exposures a minute, and copy a 640 page volume of
-legal records in twenty minutes. The Filmograph which is
+legal records in twenty minutes. The filmograph which is
 set up in Washington, D. C. to copy some land office rec-
 ords to replace those destroyed by fire in North Dakota
 can make 5,000 negatives, recording 10,000 pages, in a
@@ -3449,13 +3449,13 @@ vises the use of the Lemare equipment in the Library of
 Congress, calculates that two or three operators assist-
 ing each other could run off 5,000 prints with a Lemare
 camera as easily as one operator could make the 5,000
-negatives on the Filmograph. The Kennedy machine is
-certainly as fast as the Filmograph.
+negatives on the filmograph. The Kennedy machine is
+certainly as fast as the filmograph.
 
 The commercial exploitation of these machines
 has so far been based upon competition with typescript
 or photostat copying for abstract offices. Kennedy
-charges 35¢ per foot of finished film; Filmograph sug-
+charges 35¢ per foot of finished film; filmograph sug-
 gests the rather complicated arrangement that the ma-
 chine could be leased for a flat monthly charge of
 $50, and in addition to the leasing charge a royalty
@@ -3474,31 +3474,31 @@ trary independence of costs, and in ignorance of the
 price range at which large scale use in research can
 be developed.
 
-Both Filmograph and Kennedy evince an inte-
+Both filmograph and Kennedy evince an inte-
 rest in developing the research materials field. Mr.
-W.K. Shissler, a Filmograph representative, writes of
+W.K. Shissler, a filmograph representative, writes of
 
 a plan in contemplation whereby the
 persons interested will make available
 to persons and institutions desiring
 such service, what will probably be
-known as a Filmograph Library Service.
+known as a filmograph Library Service.
 The purpose of this service will be to
-make available Filmograph duplicates
+make available filmograph duplicates
 of invaluable manuscripts in this and
 other countries which would not other-
 wise be available to persons and in-
 stitutions at a distance from the orig-
 inal material.
 
-These Filmographs with explanatory notes
+These filmographs with explanatory notes
 by noted authorities and custodians would
-be classified into various types of Film-
+be classified into various types of film-
 ograph libraries to be rented or sold to
 those desiring them....Many variations of
 the plan might be developed including the
-interchange of such Filmographs by various
-institutions through the Filmographing and
+interchange of such filmographs by various
+institutions through the filmographing and
 distributing service of the organization
 which is contemplating this unique service....
 
@@ -3541,9 +3541,9 @@ and lens are only one of the factors governing resolving
 power.
 
 Reduction Ratio and Legibility of 7 Point Newsprint
-Photographed in Different Makes of Filmslide Camera
+Photographed in Different Makes of filmslide Camera
 
-Q.R.S. ANSCO LEMARE FILMOGRAPH EASTMAN LAB LEICA EXPERT LEICA AMAT KENNEDY HIGH KENNEDY LOW
+Q.R.S. ANSCO LEMARE fiLMOGRAPH EASTMAN LAB LEICA EXPERT LEICA AMAT KENNEDY HIGH KENNEDY LOW
 
 A to 15 to 13 to 16 to l8 to 18 to 20
 B 8½ 16-18 13-15 16-20 2 22½ 20-23 21-24
@@ -3594,12 +3594,12 @@ when it was shifted from the one to the other projec-
 tor.
 
 Both projectors are hot to the touch, but the
-heat does not seem to damage the film. Filmslides left
+heat does not seem to damage the film. filmslides left
 in the projector for fifty-four hours continuously
 showed no ill effects, although throughout this time
-they were in direct contact with hot glass. The Filmo-
+they were in direct contact with hot glass. The filmo-
 graph organization offers a special projector called
-the Filmoscope, which is said to project the image
+the filmoscope, which is said to project the image
 evenly over the whole screen, without blurring at the
 edges. The writer has not had an opportunity to test
 this device. The Kennedy projector is a modification
@@ -3608,7 +3608,7 @@ Congress a modification of the Spencer Delineascope.
 In each of these projectors the image is sent from the
 filmslide at the reader's side to a mirror, and reflected
 back to be read by transmitted light through a sheet of
-ground glass. The Filmograph projector works from a
+ground glass. The filmograph projector works from a
 mounting above the reader's head, and is read by reflect-
 ed light direct from the screen. Experiments with diff-
 
@@ -3623,9 +3623,9 @@ the reflection from the silver screen and transmission
 through focusing glass there is no significant diffe-
 rence.
 
-Direct Reading of Filmslides without Projection.
+Direct Reading of filmslides without Projection.
 
-Filmslides of normal-size printed or manuscript
+filmslides of normal-size printed or manuscript
 pages, which in the case of non-perforated film are reduc-
 tions of seven to ten diameters only, are legible by means
 of a powerful reading lens. The reading system designed
@@ -3634,7 +3634,7 @@ elements: a ground glass stand illuminated from below
 which transmits light through a film negative laid upon
 it, and a lens fixed at the correct focal distance from
 the plans of the glass. The reader merely passes the
-film over the ground glass. The Fiskoscope could be
+film over the ground glass. The fiskoscope could be
 used for reading positive paper prints of filmslides, but
 the principle of the Martin apparatus is preferable (un-
 less it should be necessary to transfer the image from
@@ -3740,7 +3740,7 @@ tations the following maximum and minimum costs can
 be calculated.
 
 If labor costs are cut by using larger machines
-such as the Filmograph or the Kennedy camera, the cost
+such as the filmograph or the Kennedy camera, the cost
 per exposure will work out as follows:
 
 [[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=132 p:111 ]]
@@ -3758,7 +3758,7 @@ rolls of film,
 5000 exposures
 (as claimed)
 
-Film….$6.00 $12.00
+film….$6.00 $12.00
 
 Devel-
 oping....8.00 (2¢ per foot) 8.00 (at cost of l¢ per foot)
@@ -3851,7 +3851,7 @@ storage space in crowded libraries.
 
 A standard for measuring newspaper costs is fur-
 nished by the New York Times. The subscription price is
-$18.00 per year. A one_year file, in twenty four bound
+$18.00 per year. A one-year file, in twenty four bound
 volumes, on ordinary newsprint paper, is sold for $72, on
 rag paper for $170. The number of pages is close to
 24,000, or two thousand a month. The element of bindery
@@ -3907,7 +3907,7 @@ One Hundred Pages of the London Times
 Subscription & binding.......... . . . . . ...... .33 to .36
 
 One Hundred Pages of Recent European
-Newspapers in Back Files from Book
+Newspapers in Back files from Book
 Dealers . . . .  .20 to .40
 
 These latter quotations require further explanation.
@@ -4052,7 +4052,7 @@ size.
 
 VI. Recommendations.
 
-1. Library Installation of Filmslide Apparatus.
+1. Library Installation of filmslide Apparatus.
 
 As a substitute for the photostat in copying
 books and manuscripts of normal size, present filmslide
@@ -4099,7 +4099,7 @@ pecially true of short articles in periodicals.
 The Joint Committee should take this matter
 up with the American Library Association.
 
-2. Filmslides and the Newspaper Problem.
+2. filmslides and the Newspaper Problem.
 
 As 3 means of copying newspapers, present
 photographic apparatus is satisfactory, and present
@@ -4224,7 +4224,7 @@ publishing but which cannot be financed at present
 without a subvention from the author. Source materials
 on the Paris Peace Conference ought to be circulated
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=148 p:127]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=148 p:127]]
 
 and studied as intensively as the source materials on
 pre-war diplomacy, and testimony taken while the partic-
@@ -4283,160 +4283,132 @@ In connection with the development of purchas-
 ing orgsnization, materia1s for publication can be class-
 ified into two groups.
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=150 ]]
-129.
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=150 p:129 ]]
 
-group 1, in which the interest of the library predni-
+Group 1, in which the interest of the library predomi-
 nates. This may be due to their relation to general
-library policy, to their wide appeal, their bibliograply-
-ic importance, or their relation to some particular pols
+library policy, to their wide appeal, their bibliograph-
+ic importance, or their relation to some particular pol-
 icy of a special library. Examples: Newspaper reproduc-
 tions in a general library; reproductions of state statutes
 and law reports in a law library; fac-simile reproductions
 of books of general interest which are out of print.
 
 Organization of purchasing power for this class of
-
 material should begin with the libraries. The same kind
-
 of organization which would solve production problems
-
 would also be useful in organizing the completion and
-
 distribution of serial and government document sets.
 
 Group II, in which the interest of the specialized re-
 search scholar predominates. The same men are inte-
 rested in securing the publication of their own work
-
-and in acquiring the work of others for their own libran
+and in acquiring the work of others for their own libra-
 ries. Examples: Monographic work; biographical source
 material concerning persons whose importance lies solely
 in one field.
 
 Organization of purchasing power for this class of
-
 material might well begin with the learned societies and
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=151 ]]
-130.
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=151 p:130 ]]
 
 their committees. some or them have publication com-
 mittees which could be asked to study a broader pro-
-
-gram based on the possibility of eel!-financed publication.
-Within the A.O.L.8. there are a number of subject matter
+gram based on the possibility of self-financed publication.
+Within the A.C.L.S. there are a number of subject matter
 committees which might be willing to extend their func-
-ticne.
+tions.
 
 Since the practices of institutions vary as to
 the responsibilities of the librarian and the research
 personnel for the initiative in acquisition, projects
 which would be primarily matters of Department discre-
-
 tion in one university might be primarily a matter of
-Library reenonsibility in another. Certainly every_
-step taken will recuire complete accord between research
+Library responsibility in another. Certainly every
+step taken will require complete accord between research
 personnel and library. There are some projects which
 would be too narrow in scope to be regarded as matters
 of general library policy, and yet too broad to fall
-within any one research field -Vfor example, the pub-
+within any one research field -- for example, the pub-
 lication of Paris Peace Conference Documents. But if
 both the libraries and the scholarly personnel are or-
-
-ganized, ewery worthy project for which there are over
-
+ganized, every worthy project for which there are over
 a hundred purchasers can be published and distributed.
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=152 ]]
-131.
-Action by the Joint committee
-The object described in the foregoing pare-
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=152 p:131 ]]
+
+Action by the Joint Committee
+
+The object described in the foregoing para-
 graphs cannot be attained out of hand, by drawing up
-
 schemes for an organization upon paper and having it
-
 voted upon. Existing institutions must be used wherever
 possible, and existing wants should be met, as they
 arise, in such a way that the new set-up will be
-
 evolved. The following are specific suggestions.
 
 A. Publishing Projects in Search of Funds.
 
-Since any project will finance itself it there
-is an advance subscription to the requisite number or
+Since any project will finance itself if there
+is an advance subscription to the requisite number of
 copies, it is not necessary to organize a field or schol-
 arship or a system of libraries in order to work out the
 practical application of the plan. If particular ventures
-are financed in this way. the system will begin to take
+are financed in this way, the system will begin to take
+root.
 
-200?.
-
-Therefore, in all cases in which the Joint con»
+Therefore, in all cases in which the Joint Com-
 mittee is asked to pass upon the merits of a publishing
 project for which a subvention is requested, the action
 taken by the committee should have the larger plan in
 view. A procedure might well be:
 
 1) To decide whether there is any existing organiza-
-
 tion in the field which could be asked to send our circu-
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=153 ]]
-133.
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=153 p:132 ]]
 
-1s:e or use its Journals to determine whether it con-
+lars or use its journals to determine whether it con-
 trols the purchasing power needed for publication.
-Xaximun price and minimum legibility should be speci-
+Maximum price and minimum legibility should be speci-
 fied. The Survey of the Activities of American Agen-
 cies in the Improvement of Materials for Research,
-just completed lo: the Joint Committee should be ana-
-lyzed to provide lists or special markets for circu1arize-
-Lion in the appropriate fields.
+just completed for the Joint Committee should be ana-
+lyzed to provide lists of special markets for circulariza-
+tion in the appropriate fields.
 
-3) To make sure that estimates of editorial costs
+2) To make sure that estimates of editorial costs
 are separated from estimated publishing costs; if the
-
 requested subsidy involves both elements, they should
+be separately considered.
 
-we separately considered.
-
-3) If circulsrizing of institutions and individuals,
-
+3) If circularizing of institutions and individuals,
 or the sponsorship of the journals, results in a sub-
 scription list of more than one hundred, publication can
-
 be financed out of purchase money; if not, the subvention
-
--can be reconsidered.
+can be reconsidered.
 
 Among the existing organizations which might
 be consulted under (1) above: the publication committees
 or the learned societies, especially those which possess
-
-revolving funds, and the.Fac-Simile Text society, or
-
+revolving funds, and the Fac-Simile Text society, or
 Edwards Brothers if the publication required is a reprint
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=154 ]]
-i33.
-of an out-or-print publication. The Fae-Sinile Text
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=154 p:133 ]]
+
+of an out-of-print publication. The Fac-Simile Text
 Society invites suggestions of titles for publication,
 and follows the judgment of its editors in making
 decisions. Edwards Brothers proposes to receive from
-
 Libraries requests for a fac-simile copy of any man-
-
-uscript or out-of-print book, to circularize libraries"
-
+uscript or out-of-print book, to circularize libraries
 and produce the fac-simile at a price based upon the
-
 number of subscribers.
 
-8. Funds in Search of Publishing Pro ects.
-The Joint Committee might ask scholarly pub-
+B. Funds in Search of Publishing Projects.
 
+The Joint Committee might ask scholarly pub-
 lishing agencies, committees, revolving funds, etc. to
 define their policies in respect of the following two
 principles:
@@ -4449,34 +4421,29 @@ the edition of every work published should reach its
 maximum size or receive maximum distribution; it is
 more important that the number of copies distributed
 should be strategically located, since only the great-
-
 est libraries can specialize in everything.
 
 Any field of scholarship in which there is
+established a publishing agency which works on these
 
-established a publishing agency which workson these
-
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=155 ]]
-134.
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=155 p:134 ]]
 
 principles is in a position to take full advantage of
 the new publishing processes if its publication commit-
 tee can be put directly in touch with the representatives
-of buying power. The Joint committee should help to
+of buying power. The Joint Committee should help to
 create such a liason in these cases.
 
-. An arrangement of this kind is under considera-
-tion by the officers of the National council of Teachers
-
+An arrangement of this kind is under considera-
+tion by the officers of the National Council of Teachers
 of English. The terms at present under discussion with
-
-Edwards Brothers involve the use of a small rev 1'1ng
-
+Edwards Brothers involve the use of a small revolving
 fund.
-0. Library collaboration in Purchasinq.
 
-Mr. Gerould at princeton has warned the Joint
-Comnittee of the probability that the publication of
+C. Library Collaboration in Purchasing.
+
+Mr. Gerould at Princeton has warned the Joint
+Committee of the probability that the publication of
 the check list of Government Documents will be followed
 by a system of rare-book prices among the booksellers
 dealing in these documents, and has suggested that li-
@@ -4485,121 +4452,98 @@ a way as to avoid cut-throat competition in acquisition.
 Any organization of library purchasing power which
 could deal with government document acquisition policies
 could also control publication of fac-similes of important
-
 and widely demanded documents which are out of print, and
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=156 ]]
-13;.
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=156 p:135 ]]
 
 could pass from that to the control of publication of
 other materials in which general library interest pre-
 dominates. This problem of Library organization has
-already been discussed by the Joint committee. Anv
-action taken in connection with Mr. Gerou1d's sugvee-
+already been discussed by the Joint Committee. Any
+action taken in connection with Mr. Gerould's sugges-
+tion will carry out part of the recommendation result-
+ing from this Survey.
 
-tion will carry out part of tue recommendation result-
+D. Newspaper Reproduction.
 
-ing from this Surve
-
-D. Newspaper Reproouctio.
 An experiment should be made to test the
-
 demand for reproductions of old newspaper files in
 editions of over one hundred, reproduced by photo-
-lithographv. If one imoortant newspaper were selected,
-the project explained in the oolitical science and his-
-
-torical putlications, and a broader basis of subscription
-
+lithographv. If one important newspaper were selected,
+the project explained in the political science and his-
+torical publications, and a broader basis of subscription
 sought than could be obtained for photostat copies, it is
-oossble that a market would be discovered which would
-take care of all fao-simile newspaper publication.
+oossible that a market would be discovered which would
+take care of all fac-simile newspaper publication.
 
 Quite distinct from the problem of reproducing
 old newspapers is the problem of preserving current news-
 papers which are printed on cheap paper. A Survey of
-newspaper acouisition policies has been voted by the
+newspaper acquisition policies has been voted by the
+Joint Committee, but no work done upon it. If the Survey
 
-Joint committee, but no work done upon it. If the Survey
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=157 p:136 ]]
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=157 ]]
-136.
 should reveal that any newspapers are now being current-
-ly bound by more than one-hundred libraries, the librar-
+ly bound by more than one hundred libraries, the librar-
 ies should be consulted to determine whether they would
-
 wish to have current files reproduced for them half size
-
 upon durable paper. The New York Times, or any news-
-
 paper which is printed on rag stock, would not require
-
-sqch reproduction. Arrangements might be made in Europe
-
+such reproduction. Arrangements might be made in Europe
 for the preparation, at the lower European prices, of
-
-photo-lithorzraphed half-size copies of a. few of the great
-
+photo-lithographed half-size copies of a few of the great
 European dailies. Even if the number of libraries
-
 now binding these newspapers is too small to finance the
 reproduction scheme, the number might be increased when
+the project defines itself.
 
-tne project defines itself.
+E. Model Enterprises to be Sponsored by the Joint Committee.
 
-E. Model Enterprises to be Sponsored b1 the Joint Committee.
-The Joint committee might select two enterprises
-
-to be sponsored by it and carried through as s demonstra-
-
+The Joint Committee might select two enterprises
+to be sponsored by it and carried through as a demonstra-
 tion of the possibilities of bringing organized purchas-
-
 ing power directly into touch with the problem of pub-
-
-lishing. One such enterprise should lie in a. field where
-
+lishing. One such enterprise should lie in a field where
 there is pressure by research scholars for more adequate
-
 publishing facilities. This would be a problem in setting
+up an organization. The other should lie in a field
 
-up an organization. The other should lie in s. field
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=158 p:137 ]]
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=158 ]]
-L37.
 where there is a demand that certain material be made
 more accessible. It would be a matter of carrying
 through a project.
+
 Mr. Marshall's report on the use of revolving
 funds should suggest the most strategic place in which
 to undertake to organize purchasing power to meet the
 demand of research publication, thus creating a sample
 organization.
 
-?rofessor Shotwell, now chairman of the
+Professor Shotwell, now chairman of the
 International Relations Committee of the S.S.R.C., has
-in mind the preparation of a documentary history or the Paris
+in mind the preparation of a documentary history of the Paris
 Peace Conference. This might perhaps be used as a sample
 project. If a sample organization and a sample project
 were successful, the scholarly world would begin to think
 in new terms of the problem of publication.
 
-F. Further Study of Lcgibility and Typography.
+F. Further Study of Legibility and Typography.
 
-There is a direct relationship between 1egibi1-
+There is a direct relationship between legibil-
 ity, cost, and size of market necessary to float an enter-
-prise. The line of investigation begun under the sus-
-pices of the Joint committee should be continued until
+prise. The line of investigation begun under the aus-
+pices of the Joint Committee should be continued until
 three or four standards of legibility are defined, and
 the least costly way of producing each of them determined.
 
 It is suggested that In studies of legibility newsprint be
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=159 ]]
-138.
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=159 p:138 ]]
 
 taken as a standard, and that legibilities be graded as
 so many points above or below newsprint legibility.
-
 This standard should be selected because newsprint is
 familiar to everyone. Professors Paterson and Tinker
 of the University of Minnesota might be asked to continue
@@ -4624,8 +4568,7 @@ into a new edition of the Survey which can be used in
 carrying out the plans of the Joint Committee by present-
 ing its point of view in full. The comparison of Leica
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=160 p:139 ]]
-132 .
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=160 p:139 ]]
 
 and Lemare apparatus should be completed as recommend-
 ed before the survey issues in final form. Even the
@@ -4637,8 +4580,8 @@ be incorporated in the report. The new edition of the
 Survey could then be circulated among the publication
 committees of the learned societies and the libraries.
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=161 ]]
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=162 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=161 p:[140] ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=162 p:[141] ]]
 
 A SURVEY OF METHODS OF REPRODUCING
 RESEARCH MATERIALS
@@ -4648,7 +4591,7 @@ RESEARCH MATERIALS
 The Book:- The point of reference from which the problem of
 reproducing research materials must be examined is the system by
 which publishers produce books and libraries acquire, arrange and
-store them for use. The ﬁnancial policies of institutions, the stack
+store them for use. The financial policies of institutions, the stack
 room and reading room equipment of libraries, the training of library
 personnel as well as the research habits of scholars are standardized
 in favor of the use of books of several hundred pages, from six to
@@ -4657,14 +4600,14 @@ cents a page.
 
 There are other forms in which research material is made
 accessible, but in any of these other forms there is created a special
-problem of ﬁnance or administration. Maps, newspapers, "over-
-size" books, manuscript collections, ﬁlms, collections of pamphlets
+problem of finance or administration. Maps, newspapers, "over-
+size" books, manuscript collections, films, collections of pamphlets
 and broadsides present special difficulties and cause special expanses
 regardless of their acquisition costs.
 
 The normal acquisition costs of books or bound volumes of
 periodicals which can be shelved like books is something less than
-ﬁve dollars a volume. In a public library which purchases a large
+five dollars a volume. In a public library which purchases a large
 amount of popular fiction it falls to $1.30 a volume. The list prices
 of books per hundred pages, as given in standard annual book-lists
 are as follows:
@@ -4672,20 +4615,21 @@ are as follows:
 Average Retail Price of Books, Per One Hundred Pages
 General Books Scholarly Books (History)
 
-U. S. ................... _-$ .53 ___________________ __s1.2o
-Gt. Britain ............... -- .86 ................... -_ 1.20
-Germany ................ -- .75 ___________________ __ 1,04
-France .................. -- .58 .... --(unbound)_____ _34
-Italy ................................................ _, .65
+U.S. ................... $ .53 ______________$1.20
+Gt. Britain ...............  .86 ................. 1.20
+Germany ................  .75 ________________ 1.04
+France ..................  .58 .... --(unbound)__ .34
+Italy ..................................... .65
 
-SPECIMEN PAGE PRODUCED BY MIME-0-FORM SERVICE, WASHINGTON, D. C.
+SPECIMEN PAGE PRODUCED BY MIME-O-FORM SERVICE, WASHINGTON, D. C.
 
-[[ unproofed http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=163 ]]
+[[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=163 ]]
+
 Research materials that can be presented in book form within this
 price range can be fed into the library system of the country without
-requiring signiﬁcant changes in present acquisition policies.
+requiring significant changes in present acquisition policies.
 
-Analysis of Book Cost:--'-The cost accountancy of book pro-
+Analysis of Book Cost:---The cost accountancy of book pro-
 duction is very complicated, but the essential fact is simple: the
 unit cost of producing a book falls rapidly as the size of the edition
 increases. This is the crux of the problem that must be faced in
@@ -4701,42 +4645,24 @@ the normal price range.
 
 Another striking characteristic of book costs is the large per-
 centage of the sales price which goes to other objects than actual
-printing. A great university press calculates that two ﬁfths of
-the cost of a book are strictly manufacturing costs, one ﬁfth is edi-
-torial and general overhead, and two ﬁfths selling costs. Another
+printing. A great university press calculates that two fifths of
+the cost of a book are strictly manufacturing costs, one fifth is edi-
+torial and general overhead, and two fifths selling costs. Another
 university press bases its price calculation on the following pro-
 cedure:
 
-l
+1. Take the "shop cost" of the book (press-work,
+paper, binding, etc.) A maximum and minimum
+quotation for an edition of 1000, book of 100
+pages, 50,000 words is  $370 $775
 
-l.
-
-!'
-
-l
-
-l
-
-'3 1. Take the "shop cost" of the book (press-work,
-
-{ paper, binding, etc.) A maximum and minimum
-
- quotation for an edition of 1000, book of 100
-
-} pages, 50,000 words is  $370 $775
-
-1
-
-9, 2. Add 20% for editorial and overhead costs, which
-
-i brings the amount to  $444 $930
+2. Add 20% for editorial and overhead costs, which
+brings the amount to  $444 $930
 
 3. Subtract from the edition 100 copies for review
 and promotion, and divide the total cost by the
 salable edition (900 copies in this case) to get unit
 cost of each book ......... .. $ .49 $1.03
-
-~»~-----------------.....__..-9-... .......... 
 
 [[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=164 ]]
 [[ http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=165 ]]
