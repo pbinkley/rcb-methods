@@ -465,14 +465,39 @@ Sample of newspaper reduced one half
                   purchases a large amount or popular fiction it falls to $1.30 a volume. The list prices of books per hundred pages, as given in
                   standard annual boot-lists are as follows:</p>
 
-               <table xml:space="preserve">AVERAGE RETAIL PRICE OF BOOKS, PER ONE HUNDRED PAGES
-General Books Scholarly Books (History)
-
-U.S. $.53 $1.20
-Gt. Britain .86 1.20
-Germany .75 1.04
-France .58  .34 (unbound)
-Italy .65</table>
+               <table>
+                  <head>AVERAGE RETAIL PRICE OF BOOKS, PER ONE HUNDRED PAGES</head>
+                  <row role="label">
+                     <cell role="label"/>
+                     <cell role="label">General Books</cell>
+                     <cell role="label">Scholarly Books (History)</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="label">U.S.</cell>
+                     <cell role="data">$.53</cell>
+                     <cell role="data">$1.20</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="label">Gt. Britain</cell>
+                     <cell role="data">.86</cell>
+                     <cell role="data">1.20</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="label">Germany</cell>
+                     <cell role="data">.75</cell>
+                     <cell role="data">1.04</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="label">France</cell>
+                     <cell role="data">.58</cell>
+                     <cell role="data">.34 (unbound)</cell>
+                  </row>
+                  <row>
+                     <cell role="label">Italy</cell>
+                     <cell/>
+                     <cell>.65</cell>
+                  </row>
+               </table>
 
                <p>Research materials that can be presented in book form within this price range can be fed into the library system of the country
                   without requiring significant changes in present acquisition policies.</p>
@@ -495,38 +520,70 @@ Italy .65</table>
                   editorial and general overhead, and two fifths selling costs. Another university press bases its price calculation on the following
                   procedure:</p>
 
-               <table xml:space="preserve">1. Take the "shop cost" of the book (prose-work,
-paper, binding, etc.) A maximum and minimum
-quotation for an edition of 1000, book or 100
-pages, 50,000 words is . . . $370 $775
-
-2. Add 20% for editorial and overhead costs, which
-brings the amount to . . . $444 $930
-
-<pb n="4" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=25"/>
-
-3. subtract from the edition 100 copies for
-review and promotion, and divide the total
-cost by the salable edition (900 copies in
-this case) to get unit cost of each book . . $ .49 $1.03
-
-4. The sales price should then be fixed at
-three times this unit cost of the book, if
-the book is to return cost of publication
-and a small royalty to the author ......... $1.47 $3.12</table>
+               <table>
+                  <row role="data">
+                     <cell role="label">1. Take the "shop cost" of the book (prose-work, paper, binding, etc.) A maximum and minimum quotation for an
+                        edition of 1000, book or 100 pages, 50,000 words is</cell>
+                     <cell role="data">$370</cell>
+                     <cell role="data">$775</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="label">2. Add 20% for editorial and overhead costs, which brings the amount to</cell>
+                     <cell role="data">$444</cell>
+                     <cell role="data">$930</cell>
+                  </row>
+                  <pb n="4" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=25"/>
+                  <row role="data">
+                     <cell role="label">3. subtract from the edition 100 copies for review and promotion, and divide the total cost by the salable
+                        edition (900 copies in this case) to get unit cost of each book</cell>
+                     <cell role="data">$ .49</cell>
+                     <cell role="data">$1.03</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="label">4. The sales price should then be fixed at three times this unit cost of the book, if the book is to return
+                        cost of publication and a small royalty to the author</cell>
+                     <cell role="data">$1.47</cell>
+                     <cell role="data">$3.12</cell>
+                  </row>
+               </table>
 
                <p>The expenses of distribution are between 50% and 33% of the gross receipts.</p>
 
                <p>The commercial publishers devote less attention to scholarly values, but they find their costs distributed in about the same way.
                   The following calculations, from two independent sources, are substantially in agreement:</p>
 
-               <table xml:space="preserve">Cost of book sold at $2.50 $2.00
-
-Manufacturing cost ........ .45 .......... .40
-Author's royalty .......... .25 .......... .20
-Editorial and promotion ... .51 1/2 ....... .40
-Profit (Publisher) ........ .28 1/2 ....... .20
-Retailer's discount ....... 1.00 ....... .80</table>
+               <table>
+                  <row role="label">
+                     <cell role="label">Cost of book sold at</cell>
+                     <cell role="label">$2.50</cell>
+                     <cell role="label">$2.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="label">Manufacturing cost</cell>
+                     <cell role="data">.45</cell>
+                     <cell role="data">.40</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="label">Author's royalty</cell>
+                     <cell role="data">.25</cell>
+                     <cell role="data">.20</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="label">Editorial and promotion</cell>
+                     <cell role="data">.51 1/2</cell>
+                     <cell role="data">.40</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="label">Profit (Publisher)</cell>
+                     <cell role="data">.28 1/2</cell>
+                     <cell role="data">.20</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="label">Retailer's discount</cell>
+                     <cell role="data">1.00</cell>
+                     <cell role="data">.80</cell>
+                  </row>
+               </table>
 
                <p>Publishing at this cost level calls for the sale of editions of two thousand.</p>
 
@@ -536,9 +593,17 @@ Retailer's discount ....... 1.00 ....... .80</table>
                   of $.42 per 100 pages, or almost exactly one third of the average list price of American published books of the same class. These
                   figures contribute to the rough generalization that book prices as listed are made up of three equal parts:</p>
 
-               <table xml:space="preserve">One third to write, print, bind and edit the book.
-One third to move it from publisher to retailer.
-One third to move it from retailer to purchaser.</table>
+               <table>
+                  <row>
+                     <cell>One third to write, print, bind and edit the book.</cell>
+                  </row>
+                  <row>
+                     <cell>One third to move it from publisher to retailer.</cell>
+                  </row>
+                  <row>
+                     <cell>One third to move it from retailer to purchaser.</cell>
+                  </row>
+               </table>
 
                <p>Libraries often get discounts which reduce the last of these price increments.</p>
 
@@ -662,7 +727,265 @@ One third to move it from retailer to purchaser.</table>
                   Historians, 13-18 Ju1y,1931.</p>
                <pb n="15" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=36"/>
 
-               <table xml:space="preserve"/>
+               <table>
+                  <head>UNIT COST PER VOLUME (In Dollars)</head>
+                  <row>
+                     <cell cols="7">Estimates on printing book of 50,000 words, 100 pages, 8x9 inches, 5¢ cheap binding, ordinary book paper</cell>
+                     <cell cols="3">Size of edition necessary to reduce unit cost to</cell>
+                  </row>
+                  <row>
+                     <cell>Edition of:</cell>
+                     <cell>100</cell>
+                     <cell>200</cell>
+                     <cell>300</cell>
+                     <cell>500</cell>
+                     <cell>1000</cell>
+                     <cell>2000</cell>
+                     <cell>$1.00</cell>
+                     <cell>$.50</cell>
+                     <cell>$.25</cell>
+                  </row>
+                  <row>
+                     <cell>Printing from raised type</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>Multigraph (Polk)</cell>
+                     <cell>$4.22</cell>
+                     <cell>2.20</cell>
+                     <cell/>
+                     <cell>1.06</cell>
+                     <cell>.64</cell>
+                     <cell>.51</cell>
+                     <cell>525</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>Printing (Savage)</cell>
+                     <cell>4.00</cell>
+                     <cell>2.25</cell>
+                     <cell/>
+                     <cell>1.01</cell>
+                     <cell>.62</cell>
+                     <cell>.41</cell>
+                     <cell>500</cell>
+                     <cell>1500</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>Printing (London)</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>.54</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>Printing (Feather)</cell>
+                     <cell>2.25</cell>
+                     <cell>1.35</cell>
+                     <cell>.95</cell>
+                     <cell>.61</cell>
+                     <cell>.37</cell>
+                     <cell>.23</cell>
+                     <cell>275</cell>
+                     <cell>650</cell>
+                     <cell>1600</cell>
+                  </row>
+                  <row>
+                     <cell>Mime-O-Form</cell>
+                     <cell>2.05</cell>
+                     <cell>1.10</cell>
+                     <cell>.82</cell>
+                     <cell>.55</cell>
+                     <cell>.35</cell>
+                     <cell>.28</cell>
+                     <cell>225</cell>
+                     <cell>550</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>Printing (Paris)</cell>
+                     <cell>.50</cell>
+                     <cell>.44</cell>
+                     <cell>.32</cell>
+                     <cell>.25</cell>
+                     <cell>20</cell>
+                     <cell>.17</cell>
+                     <cell>50</cell>
+                     <cell>100</cell>
+                     <cell>500</cell>
+                  </row>
+                  <row>
+                     <cell>Offset with typing charge</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>Large offset (National Process)</cell>
+                     <cell>2.80</cell>
+                     <cell/>
+                     <cell/>
+                     <cell>.75</cell>
+                     <cell>.48</cell>
+                     <cell>.36</cell>
+                     <cell>340</cell>
+                     <cell>850</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>Large offset (Washington Planograph)</cell>
+                     <cell>2.25</cell>
+                     <cell>1.20</cell>
+                     <cell>.85</cell>
+                     <cell>.55</cell>
+                     <cell>.33</cell>
+                     <cell>.23</cell>
+                     <cell>260</cell>
+                     <cell>800</cell>
+                     <cell>1600</cell>
+                  </row>
+                  <row>
+                     <cell>Small offset (Edwards Bros.)</cell>
+                     <cell>1.50</cell>
+                     <cell>.82</cell>
+                     <cell>.60</cell>
+                     <cell>.42</cell>
+                     <cell>.29</cell>
+                     <cell>.21</cell>
+                     <cell>130</cell>
+                     <cell>400</cell>
+                     <cell>1500</cell>
+                  </row>
+                  <row>
+                     <cell>Offset without typing charge</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>Large offset (National Process)</cell>
+                     <cell>1.50</cell>
+                     <cell>.94</cell>
+                     <cell/>
+                     <cell>.36</cell>
+                     <cell>.30</cell>
+                     <cell/>
+                     <cell>190</cell>
+                     <cell>400</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>Large offset (London)</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>.30</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>Large offset (Washington Planograph)</cell>
+                     <cell>1.25</cell>
+                     <cell>.70</cell>
+                     <cell>.50</cell>
+                     <cell>.35</cell>
+                     <cell>.23</cell>
+                     <cell>.18</cell>
+                     <cell>145</cell>
+                     <cell>300</cell>
+                     <cell>950</cell>
+                  </row>
+                  <row>
+                     <cell>Small offset (Edwards)</cell>
+                     <cell>.90</cell>
+                     <cell>.53</cell>
+                     <cell>.40</cell>
+                     <cell>.30</cell>
+                     <cell>.23</cell>
+                     <cell>.18</cell>
+                     <cell>90</cell>
+                     <cell>225</cell>
+                     <cell>850</cell>
+                  </row>
+                  <row>
+                     <cell>Coxhead process</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>Phila. Coxhead (photo)</cell>
+                     <cell>2.00</cell>
+                     <cell>1.12</cell>
+                     <cell>.83</cell>
+                     <cell>.60</cell>
+                     <cell>.43</cell>
+                     <cell>.34</cell>
+                     <cell>250</cell>
+                     <cell>750</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>" " (Direct)</cell>
+                     <cell>1.75</cell>
+                     <cell>1.00</cell>
+                     <cell>.75</cell>
+                     <cell>.55</cell>
+                     <cell>.40</cell>
+                     <cell>.33</cell>
+                     <cell>200</cell>
+                     <cell>600</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>Cleveland Coxhead (5½ X 8½)</cell>
+                     <cell>.94</cell>
+                     <cell>.58</cell>
+                     <cell>.46</cell>
+                     <cell>.37</cell>
+                     <cell>.29</cell>
+                     <cell>.25</cell>
+                     <cell/>
+                     <cell>250</cell>
+                     <cell/>
+                  </row>
+               </table>
 
                <pb n="16" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=37"/>
 
@@ -946,33 +1269,87 @@ One third to move it from retailer to purchaser.</table>
 
                <pb n="33" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=54"/>
 
-               <table xml:space="preserve">Unit Cost of a Book of 100 Pages, 50,000 Words,
-on Full Typewriter Size Paper (8½ x 11 inches)
-
-Number of copies in edition: 50 75 100 200 300 400 500 1000
-
-Photo-lithography from the
-author's master-copy. (Price
-not affected by number of
-words on the page).......... $1.65 .98 .75 .64 .57 .44
-
-Lithographic offset press
-without photography 500
-words typewritten direct
-on the page........... 1.50 .90 .70 .60 .54 .42
-
-Mimeograph on bond paper... 1.30 .80 .63 .55 .50 .40
-
-Mimeograph on plain paper... 1.20 .75 .60 .53 .48 .39
-
-
-Reprints from lithographic
-metal sheet (either photo-graphic or typewritten)..... $1.40 1.04 .85 .58 .48 .44 .41 .35
-
-Reprints from mimeograph
-stenci1s.......... 1.00 .80 .70 .50 .43 .40 .38 .34
-
-</table>
+               <table>
+                  <head>Unit Cost of a Book of 100 Pages, 50,000 Words, on Full Typewriter Size Paper (8½ x 11 inches)</head>
+                  <row role="label">
+                     <cell>Number of copies in edition:</cell>
+                     <cell>50</cell>
+                     <cell>75</cell>
+                     <cell>100</cell>
+                     <cell>200</cell>
+                     <cell>300</cell>
+                     <cell>400</cell>
+                     <cell>500</cell>
+                     <cell>1000</cell>
+                  </row>
+                  <row>
+                     <cell>Photo-lithography from the author's master-copy. (Price not affected by number of words on the page)</cell>
+                     <cell/>
+                     <cell/>
+                     <cell>$1.65</cell>
+                     <cell>.98</cell>
+                     <cell>.75</cell>
+                     <cell>.64</cell>
+                     <cell>.57</cell>
+                     <cell>.44</cell>
+                  </row>
+                  <row>
+                     <cell>Lithographic offset press without photography 500 words typewritten direct on the page</cell>
+                     <cell/>
+                     <cell/>
+                     <cell>1.50</cell>
+                     <cell>.90</cell>
+                     <cell>.70</cell>
+                     <cell>.60</cell>
+                     <cell>.54</cell>
+                     <cell>.42</cell>
+                  </row>
+                  <row>
+                     <cell>Mimeograph on bond paper</cell>
+                     <cell/>
+                     <cell/>
+                     <cell>1.30</cell>
+                     <cell>.80</cell>
+                     <cell>.63</cell>
+                     <cell>.55</cell>
+                     <cell>.50</cell>
+                     <cell>.40</cell>
+                  </row>
+                  <row>
+                     <cell>Mimeograph on plain paper</cell>
+                     <cell/>
+                     <cell/>
+                     <cell>1.20</cell>
+                     <cell>.75</cell>
+                     <cell>.60</cell>
+                     <cell>.53</cell>
+                     <cell>.48</cell>
+                     <cell>.39</cell>
+                  </row>
+                  <!-- hr -->
+                  <row>
+                     <cell>Reprints from lithographic metal sheet (either photo-graphic or typewritten)</cell>
+                     <cell>$1.40</cell>
+                     <cell>1.04</cell>
+                     <cell>.85</cell>
+                     <cell>.58</cell>
+                     <cell>.48</cell>
+                     <cell>.44</cell>
+                     <cell>.41</cell>
+                     <cell>.35</cell>
+                  </row>
+                  <row>
+                     <cell>Reprints from mimeograph stencils</cell>
+                     <cell>1.00</cell>
+                     <cell>.80</cell>
+                     <cell>.70</cell>
+                     <cell>.50</cell>
+                     <cell>.43</cell>
+                     <cell>.40</cell>
+                     <cell>.38</cell>
+                     <cell>.34</cell>
+                  </row>
+               </table>
 
                <pb n="34" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=55"/>
 
@@ -1012,32 +1389,64 @@ stenci1s.......... 1.00 .80 .70 .50 .43 .40 .38 .34
                   from rolls of different widths, has been reckoned with, the cost of materials for photostating a 100 page book in different page
                   sizes, and with different grades of paper, is as follows:</p>
 
-               <table xml:space="preserve">Dimensions
-of book
-page in
-inches
+               <table>
+                  <row role="label">
+                     <call>Dimensions of book page in inches</call>
+                     <cell cols="3">Cost of material in dollars</cell>
+                  </row>
+                  <row role="label">
+                     <cell/>
+                     <cell>Ordinary stock</cell>
+                     <cell>"H" stock</cell>
+                     <cell>"HH" stock</cell>
+                  </row>
+                  <row>
+                     <cell role="label">4-1/2X 6</cell>
+                     <cell>.78 to .83</cell>
+                     <cell>.95 to 1.04</cell>
+                     <cell>1.05</cell>
+                  </row>
+                  <row>
+                     <cell role="label">5-1/2X 8-1/2</cell>
+                     <cell>1.42 to 1.51</cell>
+                     <cell>1.87 to 1.95</cell>
+                     <cell>1.84 to 1.91</cell>
+                  </row>
+                  <row>
+                     <cell role="label">6 X 9</cell>
+                     <cell>1.63 to 1.83</cell>
+                     <cell>2.03 to 2.06</cell>
+                     <cell>2.34 to 2.35</cell>
+                  </row>
+                  <row>
+                     <cell role="label">8-1/2X 11 (typewriter size)</cell>
+                     <cell>2.84 to 3.00</cell>
+                     <cell>3.66 to 3.73</cell>
+                     <cell>3.64 to 3.81</cell>
+                  </row>
+                  <row>
+                     <cell role="label">11 X 14</cell>
+                     <cell>4.67 to 5.01</cell>
+                     <cell>5.80 to 6.22</cell>
+                     <cell>5.91 to 6.06</cell>
+                  </row>
+                  <row>
+                     <cell role="label">11 X 17</cell>
+                     <cell>6.02 to 7.68</cell>
+                     <cell>7.45 to 9.55</cell>
+                     <cell>7.29</cell>
+                  </row>
+                  <row>
+                     <cell role="label">13 X 22 (page of N.Y.Times)</cell>
+                     <cell>12.01</cell>
+                     <cell>14.90</cell>
+                     <cell/>
+                  </row>
+               </table>
 
-Cost of material in dollars
-
-Ordinary stock "H" stock "HH" stock
-
-
-4-1/2X 6 .78 to .83 .95 to 1.04 1.05
-5-1/2X 8-1/2 1.42 to 1.51 1.87 to 1.95 1.84 to 1.91
-6 X 9 1.63 to 1.83 2.03 to 2.06 2.34 to 2.35
-8-1/2X 11 2.84 to 3.00 3.66 to 3.73 3.64 to 3.81
-(typewriter
-size)
-
-11 X 14 4.67 to 5.01 5.80 to 6.22 5.91 to 6.06
-11 X 17 6.02 to 7.68 7.45 to 9.55 7.29
-13 X 22 12.01 14.90
-(page of
-N.Y.Times)</table>
-
-               <p>To these costs of paper there must be added the costs of labor and chemicals. The New York Public Library end the printing
-                  department of the Cleveland Bell Telephone Company have very kindly contributed <pb
-                     facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=58 p.:37"/> statements of their operating costs. In
+               <p>To these costs of paper there must be added the costs of labor and chemicals. The New York Public Library and the printing
+                  department of the Cleveland Bell Telephone Company have very kindly contributed <pb n="37"
+                     facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=58 p:37"/> statements of their operating costs. In
                   the Public Library the great majority of the prints were 11½ x 14 inches, usually one copy only, and the average cost of the paper
                   was $.055. In the Telephone Company the average size of paper was 8½ x 11, and in many cases several copies of the same object are
                   required. The cost of paper averaged $.03 per page. In the Public Library the $.055 worth of paper requires so much reference and
@@ -1046,14 +1455,35 @@ N.Y.Times)</table>
                   chemical supplies cost $.033. These operating room costs in the Public Library amount to $.06. The figures in total operating cost
                   are as follows:</p>
 
-               <table xml:space="preserve">Library Telephone Co.
-Paper (per 100 pages) $5.50 $3.00
-Operating costs (do.) 6.00 3.30
-$11.50 $6.30
-
-Cost per square foot
-for Paper, Labor &amp;
-Chemicals $ 0.10 $0.084</table>
+               <table>
+                  <row>
+                     <cell/>
+                     <cell>Library</cell>
+                     <cell>Telephone Co.</cell>
+                  </row>
+                  <row>
+                     <cell>Paper (per 100 pages)</cell>
+                     <cell>$5.50</cell>
+                     <cell>$3.00</cell>
+                  </row>
+                  <row>
+                     <cell>Operating costs (do.)</cell>
+                     <cell>6.00</cell>
+                     <cell>3.30</cell>
+                  </row>
+                  <!-- next row has lines above to indicate sum -->
+                  <row>
+                     <cell/>
+                     <cell>$11.50</cell>
+                     <cell>$6.30</cell>
+                  </row>
+                  <!-- gap -->
+                  <row>
+                     <cell>Cost per square foot for Paper, Labor &amp; Chemicals</cell>
+                     <cell>$ 0.10</cell>
+                     <cell>$0.084</cell>
+                  </row>
+               </table>
 
                <pb n="38" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=59"/>
 
@@ -1195,10 +1625,123 @@ Chemicals $ 0.10 $0.084</table>
 
                   <pb n="47" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=68"/>
 
-                  <table xml:space="preserve">COMPARATIVE COSTS OF PHOTOSTAT AND PHOTO-LITHOGRAPHY IN EDITIONS OF
-LESS THAN ONE HUNDRED. 100 PAGES, SIZE 8-1/2 x 11 INCHES. UNIT COST.
-
-</table>
+                  <table>
+                     <head>COMPARATIVE COSTS OF PHOTOSTAT AND PHOTO-LITHOGRAPHY IN EDITIONS OF LESS THAN ONE HUNDRED. 100 PAGES, SIZE 8-1/2 x 11
+                        INCHES. UNIT COST.</head>
+                     <row role="label">
+                        <cell/>
+                        <cell>1</cell>
+                        <cell>1</cell>
+                        <cell>2</cell>
+                        <cell>5</cell>
+                        <cell>10</cell>
+                        <cell>15</cell>
+                        <cell>20</cell>
+                        <cell>25</cell>
+                        <cell>30</cell>
+                        <cell>50</cell>
+                        <cell>100</cell>
+                        <cell/>
+                     </row>
+                     <row>
+                        <cell/>
+                        <cell role="label">Neg.</cell>
+                        <cell role="label">Pos.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                     </row>
+                     <row>
+                        <cell role="label">Photostat 8-1/2x11</cell>
+                        <cell>7.58</cell>
+                        <cell>15.16</cell>
+                        <cell>11.37</cell>
+                        <cell>9.96</cell>
+                        <cell>8.33</cell>
+                        <cell>8.01</cell>
+                        <cell>7.95</cell>
+                        <cell>7.90</cell>
+                        <cell>7.83</cell>
+                        <cell>7.73</cell>
+                        <cell>7.65</cell>
+                        <cell role="label">Operating 110% of paper cost with negative not sold.</cell>
+                     </row>
+                     <row>
+                        <cell/>
+                        <cell>5.50</cell>
+                        <cell>5.50</cell>
+                        <cell>5.50</cell>
+                        <cell>5.50</cell>
+                        <cell>5.50</cell>
+                        <cell>5.50</cell>
+                        <cell>5.50</cell>
+                        <cell>5.50</cell>
+                        <cell>5.50</cell>
+                        <cell>5.50</cell>
+                        <cell>5.50</cell>
+                        <cell role="label">Operating 50% of paper cost with negative sold.</cell>
+                     </row>
+                     <row>
+                        <cell role="label">Small Photo-offset with Kodalith negative. 8-1/2x11 (Edwards)</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>12.50</cell>
+                        <cell>8.60</cell>
+                        <cell>6.50</cell>
+                        <cell>5.02</cell>
+                        <cell>4.40</cell>
+                        <cell>2.70</cell>
+                        <cell>1.45</cell>
+                        <cell role="label">Low quotation</cell>
+                     </row>
+                     <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>15.00</cell>
+                        <cell>10.30</cell>
+                        <cell>7.70</cell>
+                        <cell>6.02</cell>
+                        <cell>5.03</cell>
+                        <cell>3.20</cell>
+                        <cell>1.70</cell>
+                        <cell role="label">High quotation</cell>
+                     </row>
+                     <row>
+                        <cell role="label" rows="2" cols="2">Large photo-offset with Wet Plate Process.</cell>
+                        <cell role="label" cols="3">9x11-1/2 page Nat. Proc. Co.</cell>
+                        <cell>23.00</cell>
+                        <cell>17.50</cell>
+                        <cell>13.00</cell>
+                        <cell>11.00</cell>
+                        <cell>9.00</cell>
+                        <cell>5.00</cell>
+                        <cell>2.80</cell>
+                        <cell/>
+                     </row>
+                     <row>
+                        <cell role="label" cols="3">9x11 page Wash. Plan. Co.</cell>
+                        <cell>16.50</cell>
+                        <cell>12.60</cell>
+                        <cell>9.50</cell>
+                        <cell>8.00</cell>
+                        <cell>7.30</cell>
+                        <cell>4.70</cell>
+                        <cell>2.50</cell>
+                        <cell/>
+                     </row>
+                  </table>
 
                   <pb n="48" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=69"/>
 
@@ -1348,98 +1891,301 @@ LESS THAN ONE HUNDRED. 100 PAGES, SIZE 8-1/2 x 11 INCHES. UNIT COST.
 
                <pb n="59" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=80"/>
 
-               <table xml:space="preserve">THE COST OF LEGIBILITY
+               <table>
+                  <head>THE COST OF LEGIBILITY</head>
 
-<p>(Page 8½ x 11 inches calculated for printing surface of 6-7/8 x 9-3/8 or 66 sq. in.; Page 5½ x 8½ or 5-7/8 x 8½ calculated for printing surface 4½ x 7½ or 34 sq. in. Newsprint figures found by actual count; linotype average figures taken from Hoch: "The standard book of estimating for printers" issued by United Typothetae of America. Typescript estimates by Edwards Brothers)</p>
+                  <p>(Page 8½ x 11 inches calculated for printing surface of 6-7/8 x 9-3/8 or 66 sq. in.; Page 5½ x 8½ or 5-7/8 x 8½ calculated for
+                     printing surface 4½ x 7½ or 34 sq. in. Newsprint figures found by actual count; linotype average figures taken from Hoch: "The
+                     standard book of estimating for printers" issued by United Typothetae of America. Typescript estimates by Edwards Brothers)</p>
 
-LINOTYPE STYLE.
-Size of type
+                  <row role="label">
+                     <cell>LINOTYPE STYLE. Size of type</cell>
+                     <cell>Words per sq. inch</cell>
+                     <cell>Words per 5½ x 8½ page</cell>
+                     <cell>Words per 8½ x 11 page</cell>
+                     <cell cols="2">Unit Cost of 50,000 words at 1¢ per page *</cell>
+                     <cell>Legibility compared with 7 pt. newsprint in words per second</cell>
+                  </row>
 
-Words
-per sq.
-inch
+                  <row role="label">
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>SMALL PAGE</cell>
+                     <cell>LARGE PAGE</cell>
+                     <cell/>
+                  </row>
 
-Words
-per
-5½ x
-8½
-page
 
-Words
-per 8½ x
-11
-page
+                  <row>
+                     <cell>7 pt. newsprint reduced 50% (3½pt)</cell>
+                     <cell>130</cell>
+                     <cell>4424</cell>
+                     <cell>8581</cell>
+                     <cell>$.12</cell>
+                     <cell>$.07</cell>
+                     <cell>-.45</cell>
+                  </row>
+                  <row>
+                     <cell>4½ pt. set solid</cell>
+                     <cell>82</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>5 pt. " "</cell>
+                     <cell>60</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>4½ pt. leaded</cell>
+                     <cell>57</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>5½ pt. solid</cell>
+                     <cell>52</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>6 pt. solid</cell>
+                     <cell>47</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>5 pt. leaded</cell>
+                     <cell>44</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
 
-Unit Cost of
-50,000 words
-at 1¢ per
-page *
-SMALL
-PAGE
-LARGE
-PAGE
+                  <!-- hr -->
 
-Legibility
-compared
-with 7 pt.
-newsprint
-in words
-per second
+                  <row>
+                     <cell>7 pt. newsprint reduced to 80% (5½ pt)</cell>
+                     <cell>44</cell>
+                     <cell>1496</cell>
+                     <cell>2904</cell>
+                     <cell>$.33</cell>
+                     <cell>$.17</cell>
+                     <cell>-.05</cell>
+                  </row>
+                  <!-- hr -->
 
-7 pt. newsprint
-reduced 50%
-(3½pt) 130 4424 8581 $.12 $.07 .45
-4½ pt. set solid 82
-5 pt. " " 60
-4½ pt. leaded 57
-5½ pt. solid 52
-6 pt. solid 47
-5 pt. leaded 44
+                  <row>
+                     <cell>7 pt solid</cell>
+                     <cell>38</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>6 pt. leaded</cell>
+                     <cell>34</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
 
-7 pt. newsprint
-reduced to 80%
-(5½ pt) 44 1496 2904 $.33 $.17 .05
+                  <!-- hr -->
 
-7 pt solid 38
-6 pt. leaded 34
-7 pt. newsprint 33 1122 2178 $.45 $.23 (Standard: 4.3 to 4.5 words per sec.)
-8 pt. solid 32
-9 pt. solid 27
-8 pt. leaded 23
-10 t. solid 21
-9 pt. leaded 20 680 1320 $.74 $.38 Not tested
-11 pt. solid 17
-10 pt. leaded 16
-11 pt. leaded 14
-12 pt. solid 14
-12 pt. leaded 11
-Pica Typescript
-single space 10 340 660 $1.48 $.76 Not tested
-double space 5 170 330 $3.53 $1.52 Not tested
+                  <row>
+                     <cell>7 pt. newsprint</cell>
+                     <cell>33</cell>
+                     <cell>1122</cell>
+                     <cell>2178</cell>
+                     <cell>$.45</cell>
+                     <cell>$.23</cell>
+                     <cell>(Standard: 4.3 to 4.5 words per sec.)</cell>
+                  </row>
+                  <!-- hr -->
+                  <row>
+                     <cell>8 pt. solid</cell>
+                     <cell>32</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>9 pt. solid</cell>
+                     <cell>27</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>8 pt. leaded</cell>
+                     <cell>23</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>10 t. solid</cell>
+                     <cell>21</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
 
-* (Small page can be printed for 1¢ in editions of 100; large page in
-editions of 200)
+                  <!-- hr -->
+
+                  <row>
+                     <cell>9 pt. leaded</cell>
+                     <cell>20</cell>
+                     <cell>680</cell>
+                     <cell>1320</cell>
+                     <cell>$.74</cell>
+                     <cell>$.38</cell>
+                     <cell>Not tested</cell>
+                  </row>
+
+                  <!-- hr -->
+
+                  <row>
+                     <cell>11 pt. solid</cell>
+                     <cell>17</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>10 pt. leaded</cell>
+                     <cell>16</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>11 pt. leaded</cell>
+                     <cell>14</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>12 pt. solid</cell>
+                     <cell>14</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>12 pt. leaded</cell>
+                     <cell>11</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <!-- hr -->
+
+                  <row>
+                     <cell>Pica Typescript</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>single space</cell>
+                     <cell>10</cell>
+                     <cell>340</cell>
+                     <cell>660</cell>
+                     <cell>$1.48</cell>
+                     <cell>$.76</cell>
+                     <cell>Not tested</cell>
+                  </row>
+                  <row>
+                     <cell>double space</cell>
+                     <cell>5</cell>
+                     <cell>170</cell>
+                     <cell>330</cell>
+                     <cell>$3.53</cell>
+                     <cell>$1.52</cell>
+                     <cell>Not tested</cell>
+                  </row>
+
+                  <p>* (Small page can be printed for 1¢ in editions of 100; large page in editions of 200)</p>
+               </table>
 
 <pb n="60" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=81"/>
 
 <p>These figures take no account of a number of important factors, such as length of line, and differences in type face which affect legibility. An experiment intended to supply legibility figures for typescript is under way at the University of Michigan. The table here given indicates the existence of a number of point sizes between 7 point type and 3.5 point type where reduction in cost moves faster than reduction in legibility as expressed in speed of reading.</p>
-
-Cost and Legibility in Percentages of Newsprint
-Cost Reading Speed
-
-7 pt. newsprint.........100%..........,....100%
-
-5½ pt. (7 pt.
-reduced to 80%
-of size)................78%................98%
-
-3½ pt. (7 pt.
-reduced to 50%
-of size)................23%................89%
-
-7 pt. reduced to
-30% of size - too small for
-practical use............9%................25%</table>
+               <table>
+                  <head>Cost and Legibility in Percentages of Newsprint</head>
+                  <row role="label">
+                     <cell/>
+                     <cell>Cost</cell>
+                     <cell>Reading Speed</cell>
+                  </row>
+                  <row>
+                     <cell role="label">7 pt. newsprint</cell>
+                     <cell>100%</cell>
+                     <cell>100%</cell>
+                  </row>
+                  <row>
+                     <cell role="label">5½ pt. (7 pt. reduced to 80% of size)</cell>
+                     <cell>78%</cell>
+                     <cell>98%</cell>
+                  </row>
+                  <row>
+                     <cell role="label">3½ pt. (7 pt. reduced to 50% of size)</cell>
+                     <cell>23%</cell>
+                     <cell>89%</cell>
+                  </row>
+                  <row>
+                     <cell role="label">7 pt. reduced to 30% of size - too small for practical use</cell>
+                     <cell>9%</cell>
+                     <cell>25%</cell>
+                  </row>
+               </table>
 
                <p>The standard typewriter equipment is such that directions for preparing typescript for photo-lithography cannot assume the
                   availability of any other type faces than the 12 point Pica and the 10 point Elite. But by using these type faces and reducing them
@@ -1471,94 +2217,193 @@ practical use............9%................25%</table>
                   costs are here tabulated; the legibility factor has not yet been worked out. The styles which are marked with a star are reproduced
                   in the appendix.</p>
 
-               <pb facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=84 p.63"/>
+               <pb n="63" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=84 p:63"/>
 
-               <table xml:space="preserve">PREPARATION OF TYPESCRIPT FOR PHOTO-LITHOGRAPHY
-
-*=samp1e in appendix
-
-A. Using standard size typescript paper 8½ x 11 in.,
-in standard typewriter
-
-Words per
-page, 8½ x
-11 in. in
-photo-lithographed
-book
-
-Unit cost of
-printing 50,000
-words at 1¢ per
-page (Lowest
-quotation requires
-edition of 200)
-
-Four pages
-6~7/8 x
-9-3/4 (imposed as
-double column on one
-page of bk.)
-
-Pica Double 1000 $.50 *
-Pica Special 1720 .30
-Elite Double 1200 .42
-Elite Special 2000 .25 *
-
-Four pages
-5 x 7½ in.
-
-Pica Double 700 .71
-Pica Special 1150 .44
-Elite Double 800 .63
-Elite Special 1225 .40
-
-B. Using special sizes of paper for typescript, either single
-or double column style, with typing surfaces as below:
-
-6-7/8 x 9-3/8 in.
-
-Pica Special 430 1.16
-
-6-7/8 x 9-3/8 in.
-
-Elite Special 500
-Pica Single 500* 1.00 *
-
-6-7/8 x 9-3/8
-
-Elite Single 600
-
-7½ x 10¼ in.
-
-Pica Single 600
-Elite Special 600
-
-8-1/8 x 11 in.
-
-Pica Special 600 .84
-
-8-1/8 x 11 in.
-
-Pica Single 700
-Elite Special 700
-
-8-3/4 x 11-3/4
-
-Pica Special 700* .71 *
-
-8-3/4 x 11-3/4
-
-Pica Single 800 .63 *
-
-9¼ x 12½ in.
-
-Pica Single 925 .54
-
-8-3/4 x 11-3/4
-
-Elite Single 1000 (doub1e column) .50
-
-9-3/4 x 13-1/4 Pica Single 1030 .48 *</table>
+               <table>
+                  <head>PREPARATION OF TYPESCRIPT FOR PHOTO-LITHOGRAPHY</head>
+                  <p>*=samp1e in appendix</p>
+                  <row role="label">
+                     <cell cols="3">A. Using standard size typescript paper 8½ x 11 in., in standard typewriter</cell>
+                     <cell rows="2">Words per page, 8½ x 11 in. in photo-lithographed book</cell>
+                     <cell cols="2" rows="2">Unit cost of printing 50,000 words at 1¢ per page (Lowest quotation requires edition of 200) </cell>
+                  </row>
+                  <row role="label">
+                     <cell>Typing surface used on page</cell>
+                     <cell>Size of Type</cell>
+                     <cell>Spacing</cell>
+                  </row>
+                  <row>
+                     <cell rows="4">Four pages 6~7/8 x 9-3/4 (imposed as double column on one page of bk.)</cell>
+                     <cell>Pica</cell>
+                     <cell>Double</cell>
+                     <cell>1000</cell>
+                     <cell>$.50</cell>
+                     <cell>*</cell>
+                  </row>
+                  <row>
+                     <cell>Pica</cell>
+                     <cell>Special</cell>
+                     <cell>1720</cell>
+                     <cell>.30</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>Elite</cell>
+                     <cell>Double</cell>
+                     <cell>1200</cell>
+                     <cell>.42</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>Elite</cell>
+                     <cell>Special</cell>
+                     <cell>2000</cell>
+                     <cell>.25</cell>
+                     <cell>*</cell>
+                  </row>
+                  <row>
+                     <cell rows="4">Four pages 5 x 7½ in.</cell>
+                     <cell>Pica</cell>
+                     <cell>Double</cell>
+                     <cell>700</cell>
+                     <cell>.71</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>Pica</cell>
+                     <cell>Special</cell>
+                     <cell>1150</cell>
+                     <cell>.44</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>Elite</cell>
+                     <cell>Double</cell>
+                     <cell>800</cell>
+                     <cell>.63</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>Elite</cell>
+                     <cell>Special</cell>
+                     <cell>1225</cell>
+                     <cell>.40</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell role="label" cols="6">B. Using special sizes of paper for typescript, either single or double column style, with typing surfaces as
+                        below:</cell>
+                  </row>
+                  <row>
+                     <cell>6-7/8 x 9-3/8 in.</cell>
+                     <cell>Pica</cell>
+                     <cell>Special</cell>
+                     <cell>430</cell>
+                     <cell>1.16</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell rows="2">6-7/8 x 9-3/8 in.</cell>
+                     <cell>Elite</cell>
+                     <cell>Special</cell>
+                     <cell>500</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>Pica</cell>
+                     <cell>Single</cell>
+                     <cell>500*</cell>
+                     <cell>1.00</cell>
+                     <cell>*</cell>
+                  </row>
+                  <row>
+                     <cell>6-7/8 x 9-3/8</cell>
+                     <cell>Elite</cell>
+                     <cell>Single</cell>
+                     <cell>600</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell rows="2">7½ x 10¼ in.</cell>
+                     <cell>Pica</cell>
+                     <cell>Single</cell>
+                     <cell>600</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>Elite</cell>
+                     <cell>Special</cell>
+                     <cell>600</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>8-1/8 x 11 in.</cell>
+                     <cell>Pica</cell>
+                     <cell>Special</cell>
+                     <cell>600</cell>
+                     <cell>.84</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell rows="2">8-1/8 x 11 in.</cell>
+                     <cell>Pica</cell>
+                     <cell>Single</cell>
+                     <cell>700</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>Elite</cell>
+                     <cell>Special</cell>
+                     <cell>700</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>8-3/4 x 11-3/4</cell>
+                     <cell>Pica</cell>
+                     <cell>Special</cell>
+                     <cell>700*</cell>
+                     <cell>.71</cell>
+                     <cell>*</cell>
+                  </row>
+                  <row>
+                     <cell>8-3/4 x 11-3/4</cell>
+                     <cell>Pica</cell>
+                     <cell>Single</cell>
+                     <cell>800</cell>
+                     <cell>.63</cell>
+                     <cell>*</cell>
+                  </row>
+                  <row>
+                     <cell>9¼ x 12½ in.</cell>
+                     <cell>Pica</cell>
+                     <cell>Single</cell>
+                     <cell>925</cell>
+                     <cell>.54</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>8-3/4 x 11-3/4</cell>
+                     <cell>Elite</cell>
+                     <cell>Single</cell>
+                     <cell>1000 (doub1e column)</cell>
+                     <cell>.50</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>9-3/4 x 13-1/4</cell>
+                     <cell>Pica</cell>
+                     <cell>Single</cell>
+                     <cell>1030</cell>
+                     <cell>.48</cell>
+                     <cell>*</cell>
+                  </row>
+               </table>
 
                <pb n="64" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=85"/>
 
@@ -1638,30 +2483,38 @@ Elite Single 1000 (doub1e column) .50
                   committee has printed its report in a pamphlet available at its office, 26-27 Bedford Square, London,(ls). In both investigations it
                   was recognized that several degrees of permanence in paper must be standardized. The British classification is as follows:</p>
 
-               <table xml:space="preserve">Grade I. For use where "absolute" permanence is
-required.
+               <table>
+                  <row>
+                     <cell>Grade I.</cell>
+                     <cell>For use where "absolute" permanence is required.</cell>
+                  </row>
+                  <row>
+                     <cell>Grade II.</cell>
+                     <cell>For use where relative permanence is desired and where a competitive price is necessary.</cell>
+                  </row>
+               </table>
 
-Grade II. For use where relative permanence is
-desired and where a competitive price is
-necessary.
+<p>The U.S. Bureau of Standards classification runs:</p>
 
-The U.S. Bureau of Standards classification runs:
-
-Grade I. Permanent papers, having a maximum degree of
-purity.
-
-Grade II. Papers quite highly purified, that may be
-expected to have a minimum life of 100 years.
-
-Grade III. Papers quite highly purified, that may be
-expected to have a minimum life of 50 years.
-
-<pb n="70" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=91"/>
-
-Grade IV. Papers having a 1ow degree of purity, for
-current use only.
-
-</table>
+               <table>
+                  <row>
+                     <cell>Grade I.</cell>
+                     <cell>Permanent papers, having a maximum degree of purity.</cell>
+                  </row>
+                  <row>
+                     <cell>Grade II.</cell>
+                     <cell>Papers quite highly purified, that may be expected to have a minimum life of 100 years.</cell>
+                  </row>
+                  <row>
+                     <cell>Grade III.</cell>
+                     <cell>Papers quite highly purified, that may be expected to have a minimum life of 50 years.</cell>
+                  </row>
+                  <pb n="70" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=91"/>
+                  <row>
+                     <cell>Grade IV.</cell>
+                     <cell>Papers having a 1ow degree of purity, for current use only.</cell>
+                  </row>
+               </table>
 
                <p>Grades I and II are distinguished in the English report by the nature of the raw material used and the price level at which they can
                   be furnished, in the American Bureau of Standards report by a computed life-probability and performance in oven-aging. The American
@@ -1672,94 +2525,103 @@ current use only.
 
                <pb n="71" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=92"/>
 
-               <table xml:space="preserve">CHEMICAL AND PERFORMANCE SPECIFICATIONS
-
-(n.s. = not specified)
-
-I II
-
-U.S.
-Bureau
-of
-Standards
-
-U.S.
-Rag
-Paper
-Mfg.
-Assn.
-
-British
-Lib.
-Assn.
-
-U.S.
-Bureau
-of
-Standards
-
-U.S.
-Rag
-Paper
-Mfg.
-Assn.
-
-British
-Lib
-Assn.
-
-
-
-Alpha
-Cellulose
-
-90% n.s. n.s. 80% n.s. n.s.
-
-Raw
-Material
-
-n.s. 100% of new rags 100% of new rags n.s. chem. wood pulp chem. wood pulp
-
-Acidity
-Above
-
-5 pH 5 pH 5½-6 pH 5 pH 5 pH n.s.
-
-Copper
-Number
-Below
-
-1.5 0.5 n.s. 2.5 1.5 n.s.
-
-
-Rosin
-at
-least
-
-1% 1.2% n.s. 1.5% 1% 1% or 2%
-
-Mineral
-Loading
-
-n.s. None None n.s. n.s. 5%
-
-Perform
-mance
-
-see below n.s. n.s. n.s. n.s. n.s.
-
-Performance test for Grade I paper (U.S.Bureau of standards)
-
-Performance test for Grade I, :  changes on heating 72 hr. at 100 deg. cent.; decrease in content of alpha
-cellulose should be not more than 1.5%; decrease in folding endurance not more than 25%, increase in copper number
-not more than 0.5%</table>
+               <table>
+                  <head>CHEMICAL AND PERFORMANCE SPECIFICATIONS</head>
+                  <p>(n.s. = not specified)</p>
+                  <row>
+                     <cell/>
+                     <cell cols="3">I</cell>
+                     <cell cols="3">II</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>U.S. Bureau of Standards</cell>
+                     <cell>U.S. Rag Paper Mfg. Assn. </cell>
+                     <cell>British Lib. Assn. </cell>
+                     <cell>U.S. Bureau of Standards </cell>
+                     <cell>U.S. Rag Paper Mfg. Assn. </cell>
+                     <cell>British Lib Assn. </cell>
+                  </row>
+                  <row>
+                     <cell>Alpha Cellulose </cell>
+                     <cell>90%</cell>
+                     <cell>n.s.</cell>
+                     <cell>n.s.</cell>
+                     <cell>80%</cell>
+                     <cell>n.s.</cell>
+                     <cell>n.s.</cell>
+                  </row>
+                  <row>
+                     <cell>Raw Material </cell>
+                     <cell>n.s.</cell>
+                     <cell>100% of new rags</cell>
+                     <cell>100% of new rags</cell>
+                     <cell>n.s.</cell>
+                     <cell>chem. wood pulp</cell>
+                     <cell>chem. wood pulp</cell>
+                  </row>
+                  <row>
+                     <cell>Acidity Above</cell>
+                     <cell>5 pH</cell>
+                     <cell>5 pH</cell>
+                     <cell>5½-6 pH</cell>
+                     <cell>5 pH</cell>
+                     <cell>5 pH</cell>
+                     <cell>n.s.</cell>
+                  </row>
+                  <row>
+                     <cell>Copper Number Below</cell>
+                     <cell>1.5</cell>
+                     <cell>0.5</cell>
+                     <cell>n.s.</cell>
+                     <cell>2.5</cell>
+                     <cell>1.5</cell>
+                     <cell>n.s.</cell>
+                  </row>
+                  <row>
+                     <cell>Rosin at least</cell>
+                     <cell>1%</cell>
+                     <cell>1.2%</cell>
+                     <cell>n.s.</cell>
+                     <cell>1.5%</cell>
+                     <cell>1%</cell>
+                     <cell>1% or 2%</cell>
+                  </row>
+                  <row>
+                     <cell>Mineral Loading </cell>
+                     <cell>n.s.</cell>
+                     <cell>None</cell>
+                     <cell>None</cell>
+                     <cell>n.s.</cell>
+                     <cell>n.s.</cell>
+                     <cell>5%</cell>
+                  </row>
+                  <row>
+                     <cell>Perform mance</cell>
+                     <cell>see below</cell>
+                     <cell>n.s.</cell>
+                     <cell>n.s.</cell>
+                     <cell>n.s.</cell>
+                     <cell>n.s.</cell>
+                     <cell>n.s.</cell>
+                  </row>
+                  <row>
+                     <cell cols="7">Performance test for Grade I paper (U.S.Bureau of standards) </cell>
+                  </row>
+                  <row>
+                     <cell cols="7">Performance test for Grade I, : changes on heating 72 hr. at 100 deg. cent.; decrease in content of alpha
+                        cellulose should be not more than 1.5%; decrease in folding endurance not more than 25%, increase in copper number not more
+                        than 0.5%</cell>
+                  </row>
+               </table>
 
                <p>Mr. E.H. Naylor of the Rag Content Paper Manufacturers Association defends the "composition" specification, and <pb n="72"
                      facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=93"/> questions the validity of the tests of
                   permanence proposed by the Bureau of Standards. He writes that "there is not today any test or set of tests which adequately
                   describe the permanence of paper", and offers further concrete criticisms:</p>
 
-               <quote rend="blockquote"><p>"Alpha cellulose content. This test measures the amount of papermaking fibrous material as distinct from
+               <quote rend="blockquote">
+                  <p>"Alpha cellulose content. This test measures the amount of papermaking fibrous material as distinct from
                      cementing material and definitely degraded material and impurities. It takes no account of the wide difference in quality of
                      fibrous materials such as is indicated by the test for viscosity of cuprammonium solution. Papers from the best of wood fibers
                      have an alpha content of around 90 per cent, while those from new rags have as high as 98 per cent. Therefore papers in Grade I
@@ -1772,7 +2634,8 @@ not more than 0.5%</table>
                   <p>"Oven aging accelerates the action of certain impurities in paper and indicates in a conveniently short time the possible slow
                      degradation of paper from such impurities. At the temperature chosen this dark heat has no effect on pure fibers whether of wood
                      or rag and it gives no indication of their relative resistance to atmospheric impurities. At a temperature of 135 C instead of
-                     100 C rag papers are decidedly more permanent than wood papers."</p></quote>
+                     100 C rag papers are decidedly more permanent than wood papers."</p>
+               </quote>
 
                <p>Mr. Naylor declares that tub sizing with gelatine adds a protective feature by increasing resistance <pb n="73"
                      facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=94"/> to light and atmospheric impurities.</p>
@@ -1792,7 +2655,8 @@ not more than 0.5%</table>
                   degree of permanence. Those present were unanimous in their expression of interest and desire to cooperate to the extent of their
                   ability....</p>
 
-               <quote rend="blockquote"><p>These manufacturers have felt that our <pb n="74"
+               <quote rend="blockquote">
+                  <p>These manufacturers have felt that our <pb n="74"
                         facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=95"/> present knowledge of the factors which enter
                      into paper permanence is not sufficiently well defined for them to adopt an adequate uniform set of specifications, and therefore
                      the permanent book papers offered by these mills differ as to details of quality and price.... </p>
@@ -1805,14 +2669,26 @@ not more than 0.5%</table>
 
                <p>There follows a discussion of the permanence specifications, leading to the conclusions charted above.</p>
 
-               <quote rend="blockquote"><p>By mixing rag with chemical wood, both being of the quality indicated above, an intermediate grade with
+               <quote rend="blockquote">
+                  <p>By mixing rag with chemical wood, both being of the quality indicated above, an intermediate grade with
                      prospects of life longer than for Grade II may be predicted.</p>
                   <p>If we take 1 as the equivalent price prevailing today for the ordinary lower quality of printing paper and for papers of Grade II
                      above, the ratio of price for the various grades above would be about as follows:</p>
-                  <table xml:space="preserve">Grade I.........4
-Grade II........ 1
-"Mixed furnishes", 2 to 3.
-</table></quote>
+                  <table>
+                     <row>
+                        <cell>Grade I</cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell>Grade II</cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>"Mixed furnishes",</cell>
+                        <cell>2 to 3</cell>
+                     </row>
+                  </table>
+               </quote>
 
                <pb n="75" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=96"/>
 
@@ -1822,20 +2698,32 @@ Grade II........ 1
 
                <p>If the weight of paper in a book is one pound, an edition of 1000 will use paper as follows:</p>
 
-               <table xml:space="preserve">Cost of
-Paper
-
-Class I, British or U.S.
-Bureau of Standards $350 (American Writing
-Paper)
-
-Class II, U.S. Bureau of
-Standards $220 (American Writing
-Paper)
-
-Class II, British $85 (American Rag Paper
-Mfg. Assn. Ratio)
-</table>
+               <table>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell>Cost of Paper</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>Class I,</cell>
+                     <cell>British or U.S. Bureau of Standards</cell>
+                     <cell>$350</cell>
+                     <cell>(American Writing Paper)</cell>
+                  </row>
+                  <row>
+                     <cell>Class II,</cell>
+                     <cell>U.S. Bureau of Standards</cell>
+                     <cell>$220</cell>
+                     <cell>(American Writing Paper)</cell>
+                  </row>
+                  <row>
+                     <cell>Class II,</cell>
+                     <cell>British</cell>
+                     <cell>$85</cell>
+                     <cell>(American Rag Paper Mfg. Assn. Ratio)</cell>
+                  </row>
+               </table>
 
                <p>A paper cost differential or 7¢ per volume if the whole edition is sold out will rise to 43¢ per volume if the edition is expected
                   to pay its way with the sale of 300 copies. A paper cost differential of 26½¢ per volume if the whole edition is sold out will rise
@@ -1981,24 +2869,62 @@ Mfg. Assn. Ratio)
                which legibility passes from B to C is the limit for practical work.</p>
             <p>The amount of reading matter that can be placed upon a filmslide depends of course upon the size of the slide as well as the degree of
                reduction. The following are the dimensions of the filmslides in the different commercial cameras:</p>
-            <table xml:space="preserve">Width
-Across
-Film
-
-Length Along
-Film Strip
-
-Kind Of
-Film Used
-
-Ansco 23 mm 18 mm Perforated
-Cinescope 23 mm 24 mm Perforated
-Q.R.S. " 25 mm 32½mm Perforated
-Leica 25 mm 38 mm Perforated
-Lemare 30 mm 45 mm Non-Perforated
-Filmograph 30 mm variable Non-Perforated
-Kennedy 25 mm " Perforated
-" new style 3O mm " Hon-Perforated</table>
+            <table>
+               <row>
+                  <cell/>
+                  <cell>Width Across Film</cell>
+                  <cell>Length Along Film Strip </cell>
+                  <cell>Kind Of Film Used</cell>
+               </row>
+               <row>
+                  <cell>Ansco</cell>
+                  <cell>23 mm</cell>
+                  <cell>18 mm</cell>
+                  <cell>Perforated</cell>
+               </row>
+               <row>
+                  <cell>Cinescope</cell>
+                  <cell>23 mm</cell>
+                  <cell>24 mm</cell>
+                  <cell>Perforated</cell>
+               </row>
+               <row>
+                  <cell>Q.R.S.</cell>
+                  <cell>25 mm</cell>
+                  <cell>32½ mm</cell>
+                  <cell>Perforated</cell>
+               </row>
+               <row>
+                  <cell>Leica</cell>
+                  <cell>25 mm</cell>
+                  <cell>38 mm</cell>
+                  <cell>Perforated</cell>
+               </row>
+               <row>
+                  <cell>Lemare</cell>
+                  <cell>30 mm</cell>
+                  <cell>45 mm</cell>
+                  <cell>Non-Perforated</cell>
+               </row>
+               <row>
+                  <cell>Filmograph</cell>
+                  <cell>30 mm</cell>
+                  <cell>variable</cell>
+                  <cell>Non-Perforated</cell>
+               </row>
+               <row>
+                  <cell>Kennedy</cell>
+                  <cell>25 mm</cell>
+                  <cell>"</cell>
+                  <cell>Perforated</cell>
+               </row>
+               <row>
+                  <cell>" new style</cell>
+                  <cell>30 mm</cell>
+                  <cell>"</cell>
+                  <cell>Non-Perforated</cell>
+               </row>
+            </table>
             <p>Naturally the size of the page to be reproduced <pb n="87"
                   facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=109"/> may bear such a relation to the dimensions of the
                filmslide that only a part of the sensitive surface can be used. A page of the New York Times reduced 24 diameters - (the limit with
@@ -2008,67 +2934,109 @@ Kennedy 25 mm " Perforated
                reduction ratio beyond 20 for unperforated film, or beyond 24 for perforated, unless it were raised to 36 or 30 diameters, at which
                point it would be possible to lay a complete spread of the newspaper across the film strip. At these higher reductions the fifty pages
                would go on as little as sixteen inches of film, costing less than two cents, but the legibility under best conditions would drop to
-               D.</p> Price comparisons: Ansco, Q.R.S., Leica, Lemare, Photoscope-Cinescope <p>Price of equipment for filmslide reproduction of
-               materials includes three items. The first two are indispensable: 1) a camera with its copyholder and stand for copying, 2) a projector
-               for reading. The third may not be needed: 3) enlarging equipment for <pb n="88"
-                  facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=110"/> transferring a text to a positive print. These
-               different elements are combined in different ways. Leica equipment is made in so many qualities that two alternative prices must be
-               given for it.</p>
-            <table xml:space="preserve">Ansco Q.R.S. Leica (low) Leica (high) Lemare Photoscope-Cinescope
+               D.</p>
 
-Camera
-with
-Copyboard
-
-$50 $162 $56.36
-(3250 fr. plus 30% duty) (1175 fr. plus 20% duty)
-
-Camera
-without
-Copyboard
-
-$57.50 $72
-
-(Leica
-uses two copy
-stands, one
-of which is
-accessory to
-the enlarger):
-
-$25 $30
-
-Projector $19.50 $19.90 $49.50 $60.00 $64.80 $34.56
-
-(1300 fr. plus 20% duty) (720 fr. plus 20% duty)
-
-Enlarger $20.00 $55.50 $85.50
-
-(with projector)</table>
-            <p>The Spencer Lens Company manufactures a projector, Delineascope B, with special attachment for the Lemare Camera. It sells for $75, and
-               is better than the Lemare projector, according to Dr. Martin of the Library of Congress, who has used both.</p>
-            <p>The Leica camera will not do short range copying work without one of the three special front lenses, which cost $6.00 each.</p>
-            <p>The minimum equipment for making filmslides and <pb n="89"
-                  facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=110"/> projecting them costs as follows:</p>
-            <table xml:space="preserve">Ansco.................................$69.5O
-Cinescope-Photoscopie (computing 25%
-duty)........... 90.92
-Leica (computing 10% academic discount) 146.70
-Lemare (computing 25% duty)............226.80</table>
-            <p>If all useful accessories offered by the Leitz Company are purchased, the total will exceed $400. The full Lemare equipment costs $332.
-               The Cinescope figure does not include a camera or projector stand, but it is claimed that an ordinary camera stand can be used. None of
-               these figures include cost of a screen.</p>
-            <p>The writer has investigated eight kinds of camera equipment for making still pictures out of moving picture film. Two of these, the
-               Q.R.S. and the Vi-cam, must be eliminated.</p>
-            <p>The Vi-Cam takes a long roll of film at one loading, but has a fixed focus at five feet and is designed for cheap portrait work for
-               registration blanks or other documents which have photographs attached to them.</p>
-            <p>The Q.R.S. is designed for amateur work in portraits, landscapes etc. It resembles the Ansco Memo Camera in most respects except that
-               it takes a double frame picture. It has no special equipment for copying <pb n="90"
-                  facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=111"/> documents, and will not focus at a shorter
-               distance than three feet. At this distance it copies an area 15 x 19 inches, reducing it 15-1/2 diameters. With a better lens and
-               focusing attachment it would be a very useful camera, for it will take at least fifty exposures, and sometimes as many as eighty, in
-               one loading, and it is equipped with an indicator to tell how many exposures have been used. As the legibility table indicates below,
-               the Q.R.S. will not make a satisfactory copy of 7 point type at its fixed reduction ratio.</p>
+            <div type="section">
+               <head>Price comparisons: Ansco, Q.R.S., Leica, Lemare, Photoscope-Cinescope</head>
+               <p>Price of equipment for filmslide reproduction of materials includes three items. The first two are indispensable: 1) a camera with
+                  its copyholder and stand for copying, 2) a projector for reading. The third may not be needed: 3) enlarging equipment for <pb n="88"
+                     facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=110"/> transferring a text to a positive print. These
+                  different elements are combined in different ways. Leica equipment is made in so many qualities that two alternative prices must be
+                  given for it.</p>
+               <table>
+                  <row>
+                     <cell/>
+                     <cell>Ansco</cell>
+                     <cell>Q.R.S.</cell>
+                     <cell>Leica (low)</cell>
+                     <cell>Leica (high)</cell>
+                     <cell>Lemare</cell>
+                     <cell>Photoscope-Cinescope</cell>
+                  </row>
+                  <row>
+                     <cell>Camera with Copyboard</cell>
+                     <cell>$50</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>$162 (3250 fr. plus 30% duty)</cell>
+                     <cell>$56.36 (1175 fr. plus 20% duty)</cell>
+                  </row>
+                  <row>
+                     <cell>Camera without Copyboard</cell>
+                     <cell/>
+                     <cell>$57.50</cell>
+                     <cell>$72</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>(Leica uses two copy stands, one of which is accessory to the enlarger):</cell>
+                     <cell/>
+                     <cell/>
+                     <cell>$25</cell>
+                     <cell>$30</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>Projector</cell>
+                     <cell>$19.50</cell>
+                     <cell>$19.90</cell>
+                     <cell>$49.50</cell>
+                     <cell>$60.00</cell>
+                     <cell>$64.80 (1300 fr. plus 20% duty)</cell>
+                     <cell>$34.56 (720 fr. plus 20% duty)</cell>
+                  </row>
+                  <row>
+                     <cell>Enlarger</cell>
+                     <cell>$20.00 (with projector)</cell>
+                     <cell/>
+                     <cell>$55.50</cell>
+                     <cell>$85.50</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+               </table>
+               <p>The Spencer Lens Company manufactures a projector, Delineascope B, with special attachment for the Lemare Camera. It sells for $75,
+                  and is better than the Lemare projector, according to Dr. Martin of the Library of Congress, who has used both.</p>
+               <p>The Leica camera will not do short range copying work without one of the three special front lenses, which cost $6.00 each.</p>
+               <p>The minimum equipment for making filmslides and <pb n="89"
+                     facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=110"/> projecting them costs as follows:</p>
+               <table>
+                  <row>
+                     <cell>Ansco</cell>
+                     <cell>$69.50</cell>
+                  </row>
+                  <row>
+                     <cell>Cinescope-Photoscopie (computing 25% duty)</cell>
+                     <cell>90.92</cell>
+                  </row>
+                  <row>
+                     <cell>Leica (computing 10% academic discount)</cell>
+                     <cell>146.70</cell>
+                  </row>
+                  <row>
+                     <cell>Lemare (computing 25% duty)</cell>
+                     <cell>226.80</cell>
+                  </row>
+               </table>
+               <p>If all useful accessories offered by the Leitz Company are purchased, the total will exceed $400. The full Lemare equipment costs
+                  $332. The Cinescope figure does not include a camera or projector stand, but it is claimed that an ordinary camera stand can be
+                  used. None of these figures include cost of a screen.</p>
+               <p>The writer has investigated eight kinds of camera equipment for making still pictures out of moving picture film. Two of these, the
+                  Q.R.S. and the Vi-cam, must be eliminated.</p>
+               <p>The Vi-Cam takes a long roll of film at one loading, but has a fixed focus at five feet and is designed for cheap portrait work for
+                  registration blanks or other documents which have photographs attached to them.</p>
+               <p>The Q.R.S. is designed for amateur work in portraits, landscapes etc. It resembles the Ansco Memo Camera in most respects except
+                  that it takes a double frame picture. It has no special equipment for copying <pb n="90"
+                     facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=111"/> documents, and will not focus at a shorter
+                  distance than three feet. At this distance it copies an area 15 x 19 inches, reducing it 15-1/2 diameters. With a better lens and
+                  focusing attachment it would be a very useful camera, for it will take at least fifty exposures, and sometimes as many as eighty, in
+                  one loading, and it is equipped with an indicator to tell how many exposures have been used. As the legibility table indicates
+                  below, the Q.R.S. will not make a satisfactory copy of 7 point type at its fixed reduction ratio.</p>
+            </div>
             <div type="section">
                <head>Cinescope - Photoscope</head>
 
@@ -2266,16 +3234,81 @@ Lemare (computing 25% duty)............226.80</table>
                      facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=124"/> reference to the reduction ratio, even though
                   the camera and lens are only one of the factors governing resolving power.</p>
 
-               <table xml:space="preserve">Reduction Ratio and Legibility of 7 Point Newsprint
-Photographed in Different Makes of Filmslide Camera
-
-Q.R.S. ANSCO LEMARE FILMOGRAPH EASTMAN LAB LEICA EXPERT LEICA AMAT KENNEDY HIGH KENNEDY LOW
-
-A to 15 to 13 to 16 to l8 to 18 to 20
-B 8½ 16-18 13-15 16-20 2 22½ 20-23 21-24
-C 15 19-21 16-17 21-24 24-28 25-28 22
-D 19 22-25 above 17 25-28 25 29-35 32 29-37
-E above 25 above 28 above 36 above 37</table>
+               <table>
+                  <head>Reduction Ratio and Legibility of 7 Point Newsprint Photographed in Different Makes of Filmslide Camera</head>
+                  <row>
+                     <cell/>
+                     <cell>Q.R.S.</cell>
+                     <cell>ANSCO</cell>
+                     <cell>LEMARE</cell>
+                     <cell>FILMOGRAPH</cell>
+                     <cell>EASTMAN LAB</cell>
+                     <cell>LEICA EXPERT</cell>
+                     <cell>LEICA AMAT</cell>
+                     <cell>KENNEDY HIGH</cell>
+                     <cell>KENNEDY LOW</cell>
+                  </row>
+                  <row>
+                     <cell>A</cell>
+                     <cell/>
+                     <cell>to 15</cell>
+                     <cell>to 13</cell>
+                     <cell>to 16</cell>
+                     <cell/>
+                     <cell>to l8</cell>
+                     <cell>to 18</cell>
+                     <cell>to 20</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>B</cell>
+                     <cell>8½</cell>
+                     <cell>16-18</cell>
+                     <cell>13-15</cell>
+                     <cell>16-20</cell>
+                     <cell/>
+                     <cell>22½</cell>
+                     <cell>20-23</cell>
+                     <cell>21-24</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>C</cell>
+                     <cell>15</cell>
+                     <cell>19-21</cell>
+                     <cell>16-17</cell>
+                     <cell>21-24</cell>
+                     <cell/>
+                     <cell>24-28</cell>
+                     <cell/>
+                     <cell>25-28</cell>
+                     <cell>22</cell>
+                  </row>
+                  <row>
+                     <cell>D</cell>
+                     <cell>19</cell>
+                     <cell>22-25</cell>
+                     <cell>above 17</cell>
+                     <cell>25-28</cell>
+                     <cell>25</cell>
+                     <cell>29-35</cell>
+                     <cell>32</cell>
+                     <cell>29-37</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>E</cell>
+                     <cell/>
+                     <cell>above 25</cell>
+                     <cell/>
+                     <cell>above 28</cell>
+                     <cell/>
+                     <cell>above 36</cell>
+                     <cell/>
+                     <cell>above 37</cell>
+                     <cell/>
+                  </row>
+               </table>
 
                <p>The Eastman laboratories concluded on theoretical grounds that the limit of reduction should be about 25 diameters, and made a test
                   of this reduction ratio, which had D legibility. The superiority of the Leica to the Lemare may be due to the extra front lens used
@@ -2378,28 +3411,38 @@ E above 25 above 28 above 36 above 37</table>
 
                <pb n="111" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=132"/>
 
-               <table xml:space="preserve">HIGH COST LOW COST
-
-If one operator
-uses up one 400 foot
-roll of film, 2500
-exposures.
-
-If one operator
-uses two 400 foot
-rolls of film,
-5000 exposures
-(as claimed)
-
-film….$6.00 $12.00
-
-Developing....8.00 (2¢ per foot) 8.00 (at cost of l¢ per foot)
-
-Labor
-at $1.00
-per hr…8.OO 8.00
-
-$22.00 $28.00</table>
+               <table>
+                  <row>
+                     <cell/>
+                     <cell>HIGH COST</cell>
+                     <cell>LOW COST</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>If one operator uses up one 400 foot roll of film, 2500 exposures.</cell>
+                     <cell>If one operator uses two 400 foot rolls of film, 5000 exposures (as claimed) </cell>
+                  </row>
+                  <row>
+                     <cell>Film</cell>
+                     <cell>$6.00</cell>
+                     <cell>$12.00</cell>
+                  </row>
+                  <row>
+                     <cell>Developing</cell>
+                     <cell>8.00 (2¢ per foot)</cell>
+                     <cell>8.00 (at cost of l¢ per foot)</cell>
+                  </row>
+                  <row>
+                     <cell>Labor at $1.00 per hr</cell>
+                     <cell>8.00</cell>
+                     <cell>8.00</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>$22.00</cell>
+                     <cell>$28.00</cell>
+                  </row>
+               </table>
 
                <p>The price range then runs from 1½¢ to ½¢ per slide: 1½¢ is the Library of Congress experience, 1¢ ($.0089) is the cost if the
                   operator uses 400 feet of film a day and the developing costs 2¢ a foot, ½¢ ($.0056) is the cost if the operator uses 800 feet of
@@ -2456,45 +3499,89 @@ $22.00 $28.00</table>
 
                <pb n="115" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=136"/>
 
-               <table xml:space="preserve">One Hundred Pages of the New York Times
-
-Rag paper edition, bound in cloth……….$ .71
-
-20 diameter reduction on filmslides
-at 1½¢ per slide......................... .75
-
-20 diameter reduction on filmslides
-at ½¢ per slide.......... . . . . ............ .28
-
-Newsprint paper edition, bound in cloth.... .30
-
-Cost of binding........... . . . . . . . . . ........ .22½
-
-Reduced to one-half size and printed
-by cheapest photo-offset method
-in editions of:
-
-25 … $5.02
-50 … 2.70
-100 … 1.45
-200 … .82½
-
-One Hundred Pages of the Paris Temps
-
-17 diameter reduction on filmslides at 1½¢ . $1.5O
-17 diameter reduction on filmslides at ½¢ .. .50
-Subscription price &amp; binding in France..... .37
-Subscription price &amp; binding in U.S. . . . . . .. .71
-
-One Hundred Pages of the London Times
-
-21 diameter reduction on filmslides at 1½¢. $ .75
-21 diameter reduction on filmslides at ½¢.. .25
-Subscription &amp; binding.......... . . . . . ...... .33 to .36
-
-One Hundred Pages of Recent European
-Newspapers in Back files from Book
-Dealers . . . .  .20 to .40</table>
+               <table>
+                  <head>One Hundred Pages of the New York Times</head>
+                  <row>
+                     <cell cols="2">Rag paper edition, bound in cloth</cell>
+                     <cell>$ .71</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">20 diameter reduction on filmslides at 1½¢ per slide</cell>
+                     <cell>.75</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">20 diameter reduction on filmslides at ½¢ per slide</cell>
+                     <cell>.28</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">Newsprint paper edition, bound in cloth</cell>
+                     <cell>.30</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">Cost of binding</cell>
+                     <cell>.22½</cell>
+                  </row>
+                  <row>
+                     <cell>Reduced to one-half size and printed by cheapest photo-offset method in editions of:</cell>
+                     <cell>25</cell>
+                     <cell>$5.02</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>50</cell>
+                     <cell>2.70</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>100</cell>
+                     <cell>1.45</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>200</cell>
+                     <cell>.82½</cell>
+                  </row>
+               </table>
+               <table>
+                  <head>One Hundred Pages of the Paris Temps</head>
+                  <row>
+                     <cell>17 diameter reduction on filmslides at 1½¢</cell>
+                     <cell>$1.50</cell>
+                  </row>
+                  <row>
+                     <cell>17 diameter reduction on filmslides at ½¢</cell>
+                     <cell>.50</cell>
+                  </row>
+                  <row>
+                     <cell>Subscription price &amp; binding in France</cell>
+                     <cell>.37</cell>
+                  </row>
+                  <row>
+                     <cell>Subscription price &amp; binding in U.S.</cell>
+                     <cell>.71</cell>
+                  </row>
+               </table>
+               <table>
+                  <head>One Hundred Pages of the London Times</head>
+                  <row>
+                     <cell>21 diameter reduction on filmslides at 1½¢</cell>
+                     <cell>$ .75</cell>
+                  </row>
+                  <row>
+                     <cell>21 diameter reduction on filmslides at ½¢</cell>
+                     <cell>.25</cell>
+                  </row>
+                  <row>
+                     <cell>Subscription &amp; binding</cell>
+                     <cell>.33 to .36</cell>
+                  </row>
+               </table>
+               <table>
+                  <row>
+                     <cell>One Hundred Pages of Recent European Newspapers in Back files from Book Dealers</cell>
+                     <cell>.20 to .40</cell>
+                  </row>
+               </table>
 
                <p>These latter quotations require further explanation.</p>
 
