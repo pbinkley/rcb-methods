@@ -6,72 +6,72 @@
    <text>
       <front xml:space="preserve">
 <!-- [ front matter ... ] -->
-Methods Of Reproducing
-Research Materials
-
-
-
-<pb facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=9"/>
 <pb facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=10"/>
-Methods Of Reproducing
-Research Materials
+<titlePage><docTitle><titlePart type="main">Methods Of Reproducing
+Research Materials</titlePart>
 
-A Survey made for the Joint Committee on Materials for Research
+<titlePart type="sub">A Survey made for the Joint Committee on Materials for Research
 of the Social Science Research Council and the American
 Council of Learned Societies.
+</titlePart>
+</docTitle>
 
-by
+<byline>by
 
-ROBERT C. BINKLEY
+<name>ROBERT C. BINKLEY</name>
 
-Western Reserve University
+<affiliation>Western Reserve University</affiliation></byline>
 
-This edition published by Edwards Brothers, Ann Arbor, by the
+<docEdition>This edition published by Edwards Brothers, Ann Arbor, by the
 photo-lithographic process from author's own manuscript,
 pica double space typescript. reduced one-half.
+</docEdition>
 
-ANN ARBOR 1931
+<docImprint><placeName>ANN ARBOR</placeName> <date>1931</date></docImprint>
 
-Copyright 1931
-ROBERT C. BINKLEY
+<docImprint>Copyright <date>1931</date>
+<name>Robert C. Binkley</name>
 (Printed In U.S.A.)
-
-EDWARDS BROTHERS, INC.
-Lithoprinters and Publishers
-ANN ARBOR. MICHIGAN
-
+</docImprint>
+   
+<docImprint><publisher>EDWARDS BROTHERS, INC.
+Lithoprinters and Publishers</publisher>
+<pubPlace>ANN ARBOR. MICHIGAN</pubPlace></docImprint>
+</titlePage>
 <pb facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=11"/>
 <pb facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=12"/>
-FOREWORD
-
+         <div>
+<head>FOREWORD</head>
+<p>
 The Joint Committee on Materials for Research
 of the Social Science Research Council and the American
 Council of Learned Societies was organized in 1930, and
-consists at present of the following persons.
+consists at present of the following persons.</p>
 
-Solon J. Buck,
+<list type="simple"><item>Solon J. Buck,
 Western Pennsylvania Historical Society,
-Chairman
+Chairman</item>
 
-Robert C. Bink1ey, Western Reserve University,
-Secretary
+<item>Robert C. Bink1ey, Western Reserve University,
+Secretary</item>
 
-Laurence V. Coleman
-Norman S.B. Gras
-Waldo G. Leland
-H.M. Lydenberg
-Arthur Quinn
+<item>Laurence V. Coleman</item>
+<item>Norman S.B. Gras</item>
+<item>Waldo G. Leland</item>
+<item>H.M. Lydenberg</item>
+<item>Arthur Quinn</item></list>
 
 <p>At its second meeting, held in September 1930, the Joint Committee instructed its secretary to make a study of the various methods available for the reproduction of research materials, their comparative costs and their respective limitations. The survey has been carried on with the helpful cooperation of many firms and individuals, among whom special mention should be made of Dr. Thomas Martin of the Library of Congress, Mr. H.M. Lydenberg of the New York Public Library, Mr. J.W. Edwards and Mr. Eugene Power of Edwards Bros., Ann Arbor, Mr. Ernest Kletsch of the Mime-O-Form, the National Process Company of New York, and the Washington Planograph of Washington, D.C., Mr. E.G. Smithyman of the Photostat Company, Mr. Willard D. Morgan of the Leitz Company, Mr. B.B. Snowden of the Ansco Company, Mr. E.H. Naylor of the Rag Paper Manufacturers Association, Mr. H.C. Lambach of the Filmograph Corporation Mr. L.B. Kennedy of Warren, Ohio, Dr. Miller Reese Hutchison, Admiral Bradley A. Fiske, Mr. H.K. Baumgardner of the Mid-West Rotaprint Corporation. Mr. J.F. Perkins of the J.B. Savage Co. of Cleveland, The William Feather Co. of Cleveland, Dr. B.W. Scribner of the Bureau of Standards, Mr. Charles G. Proffitt of Columbia University Press, and Mr. H.G. Deane of Yale University Press. The Spencer Lens Co. and Bausch and Lomb Co. have helped with optical and projection problems and with loan of apparatus. Other firms, as mentioned in the text, have lent their aid. Professors Paterson and Tinker of the University of Minnesota have helped in the study of legibility. To these and others who have given their help the thanks of the Joint Committee are due.</p>
 
-Robert C. Binkley
+<p>Robert C. Binkley
 November 28, 1931
-
+</p></div>
 <pb facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=13"/>
 <pb n="i" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=14"/>
-TABLE OF CONTENTS
-
-I. Publishing and Library Costs. . . . 1
+     <div>    <table>
+<head>TABLE OF CONTENTS</head>
+            
+<row><cell>I. Publishing and Library Costs.
 
 The Book. Average retail price of general and
 scholarly books by country of publication.
@@ -79,10 +79,12 @@ scholarly books by country of publication.
 Analysis of book costs. Low factory cost, high
 editorial and promotion cost.
 Library costs. Acquisition and cataloguing;
-housing.
-
-II. Methods of Reproducing Research Material. . . . 8
-
+housing.</cell><cell>1</cell></row>
+         
+<row><cell>II. Methods of Reproducing Research Material</cell><cell>8</cell></row>
+</table>
+        
+        <table>
 Book printing from raised type as a standard;
 new methods combining photography and lithography. Revolutionary prospects in photo-compositing and filmslide photography.
 
@@ -418,6 +420,7 @@ APPENDIX
 
 Sample Mime-O-Form page
 Sample of newspaper reduced one half
+</table></div>
 </front>
 
 
@@ -3779,20 +3782,20 @@ Sample of newspaper reduced one half
 
                <p>The economies which make this control possible eliminate three-fifths to four-fifths of the normal costs of publication, by getting
                   rid of:</p>
+<list type="ordered">
+               <item n="a">Promotion costs. (The promotion of books in the scholarly market is done free by the journals anyway.)</item>
 
-               <p>a. Promotion costs. (The promotion of books in the scholarly market is done free by the journals anyway.)</p>
+               <item n="b">Risk of carrying unsold stock. Elimination of this risk permits the use of more durable paper.</item>
 
-               <p>b. Risk of carrying unsold stock. Elimination of this risk permits the use of more durable paper.</p>
+               <item n="c">Editorial costs, except perhaps for a reading fee which might be paid in some fields to the scholar to whom a manuscript is
+                  assigned for appraisal. The cost of correcting spelling and punctuation must not be levied upon the purchaser.</item>
 
-               <p>c. Editorial costs, except perhaps for a reading fee which might be paid in some fields to the scholar to whom a manuscript is
-                  assigned for appraisal. The cost of correcting spelling and punctuation must not be levied upon the purchaser.</p>
+               <item n="d">A slight saving in library costs of putting the book on the shelves can be effected by sending catalogue cards along with the
+                  books.</item>
 
-               <p>d. A slight saving in library costs of putting the book on the shelves can be effected by sending catalogue cards along with the
-                  books.</p>
-
-               <p>e. Authors' royalties and publishers’ profits.</p>
-
-               <p>In connection with the development of purchasing orgsnization, materia1s for publication can be classified into two groups.</p>
+               <item n="e">Authors' royalties and publishers’ profits.</item>
+</list>
+               <p>In connection with the development of purchasing organization, materials for publication can be classified into two groups.</p>
 
                <pb n="129" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=150"/>
 
