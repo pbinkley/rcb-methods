@@ -1,7 +1,32 @@
 <?xml version="1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
-      <!-- [ TEI Header information ] -->
+      <fileDesc>
+         <titleStmt>
+            <title>Methods Of Reproducing Research Materials</title>
+         </titleStmt>
+         <editionStmt>
+            <p>Ed. Peter Binkley</p>
+         </editionStmt>
+         <publicationStmt>
+            <date when="2013"/>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>Robert C. Binkley</author>
+                  <title>Methods Of Reproducing Research Materials</title>
+                  <title type="sub">A Survey made for the Joint Committee on Materials for Research of the Social Science Research Council and the
+                     American Council of Learned Societies.</title>
+                  <imprint>
+                     <pubPlace>Ann Arbor</pubPlace>
+                     <publisher>Edwards Brothers</publisher>
+                     <date when="1931"/>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
    </teiHeader>
    <text>
       <front>
@@ -1042,12 +1067,14 @@
                         photography.</p>
                   </div>
 
-                  <p>The most important difference between these methods is that which affects the possibility of enlarging or reducing the copy in
-                     the course of the reproduction process. Direct impression and direct transfer methods do not permit any alteration in size as
-                     between the original and the copy. The Wet Plate Method and all the negative <pb n="24"
-                        facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=45"/> photo-process methods permit of enlargement
-                     or reduction of the copy. The positive photo-process method in most cases loses all its advantages over the negative method if it
-                     is necessary to enlarge or reduce the copy.</p>
+                  <div>
+                     <p>The most important difference between these methods is that which affects the possibility of enlarging or reducing the copy in
+                        the course of the reproduction process. Direct impression and direct transfer methods do not permit any alteration in size as
+                        between the original and the copy. The Wet Plate Method and all the negative <pb n="24"
+                           facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=45"/> photo-process methods permit of
+                        enlargement or reduction of the copy. The positive photo-process method in most cases loses all its advantages over the
+                        negative method if it is necessary to enlarge or reduce the copy.</p>
+                  </div>
                </div>
                <div type="subsection">
                   <head>4. The Sensitivity of the Emulsion on the Metal Sheet.</head>
@@ -1302,7 +1329,7 @@
 
                <table>
                   <row role="label">
-                     <call>Dimensions of book page in inches</call>
+                     <cell>Dimensions of book page in inches</cell>
                      <cell cols="3">Cost of material in dollars</cell>
                   </row>
                   <row role="label">
@@ -1743,7 +1770,7 @@
 
                   <p>When the matter to be published contains tabulations, characters not in the Roman alphabet, diagrams or mathematical formulae,
                      the advantage of photographing the typescript increases because the cost of typesetting is much higher. Mr. Charles G. Proffitt
-                     of the Columbia University Press writes: <quote red="blockquote">It has long been our judgment that much scholarly work, now
+                     of the Columbia University Press writes: <quote rend="blockquote">It has long been our judgment that much scholarly work, now
                         printed by the conventional method of typesetting, could be produced in a way that would be just as useful to the small circle
                         of readers involved and at a price substantially lower than now paid, if the work were done by the offset process from clean
                         typewritten manuscript. We published such a volume some time ago (Westermann and Kraemer - "Greek Papyri") and are urging this
@@ -1805,9 +1832,12 @@
                <table>
                   <head>THE COST OF LEGIBILITY</head>
 
-                  <p>(Page 8½ x 11 inches calculated for printing surface of 6-7/8 x 9-3/8 or 66 sq. in.; Page 5½ x 8½ or 5-7/8 x 8½ calculated for
-                     printing surface 4½ x 7½ or 34 sq. in. Newsprint figures found by actual count; linotype average figures taken from Hoch: "The
-                     standard book of estimating for printers" issued by United Typothetae of America. Typescript estimates by Edwards Brothers)</p>
+                  <row cols="7">
+                     <cell>(Page 8½ x 11 inches calculated for printing surface of 6-7/8 x 9-3/8 or 66 sq. in.; Page 5½ x 8½ or 5-7/8 x 8½ calculated
+                        for printing surface 4½ x 7½ or 34 sq. in. Newsprint figures found by actual count; linotype average figures taken from Hoch:
+                        "The standard book of estimating for printers" issued by United Typothetae of America. Typescript estimates by Edwards
+                        Brothers)</cell>
+                  </row>
 
                   <row role="label">
                      <cell>LINOTYPE STYLE. Size of type</cell>
@@ -2063,7 +2093,7 @@
                      <cell>Not tested</cell>
                   </row>
 
-                  <p>* (Small page can be printed for 1¢ in editions of 100; large page in editions of 200)</p>
+                  <row><cell cols="7">* (Small page can be printed for 1¢ in editions of 100; large page in editions of 200)</cell></row>
                </table>
 
 <pb n="60" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=81"/>
@@ -2132,7 +2162,7 @@
 
                <table>
                   <head>PREPARATION OF TYPESCRIPT FOR PHOTO-LITHOGRAPHY</head>
-                  <p>*=samp1e in appendix</p>
+                  <row><cell cols="7">*=samp1e in appendix</cell></row>
                   <row role="label">
                      <cell cols="3">A. Using standard size typescript paper 8½ x 11 in., in standard typewriter</cell>
                      <cell rows="2">Words per page, 8½ x 11 in. in photo-lithographed book</cell>
@@ -2438,7 +2468,7 @@
 
                <table>
                   <head>CHEMICAL AND PERFORMANCE SPECIFICATIONS</head>
-                  <p>(n.s. = not specified)</p>
+                  <row><cell cols="7">(n.s. = not specified)</cell></row>
                   <row>
                      <cell/>
                      <cell cols="3">I</cell>
@@ -3129,10 +3159,12 @@
                   stage.</p>
             </div>
             <pb n="102" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=123"/>
-            <p>A letter from the Bureau International d'Edition, 46 Rue de la Tour, Paris, states that filmslide publication of books is already being
-               placed upon a business basis. An enterprise by the name of "Societé des éditions sur films des bibliotheques de France" has already
-               begun the publication of certain rare and valuable books in filmslide form, using the Photoscopie apparatus. Thus filmslide copying
-               would compete with book publishing.</p>
+            <div>
+               <p>A letter from the Bureau International d'Edition, 46 Rue de la Tour, Paris, states that filmslide publication of books is already
+                  being placed upon a business basis. An enterprise by the name of "Societé des éditions sur films des bibliotheques de France" has
+                  already begun the publication of certain rare and valuable books in filmslide form, using the Photoscopie apparatus. Thus filmslide
+                  copying would compete with book publishing.</p>
+            </div>
             <div type="section">
                <head>Comparison of Efficiencies in Reduction.</head>
 
@@ -3882,7 +3914,7 @@
 
       </body>
       <back xml:space="preserve">
-<!-- [ back matter ... ] -->
+
 
 <pb n="[140]" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=161"/>
 <pb n="[141]" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=162"/>
