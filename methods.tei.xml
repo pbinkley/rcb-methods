@@ -4,424 +4,333 @@
       <!-- [ TEI Header information ] -->
    </teiHeader>
    <text>
-      <front xml:space="preserve">
-<!-- [ front matter ... ] -->
-<pb facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=10"/>
-<titlePage><docTitle><titlePart type="main">Methods Of Reproducing
-Research Materials</titlePart>
+      <front>
+         <pb facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=10"/>
+         <titlePage>
+            <docTitle>
+               <titlePart type="main">Methods Of Reproducing Research Materials</titlePart>
 
-<titlePart type="sub">A Survey made for the Joint Committee on Materials for Research
-of the Social Science Research Council and the American
-Council of Learned Societies.
-</titlePart>
-</docTitle>
+               <titlePart type="sub">A Survey made for the Joint Committee on Materials for Research of the Social Science Research Council and the
+                  American Council of Learned Societies. </titlePart>
+            </docTitle>
 
-<byline>by
+            <byline>by <name>ROBERT C. BINKLEY</name>
+               <affiliation>Western Reserve University</affiliation></byline>
 
-<name>ROBERT C. BINKLEY</name>
+            <docEdition>This edition published by Edwards Brothers, Ann Arbor, by the photo-lithographic process from author's own manuscript, pica
+               double space typescript. reduced one-half. </docEdition>
 
-<affiliation>Western Reserve University</affiliation></byline>
+            <docImprint><placeName>ANN ARBOR</placeName>
+               <date>1931</date></docImprint>
 
-<docEdition>This edition published by Edwards Brothers, Ann Arbor, by the
-photo-lithographic process from author's own manuscript,
-pica double space typescript. reduced one-half.
-</docEdition>
+            <docImprint>Copyright <date>1931</date>
+               <name>Robert C. Binkley</name> (Printed In U.S.A.) </docImprint>
 
-<docImprint><placeName>ANN ARBOR</placeName> <date>1931</date></docImprint>
-
-<docImprint>Copyright <date>1931</date>
-<name>Robert C. Binkley</name>
-(Printed In U.S.A.)
-</docImprint>
-   
-<docImprint><publisher>EDWARDS BROTHERS, INC.
-Lithoprinters and Publishers</publisher>
-<pubPlace>ANN ARBOR. MICHIGAN</pubPlace></docImprint>
-</titlePage>
-<pb facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=11"/>
-<pb facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=12"/>
+            <docImprint><publisher>EDWARDS BROTHERS, INC. Lithoprinters and Publishers</publisher>
+               <pubPlace>ANN ARBOR. MICHIGAN</pubPlace></docImprint>
+         </titlePage>
+         <pb facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=11"/>
+         <pb facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=12"/>
          <div>
-<head>FOREWORD</head>
-<p>
-The Joint Committee on Materials for Research
-of the Social Science Research Council and the American
-Council of Learned Societies was organized in 1930, and
-consists at present of the following persons.</p>
-
-<list type="simple"><item>Solon J. Buck,
-Western Pennsylvania Historical Society,
-Chairman</item>
-
-<item>Robert C. Bink1ey, Western Reserve University,
-Secretary</item>
-
-<item>Laurence V. Coleman</item>
-<item>Norman S.B. Gras</item>
-<item>Waldo G. Leland</item>
-<item>H.M. Lydenberg</item>
-<item>Arthur Quinn</item></list>
-
-<p>At its second meeting, held in September 1930, the Joint Committee instructed its secretary to make a study of the various methods available for the reproduction of research materials, their comparative costs and their respective limitations. The survey has been carried on with the helpful cooperation of many firms and individuals, among whom special mention should be made of Dr. Thomas Martin of the Library of Congress, Mr. H.M. Lydenberg of the New York Public Library, Mr. J.W. Edwards and Mr. Eugene Power of Edwards Bros., Ann Arbor, Mr. Ernest Kletsch of the Mime-O-Form, the National Process Company of New York, and the Washington Planograph of Washington, D.C., Mr. E.G. Smithyman of the Photostat Company, Mr. Willard D. Morgan of the Leitz Company, Mr. B.B. Snowden of the Ansco Company, Mr. E.H. Naylor of the Rag Paper Manufacturers Association, Mr. H.C. Lambach of the Filmograph Corporation Mr. L.B. Kennedy of Warren, Ohio, Dr. Miller Reese Hutchison, Admiral Bradley A. Fiske, Mr. H.K. Baumgardner of the Mid-West Rotaprint Corporation. Mr. J.F. Perkins of the J.B. Savage Co. of Cleveland, The William Feather Co. of Cleveland, Dr. B.W. Scribner of the Bureau of Standards, Mr. Charles G. Proffitt of Columbia University Press, and Mr. H.G. Deane of Yale University Press. The Spencer Lens Co. and Bausch and Lomb Co. have helped with optical and projection problems and with loan of apparatus. Other firms, as mentioned in the text, have lent their aid. Professors Paterson and Tinker of the University of Minnesota have helped in the study of legibility. To these and others who have given their help the thanks of the Joint Committee are due.</p>
-
-<p>Robert C. Binkley
-November 28, 1931
-</p></div>
-<pb facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=13"/>
-<pb n="i" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=14"/>
-     <div>    <table>
-<head>TABLE OF CONTENTS</head>
-            
-<row><cell>I. Publishing and Library Costs.
-
-The Book. Average retail price of general and
-scholarly books by country of publication.
-
-Analysis of book costs. Low factory cost, high
-editorial and promotion cost.
-Library costs. Acquisition and cataloguing;
-housing.</cell><cell>1</cell></row>
-         
-<row><cell>II. Methods of Reproducing Research Material</cell><cell>8</cell></row>
-</table>
-        
-        <table>
-Book printing from raised type as a standard;
-new methods combining photography and lithography. Revolutionary prospects in photo-compositing and filmslide photography.
-
-Printing from raised type. . . . 9
-
-Linotype and monotype. Cost of 50,000 word
-job. Short and long run methods. Multigraph.
-Economies due to low-wage operation.
-Mime-O-Form (See sample in appendix)
-
-Table of quotations on cost of printing
-50,000 words, 100 pages, 6 x 9 inches, by
-various processes. . . . 15
-
-The "Offset" Methods. Photography &amp; Lithography. . . . 17
-
-Principle of Lithography. Principle of the
-Offset press. Rapid change in technology.
-
-1. The Size of the Press. Economies of
-small press; quality of product of
-large press.
-
-2. The storage of metal sheets. Relation to
-control of size of edition. Policy of
-Fac-Simile Text Society.
-
-<pb n="ii" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=15"/>
-3. Method of putting the image on the
-metal sheet. . . . 20
-
-a. Direct Impression
-b. Direct Transfer
-c. Wet Plate
-d. Photo-Process - Negative
-e. Photo-Process - Positive
-f. Offset - Deep
-g. Paynetype
-4. The sensitivity of the emulsion on the
-metal sheet
-5. The combination of photo-lithography
-with etching
-a. Aquatone
-b. Depth-o-tone
-c. Pantone
-6. Dry Lithoqraphy
-7. Photo-Composing Machines
-
-The Mimeograph and its Relatives. . . . 30
-Impossibility of enlarging or reducing
-size of copy. Coxhead Press
-
-Table of quotations. Book of 50,000 words,
-100 pages 8½ x 11 inches, photo-lithography
-&amp; mimeograph compared. . . . 33
-
-The Photostat and its Relatives. . . . 34
-
-Photostat costs not elastic with size of
-edition. Cost of materials. Cost of
-labor and chemicals. Comparative cost
-data from New York Public Library and
-Cleveland Bell Telephone Company. Experience of Massachusetts Historical Society
-in copying newspapers.
-
-Photostat Equipment. . . . 39
-
-Comparison of Photostat and Rectigraph
-The Luminiophor Plate.
-
-Collotype and Photograph. . . . 42
-
-<pb n="iii" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=16"/>
-
-III. Comparison of Different Methods of
-Book Manufacture. . . . 44
-
-The five variables of book production.
-state of the copy in hand, typescript
-or print        in the produc.
-presence of non textual matter, degree
-of legibility required, extent of market
-
-1. Reprinting material which is ready
-for photography
-
-Dividing line between photostat
-and photo-lithography
-
-Table of comparative costs of
-Photostat and photo-lithography
-in edition of less than one hundred. . . . 45
-
-Possibility of shifting from
-photostat to photo-lithograph in
-projects for copying old newspapers.
-
-Critical point in photographic
-copying where size of edition permits sale at normal book prices. . . . 50
-Practice of Fac-Simile Text Society,
-British Shakespeare Association
-
-2. Typewritten books. . . . 52
-Redistribution of labor between
-author and publisher. Advantage
-of typescript in reproducing
-mathematical or foreign characters
-charts or pictorial matter
-Problem of the right hand margin.
-Relations of type-size, legibility
-and cost.
-
-The cost of legibility. . . . 56
-Cost-per-word and cost-per-page area.
-Psychological problem of legibility.
-Experiment by Tinker and Paterson for the
-Joint Commitee.
-
-Chart showing relations of type size
-number of words to the square inch
-
-<pb n="iv" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=17"/>
-
-cost of publishing 50,000 words at normal book
-prices (1¢ per page), and legibility compared
-with newsprint. . . . 59
-
-Table of cost and legibility. . . . 6O
-
-Use of the typewriter in obtaining various
-costs and legibilities. Elite and Pica type.
-Single, double and special spacing. Areas of
-surface covered by typewriter. Reduction by
-photography, four pages in one, or from large
-page to a small one. Length of line.
-
-Table of styles of typescript prepared for
-offset press, with cost of 50,000 words at
-1¢ per page. . . . 65
-
-Problem of legibility as defined for further
-study. Standards of legibility
-
-Optical aids to legibility. . . . 66
-
-Limitations of the reading glass.
-
-The Fiskoscope. Its place in connection
-filmslide photography rather than book production.
-
-Quality of paper. . . . 68
-Btitish and American attempts at standardization. Content vs. Performance. Comparative
-table of specifications. Rag Paper Manufacturers
-point of view.
-
-Comparative costs of ordinary book and permanent
-book papers. . . . 73
-Relation of cost of paper to size of edition
-and risk of non-sale.
-Possibility of special printings for libraries.
-
-Recommendation on book production. . . . 77
-Organization of purchasing power.
-
-<pb n="v" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=18"/>
-
-IV. Filmslide Photography. . . . 81
-
-Two uses of filmslide: as an intermediate
-step in photostating, and as a complete
-reproduction method.
-
-Cost of film. Perforated and non-perforated
-types. Importance of reduction ratio in
-comparison with photostat.
-
-The physical limits of reduction ratio -- Resolving power of film in lines per millimeter.
-Practical tests of legibility of material.
-Degrees of legibility, A,B,C,D,E.
-
-Area of film per exposure in the various
-filmslide cameras. . . . 86
-
-Price comparisons of equipment. . . . 88
-
-Description of apparatus. . . . 39
-The Vi-Cam
-The Q.R.S.
-Cinescope-Photoscope
-Ansco Universal Still-Film Copying Camera.
-Leica and Lemare equipment compared
-with Ansco. Copy holding. Double
-exposure. Loading. . . . 95
-Filmograph and Kennedy apparatus.
-Business side of the use of this
-equipment. . . . 98
-Proposed Filmograph. . . .
-Library service. Societe dee editions
-sur films de bibliotheques de France
-
-Comparison of efficiencies in reduction.
-Table of Reduction ratios. . . . 103
-
-Projection apparatus. . . . 104
-Leica, Delineaacope, Filmograph, Kennedy,
-Heat. Screens.
-Direct reading of filmslides without
-projection. . . . 106
-Choice of makes of equipment on the market.
-Need for a finer camera to take non-perforated film, and for a better projector. . . . 107
-
-<pb n="vi" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=19"/>
-
-costs of operation. . . . 109
-Table of high and low costs. . . . 111
-
-Conclusions on copying books and manuscripts...112
-
-Conclusions on copying newspapers. . . . 112
-Special characteristics of newspaper problem. Perishable paper. Large surfaces.
-Completion of files.
-Cost of New York Times current file as a
-standard of measurement.
-Table showing costs of one hundred pages of
-New York Times, wood pulp paper, rag paper, binding,
-filmslide, photo-lithographed, and price of
-Paris Temps and London Times. . . . 115
-
-Note Taking Equipment. . . . 118
-Scholar s problem as distinguished from
-library's problem. Use of photo-lithography
-in preparing Early Modern English Dictionary.
-
-Use of filmslide and of filmslide combined with
-enlargement. Martin magnifying glass.
-Need for cheap photostat for note-taking
-
-Recommendations. . . . 121
-
-1. Library installation of filmslide apparatus.
-Scientific check of conclusions of this survey
-on comparison of Leica and Lemare. Installation of preferred equipment to supplement
-photostat and take load off of borrowing
-and lending obligations.
-
-2. Filmslides and the newspaper problem. . . . 122
-Need for improvement in apparatus
-before organizing large scale projects.
-Hence:
-A. Study of durability of film
-B. Study of resolving power &amp; reduction ratio. Test of Hutchison process. Improvement of photographic
-apparatus.
-C. Improvement of projecting apparatus
-
-<pb n="vii" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=20"/>
-
-3. Photostat for Note Taking. . . . 124
-
-4. Organization of the book buying market
-in connection with book production. . . . 124
-Correlation with Mr. Marshall's survey of
-publishing facilities and revolving
-funds. Opposition between scholarly
-and commercial interests in publishing in
-respect of extent of market, character
-of product, and assessment for promotion costs. Instances of publishing
-needs of scholars. Starting point
-of organization; scholars who have
-publishing needs, also controlling a
-quota of library funds. Organized
-purchasing power in any field effective
-when one to three hundred institutions
-are included. Analysis of economies
-from organized purchasing power.
-
-Types of material. Group I in which libra`
-ry interest predominates. Group II in which
-specialists" interest predominate
-
-Action by Joint committoe. . . . 131
-
-A. Publishing projects in search of funds. . . . 131
-
-A procedure to determine in each case
-whether self-financing is possible, by seeking a sponsoring organization. separating
-editorial from publishing costs, and
-publishing limited edition for a list of
-subscribers.
-
-The need for lists of special markets, to be
-compiled from the Joint Committee"s Survey
-of Activities of American Agencies in the
-Improvement of Materials for Research.
-
-Proposals of Fac-Simile Text Society and Edwards
-Bros
-
-<pb n="viii" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=21"/>
-
-B. Funds in search of publishing projects. . . . 133
-
-Principles in respect of which policies
-of existing publication agencies should
-be defined --
-1. typescript publishing 3. limited
-market. Action of Joint Committee to
-help to organize market for publishing
-agency which accepts these principles.
-
-C. Library collaboration in purchasing. . . . 134
-Connection between problem of reproducing
-materials and problem of controlling
-government document acquisition, as
-presented by Mr. Gerould
-
-D. Newspaper reproduction. An experimental
-project in photo-lithographing instead of
-photostating an old newspaper file. A
-project to provide half-size durable paper
-reproductions of newspapers which are now
-being bound by many libraries.
-
-E. Model enterprises to be sponsored by the
-Joint Committee.
-
-A sample organization of research and purchas-ing interest; a sample project of publication.
-
-F. Further study or legibility and typography. . . . . 137
-
-Distribution of This Survey. . . . 138
-
-APPENDIX
-
-Sample Mime-O-Form page
-Sample of newspaper reduced one half
-</table></div>
-</front>
+            <head>FOREWORD</head>
+            <p> The Joint Committee on Materials for Research of the Social Science Research Council and the American Council of Learned Societies was
+               organized in 1930, and consists at present of the following persons.</p>
+
+            <list type="simple">
+               <item>Solon J. Buck, Western Pennsylvania Historical Society, Chairman</item>
+
+               <item>Robert C. Bink1ey, Western Reserve University, Secretary</item>
+
+               <item>Laurence V. Coleman</item>
+               <item>Norman S.B. Gras</item>
+               <item>Waldo G. Leland</item>
+               <item>H.M. Lydenberg</item>
+               <item>Arthur Quinn</item>
+            </list>
+
+            <p>At its second meeting, held in September 1930, the Joint Committee instructed its secretary to make a study of the various methods
+               available for the reproduction of research materials, their comparative costs and their respective limitations. The survey has been
+               carried on with the helpful cooperation of many firms and individuals, among whom special mention should be made of Dr. Thomas Martin
+               of the Library of Congress, Mr. H.M. Lydenberg of the New York Public Library, Mr. J.W. Edwards and Mr. Eugene Power of Edwards Bros.,
+               Ann Arbor, Mr. Ernest Kletsch of the Mime-O-Form, the National Process Company of New York, and the Washington Planograph of
+               Washington, D.C., Mr. E.G. Smithyman of the Photostat Company, Mr. Willard D. Morgan of the Leitz Company, Mr. B.B. Snowden of the
+               Ansco Company, Mr. E.H. Naylor of the Rag Paper Manufacturers Association, Mr. H.C. Lambach of the Filmograph Corporation Mr. L.B.
+               Kennedy of Warren, Ohio, Dr. Miller Reese Hutchison, Admiral Bradley A. Fiske, Mr. H.K. Baumgardner of the Mid-West Rotaprint
+               Corporation. Mr. J.F. Perkins of the J.B. Savage Co. of Cleveland, The William Feather Co. of Cleveland, Dr. B.W. Scribner of the
+               Bureau of Standards, Mr. Charles G. Proffitt of Columbia University Press, and Mr. H.G. Deane of Yale University Press. The Spencer
+               Lens Co. and Bausch and Lomb Co. have helped with optical and projection problems and with loan of apparatus. Other firms, as mentioned
+               in the text, have lent their aid. Professors Paterson and Tinker of the University of Minnesota have helped in the study of legibility.
+               To these and others who have given their help the thanks of the Joint Committee are due.</p>
+
+            <p>Robert C. Binkley November 28, 1931 </p>
+         </div>
+         <pb facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=13"/>
+         <pb n="i" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=14"/>
+         <div>
+            <list type="simple">
+               <head>TABLE OF CONTENTS</head>
+
+               <item>I. Publishing and Library Costs.<ref rend="text-align: right">1</ref>
+                  <list type="simple">
+                     <item>The Book. Average retail price of general and scholarly books by country of publication. </item>
+                     <item>Analysis of book costs. Low factory cost, high editorial and promotion cost. Library costs. Acquisition and cataloguing;
+                        housing.</item>
+                  </list>
+               </item>
+               <item>II. Methods of Reproducing Research Material<ref rend="text-align: right">8</ref>
+                  <list>
+                     <item>Book printing from raised type as a standard; new methods combining photography and lithography. Revolutionary prospects in
+                        photo-compositing and filmslide photography. </item>
+                     <item>Printing from raised type<ref rend="text-align: right">9</ref></item>
+
+                     <item>Linotype and monotype. Cost of 50,000 word job. Short and long run methods. Multigraph. Economies due to low-wage
+                        operation. Mime-O-Form (See sample in appendix)</item>
+
+                     <item>Table of quotations on cost of printing 50,000 words, 100 pages, 6 x 9 inches, by various processes<ref
+                           rend="text-align: right">15</ref></item>
+
+                     <item>The "Offset" Methods. Photography &amp; Lithography<ref rend="text-align: right">17</ref></item>
+
+                     <item>Principle of Lithography. Principle of the Offset press. Rapid change in technology. <list type="ordered">
+                           <item>1. The Size of the Press. Economies of small press; quality of product of large press.</item>
+
+                           <item>2. The storage of metal sheets. Relation to control of size of edition. Policy of Fac-Simile Text Society. </item>
+                           <pb n="ii" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=15"/>
+                           <item>3. Method of putting the image on the metal sheet<ref rend="text-align: right">20</ref>
+                              <list>
+                                 <item>a. Direct Impression</item>
+                                 <item>b. Direct Transfer</item>
+                                 <item>c. Wet Plate</item>
+                                 <item>d. Photo-Process - Negative</item>
+                                 <item>e. Photo-Process - Positive</item>
+                                 <item>f. Offset - Deep</item>
+                                 <item>g. Paynetype</item>
+                              </list></item>
+                           <item>4. The sensitivity of the emulsion on the metal sheet</item>
+                           <item>5. The combination of photo-lithography with etching <list>
+                                 <item>a. Aquatone</item>
+                                 <item>b. Depth-o-tone</item>
+                                 <item>c. Pantone</item>
+                              </list></item>
+                           <item>6. Dry Lithoqraphy</item>
+                           <item>7. Photo-Composing Machines</item>
+                        </list>
+                     </item>
+
+                     <item>The Mimeograph and its Relatives<ref rend="text-align: right">30</ref></item>
+                     <item>Impossibility of enlarging or reducing size of copy. Coxhead Press</item>
+
+                     <item>Table of quotations. Book of 50,000 words, 100 pages 8½ x 11 inches, photo-lithography &amp; mimeograph compared<ref
+                           rend="text-align: right">33</ref>
+                     </item>
+                     <item>The Photostat and its Relatives<ref rend="text-align: right">34</ref></item>
+
+                     <item>Photostat costs not elastic with size of edition. Cost of materials. Cost of labor and chemicals. Comparative cost data
+                        from New York Public Library and Cleveland Bell Telephone Company. Experience of Massachusetts Historical Society in copying
+                        newspapers. </item>
+                     <item>Photostat Equipment<ref rend="text-align: right">39</ref></item>
+
+                     <item>Comparison of Photostat and Rectigraph</item>
+                     <item>The Luminiophor Plate.</item>
+
+                     <item>Collotype and Photograph<ref rend="text-align: right">42</ref></item>
+
+                  </list>
+               </item>
+
+               <pb n="iii" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=16"/>
+
+               <item>III. Comparison of Different Methods of Book Manufacture<ref rend="text-align: right">44</ref>
+                  <list>
+                     <item>The five variables of book production. state of the copy in hand, typescript or print in the produc. presence of non
+                        textual matter, degree of legibility required, extent of market <list>
+                           <item>1. Reprinting material which is ready for photography</item>
+                           <item> Dividing line between photostat and photo-lithography</item>
+
+                           <item>Table of comparative costs of Photostat and photo-lithography in edition of less than one hundred<ref
+                                 rend="text-align: right">45</ref></item>
+
+                           <item>Possibility of shifting from photostat to photo-lithograph in projects for copying old newspapers.</item>
+
+                           <item>Critical point in photographic copying where size of edition permits sale at normal book prices.<ref
+                                 rend="text-align: right">50</ref></item>
+                           <item>Practice of Fac-Simile Text Society, British Shakespeare Association</item>
+
+                           <item>2. Typewritten books.<ref rend="text-align: right">52</ref></item>
+                           <item>Redistribution of labor between author and publisher. Advantage of typescript in reproducing mathematical or foreign
+                              characters charts or pictorial matter Problem of the right hand margin. Relations of type-size, legibility and
+                              cost.</item>
+
+                        </list>
+                     </item>
+                     <item>The cost of legibility. <ref rend="text-align: right">56</ref>
+                        <list>
+                           <item>Cost-per-word and cost-per-page area. Psychological problem of legibility. Experiment by Tinker and Paterson for the
+                              Joint Commitee. </item>
+                           <item>Chart showing relations of type size number of words to the square inch <pb n="iv"
+                                 facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=17"/> cost of publishing 50,000 words at
+                              normal book prices (1¢ per page), and legibility compared with newsprint.<ref rend="text-align: right">59</ref></item>
+
+                           <item>Table of cost and legibility.<ref rend="text-align: right">6O</ref></item>
+
+                           <item>Use of the typewriter in obtaining various costs and legibilities. Elite and Pica type. Single, double and special
+                              spacing. Areas of surface covered by typewriter. Reduction by photography, four pages in one, or from large page to a
+                              small one. Length of line.</item>
+
+                           <item>Table of styles of typescript prepared for offset press, with cost of 50,000 words at 1¢ per page. <ref
+                                 rend="text-align: right">65</ref></item>
+
+                           <item>Problem of legibility as defined for further study. Standards of legibility</item>
+
+                           <item>Optical aids to legibility.<ref rend="text-align: right">66</ref></item>
+
+                           <item>Limitations of the reading glass.</item>
+
+                           <item>The Fiskoscope. Its place in connection filmslide photography rather than book production.</item>
+
+                        </list>
+                     </item>
+                     <item>Quality of paper. <ref rend="text-align: right">68</ref></item>
+                     <item>British and American attempts at standardization. Content vs. Performance. Comparative table of specifications. Rag Paper
+                        Manufacturers point of view.</item>
+
+                     <item>Comparative costs of ordinary book and permanent book papers. <ref rend="text-align: right">73</ref></item>
+                     <item>Relation of cost of paper to size of edition and risk of non-sale. Possibility of special printings for libraries.</item>
+
+                     <item>Recommendation on book production. <ref rend="text-align: right">77</ref></item>
+                     <item>Organization of purchasing power.</item>
+                  </list>
+               </item>
+               <pb n="v" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=18"/>
+
+               <item>IV. Filmslide Photography. <ref rend="text-align: right">81</ref>
+                  <list>
+                     <item>Two uses of filmslide: as an intermediate step in photostating, and as a complete reproduction method.</item>
+                     <item>Cost of film. Perforated and non-perforated types. Importance of reduction ratio in comparison with photostat.</item>
+                     <item>The physical limits of reduction ratio -- Resolving power of film in lines per millimeter. Practical tests of legibility of
+                        material. Degrees of legibility, A,B,C,D,E.</item>
+                     <item>Area of film per exposure in the various filmslide cameras. <ref rend="text-align: right">86</ref></item>
+                     <item>Price comparisons of equipment. <ref rend="text-align: right">88</ref></item>
+                     <item>Description of apparatus. <ref rend="text-align: right">39</ref>
+                        <list>
+                           <item>The Vi-Cam</item>
+                           <item>The Q.R.S.</item>
+                           <item>Cinescope-Photoscope</item>
+                           <item>Ansco Universal Still-Film Copying Camera.</item>
+                           <item>Leica and Lemare equipment compared with Ansco. Copy holding. Double exposure. Loading.<ref rend="text-align: right"
+                                 >95</ref>
+                           </item>
+                           <item>Filmograph and Kennedy apparatus. Business side of the use of this equipment.<ref rend="text-align: right"
+                              >98</ref></item>
+                           <item>Proposed Filmograph.</item>
+                           <item>Library service. Societe des editions sur films de bibliotheques de France</item>
+                        </list>
+                     </item>
+                     <item>Comparison of efficiencies in reduction.</item>
+                     <item>Table of Reduction ratios.<ref rend="text-align: right">103</ref></item>
+                     <item>Projection apparatus.<ref rend="text-align: right">104</ref></item>
+                     <item>Leica, Delineaacope, Filmograph, Kennedy, Heat. Screens.</item>
+                     <item>Direct reading of filmslides without projection.<ref rend="text-align: right">106</ref>
+                     </item>
+                     <item>Choice of makes of equipment on the market. Need for a finer camera to take non-perforated film, and for a better
+                           projector.<ref rend="text-align: right">107</ref></item>
+                     <pb n="vi" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=19"/>
+                     <item>Costs of operation.<ref rend="text-align: right">109</ref></item>
+                     <item>Table of high and low costs.<ref rend="text-align: right">111</ref></item>
+                     <item>Conclusions on copying books and manuscripts...<ref rend="text-align: right">112</ref></item>
+                     <item>Conclusions on copying newspapers.<ref rend="text-align: right">112</ref></item>
+                     <item>Special characteristics of newspaper problem. Perishable paper. Large surfaces. Completion of files.</item>
+                     <item>Cost of New York Times current file as a standard of measurement.</item>
+                     <item>Table showing costs of one hundred pages of New York Times, wood pulp paper, rag paper, binding, filmslide,
+                        photo-lithographed, and price of Paris Temps and London Times.<ref rend="text-align: right">115</ref></item>
+                  </list>
+               </item>
+               <item>Note Taking Equipment.<ref rend="text-align: right">118</ref>
+                  <list>
+                     <item>Scholar's problem as distinguished from library's problem. Use of photo-lithography in preparing Early Modern English
+                        Dictionary.</item>
+
+                     <item>Use of filmslide and of filmslide combined with enlargement. Martin magnifying glass. Need for cheap photostat for
+                        note-taking </item>
+                  </list>
+               </item>
+               <item>Recommendations.<ref rend="text-align: right">121</ref>
+                  <list>
+                     <item>1. Library installation of filmslide apparatus.</item>
+                     <item>Scientific check of conclusions of this survey on comparison of Leica and Lemare. Installation of preferred equipment to
+                        supplement photostat and take load off of borrowing and lending obligations.</item>
+
+                     <item>2. Filmslides and the newspaper problem.<ref rend="text-align: right">122</ref></item>
+                     <item>Need for improvement in apparatus before organizing large scale projects. Hence: <list>
+                           <item>A. Study of durability of film</item>
+                           <item>B. Study of resolving power &amp; reduction ratio. Test of Hutchison process. Improvement of photographic apparatus. </item>
+                           <item>C. Improvement of projecting apparatus</item>
+                        </list>
+                     </item>
+                     <pb n="vii" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=20"/>
+
+                     <item>3. Photostat for Note Taking.<ref rend="text-align: right">124</ref></item>
+
+                     <item>4. Organization of the book buying market in connection with book production.<ref rend="text-align: right">124</ref>
+                     </item>
+                     <item>Correlation with Mr. Marshall's survey of publishing facilities and revolving funds. Opposition between scholarly and
+                        commercial interests in publishing in respect of extent of market, character of product, and assessment for promotion costs.
+                        Instances of publishing needs of scholars. Starting point of organization; scholars who have publishing needs, also
+                        controlling a quota of library funds. Organized purchasing power in any field effective when one to three hundred institutions
+                        are included. Analysis of economies from organized purchasing power.</item>
+
+                     <item>Types of material. Group I in which library interest predominates. Group II in which specialists' interest
+                        predominate</item>
+
+                  </list>
+               </item>
+               <item>Action by Joint committoe.<ref rend="text-align: right">131</ref>
+                  <list>
+                     <item>A. Publishing projects in search of funds.<ref rend="text-align: right">131</ref>
+                        <list>
+                           <item>A procedure to determine in each case whether self-financing is possible, by seeking a sponsoring organization.
+                              separating editorial from publishing costs, and publishing limited edition for a list of subscribers.</item>
+
+                           <item>The need for lists of special markets, to be compiled from the Joint Committee"s Survey of Activities of American
+                              Agencies in the Improvement of Materials for Research.</item>
+
+                           <item>Proposals of Fac-Simile Text Society and Edwards Bros</item>
+                        </list>
+                     </item>
+                     <pb n="viii" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=21"/>
+
+                     <item>B. Funds in search of publishing projects.<ref rend="text-align: right">133</ref>
+                        <list>
+                           <item>Principles in respect of which policies of existing publication agencies should be defined -- </item>
+                           <item>1. typescript publishing 2. limited market. Action of Joint Committee to help to organize market for publishing
+                              agency which accepts these principles.</item>
+                        </list>
+                     </item>
+                     <item>C. Library collaboration in purchasing.<ref rend="text-align: right">134</ref>
+                        <list>
+                           <item>Connection between problem of reproducing materials and problem of controlling government document acquisition, as
+                              presented by Mr. Gerould</item>
+                        </list></item>
+                     <item>D. Newspaper reproduction. An experimental project in photo-lithographing instead of photostating an old newspaper file. A
+                        project to provide half-size durable paper reproductions of newspapers which are now being bound by many libraries.</item>
+
+                     <item>E. Model enterprises to be sponsored by the Joint Committee.</item>
+
+                     <item>A sample organization of research and purchasing interest; a sample project of publication.</item>
+
+                     <item>F. Further study or legibility and typography.<ref rend="text-align: right">137</ref></item>
+                  </list>
+               </item>
+               <item>Distribution of This Survey.<ref rend="text-align: right">138</ref></item>
+
+               <item>APPENDIX <list>
+                     <item>Sample Mime-O-Form page</item>
+                     <item>Sample of newspaper reduced one half</item>
+                  </list>
+               </item>
+            </list>
+         </div>
+      </front>
 
 
 
@@ -431,7 +340,6 @@ Sample of newspaper reduced one half
 
 
       <body>
-         <!-- [ body of text ... ] -->
 
          <pb n="1" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=22"/>
 
