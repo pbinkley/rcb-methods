@@ -62,7 +62,7 @@
          <pb facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=11"/>
          <pb facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=12"/>
          <div>
-            <head rend="underline">FOREWORD</head>
+            <head rend="text-decoration: underline">FOREWORD</head>
             <p> The Joint Committee on Materials for Research of the Social Science Research Council and the American Council of Learned Societies was
                organized in 1930, and consists at present of the following persons.</p>
 
@@ -98,7 +98,7 @@
          <pb n="i" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=14"/>
          <div>
             <list type="simple">
-               <head rend="underline">TABLE OF CONTENTS</head>
+               <head rend="text-decoration: underline">TABLE OF CONTENTS</head>
 
                <item>I. Publishing and Library Costs.<ref rend="text-align: right">1</ref>
                   <list type="simple">
@@ -373,7 +373,7 @@
 
          <pb n="1" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=22"/>
 
-         <head rend="underline">A SURVEY OF METHODS OF REPRODUCING RESEARCH MATERIALS</head>
+         <head rend="text-decoration: underline">A SURVEY OF METHODS OF REPRODUCING RESEARCH MATERIALS</head>
 
 
 
@@ -387,10 +387,10 @@
 
 
          <div type="chapter" n="I">
-            <head rend="underline">I. Publishing and Library Costs</head>
+            <head rend="text-decoration: underline">I. Publishing and Library Costs</head>
 
             <div type="section">
-               <head rend="underline">The Book</head>
+               <head rend="text-decoration: underline">The Book</head>
 
                <p>The point of reference from which the problem of reproducing research materials must be examined is the system by which publishers
                   produce books and libraries acquire, arrange and store them for use. The financial policies of institutions, the stack room and
@@ -407,11 +407,11 @@
                   standard annual boot-lists are as follows:</p>
 
                <table>
-                  <head rend="underline">AVERAGE RETAIL PRICE OF BOOKS, PER ONE HUNDRED PAGES</head>
+                  <head rend="text-decoration: underline">AVERAGE RETAIL PRICE OF BOOKS, PER ONE HUNDRED PAGES</head>
                   <row role="label">
                      <cell role="label"/>
-                     <cell role="label" rend="underline">General Books</cell>
-                     <cell role="label" rend="underline">Scholarly Books (History)</cell>
+                     <cell role="label" rend="text-decoration: underline">General Books</cell>
+                     <cell role="label" rend="text-decoration: underline">Scholarly Books (History)</cell>
                   </row>
                   <row role="data">
                      <cell role="label">U.S.</cell>
@@ -445,7 +445,7 @@
             </div>
 
             <div type="section">
-               <head rend="underline">Analysis of Book cost</head>
+               <head rend="text-decoration: underline">Analysis of Book cost</head>
 
                <p>The cost accountancy of book production is very complicated, but the essential fact is simple: the unit cost of producing a book
                   falls rapidly as the size of the edition increases. This is the crux of the problem that must be faced in any plan which will seek
@@ -495,9 +495,9 @@
 
                <table>
                   <row role="label">
-                     <cell role="label" rend="underline">Cost of book sold at</cell>
-                     <cell role="label" rend="underline">$2.50</cell>
-                     <cell role="label" rend="underline">$2.00</cell>
+                     <cell role="label" rend="text-decoration: underline">Cost of book sold at</cell>
+                     <cell role="label" rend="text-decoration: underline">$2.50</cell>
+                     <cell role="label" rend="text-decoration: underline">$2.00</cell>
                   </row>
                   <row role="data">
                      <cell role="label">Manufacturing cost</cell>
@@ -551,7 +551,7 @@
             <pb n="6" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=27"/>
 
             <div type="section">
-               <head rend="underline">Library costs.</head>
+               <head rend="text-decoration: underline">Library costs.</head>
 
                <p>The purchase price of the book is not the heaviest expense that has to be met in making it available to a scholar in a library.
                   Library finances must be given a place in the total picture, because different methods of reproducing materials fit differently into
@@ -583,14 +583,14 @@
 
 
          <div type="chapter" n="II">
-            <head rend="underline">II. Methods of Reproducing Material</head>
+            <head rend="text-decoration: underline">II. Methods of Reproducing Material</head>
 
             <p>Just as the policies of publishers and librarians set business standards for all enterprises in the field of scholarly publication, so
                printing from raised type sets a technological standard. But printing from raised type is now being challenged by other methods of
                reproducing texts. The new methods combine in various ways the principles of lithography, typewriting and photography, or make use of
                photography alone. Substitutes for printing are so many that the whole technology is in a state of flux, with prospects of
-               revolutionary change. Two revolutionary processes, on the borderline of practical application today, are <emph rend="underline">photo-compositing</emph> (preparation
-               of lithographic master-copy by photographing letters directly on a page), and <emph rend="underline">filmslide photography</emph> (reduction of text to a miniature
+               revolutionary change. Two revolutionary processes, on the borderline of practical application today, are <emph rend="text-decoration: underline">photo-compositing</emph> (preparation
+               of lithographic master-copy by photographing letters directly on a page), and <emph rend="text-decoration: underline">filmslide photography</emph> (reduction of text to a miniature
                slide, to be read by projection on a screen). The inventors and promoters of the new devices are concerned very little with the
                scholar's problem. <pb n="9" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=30"/> Lithographic printing
                methods are commercialized in response to the needs of advertisers, and filmslide photography is receiving its most successful
@@ -598,7 +598,7 @@
                processes, it is only in an incidental or accidental way.</p>
 
             <div type="section">
-               <head rend="underline">Printing from Raised Type</head>
+               <head rend="text-decoration: underline">Printing from Raised Type</head>
 
                <p>Typesetting for ordinary straight printing of text can be done most economically on one of the composing machines, which are of two
                   kinds. The most common cast type in slugs of one line. (Mergenthaler, Intertype, Ludlow (for display work), Typograph, and
@@ -635,7 +635,7 @@
             <pb n="12" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=33"/>
 
             <div type="section">
-               <head rend="underline">Mime-O-Form.</head>
+               <head rend="text-decoration: underline">Mime-O-Form.</head>
 
                <p>There is a modification of the Multigraph developed by Mr. Ernest Kletsch in Washington, D.C. and called the Mime-O-Form. A Monotype
                   typecasting machine has been equipped to cast type for a Multigraph. The Multigraph printing method is so economical for short runs
@@ -663,25 +663,25 @@
                <pb n="15" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=36"/>
 
                <table>
-                  <head rend="underline">UNIT COST PER VOLUME (In Dollars)</head>
+                  <head rend="text-decoration: underline">UNIT COST PER VOLUME (In Dollars)</head>
                   <row>
-                     <cell cols="7" rend="underline">Estimates on printing book of 50,000 words, 100 pages, 8x9 inches, 5¢ cheap binding, ordinary book paper</cell>
-                     <cell cols="3" rend="underline">Size of edition necessary to reduce unit cost to</cell>
+                     <cell cols="7" rend="text-decoration: underline">Estimates on printing book of 50,000 words, 100 pages, 8x9 inches, 5¢ cheap binding, ordinary book paper</cell>
+                     <cell cols="3" rend="text-decoration: underline">Size of edition necessary to reduce unit cost to</cell>
                   </row>
                   <row>
-                     <cell rend="underline">Edition of:</cell>
-                     <cell rend="underline">100</cell>
-                     <cell rend="underline">200</cell>
-                     <cell rend="underline">300</cell>
-                     <cell rend="underline">500</cell>
-                     <cell rend="underline">1000</cell>
-                     <cell rend="underline">2000</cell>
-                     <cell rend="underline">$1.00</cell>
-                     <cell rend="underline">$.50</cell>
-                     <cell rend="underline">$.25</cell>
+                     <cell rend="text-decoration: underline">Edition of:</cell>
+                     <cell rend="text-decoration: underline">100</cell>
+                     <cell rend="text-decoration: underline">200</cell>
+                     <cell rend="text-decoration: underline">300</cell>
+                     <cell rend="text-decoration: underline">500</cell>
+                     <cell rend="text-decoration: underline">1000</cell>
+                     <cell rend="text-decoration: underline">2000</cell>
+                     <cell rend="text-decoration: underline">$1.00</cell>
+                     <cell rend="text-decoration: underline">$.50</cell>
+                     <cell rend="text-decoration: underline">$.25</cell>
                   </row>
                   <row>
-                     <cell cols="10" rend="underline">Printing from raised type</cell>
+                     <cell cols="10" rend="text-decoration: underline">Printing from raised type</cell>
                   </row>
                   <row>
                      <cell>Multigraph (Polk)</cell>
@@ -756,7 +756,7 @@
                      <cell>500</cell>
                   </row>
                   <row>
-                     <cell cols="10" rend="underline">Offset with typing charge</cell>
+                     <cell cols="10" rend="text-decoration: underline">Offset with typing charge</cell>
                   </row>
                   <row>
                      <cell>Large offset (National Process)</cell>
@@ -795,7 +795,7 @@
                      <cell>1500</cell>
                   </row>
                   <row>
-                     <cell cols="10" rend="underline">Offset without typing charge</cell>
+                     <cell cols="10" rend="text-decoration: underline">Offset without typing charge</cell>
                   </row>
                   <row>
                      <cell>Large offset (National Process)</cell>
@@ -846,7 +846,7 @@
                      <cell>850</cell>
                   </row>
                   <row>
-                     <cell cols="10" rend="underline">Coxhead process</cell>
+                     <cell cols="10" rend="text-decoration: underline">Coxhead process</cell>
                   </row>
                   <row>
                      <cell>Phila. Coxhead (photo)</cell>
@@ -901,7 +901,7 @@
             <pb n="17" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=38"/>
 
             <div type="section">
-               <head rend="underline">The "Offset" Methods. Lithography and Photography.</head>
+               <head rend="text-decoration: underline">The "Offset" Methods. Lithography and Photography.</head>
 
                <p>The most interesting development in contemporary printing technique is the encroachment of "offset printing" upon printing from
                   raised type. Offset printing has developed in the last thirty years from the combined application of principles of lithography and
@@ -931,7 +931,7 @@
                <pb n="19" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=40"/>
 
                <div type="subsection">
-                  <head rend="underline">1. The Size of the Press.</head>
+                  <head rend="text-decoration: underline">1. The Size of the Press.</head>
 
                   <p>The smaller presses, such as the Coxhead or Schwarz Press and the Rotaprint are better adapted for small rum work than the larger
                      presses such as the Harris Press. The larger presses do better with long runs and with color work. There are many types of offset
@@ -944,7 +944,7 @@
                </div>
 
                <div type="subsection">
-                  <head rend="underline">2. The Storage of the Metal Sheets.</head>
+                  <head rend="text-decoration: underline">2. The Storage of the Metal Sheets.</head>
 
                   <p>Some presses, as the Coxhead or Harris presses, use a rather heavy metal sheet which can be cleaned and refinished after every
                      printing. Such sheets provide a saving in that it is cheaper to clean the old than to buy a new sheet, but they affect the
@@ -961,10 +961,10 @@
                </div>
 
                <div type="subsection">
-                  <head rend="underline">3. Method of Putting the Image on the Metal Sheet</head>
+                  <head rend="text-decoration: underline">3. Method of Putting the Image on the Metal Sheet</head>
 
                   <div type="subsubsection">
-                     <head rend="underline">a. Direct Impression</head>
+                     <head rend="text-decoration: underline">a. Direct Impression</head>
 
                      <p>This is the closest relative to the original <pb n="21"
                            facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=42"/> lithographic process. Pen and ink or a
@@ -973,14 +973,14 @@
                   </div>
 
                   <div type="subsubsection">
-                     <head rend="underline">b. Direct Transfer</head>
+                     <head rend="text-decoration: underline">b. Direct Transfer</head>
 
                      <p>Instead of being typewritten or drawn directly on the metal sheet, the image is made upon paper with a greasy ink and then
                         transferred to the sheet by moisture and pressure. This is one of the methods used by the Coxhead Press.</p>
                   </div>
 
                   <div type="subsubsection">
-                     <head rend="underline">c. Wet Plate</head>
+                     <head rend="text-decoration: underline">c. Wet Plate</head>
 
                      <p>The image transferred to the metal sheet is first made by photography upon glass instead of ink on paper. This is the finest
                         method for copying difficult objects such as badly faded newspaper pages or half tone prints. The process which goes under the
@@ -988,7 +988,7 @@
                   </div>
 
                   <div type="subsubsection">
-                     <head rend="underline">d. Photo-Process Negative</head>
+                     <head rend="text-decoration: underline">d. Photo-Process Negative</head>
 
                      <p>Instead of removing an image from one surface (glass or paper) to another, as in the direct transfer or wet plate process, the
                         metal sheet is given a coating of a light sensitive substance, based on bitumen, fish <pb n="22"
@@ -1000,7 +1000,7 @@
                   </div>
 
                   <div type="subsubsection">
-                     <head rend="underline">e. Photo-Process Positive</head>
+                     <head rend="text-decoration: underline">e. Photo-Process Positive</head>
 
                      <p>In the usual photo-process the light passes through the transparent parts of a film or the white parts of Kodalith paper to
                         fix the albumin or bitumen, which will hold the ink. In the "positive" process the metal sheet is coated with a
@@ -1014,7 +1014,7 @@
                   </div>
 
                   <div type="subsubsection">
-                     <head rend="underline">f. Offset-Deep</head>
+                     <head rend="text-decoration: underline">f. Offset-Deep</head>
 
                      <p>A secret preparation is on the market which can be used as an emulsion in making a positive print, and which will resist the
                         action of acid. It thus becomes possible to etch the metal which is to carry the ink. This process results in deeper colors
@@ -1023,7 +1023,7 @@
                   </div>
 
                   <div type="subsubsection">
-                     <head rend="underline">g. Paynetype.</head>
+                     <head rend="text-decoration: underline">g. Paynetype.</head>
 
                      <p>A device which photographs directly upon the zinc plate, which is held in the camera. This is a variety of the positive
                         photo-process which is used in art work. It resembles Collotype, a process which will be discussed in connection with
@@ -1040,7 +1040,7 @@
                   </div>
                </div>
                <div type="subsection">
-                  <head rend="underline">4. The Sensitivity of the Emulsion on the Metal Sheet.</head>
+                  <head rend="text-decoration: underline">4. The Sensitivity of the Emulsion on the Metal Sheet.</head>
 
                   <p>With a few exceptions all kinds of photography upon the albumin or bitumen compound on the metal sheet required exposures of 15
                      or 20 minutes when the negative is in contact with the metal sheet (the usual method) and 30 to 45 minutes when the image is
@@ -1051,22 +1051,22 @@
                      their customers that the time required is fifteen to twenty minutes.</p>
                </div>
                <div type="subsection">
-                  <head rend="underline">5. The Combination of Photo-Lithography with Etching.</head>
+                  <head rend="text-decoration: underline">5. The Combination of Photo-Lithography with Etching.</head>
 
                   <p>The object of development along this line is three-fold: to get better art work, to make a more dur- <pb n="25"
                         facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=46"/> able metal sheet which will stand a longer
                      run in an offset press or resist the abrasion resulting from direct application to the paper in a rotary press, and to touch up
                      defective metal sheets.</p>
                   <list type="ordered">
-                     <item n="a">a. <emph rend="underline">Aquatone</emph> is a process for increasing the water-absorption of the wet parts of the
+                     <item n="a">a. <emph rend="text-decoration: underline">Aquatone</emph> is a process for increasing the water-absorption of the wet parts of the
                         sheet, to produce a clearer white in the print. The same principle, without the name, is used in clearing spots or blurs in
                         ordinary photo-lithographic printing.</item>
 
-                     <item n="b">b. <emph rend="underline">Depth-o-tone</emph> is a trade name for a process for deepening the ink carrying parts of
+                     <item n="b">b. <emph rend="text-decoration: underline">Depth-o-tone</emph> is a trade name for a process for deepening the ink carrying parts of
                         the plate and then filling them with ink-absorbing substance; in art work it produces a deeper color, and in ordinary printing
                         it "brings out" lines in the print which would otherwise fail to register.</item>
 
-                     <item n="c">c. <emph rend="underline">Pantone</emph> is a complicated process which is designed to make use of a principle
+                     <item n="c">c. <emph rend="text-decoration: underline">Pantone</emph> is a complicated process which is designed to make use of a principle
                         similar to that of photo-lithography to prepare a printing surface which will stand long runs and be very resistant to wear.
                         It makes use of the fact that chromium is a hard metal which will accept and transfer ink, while mercury will refuse ink. The
                         chromium serves for the grease of <pb n="26" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=47"/>
@@ -1081,7 +1081,7 @@
                   </list>
                </div>
                <div type="subsection">
-                  <head rend="underline">6. Dry Lithography</head>
+                  <head rend="text-decoration: underline">6. Dry Lithography</head>
 
                   <p>An inventor by the name of Price hes developed an ink which carries in itself the moisture necessary to keep the wet part of the
                      metal sheet from <pb n="27" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=48"/> taking ink. The use
@@ -1090,7 +1090,7 @@
                      ink to keep the mercury surface replenished.</p>
                </div>
                <div type="subsection">
-                  <head rend="underline">7. Photo-Composing Machine:</head>
+                  <head rend="text-decoration: underline">7. Photo-Composing Machine:</head>
 
                   <p>The offset press is sometimes used, in large editions, for printing compositions which have been made with raised type, and
                      transferred to the metal sheet, either for the sake of more efficient pictorial effects, or to avoid the cost of "makeready" --
@@ -1132,7 +1132,7 @@
             </div>
 
             <div type="section">
-               <head rend="underline">The Mimeograph and Its Relatives.</head>
+               <head rend="text-decoration: underline">The Mimeograph and Its Relatives.</head>
 
                <p>The techniques of reproducing copy vary in an almost continuous sequence from the great planograph presses which use highly skilled
                   labor to produce long runs of fine color and art work to the humble mimeograph with its wax stencil prepared by a girl who has had a
@@ -1174,8 +1174,8 @@
                <pb n="33" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=54"/>
 
                <table>
-                  <head rend="underline">Unit Cost of a Book of 100 Pages, 50,000 Words, on Full Typewriter Size Paper (8½ x 11 inches)</head>
-                  <row role="label"  rend="underline">
+                  <head rend="text-decoration: underline">Unit Cost of a Book of 100 Pages, 50,000 Words, on Full Typewriter Size Paper (8½ x 11 inches)</head>
+                  <row role="label"  rend="text-decoration: underline">
                      <cell>Number of copies in edition:</cell>
                      <cell>50</cell>
                      <cell>75</cell>
@@ -1267,7 +1267,7 @@
             </div>
 
             <div type="section">
-               <head rend="underline">The Photostat and Its Relatives.</head>
+               <head rend="text-decoration: underline">The Photostat and Its Relatives.</head>
 
                <p>The peculiarity of the photostat when it is compared with other methods of making copies of books is that the unit cost does not
                   diminish as the size of the edition increases. It is made up almost exclusively of cost of materials and running costs. The only
@@ -1295,14 +1295,14 @@
 
                <table>
                   <row role="label">
-                     <cell rend="underline">Dimensions of book page in inches</cell>
-                     <cell cols="3" rend="underline">Cost of material in dollars</cell>
+                     <cell rend="text-decoration: underline">Dimensions of book page in inches</cell>
+                     <cell cols="3" rend="text-decoration: underline">Cost of material in dollars</cell>
                   </row>
                   <row role="label">
                      <cell/>
-                     <cell rend="underline">Ordinary stock</cell>
-                     <cell rend="underline">"H" stock</cell>
-                     <cell rend="underline">"HH" stock</cell>
+                     <cell rend="text-decoration: underline">Ordinary stock</cell>
+                     <cell rend="text-decoration: underline">"H" stock</cell>
+                     <cell rend="text-decoration: underline">"HH" stock</cell>
                   </row>
                   <row>
                      <cell role="label">4-1/2X 6</cell>
@@ -1377,8 +1377,8 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell rend="underline">$11.50</cell>
-                     <cell rend="underline">$6.30</cell>
+                     <cell rend="text-decoration: underline">$11.50</cell>
+                     <cell rend="text-decoration: underline">$6.30</cell>
                   </row>
                   <!-- gap -->
                   <row>
@@ -1410,7 +1410,7 @@
 
 
             <div type="section">
-               <head rend="underline">Photostat equipment</head>
+               <head rend="text-decoration: underline">Photostat equipment</head>
 
                <p>The two appliances which compete in the field of photographic copying are the Photostat and the Rectigraph. The Photostat is the
                   older, and has succeeded in making a common noun of its trade name. The differences between the two kinds of apparatus do not seem
@@ -1451,7 +1451,7 @@
             </div>
 
             <div type="section">
-               <head rend="underline">Collotype and Photograph.</head>
+               <head rend="text-decoration: underline">Collotype and Photograph.</head>
 
                <p>The more costly but finer relative of the photostat is the photograph, and the aristocratic cousin of the photo-lithographic process
                   is the collotype process. In collotype work a film (of gelatine) is carried on glass, or on thin sheets of metal, to become
@@ -1460,7 +1460,7 @@
                   the original accurately. Dr. G.B. Harrison reports that "at its best collotype can be so perfect as to need a magnifying glass to
                   detect the difference between original and counterfeit; ink can be exactly matched, and every spot, smudge and shade of color
                   exactly reproduced. One of the most brilliant examples of collotype used for book reproduction was the work of the Oxford Press some
-                  thirty years ago, in their facsimile of the first Folio of <title rend="underline">Shakespeare's Plays</title>, and I would call attention to the show-through at
+                  thirty years ago, in their facsimile of the first Folio of <title rend="text-decoration: underline">Shakespeare's Plays</title>, and I would call attention to the show-through at
                   the back of the portrait as an example of what can be done with this process. Where funds allow, collotype is for every purpose the
                   best." (G.B. Harrison: "Facsimile Reprints", a paper read before the Anglo American Conference of Historians, 13-18 Ju1y, 1931) But
                   the cost of collotyping is at least three times that of photo-lithography; it should be classed with art work rather than
@@ -1481,7 +1481,7 @@
 
 
          <div type="chapter" n="III">
-            <head rend="underline">III. Comparison of the Different Methods of Book Manufacture</head>
+            <head rend="text-decoration: underline">III. Comparison of the Different Methods of Book Manufacture</head>
 
             <p>The four fundamental techniques described above: - raised type printing, photo-lithography, mimeographing and photostating, - are all
                competitors with each other for the production of books. There is another technique - filmslide photography - which does not produce
@@ -1513,7 +1513,7 @@
 
             <div type="section">
                <div type="subsection">
-                  <head rend="underline">1. Reprinting Material which is Ready for Photography.</head>
+                  <head rend="text-decoration: underline">1. Reprinting Material which is Ready for Photography.</head>
 
                   <p>When material is ready for photography, and the problem of the use of typewriter face type is not involved, the photo-offset
                      process has no rival. The small press is preferable for editions less than one thousand, the large press (such as the Harris) is
@@ -1531,7 +1531,7 @@
                   <pb n="47" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=68"/>
 
                   <table>
-                     <head rend="underline">COMPARATIVE COSTS OF PHOTOSTAT AND PHOTO-LITHOGRAPHY IN EDITIONS OF LESS THAN ONE HUNDRED. 100 PAGES, SIZE 8-1/2 x 11
+                     <head rend="text-decoration: underline">COMPARATIVE COSTS OF PHOTOSTAT AND PHOTO-LITHOGRAPHY IN EDITIONS OF LESS THAN ONE HUNDRED. 100 PAGES, SIZE 8-1/2 x 11
                         INCHES. UNIT COST.</head>
                      <row role="label">
                         <cell/>
@@ -1687,7 +1687,7 @@
                      The apparent discrepancy in these figures is probably explained by the element of bindery cost, which would not necessarily be
                         <pb n="51" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=72"/> incurred for that part of the
                      edition which is printed but unsold. As has been noted in another place, the work of this society is done on one of the large
-                     presses which cannot store its metal plates for a second run. The <title rend="underline">British Shakespeare Association Facsimiles</title> are printed by a
+                     presses which cannot store its metal plates for a second run. The <title rend="text-decoration: underline">British Shakespeare Association Facsimiles</title> are printed by a
                      similar method at a similar cost - editions of one thousand at a cost of 30¢ per 100 pages, stitched but not bound. These
                      societies print more copies than they need to sell.</p>
 
@@ -1704,7 +1704,7 @@
                </div>
 
                <div type="subsection">
-                  <head rend="underline">2. Typewritten Books.</head>
+                  <head rend="text-decoration: underline">2. Typewritten Books.</head>
 
                   <p>When the possibility is once presented that books may be printed directly from a typescript, the prospect is opened for the
                      re-distribution of labor between author and publisher. In this re-distribution there may be an opportunity for great
@@ -1770,7 +1770,7 @@
             </div>
 
             <div type="section">
-               <head rend="underline">The Cost of Legibility.</head>
+               <head rend="text-decoration: underline">The Cost of Legibility.</head>
 
                <p>In any photographic process which permits the enlargement or reduction of the size of copy - that is to say, in photostating end
                   photo-lithography - the legibility of the product is one of the variables which is strictly under control. The printer in these
@@ -1780,7 +1780,7 @@
                      facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=78"/> paper reduced to half size. The typewritten
                   thesis, now the standard form in which unpublished scholarly work is presented, contains about 300 words on a page 8½ x 11 inches.
                   This is exactly the size of a page which will take a half size reduction of a standard newspaper. But the newspaper contains 5,000
-                  to 6,000 words. Therefore the cost <emph rend="underline">per word</emph> of photographic reproduction in one typographic form may be only one twentieth of the
+                  to 6,000 words. Therefore the cost <emph rend="text-decoration: underline">per word</emph> of photographic reproduction in one typographic form may be only one twentieth of the
                   cost in another form.</p>
 
                <p>The problem of the legibility of small type has not been thoroughly explored in its relation to the photographic methods of
@@ -1796,7 +1796,7 @@
                <pb n="59" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=80"/>
 
                <table>
-                  <head rend="underline">THE COST OF LEGIBILITY</head>
+                  <head rend="text-decoration: underline">THE COST OF LEGIBILITY</head>
 
                   <row cols="7">
                      <cell>(Page 8½ x 11 inches calculated for printing surface of 6-7/8 x 9-3/8 or 66 sq. in.; Page 5½ x 8½ or 5-7/8 x 8½ calculated
@@ -1805,7 +1805,7 @@
                         Brothers)</cell>
                   </row>
 
-                  <row role="label" rend="underline">
+                  <row role="label" rend="text-decoration: underline">
                      <cell>LINOTYPE STYLE. Size of type</cell>
                      <cell>Words per sq. inch</cell>
                      <cell>Words per 5½ x 8½ page</cell>
@@ -1814,7 +1814,7 @@
                      <cell>Legibility compared with 7 pt. newsprint in words per second</cell>
                   </row>
 
-                  <row role="label" rend="underline">
+                  <row role="label" rend="text-decoration: underline">
                      <cell/>
                      <cell/>
                      <cell/>
@@ -2066,8 +2066,8 @@
 
 <p>These figures take no account of a number of important factors, such as length of line, and differences in type face which affect legibility. An experiment intended to supply legibility figures for typescript is under way at the University of Michigan. The table here given indicates the existence of a number of point sizes between 7 point type and 3.5 point type where reduction in cost moves faster than reduction in legibility as expressed in speed of reading.</p>
                <table>
-                  <head rend="underline">Cost and Legibility in Percentages of Newsprint</head>
-                  <row role="label" rend="underline">
+                  <head rend="text-decoration: underline">Cost and Legibility in Percentages of Newsprint</head>
+                  <row role="label" rend="text-decoration: underline">
                      <cell/>
                      <cell>Cost</cell>
                      <cell>Reading Speed</cell>
@@ -2128,14 +2128,14 @@
                <pb n="63" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=84 p:63"/>
 
                <table>
-                  <head rend="underline">PREPARATION OF TYPESCRIPT FOR PHOTO-LITHOGRAPHY</head>
+                  <head rend="text-decoration: underline">PREPARATION OF TYPESCRIPT FOR PHOTO-LITHOGRAPHY</head>
                   <row><cell cols="7">*=samp1e in appendix</cell></row>
-                  <row role="label" rend="underline">
+                  <row role="label" rend="text-decoration: underline">
                      <cell cols="3">A. Using standard size typescript paper 8½ x 11 in., in standard typewriter</cell>
                      <cell rows="2">Words per page, 8½ x 11 in. in photo-lithographed book</cell>
                      <cell cols="2" rows="2">Unit cost of printing 50,000 words at 1¢ per page (Lowest quotation requires edition of 200) </cell>
                   </row>
-                  <row role="label" rend="underline">
+                  <row role="label" rend="text-decoration: underline">
                      <cell>Typing surface used on page</cell>
                      <cell>Size of Type</cell>
                      <cell>Spacing</cell>
@@ -2198,7 +2198,7 @@
                      <cell>.40</cell>
                      <cell/>
                   </row>
-                  <row rend="underline">
+                  <row rend="text-decoration: underline">
                      <cell role="label" cols="6">B. Using special sizes of paper for typescript, either single or double column style, with typing surfaces as
                         below:</cell>
                   </row>
@@ -2340,7 +2340,7 @@
             <pb n="66" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=87"/>
 
             <div type="section">
-               <head rend="underline">Optical Aids to Legibility.</head>
+               <head rend="text-decoration: underline">Optical Aids to Legibility.</head>
 
                <p>When the size of the type face is cut down in order to reduce the price of a volume or ut down the number of copies which must be
                   sold, the point is ultimately reached where reading glasses may be useful to assist the naked eye. The optical principles of the
@@ -2358,7 +2358,7 @@
                   for one of these glasses.</p>
             </div>
             <div type="section">
-               <head rend="underline">The Fiskoscope</head>
+               <head rend="text-decoration: underline">The Fiskoscope</head>
 
                <p>The Fiskoscope, invented by Admiral Fiske, is a magnifying glass intended to render possible the reduction of print to the point
                   where reading with the naked eye is impossible. Typescript or other reading matter is reduced seven diameters in the offset press
@@ -2379,7 +2379,7 @@
                   below.</p>
             </div>
             <div type="section">
-               <head rend="underline">Quality of Paper.</head>
+               <head rend="text-decoration: underline">Quality of Paper.</head>
 
                <p>In small editions the cost of materials constitutes so small a proportion of the total expense that the <pb n="69"
                      facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=90"/> quality of the paper can be improved without
@@ -2434,9 +2434,9 @@ The U.S. Bureau of Standards classification runs:
                <pb n="71" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=92"/>
 
                <table>
-                  <head rend="underline">CHEMICAL AND PERFORMANCE SPECIFICATIONS</head>
+                  <head rend="text-decoration: underline">CHEMICAL AND PERFORMANCE SPECIFICATIONS</head>
                   <row><cell cols="7">(n.s. = not specified)</cell></row>
-                  <row rend="underline">
+                  <row rend="text-decoration: underline">
                      <cell/>
                      <cell cols="3">I</cell>
                      <cell cols="3">II</cell>
@@ -2529,13 +2529,13 @@ The U.S. Bureau of Standards classification runs:
                   describe the permanence of paper", and offers further concrete criticisms:</p>
 
                <quote rend="blockquote">
-                  <p>"<emph rend="underline">Alpha cellulose content</emph>. This test measures the amount of papermaking fibrous material as distinct from
+                  <p>"<emph rend="text-decoration: underline">Alpha cellulose content</emph>. This test measures the amount of papermaking fibrous material as distinct from
                      cementing material and definitely degraded material and impurities. It takes no account of the wide difference in quality of
                      fibrous materials such as is indicated by the test for viscosity of cuprammonium solution. Papers from the best of wood fibers
                      have an alpha content of around 90 per cent, while those from new rags have as high as 98 per cent. Therefore papers in Grade I
                      may be made of the best of new rags, degraded or worn rags, the best of purified wood pulps or a mixture of good rags and an
                      inferior wood pulp. Price and permanence qualities within this range will necessarily vary widely.</p>
-                  <p>"<emph rend="underline">Copper number</emph>. The best of wood pulp normally carries a copper number several times as large as that of similarly purified rag
+                  <p>"<emph rend="text-decoration: underline">Copper number</emph>. The best of wood pulp normally carries a copper number several times as large as that of similarly purified rag
                      stock. While new rag papers show copper numbers of .15 to .75, wood pulp papers vary from 1.0 for alpha pulp to 2.5 for ordinary
                      sulphite. The range of permanence possibilities for papers of copper number less than 1.5 is even wider than that of the alpha
                      content specified....</p>
@@ -2610,7 +2610,7 @@ The U.S. Bureau of Standards classification runs:
                   <row>
                      <cell/>
                      <cell/>
-                     <cell rend="underline">Cost of Paper</cell>
+                     <cell rend="text-decoration: underline">Cost of Paper</cell>
                      <cell/>
                   </row>
                   <row>
@@ -2635,7 +2635,7 @@ The U.S. Bureau of Standards classification runs:
 
                <p>A paper cost differential or 7¢ per volume if the whole edition is sold out will rise to 43¢ per volume if the edition is expected
                   to pay its way with the sale of 300 copies. A paper cost differential of 26½¢ per volume if the whole edition is sold out will rise
-                  to 88¢ if only 300 copies of the edition are sold. <emph rend="underline">It is the storage of expensive paper in unsold books that makes it so costly to
+                  to 88¢ if only 300 copies of the edition are sold. <emph rend="text-decoration: underline">It is the storage of expensive paper in unsold books that makes it so costly to
                   print on high priced paper.</emph> The financing of permanent paper reduces itself to the problem or how to avoid print- <pb n="76"
                      facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=97"/> ing more than can be sold. In offset printing
                   this means that the key to paper quality is the use in printing of a metal sheet that can be stored for later printings. This
@@ -2658,7 +2658,7 @@ The U.S. Bureau of Standards classification runs:
                   that all copies will be sold can be produced upon the most durable paper without greatly adding to their cost.</p>
             </div>
             <div type="section">
-               <head rend="underline">Recommendation on Book Production.</head>
+               <head rend="text-decoration: underline">Recommendation on Book Production.</head>
 
                <p>The interests of research in the reproduction of material are of two kinds, an interest in the present and interest in the future.
                   From the standpoint of the present it is important to give the scholars of today an equipment which they can use with greatest
@@ -2667,8 +2667,8 @@ The U.S. Bureau of Standards classification runs:
                   freedom from financial restrictions in publishing research work and material. The further research proceeds in the direction of
                   specialization, the more limited will be the circle of readers interested in any particular item of research <pb n="78"
                      facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=99"/> material. Unsubsidized publication has hitherto
-                  financed itself on the <emph rend="underline">possibility</emph> that the circle of purchasers would reach two thousand; technological conditions permit a new
-                  basis - the <emph rend="underline">certainty</emph> that the circle will reach one hundred. Scholars in any field of study in the social sciences and humanities
+                  financed itself on the <emph rend="text-decoration: underline">possibility</emph> that the circle of purchasers would reach two thousand; technological conditions permit a new
+                  basis - the <emph rend="text-decoration: underline">certainty</emph> that the circle will reach one hundred. Scholars in any field of study in the social sciences and humanities
                   which can organize their group of one or three hundred purchasers who are able to pay normal book prices for materials in the field
                   can escape from financial limitations upon the circulation of any materials that are deemed important.</p>
 
@@ -2687,7 +2687,7 @@ The U.S. Bureau of Standards classification runs:
 
                <p>The great libraries, - such as Harvard, Library of Congress, New York Public Library, - will not always be the purchasers of
                   reprints of old materials, for they may be in possession of original copies. Younger and poorer libraries may often be the ones
-                  which provide the purchasing power for a reprinting enterprise. As an illustration of this situation, the <title rend="underline">Miller Diary</title> can serve.
+                  which provide the purchasing power for a reprinting enterprise. As an illustration of this situation, the <title rend="text-decoration: underline">Miller Diary</title> can serve.
                   This is a set of twenty volumes of sources on the Paris Peace conference. It was printed in an edition of 40 copies only - a
                   restriction which is regretted by Mr. Miller, who financed the publication and gave the volumes to libraries free of charge. Only a
                   few of the libraries in America possess this important set. It is technically possible to reprint it in an edition of 300 to be sold
@@ -2713,7 +2713,7 @@ The U.S. Bureau of Standards classification runs:
 
 
          <div type="chapter" n="IV">
-            <head rend="underline">IV. Filmslide Photography</head>
+            <head rend="text-decoration: underline">IV. Filmslide Photography</head>
             <p>The reduction of a text to microscopic proportions on a photographic film or plate may enter into two entirely different schemes for
                the reproduction of research material. It may be a means of imposing a negative in the making of a full-size photostatic copy, and
                hence a mere variant of book-manufacture by the photostatic process. Or it may be a device which is independent of book manufacturing,
@@ -2750,7 +2750,7 @@ The U.S. Bureau of Standards classification runs:
             <p>The question is therefore raised at the outset: what reduction ratios are practicable when printed matter is to be photographed on
                small film and read by projection? The physical limit to reduction is certainly the resolving power of the film. This may be as high as
                90 lines to the millimeter, but is usually 50. (Otto Sandvik, "On the Measurement of Resolving Power of Photographic Materials",
-               <title rend="underline">Proceedings of the Seventh International Congress of Photography</title>, July 1928) It is affected by a number of variables, notably the
+               <title rend="text-decoration: underline">Proceedings of the Seventh International Congress of Photography</title>, July 1928) It is affected by a number of variables, notably the
                wave-frequency of the light and the length of exposure, the quality of the emulsion, (especially the fineness of its grain), and the
                method of developing. Dr. Miller Reese Hutchinson has worked out a treatment to increase the resolving power of film by giving it an
                extra bath before developing it. The commercial value of his invention will probably be exploited in the making of sound film, where
@@ -2759,7 +2759,7 @@ The U.S. Bureau of Standards classification runs:
             <p>The standard scientific measure of resolving power is in lines per millimeter. But this proves to be <pb n="85"
                   facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=106"/> too refined a measurement for studying the
                practical usefulness of apparatus on the market, under normal shop or library conditions. Since the final term in the whole process is
-               <emph rend="underline">legibility of material</emph>, a rough index of legibility of product can be used to make possible the comparison of the efficiency of the
+               <emph rend="text-decoration: underline">legibility of material</emph>, a rough index of legibility of product can be used to make possible the comparison of the efficiency of the
                different filmslide cameras. If a page of seven point newsprint type is reduced R diameters on the filmslide, and projected on a
                screen, the different degrees of legibility of the screen image can be set apart as follows:</p>
             <list>
@@ -2780,7 +2780,7 @@ The U.S. Bureau of Standards classification runs:
             <p>The amount of reading matter that can be placed upon a filmslide depends of course upon the size of the slide as well as the degree of
                reduction. The following are the dimensions of the filmslides in the different commercial cameras:</p>
             <table>
-               <row rend="underline">
+               <row rend="text-decoration: underline">
                   <cell/>
                   <cell>Width Across Film</cell>
                   <cell>Length Along Film Strip </cell>
@@ -2847,7 +2847,7 @@ The U.S. Bureau of Standards classification runs:
                D.</p>
 
             <div type="section">
-               <head rend="underline">Price comparisons: Ansco, Q.R.S., Leica, Lemare, Photoscope-Cinescope</head>
+               <head rend="text-decoration: underline">Price comparisons: Ansco, Q.R.S., Leica, Lemare, Photoscope-Cinescope</head>
                <p>Price of equipment for filmslide reproduction of materials includes three items. The first two are indispensable: 1) a camera with
                   its copyholder and stand for copying, 2) a projector for reading. The third may not be needed: 3) enlarging equipment for <pb n="88"
                      facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=110"/> transferring a text to a positive print. These
@@ -2948,12 +2948,12 @@ The U.S. Bureau of Standards classification runs:
                   below, the Q.R.S. will not make a satisfactory copy of 7 point type at its fixed reduction ratio.</p>
             </div>
             <div type="section">
-               <head rend="underline">Cinescope - Photoscope</head>
+               <head rend="text-decoration: underline">Cinescope - Photoscope</head>
 
-               <p>A Belgian company which began operations several years ago sought to sell <title rend="underline">Films "microphote" de la Photoscopie</title> as a cheap but
+               <p>A Belgian company which began operations several years ago sought to sell <title rend="text-decoration: underline">Films "microphote" de la Photoscopie</title> as a cheap but
                   efficient substitute for glass slides used in art study and visual education. It issued a catalogue of geographic, religious,
                   scientific and artistic subjects, and sought to interest the historical associations and library associations of Europe in its use
-                  as a preserver of pictorial and documentary material. The Photoscope went out of business, to be succeeded by <title rend="underline">La Cinescopie</title>, Rue aux
+                  as a preserver of pictorial and documentary material. The Photoscope went out of business, to be succeeded by <title rend="text-decoration: underline">La Cinescopie</title>, Rue aux
                   Laines, Brussels. Then the name became Photoscope again, and the address <pb n="91"
                      facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=112"/> changed to 121 Rue Berckmans, Brussels.</p>
 
@@ -2971,7 +2971,7 @@ The U.S. Bureau of Standards classification runs:
             </div>
             <pb n="92" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=113"/>
             <div type="section">
-               <head rend="underline">The Ansco Universal Still-Film Copying Camera</head>
+               <head rend="text-decoration: underline">The Ansco Universal Still-Film Copying Camera</head>
 
                <p>The Cinescope was developed to meet a demand for illustrative material for lectures, and this same need brought into existence the
                   copying camera sold by the Agra Ansco corporation, Binghamton, N.Y., for fifty dollars. One of these cameras was loaned to the Joint
@@ -3017,10 +3017,10 @@ The U.S. Bureau of Standards classification runs:
                   or Lemare. It is possible, by a somewhat complicated manipulation, to take single-frame pictures even with the Leica or Lemare.</p>
             </div>
             <div type="section">
-               <head rend="underline">Leica and Lemare Equipment Compared with Ansco.</head>
+               <head rend="text-decoration: underline">Leica and Lemare Equipment Compared with Ansco.</head>
 
                <div type="subsection">
-                  <head rend="underline">Focusing</head>
+                  <head rend="text-decoration: underline">Focusing</head>
 
                   <p>The Leitz Company has not manufactured a camera for specialized service in copying. It offers rather a large variety of
                      attachments which adapt its general-purpose camera to copying needs. The Ansco also has its general purpose camera and a way of
@@ -3037,7 +3037,7 @@ The U.S. Bureau of Standards classification runs:
                </div>
 
                <div type="subsection">
-                  <head rend="underline">Copy Holding.</head>
+                  <head rend="text-decoration: underline">Copy Holding.</head>
 
                   <p>All the Leica and Lemare copying stands hold the camera above a copy which lies flat on the table. The difficulty of clamping a
                      sheet to a vertical copy stand is avoided. A glass plate can be laid on top of the object to flatten it. The Lemare copystand is
@@ -3049,7 +3049,7 @@ The U.S. Bureau of Standards classification runs:
                </div>
 
                <div type="subsection">
-                  <head rend="underline">Double Exposure.</head>
+                  <head rend="text-decoration: underline">Double Exposure.</head>
 
                   <p>The Leitz Company offers two kinds of cameras: <pb n="97"
                         facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=118"/> the one with focal plane shutter at $91.50
@@ -3064,7 +3064,7 @@ The U.S. Bureau of Standards classification runs:
                </div>
 
                <div type="subsection">
-                  <head rend="underline">Loading.</head>
+                  <head rend="text-decoration: underline">Loading.</head>
 
                   <p>The load taken by the Leica camera is 5¼ feet of film, 36 exposures, as compared with three feet, 50 exposures in the Ansco; 8 to
                      10 feet, 50 to 80 <pb n="98" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=119"/> exposures in the
@@ -3074,7 +3074,7 @@ The U.S. Bureau of Standards classification runs:
                </div>
             </div>
             <div type="section">
-               <head rend="underline">Filmograph and Kennedy Apparatus</head>
+               <head rend="text-decoration: underline">Filmograph and Kennedy Apparatus</head>
 
                <p>If Cinescope, Ansco, Leica and Lemare have been designed to fill needs more or less closely related to those of a scholar, teacher
                   or librarian, the Filmograph and Kennedy machines have been developed without any reference to the needs of the academic world. And
@@ -3135,7 +3135,7 @@ The U.S. Bureau of Standards classification runs:
                   copying would compete with book publishing.</p>
             </div>
             <div type="section">
-               <head rend="underline">Comparison of Efficiencies in Reduction.</head>
+               <head rend="text-decoration: underline">Comparison of Efficiencies in Reduction.</head>
 
                <p>Although in theory the length of exposure and manner of developing have a very great importance in determining the limit of
                   reduction, fineness of focus is the only contribution to a high reduction ratio that can be made by the camera equipment itself.
@@ -3147,7 +3147,7 @@ The U.S. Bureau of Standards classification runs:
                   the camera and lens are only one of the factors governing resolving power.</p>
 
                <table>
-                  <head rend="underline">Reduction Ratio and Legibility of 7 Point Newsprint Photographed in Different Makes of Filmslide Camera</head>
+                  <head rend="text-decoration: underline">Reduction Ratio and Legibility of 7 Point Newsprint Photographed in Different Makes of Filmslide Camera</head>
                   <row>
                      <cell/>
                      <cell>Q.R.S.</cell>
@@ -3230,7 +3230,7 @@ The U.S. Bureau of Standards classification runs:
                   highest reduction possible without material loss of legibility is 24 diameters.</p>
             </div>
             <div type="section">
-               <head rend="underline">Projection Apparatus</head>
+               <head rend="text-decoration: underline">Projection Apparatus</head>
 
                <p>The weak point in the technique of filmslide reproduction is not the camera but the projector. The writer has tested the Leica and
                   Spencer Lens Co. projectors, loaned to the Joint Committee for the purpose. Both these projectors when used with newsprint reduced
@@ -3255,7 +3255,7 @@ The U.S. Bureau of Standards classification runs:
                   But between the reflection from the silver screen and transmission through focusing glass there is no significant difference.</p>
             </div>
             <div type="section">
-               <head rend="underline">Direct Reading of Filmslides without Projection.</head>
+               <head rend="text-decoration: underline">Direct Reading of Filmslides without Projection.</head>
 
                <p>Filmslides of normal-size printed or manuscript pages, which in the case of non-perforated film are reductions of seven to ten
                   diameters only, are legible by means of a powerful reading lens. The reading system designed for this purpose by Dr. Thomas Martin
@@ -3268,7 +3268,7 @@ The U.S. Bureau of Standards classification runs:
 
             </div>
             <div type="section">
-               <head rend="underline">Choice Among Makes of Equipment on the Market.</head>
+               <head rend="text-decoration: underline">Choice Among Makes of Equipment on the Market.</head>
 
                <p>If filmslide photography is to attain its maximum usefulness, there must be a standardization of equipment which will make rolls of
                   filmslide easily interchangeable among institutions using them. The most important choice to be made in this connection lies between
@@ -3297,7 +3297,7 @@ The U.S. Bureau of Standards classification runs:
                   market.</p>
             </div>
             <div type="section">
-               <head rend="underline">Costs of Operation.</head>
+               <head rend="text-decoration: underline">Costs of Operation.</head>
 
                <p>In the cost of film-slide reproduction there is a factor analagous to that which affects the cost of photo-lithographic reproduction
                   - the possible variety in the ways of distributing labor between the scholar and the technical workshop. If the filmslide camera is
@@ -3366,7 +3366,7 @@ The U.S. Bureau of Standards classification runs:
                   material cost in filmslide photography than in photostating.</p>
             </div>
             <div type="section">
-               <head rend="underline">Conclusions on the Copying of Books and Manuscripts.</head>
+               <head rend="text-decoration: underline">Conclusions on the Copying of Books and Manuscripts.</head>
 
                <p>The technical perfection of the apparatus now on the market is sufficient to recommend it for use in copying all printed and
                   manuscript pages of normal size at costs far below normal book prices. The only doubt that can be raised in connection with this use
@@ -3378,7 +3378,7 @@ The U.S. Bureau of Standards classification runs:
                   the lower cost of making filmslides.</p>
             </div>
             <div type="section">
-               <head rend="underline">Conclusions on the Copying of Newspapers.</head>
+               <head rend="text-decoration: underline">Conclusions on the Copying of Newspapers.</head>
 
                <p>The copying of newspapers by the filmslide process falls just within present technically practicable limits. If the Lemare camera
                   had Leica precision <pb n="113" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=134"/> or the Leica used
@@ -3412,7 +3412,7 @@ The U.S. Bureau of Standards classification runs:
                <pb n="115" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=136"/>
 
                <table>
-                  <head rend="underline">One Hundred Pages of the New York Times</head>
+                  <head rend="text-decoration: underline">One Hundred Pages of the New York Times</head>
                   <row>
                      <cell cols="2">Rag paper edition, bound in cloth</cell>
                      <cell>$ .71</cell>
@@ -3455,7 +3455,7 @@ The U.S. Bureau of Standards classification runs:
                   </row>
                </table>
                <table>
-                  <head rend="underline">One Hundred Pages of the Paris Temps</head>
+                  <head rend="text-decoration: underline">One Hundred Pages of the Paris Temps</head>
                   <row>
                      <cell>17 diameter reduction on filmslides at 1½¢</cell>
                      <cell>$1.50</cell>
@@ -3474,7 +3474,7 @@ The U.S. Bureau of Standards classification runs:
                   </row>
                </table>
                <table>
-                  <head rend="underline">One Hundred Pages of the London Times</head>
+                  <head rend="text-decoration: underline">One Hundred Pages of the London Times</head>
                   <row>
                      <cell>21 diameter reduction on filmslides at 1½¢</cell>
                      <cell>$ .75</cell>
@@ -3497,20 +3497,20 @@ The U.S. Bureau of Standards classification runs:
 
                <p>These latter quotations require further explanation.</p>
 
-               <p>The Paris <title rend="underline">Temps</title> prints 2300 pages per year, each page 20 x 27 inches, slightly larger than the New York Times. A reduction of 23
+               <p>The Paris <title rend="text-decoration: underline">Temps</title> prints 2300 pages per year, each page 20 x 27 inches, slightly larger than the New York Times. A reduction of 23
                   diameters would be necessary to put two pages on a filmslide, but 17 diameters would suffice to put one page on a slide. Since <pb
                      n="116" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=137"/> the 23 diameter reduction is close to
                   the top limit of B legibility, the cost of putting a year's file on filmslides should be more safely reckoned at one slide per page,
                   or $12.82 to $34.50 as maximum and minimum charges. The subscription price in France is $4.05, in America $12.00 per year. Binding
                   costs would be $4.50 per year. The total price of buying and binding a year's issue is therefore $8.55 or $16.50.</p>
 
-               <p>The London <title rend="underline">Times</title> prints 10,000 pages, each 18½ x 24 inches, per year. This would go on filmslides. at two pages per slide if reduced
+               <p>The London <title rend="text-decoration: underline">Times</title> prints 10,000 pages, each 18½ x 24 inches, per year. This would go on filmslides. at two pages per slide if reduced
                   21 diameters - a safe reduction for B legibility. A year of the Times on filmslides would cost from $28 to $75. This should be
                   compared with the subscription and binding price: $33.50 at domestic subscription rate plus binding in five volumes, and $36.55 at
                   the foreign subscription rate.</p>
 
                <p>Recent foreign newspaper files are offered on the market at comparable prices. A Nijhoff catalogue offers twelve files of five years
-                  each, 1914-19l9 at an average price of $35 per year, bound. A file of <title rend="underline">Action Francaise</title> 1900-1928, 28 years in 68 bound volumes is
+                  each, 1914-19l9 at an average price of $35 per year, bound. A file of <title rend="text-decoration: underline">Action Francaise</title> 1900-1928, 28 years in 68 bound volumes is
                   offered for $400, or $2.40 per volume, $5.72 per year. <pb n="117"
                      facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=138"/> Most of these newspapers are four or six page
                   issues; some are eight or twelve page issues. The price per 100 pages of the back files of European newspapers, including binding,
@@ -3536,7 +3536,7 @@ The U.S. Bureau of Standards classification runs:
 
 
          <div type="chapter" n="V">
-            <head rend="underline">V. Note-Taking Equipment.</head>
+            <head rend="text-decoration: underline">V. Note-Taking Equipment.</head>
 
             <p>The research problem as it comes to the scholar's desk usually calls for a technique of note taking. The reproduction of research
                materials in book or filmslide form ends the work of library institutions. But the scholar's work begins where that of the library
@@ -3580,10 +3580,10 @@ The U.S. Bureau of Standards classification runs:
 
 
          <div type="chapter" n="VI">
-            <head rend="underline">VI. Recommendations.</head>
+            <head rend="text-decoration: underline">VI. Recommendations.</head>
 
             <div type="section">
-               <head rend="underline">1. Library Installation of Filmslide Apparatus.</head>
+               <head rend="text-decoration: underline">1. Library Installation of Filmslide Apparatus.</head>
 
                <p>As a substitute for the photostat in copying books and manuscripts of normal size, present filmslide apparatus for photography,
                   projection or direct reading is satisfactory. But it is a misfortune that the camera with the best lens equipment uses the
@@ -3611,10 +3611,10 @@ The U.S. Bureau of Standards classification runs:
             </div>
 
             <div type="section">
-               <head rend="underline">2. Filmslides and the Newspaper Problem.</head>
+               <head rend="text-decoration: underline">2. Filmslides and the Newspaper Problem.</head>
 
                <p>As 3 means of copying newspapers, present photographic apparatus is satisfactory, and present projection apparatus unsatisfactory.
-                  Both can be and should be improved. It is not recommended that the filmslide method <emph rend="underline">in its present state</emph> be promoted in any large
+                  Both can be and should be improved. It is not recommended that the filmslide method <emph rend="text-decoration: underline">in its present state</emph> be promoted in any large
                   scale project for preserving or completing files of newspapers in libraries, although it may be used as a substitute for the
                   photostat in making <pb n="123" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=144"/> pages of
                   newspapers available to scholars who could not afford to buy photostats. The possibility of organizing large-scale copying
@@ -3637,7 +3637,7 @@ The U.S. Bureau of Standards classification runs:
             </div>
 
             <div type="section">
-               <head rend="underline">3. Photostat for Note Taking.</head>
+               <head rend="text-decoration: underline">3. Photostat for Note Taking.</head>
 
                <p>An effort should be made to foster the production of a portable and inexpensive photostat equipment for copying pages of various
                   sizes upon a standard note-size paper. The Joint Committee should communicate with the Rectigraph and Photostat Companies, and might
@@ -3645,7 +3645,7 @@ The U.S. Bureau of Standards classification runs:
             </div>
 
             <div type="section">
-               <head rend="underline">4. The Organization of the Book Buying Market in Connection with Book Production.</head>
+               <head rend="text-decoration: underline">4. The Organization of the Book Buying Market in Connection with Book Production.</head>
 
                <p>The most important recommendation suggested by this survey is the organizing of the buying power of institutions which are already
                   devoting their funds to research purposes. These buyers should control production. Works which do not finance themselves as
@@ -3708,7 +3708,7 @@ The U.S. Bureau of Standards classification runs:
 
                <pb n="129" facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=150"/>
 
-               <p><emph rend="underline">Group I</emph>, in which the interest of the library predominates. This may be due to their relation to general library policy, to their
+               <p><emph rend="text-decoration: underline">Group I</emph>, in which the interest of the library predominates. This may be due to their relation to general library policy, to their
                   wide appeal, their bibliographic importance, or their relation to some particular policy of a special library. Examples: Newspaper
                   reproductions in a general library; reproductions of state statutes and law reports in a law library; fac-simile reproductions of
                   books of general interest which are out of print.</p>
@@ -3717,7 +3717,7 @@ The U.S. Bureau of Standards classification runs:
                   would solve production problems would also be useful in organizing the completion and distribution of serial and government document
                   sets.</p>
 
-               <p><emph rend="underline">Group II</emph>, in which the interest of the specialized research scholar predominates. The same men are interested in securing the
+               <p><emph rend="text-decoration: underline">Group II</emph>, in which the interest of the specialized research scholar predominates. The same men are interested in securing the
                   publication of their own work and in acquiring the work of others for their own libraries. Examples: Monographic work; biographical
                   source material concerning persons whose importance lies solely in one field.</p>
 
@@ -3739,14 +3739,14 @@ The U.S. Bureau of Standards classification runs:
 
 
             <div type="section">
-               <head rend="underline">Action by the Joint Committee</head>
+               <head rend="text-decoration: underline">Action by the Joint Committee</head>
 
                <p>The object described in the foregoing paragraphs cannot be attained out of hand, by drawing up schemes for an organization upon
                   paper and having it voted upon. Existing institutions must be used wherever possible, and existing wants should be met, as they
                   arise, in such a way that the new set-up will be evolved. The following are specific suggestions.</p>
 
                <div type="subsection">
-                  <head rend="underline">A. Publishing Projects in Search of Funds.</head>
+                  <head rend="text-decoration: underline">A. Publishing Projects in Search of Funds.</head>
 
                   <p>Since any project will finance itself if there is an advance subscription to the requisite number of copies, it is not necessary
                      to organize a field or scholarship or a system of libraries in order to work out the practical application of the plan. If
@@ -3778,7 +3778,7 @@ The U.S. Bureau of Standards classification runs:
                </div>
 
                <div type="subsection">
-                  <head rend="underline">B. Funds in Search of Publishing Projects.</head>
+                  <head rend="text-decoration: underline">B. Funds in Search of Publishing Projects.</head>
 
                   <p>The Joint Committee might ask scholarly publishing agencies, committees, revolving funds, etc. to define their policies in
                      respect of the following two principles:</p>
@@ -3801,7 +3801,7 @@ The U.S. Bureau of Standards classification runs:
                </div>
 
                <div type="subsection">
-                  <head rend="underline">C. Library Collaboration in Purchasing.</head>
+                  <head rend="text-decoration: underline">C. Library Collaboration in Purchasing.</head>
 
                   <p>Mr. Gerould at Princeton<note resp="PAB">Original: princeton</note> has warned the Joint Committee of the probability that the publication of the check list of Government
                      Documents will be followed by a system of rare-book prices among the booksellers dealing in these documents, and has suggested
@@ -3815,7 +3815,7 @@ The U.S. Bureau of Standards classification runs:
                </div>
 
                <div type="subsection">
-                  <head rend="underline">D. Newspaper Reproduction.</head>
+                  <head rend="text-decoration: underline">D. Newspaper Reproduction.</head>
 
                   <p>An experiment should be made to test the demand for reproductions of old newspaper files in editions of over one hundred,
                      reproduced by photo-lithography. If one important newspaper were selected, the project explained in the political science and
@@ -3834,7 +3834,7 @@ The U.S. Bureau of Standards classification runs:
                </div>
 
                <div type="subsection">
-                  <head rend="underline">E. Model Enterprises to be Sponsored by the Joint Committee.</head>
+                  <head rend="text-decoration: underline">E. Model Enterprises to be Sponsored by the Joint Committee.</head>
 
                   <p>The Joint Committee might select two enterprises to be sponsored by it and carried through as a demonstration of the
                      possibilities of bringing organized purchasing power directly into touch with the problem of publishing. One such enterprise
@@ -3844,15 +3844,15 @@ The U.S. Bureau of Standards classification runs:
                      material be made more accessible. It would be a matter of carrying through a project.</p>
 
                   <p>Mr. Marshall's report on the use of revolving funds should suggest the most strategic place in which to undertake to organize
-                     purchasing power to meet the demand of research publication, thus creating a sample <emph rend="underline">organization</emph>.</p>
+                     purchasing power to meet the demand of research publication, thus creating a sample <emph rend="text-decoration: underline">organization</emph>.</p>
 
                   <p>Professor Shotwell, now chairman of the International Relations Committee of the S.S.R.C., has in mind the preparation of a
-                     documentary history of the Paris Peace Conference. This might perhaps be used as a sample <emph rend="underline">project</emph>. If a sample organization and a
+                     documentary history of the Paris Peace Conference. This might perhaps be used as a sample <emph rend="text-decoration: underline">project</emph>. If a sample organization and a
                      sample project were successful, the scholarly world would begin to think in new terms of the problem of publication.</p>
                </div>
 
                <div type="subsection">
-                  <head rend="underline">F. Further Study of Legibility and Typography.</head>
+                  <head rend="text-decoration: underline">F. Further Study of Legibility and Typography.</head>
 
                   <p>There is a direct relationship between legibility, cost, and size of market necessary to float an enterprise. The line of
                      investigation begun under the auspices of the Joint Committee should be continued until three or four standards of legibility are
@@ -3867,13 +3867,13 @@ The U.S. Bureau of Standards classification runs:
                </div>
 
                <div type="subsection">
-                  <head rend="underline">V. Distribution of this Survey.</head>
+                  <head rend="text-decoration: underline">V. Distribution of this Survey.</head>
 
                   <p>This survey is being printed in an edition of 100 copies, free of charge, by Edwards Brothers of Ann Arbor. Many of these copies
                      have been promised to persons who have furnised information toward the compilation of the survey. Other copies should be
                      circulated for criticism by competent persons in the several fields.</p>
 
-                  <p>The result of criticism, together with the result of action by the Joint committee, and any further information that may come to
+                  <p>The result of criticism, together with the result of action by the Joint Committee, and any further information that may come to
                      hand, should be worked up into a new edition of the Survey which can be used in carrying out the plans of the Joint Committee by
                      presenting its point of view in full. The comparison of Leica <pb n="139"
                         facs="http://babel.hathitrust.org/cgi/pt?id=mdp.39015041315394;view=1up;seq=160"/> and Lemare apparatus should be completed as
